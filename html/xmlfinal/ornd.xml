@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2010 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2010</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Une Oroison de Nostre Dame" type="item">
+<figure ref="265b" place="17"></figure>
+<lb n="ORND.265b:21"/><hi rend="red">Ci commence une <c>o</c>roison de <name ref="Our+Lady"><c>n</c>ostre <c>d</c>a-
+<lb n="ORND.265b:22"/>me</name>                                      &#x95;xxvi&#x95;</hi>
+<lb n="ORND.265b:23"/><group n=" 1"/><hi rend="cap3" type="vignes">O</hi> <name ref="Virgin+Mary"><c>v</c>ierge pure, <rhyme>incomparable</rhyme>,
+<lb n="ORND.265b:24"/><c>p</c>laine de grace <rhyme>inextimable</rhyme></name>,
+<lb n="ORND.265b:25"/>De <name ref="God"><c>d</c>ieu</name> mere très <rhyme>glorïeuse</rhyme>,
+<lb n="ORND.265b:26"/>À <del rend="overstrike">qui te</del><del rend="expunctuated">À qui</del> <corr reason="hypometric" resp="JCL" rend="hypercorrection">qui</corr> te requiert <rhyme>secourable</rhyme>,<l n="  4"/>
+<lb n="ORND.265b:27"/>Ma prïere soit <rhyme>acceptable</rhyme>
+<lb n="ORND.265b:28"/>Devant toy, <name ref="Virgin+Mary"><c>v</c>ierge</name> <rhyme>precïeuse</rhyme>.
+<lb n="ORND.265b:29"/><name ref="Our+Lady">Doulce <c>d</c>ame</name>, si te <rhyme>requier</rhyme>
+<lb n="ORND.265b:30"/>Que m'ottroies ce que je <rhyme>quier</rhyme>.<l n="  8"/>
+<lb n="ORND.265b:31"/>C'est pour toute <rhyme><abbr type="crist"/>ïanté</rhyme>
+<lb n="ORND.265b:32"/>À qui paix et grant joye <rhyme><g lemma="acquérir" en="to seek, beseech" fr="chercher, rechercher">acquier</g></rhyme>
+<lb n="ORND.265b:33"/>Devant ton filz et tant <rhyme>enquier</rhyme>
+<lb n="ORND.265b:34"/>Que tout b<abbr type="ie"/>n soit en nous <rhyme><g lemma="enter" en="to plant, fix" fr="planter, fixer">anté</g></rhyme>.<l n=" 12"/>
+<lb n="ORND.265b:35"/><fw place="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="ORND.265b:37"/><group n=" 2"/>¶ Et sicom <name ref="Saint+Bernard">saint <c>b</c>ernard</name> <rhyme>tesmoigne</rhyme>,
+<lb n="ORND.265b:38"/>Celle es par qui nous <rhyme><g lemma="proloigner" en="to remove" fr="éloigner">prolongne</g></rhyme><note>Eye-rhyme.'prolongne' is 2 pres. ind.</note>
+<lb n="ORND.265b:39"/>Tout mal et qui adès ne <rhyme>fine</rhyme>
+<pb n="265" ed="v"/><lb n="ORND.265v:01"/><hi rend="run">une <note>1re colonne centré</note> oroison <note>2e colonne</note></hi><cb n="c"/><layout ruledLines="39"/>
+<lb n="ORND.265c:01"/><s>D</s>e procurer/ n<abbr type="ost"/>re <rhyme>besongne</rhyme><l n=" 16"/>
+<lb n="ORND.265c:02"/>Devers <name ref="God"><c>d</c>ieu</name>, prïant qu'il <rhyme>n'eslongne</rhyme>
+<lb n="ORND.265c:03"/>De nous sa grace pure et <rhyme>fine</rhyme>.
+<lb n="ORND.265c:04"/>Pour sainte <name ref="Catholic+Church"><c>e</c>glise</name> <rhyme>requerir</rhyme>
+<lb n="ORND.265c:05"/>Te vueil qu'il te plaise <rhyme>acquerir</rhyme><l n=" 20"/>
+<lb n="ORND.265c:06"/>Paix et vraye <rhyme>transquilité</rhyme>,
+<lb n="ORND.265c:07"/>Et si bon pasteur nous <rhyme>querir</rhyme>
+<lb n="ORND.265c:08"/>Qui tous nous face à <name ref="God"><c>d</c>ieu</name> <rhyme>courir</rhyme>
+<lb n="ORND.265c:09"/>En foy et en <rhyme>humilité</rhyme>.<l n=" 24"/>
+<lb n="ORND.265c:10"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw><note>There is no blank line after 'Ave Maria'.</note>
+<!-- This blank line has been inserted to standardise the layout. -->
+<lb n="ORND.265c:11"/><group n=" 3"/>¶ <name ref="Virgin+Mary">Vierge</name> sacrée, pure et <rhyme>ferme</rhyme>,
+<lb n="ORND.265c:12"/>Sicom <name ref="Saint+Bernard">saint <c>b</c>ernard</name> nous <rhyme>afferme</rhyme>
+<lb n="ORND.265c:13"/>En son saint <name ref="Sermon+on+Advent">sermon de <rhyme>l'<c>a</c>vent</rhyme></name>,
+<lb n="ORND.265c:14"/>Celle qui en foy nous <rhyme>conferme</rhyme><l n=" 28"/>
+<lb n="ORND.265c:15"/>Et en purté, et nous <rhyme>defferme</rhyme>
+<lb n="ORND.265c:16"/>Le ciel sicomme il fu <rhyme>couvent</rhyme>,
+<lb n="ORND.265c:17"/>Je te prie pour tous <rhyme>prelas</rhyme>
+<lb n="ORND.265c:18"/>De sainte <name ref="Catholic+Church"><c>e</c>glise</name> q<abbr type="ue"/> des <rhyme>las</rhyme><l n=" 32"/>
+<lb n="ORND.265c:19"/>De l'ennemi tu les <rhyme>deffendes</rhyme>,
+<lb n="ORND.265c:20"/>Curez et prest<abbr type="re"/>s. <c>l</c>eur <rhyme>solas</rhyme>
+<lb n="ORND.265c:21"/>Soit en b<abbr type="ie"/>n faire et jamais <rhyme>las</rhyme>
+<lb n="ORND.265c:22"/>N'en soient et qu'oû ciel les <rhyme><c>R</c>endes</rhyme>.<l n=" 36"/>
+<lb n="ORND.265c:23"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.265c:25"/><group n=" 4"/>¶ O nette, pure et <rhyme>enterine</rhyme>,
+<lb n="ORND.265c:26"/>De toute bonté la <rhyme>racine</rhyme>,
+<lb n="ORND.265c:27"/>Sicom <name ref="Saint+Jerome">saint <c>g</c>erome</name> nous <rhyme>dit</rhyme>,
+<lb n="ORND.265c:28"/>Assise oû plus hault <rhyme>termine</rhyme><l n=" 40"/>
+<lb n="ORND.265c:29"/>Du ciel par la grace <rhyme>divine</rhyme>
+<lb n="ORND.265c:30"/>Après ton filz, com fu <rhyme>presdit</rhyme>,<note>The spelling is unusual; none of the forms of 'prédire' listed by the DMF includes the cluster 'sd'.</note>
+<lb n="ORND.265c:31"/>Pour le <name ref="Charles+VI">roy de <name ref="France"><c>f</c>rance</name></name> te <rhyme>pry</rhyme>
+<lb n="ORND.265c:32"/>Qu'en pitié tu oyes le <rhyme>cry</rhyme><l n=" 44"/>
+<lb n="ORND.265c:33"/>De ses bons et loyaulx <rhyme>amis</rhyme>,
+<lb n="ORND.265c:34"/>Paix et vraye santé <rhyme><g lemma="décrire" en="to attribute" fr="attribuer" type="this sense not in DMF?">descry</g></rhyme>
+<lb n="ORND.265c:35"/>À lui et oû livre <rhyme>l'escry</rhyme>
+<lb n="ORND.265c:36"/>Où <name ref="God"><c>d</c>ieu</name> a tous ses esleus <rhyme>mis</rhyme>.<l n=" 48"/>
+<lb n="ORND.265c:37"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.265c:39"/><group n=" 5"/>¶ O tu, <name ref="Virgin+Mary"><c>v</c>ierge</name> <rhyme>predestinée</rhyme><cb n="d"/><layout ruledLines="39"/>
+<lb n="ORND.265d:01"/>Très avant que tu feusses <rhyme>née</rhyme>,
+<lb n="ORND.265d:02"/>Ainsi le dit <name ref="Saint+Augustine">saint <rhyme><c>a</c>ugustin</rhyme></name>,
+<lb n="ORND.265d:03"/>De la <name ref="Trinity"><c>t</c>rinité</name> <rhyme>ordenée</rhyme>,<l n=" 52"/>
+<lb n="ORND.265d:04"/>Pour n<abbr type="ost"/>re sauvement <rhyme>donnée</rhyme>,
+<lb n="ORND.265d:05"/>Pure et parfaicte par <rhyme>destin</rhyme>,
+<lb n="ORND.265d:06"/>Pour nostre <name ref="Isabeau+de+Bavière">roÿne de <rhyme><name><c>f</c>rance</name></rhyme></name>
+<lb n="ORND.265d:07"/>Te pry qu'elle n'ait ja <rhyme>souffra<abbr type="n"/>ce</rhyme><l n=" 56"/>
+<lb n="ORND.265d:08"/>De peine infernal, et lui <rhyme>donnes</rhyme>
+<lb n="ORND.265d:09"/>Joye et paix et tiens en <rhyme><g lemma="souffrance" 
+type="souffrance" en="patience" fr="patience">souffrance</g></rhyme>
+<lb n="ORND.265d:10"/>Lonc temps au monde. <c>a</c>près <rhyme>l'oultrance</rhyme>
+<lb n="ORND.265d:11"/>De la mort, de son ame <rhyme><g lemma="ordonner" en="to take care of" fr="prendre soin de" type="DMF sense adapted">ordonnes</g></rhyme>.<l n=" 60"/>
+<lb n="ORND.265d:12"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.265d:14"/><group n=" 6"/>¶ Dame des anges très <rhyme>courtoise</rhyme>,
+<lb n="ORND.265d:15"/>Sicom tesmoigne <name ref="Saint+Ambrose">saint <rhyme><c>a</c>mbroise</rhyme></name>,
+<lb n="ORND.265d:16"/>Mirouër de toute <rhyme>vertu</rhyme>,
+<lb n="ORND.265d:17"/>Vraye humilité qui la <rhyme>noise</rhyme><l n=" 64"/>
+<lb n="ORND.265d:18"/>D'orgueil rabat et qui <rhyme>racoise</rhyme>
+<lb n="ORND.265d:19"/>D'ire la force et la <rhyme><g lemma="vertu" en="power, effect" fr="pouvoir, effet">vertu</g></rhyme>
+<lb n="ORND.265d:20"/>Paix, bonne <del rend="erasure, overwritten">f</del><add place="inline" evidence="blurring, trace of letter corrected">v</add>ie et bonne <rhyme>fin</rhyme>
+<lb n="ORND.265d:21"/>Donne à <name ref="Dauphin">mon seigneur le <rhyme><c>d</c>aulphin</rhyme></name><l n=" 68"/>
+<lb n="ORND.265d:22"/>Et scïence pour <rhyme>gouverner</rhyme>
+<lb n="ORND.265d:23"/>Le peuple qui de bon cuer <rhyme>fin</rhyme>
+<lb n="ORND.265d:24"/>L'aime, et vueilles qu'à celle <rhyme>fin</rhyme>
+<lb n="ORND.265d:25"/>Après le pere il puist <rhyme>regner</rhyme>.<l n=" 72"/>
+<lb n="ORND.265d:26"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.265d:28"/><group n=" 7"/>¶ Roÿne, qui des maulx nous <rhyme>leve</rhyme>,
+<lb n="ORND.265d:29"/>Les quieulx nous empetra <name ref="Eve">dame <rhyme><c>e</c>ve</rhyme></name>,
+<lb n="ORND.265d:30"/>Sicom <name ref="Saint+Augustine">saint <c>a</c>ugustin</name> <rhyme>racompte</rhyme>,
+<lb n="ORND.265d:31"/>Tu es celle qui n'es pas <rhyme><g lemma="tève" en="tepid, luke-warm" fr="tiède">teve</g></rhyme><l n=" 76"/>
+<lb n="ORND.265d:32"/>À nous espurger de la <rhyme><g lemma="sève" en="sap" fr="sève">ceve</g></rhyme>
+<lb n="ORND.265d:33"/>De pechié qui trop nous <rhyme>surmonte</rhyme>.
+<lb n="ORND.265d:34"/>Pour <name ref="Children+of+Charles+VI">les enfans du roy</name> <rhyme>prïere</rhyme>
+<lb n="ORND.265d:35"/>Te fois, <name ref="Virgin+Mary"><c>v</c>ierge</name> <rhyme>tressinguliere</rhyme>,<l n=" 80"/>
+<lb n="ORND.265d:36"/>Que tu leur donnes bonne <rhyme>vie</rhyme>,
+<lb n="ORND.265d:37"/>De vraye scïence <rhyme>lumiere</rhyme>
+<lb n="ORND.265d:38"/>Et paradis après la <rhyme>biere</rhyme>;
+<lb n="ORND.265d:39"/>En eulx soit ta grace <rhyme>assouvie</rhyme>.<l n=" 84"/>
+<pb n="266" ed="r"/><lb n="ORND.266r:01"/><hi rend="run">de <note>1re colonne</note> nostre dame <note>entrecolonne, 1er élément à cheval sur les 2</note> xxvi &#x95; <note>2e colonne</note></hi><cb n="a"/><layout ruledLines="38"/>
+<lb n="ORND.266a:01"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw><note>There is no blank line after 'Ave Maria'.</note>
+<!-- This blank line has been inserted to standardise the layout. -->
+<lb n="ORND.266a:02"/><group n=" 8"/>¶ Très pure, qu'on ne peut <rhyme>louer</rhyme>
+<lb n="ORND.266a:03"/>Souffisamment, tant <rhyme>alouer</rhyme>
+<lb n="ORND.266a:04"/><add place="inline" evidence="paler ink, marginal dot partially erased" type="inserted in space left blank?">S'i sache nul, dit <name ref="Saint+Jerome">saint <rhyme><c>g</c>erome</rhyme></name></add>,
+<lb n="ORND.266a:05"/>De doctrine le <rhyme>parlouër</rhyme><l n=" 88"/>
+<lb n="ORND.266a:06"/>Et d'onnesté le <rhyme>mirouër</rhyme>
+<lb n="ORND.266a:07"/>Le piller de foy et la <rhyme>cosme</rhyme>,
+<lb n="ORND.266a:08"/>Pour le noble <name ref="Charles, Duke+of+Orleans">duc <rhyme>d'<c>o</c>rlïens</rhyme></name>
+<lb n="ORND.266a:09"/>Te pry que gardes des <rhyme>lïens</rhyme><l n=" 92"/>
+<lb n="ORND.266a:10"/>De l'ennemi qui tous jours <rhyme>veille</rhyme>.
+<lb n="ORND.266a:11"/>Prie <name ref="Jesus+Christ">ton filz</name> que de tous <rhyme>biens</rhyme>
+<lb n="ORND.266a:12"/>Il remplisse lui et les <rhyme>siens</rhyme>,
+<lb n="ORND.266a:13"/>Et l'ame en paradis <rhyme>recueille</rhyme>.<l n=" 96"/>
+<lb n="ORND.266a:14"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266a:16"/><group n=" 9"/>¶ <name ref="Virgin+Mary">Vierge</name>, qui tous les pechez <rhyme>dompte</rhyme>,
+<lb n="ORND.266a:17"/>Dont en son sermon nous <rhyme>racompte</rhyme>
+<lb n="ORND.266a:18"/><name ref="Saint+Bernard">Saint <c>b</c>ernard</name>/ qui dit et <rhyme>recorde</rhyme>
+<lb n="ORND.266a:19"/>Que de toy louer à droit <rhyme>compte</rhyme><l n="100"/>
+<lb n="ORND.266a:20"/>Nul n'est souffisant, et pou <rhyme>monte</rhyme>
+<lb n="ORND.266a:21"/>Vers ta bonté quanque on <rhyme>recorde</rhyme>,
+<lb n="ORND.266a:22"/>Pour <name ref="Duke+of+Berry">les oncles<note>Are there any other surviving uncles in 1414?</note> du <name ref="Charles+VI">roy</name></name> <rhyme>prïer</rhyme>
+<lb n="ORND.266a:23"/>Je te vueil et mercy <rhyme>crÿer</rhyme><l n="104"/>
+<lb n="ORND.266a:24"/>Que tu leur donnes <rhyme>paradis</rhyme>,
+<lb n="ORND.266a:25"/>Le Royaume en paix <rhyme>alïer</rhyme>
+<lb n="ORND.266a:26"/>Tout bien, joye <g lemma="détrier" en="without delay" fr="sans tarder">sanz <rhyme>detrïer</rhyme></g>,
+<lb n="ORND.266a:27"/>Sapïence en fais et en <rhyme>dis</rhyme>.<l n="108"/>
+<lb n="ORND.266a:28"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266a:30"/><group n="10"/>¶ Tresoriere, qui toutes <rhyme>passe</rhyme>
+<lb n="ORND.266a:31"/>Les femmes en qui <name ref="God"><c>d</c>ieu</name> mist <rhyme>grace</rhyme>,
+<lb n="ORND.266a:32"/>Sicom <name ref="Saint+Jerome">saint <s>J</s>erome</name> nous <rhyme>dit</rhyme>
+<lb n="ORND.266a:33"/>De sapïence la grant <rhyme>masse</rhyme><note>Textual reference?</note><l n="112"/>
+<lb n="ORND.266a:34"/>Et celle qui noz maulx <rhyme>efface</rhyme>
+<lb n="ORND.266a:35"/>Et que <name ref="God"><c>d</c>ieu</name> point ne <rhyme>contredit</rhyme>,
+<lb n="ORND.266a:36"/>Tous <name ref="French+royal+children">les nobles royaulx <rhyme>enfans</rhyme></name>
+<lb n="ORND.266a:37"/>De mal et de peril <rhyme>deffens</rhyme>,<l n="116"/>
+<lb n="ORND.266a:38"/>Filz, filles, dames, <rhyme>damoiselles</rhyme>.<cb n="b"/><layout ruledLines="38"/>
+<lb n="ORND.266b:01"/>Le las de l'ennemi <rhyme><g lemma="pourfendre" en="to cut through" fr="fendre de haut en bas">pourfens</g></rhyme>
+<lb n="ORND.266b:02"/>Si qu'il ne leur puist faire <rhyme>offens</rhyme>
+<lb n="ORND.266b:03"/>N'à ceulx qui sont o eulx n'à <rhyme>celles</rhyme>.<l n="120"/>
+<lb n="ORND.266b:04"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266b:06"/><group n="11"/>¶ <s>D</s>ame de qui l'umain <rhyme>lignage</rhyme>
+<lb n="ORND.266b:07"/>Ne se peut en ce monde <rhyme><g lemma="ombrage" en="dark" fr="sombre">ombrage</g></rhyme>
+<lb n="ORND.266b:08"/>Passer, ce dit <name ref="Cassiodorus"><rhyme>Cassïodore</rhyme></name>
+<lb n="ORND.266b:09"/>Leur patronne, leur nef, leur <rhyme>barge</rhyme><l n="124"/>
+<lb n="ORND.266b:10"/>Qui le conduit à droit <rhyme>rivage</rhyme>
+<lb n="ORND.266b:11"/>Oû temps passé et oû temps <rhyme>d'ore</rhyme>,
+<lb n="ORND.266b:12"/>Et pour <name ref="Charles+d'Albret">d'<c>a</c>lebreth le bon <rhyme><c>c</c>harles</rhyme></name>
+<lb n="ORND.266b:13"/>Te suppli qu'à <name ref="Jesus+Christ">ton doulx filz</name> <rhyme>parles</rhyme><l n="128"/>
+<lb n="ORND.266b:14"/>Et pour tout le bon sanc <rhyme>royal</rhyme>,
+<lb n="ORND.266b:15"/>Soient ou femmelles ou <rhyme>masles</rhyme>
+<lb n="ORND.266b:16"/>Deffens des peines <rhyme>infernales</rhyme>,
+<lb n="ORND.266b:17"/>Et qui l'aime de cuer <rhyme>loyal</rhyme>.<l n="132"/>
+<lb n="ORND.266b:18"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266b:20"/><group n="12"/>¶ <s>F</s>ontaine plaine de <rhyme>pitié</rhyme>,
+<lb n="ORND.266b:21"/>De grace et de toute <rhyme>amistié</rhyme>,
+<lb n="ORND.266b:22"/>Dist <name ref="Saint+Bernard">saint <c>b</c>ernard</name> en son <rhyme>sermon</rhyme><note>Source needed.</note>
+<lb n="ORND.266b:23"/>Commune à tous, bien <rhyme>exploitié</rhyme><l n="136"/>
+<lb n="ORND.266b:24"/>A / qui de toy c'est <note>c'est-à-dire 's'est'</note> <rhyme>accointié</rhyme>,
+<lb n="ORND.266b:25"/>Car de pechié romps le <rhyme>limon</rhyme>,
+<lb n="ORND.266b:26"/>Je te pry, m'oroison <rhyme>reçois</rhyme>
+<lb n="ORND.266b:27"/>Et <name ref="France">le royaume des <rhyme><c>f</c>rançois</rhyme></name><l n="140"/>
+<lb n="ORND.266b:28"/>De mal et de peril tu <rhyme>gardes</rhyme>
+<lb n="ORND.266b:29"/>Et d'ennemis, se <rhyme>l'apperçois</rhyme>,
+<lb n="ORND.266b:30"/>De guerre et de contens, <rhyme>ainçois</rhyme>
+<lb n="ORND.266b:31"/>Que tes loyaulx amys y <rhyme>perdes</rhyme>.<l n="144"/>
+<lb n="ORND.266b:32"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266b:34"/><group n="13"/>¶ O Lumiere <rhyme>celestïelle</rhyme>,
+<lb n="ORND.266b:35"/>De nous conduire la droite <rhyme>ele</rhyme>
+<lb n="ORND.266b:36"/>Sicomme dit <name ref="Saint+Anselm">saint <rhyme><c>a</c>nsïaume</rhyme></name>,
+<lb n="ORND.266b:37"/>Qui tant portas douleur <rhyme>crüelle</rhyme><l n="148"/>
+<lb n="ORND.266b:38"/>À la mort ton filz / qui <rhyme>t'appelle</rhyme>,<pb n="266" ed="v"/>
+<lb n="ORND.266v:01"/><hi rend="run">une <note>1re colonne</note> oroison de n<abbr type="ost"/>re dame <note>2e colonne ; 1er élément à cheval sur entrecolonne</note> xxvi &#x95;</hi><cb n="c"/><layout ruledLines="39"/>
+<lb n="ORND.266c:01"/>Tu lui es deffence et <rhyme>hëaume</rhyme>.
+<lb n="ORND.266c:02"/>Pour <name ref="Knights+of+France">la noble <rhyme>chevalerie</rhyme>
+<lb n="ORND.266c:03"/>De <name ref="France"><c>f</c>rance</name></name>, je te pry, <name ref="Virgin+Mary"><rhyme><c>m</c>arie</rhyme></name>,<l n="152"/>
+<lb n="ORND.266c:04"/>Et pour tous nobles <rhyme>ensement</rhyme>:
+<lb n="ORND.266c:05"/>Leur ame ja ne soit <rhyme>perie</rhyme>.
+<lb n="ORND.266c:06"/>Par toy et par eulx soit <rhyme>garie</rhyme>
+<lb n="ORND.266c:07"/><name ref="France">France</name> de mal et d<del rend="overwritten">u</del><add place="inline" evidence="extra stroke, blurring">e</add> <rhyme>tourment</rhyme>.<l n="156"/>
+<lb n="ORND.266c:08"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266c:10"/><group n="14"/>¶ O engendrerresse de <rhyme>vie</rhyme>
+<lb n="ORND.266c:11"/>Et de <name ref="God">dieu</name> espouse et <rhyme>pleuvie</rhyme>,
+<lb n="ORND.266c:12"/>De toy <name ref="Saint+Bernard">saint <c>b</c>ernard</name> le <rhyme>recorde</rhyme>,
+<lb n="ORND.266c:13"/>En corps et en ame <rhyme>ravie</rhyme><l n="160"/>
+<lb n="ORND.266c:14"/>Oû hault ciel en gloire <rhyme>assouvie</rhyme>,
+<lb n="ORND.266c:15"/>Fontaine de <rhyme>misericorde</rhyme>,
+<lb n="ORND.266c:16"/>Pour le clergie et les <rhyme>bourgois</rhyme>,
+<lb n="ORND.266c:17"/>Dame, prïere je te <rhyme>fois</rhyme>.<l n="164"/>
+<lb n="ORND.266c:18"/>Et pour marchans et po<abbr type="ur"/> <rhyme>commun</rhyme>
+<lb n="ORND.266c:19"/>Prie <name ref="Jesus+Christ">cil qui mouru en <rhyme>croix</rhyme></name>
+<lb n="ORND.266c:20"/>Que aux ames leur soit <rhyme>courtois</rhyme>
+<lb n="ORND.266c:21"/>Et tout b<abbr type="ie"/>n soit entr'eulx <rhyme>commun</rhyme>.<l n="168"/>
+<lb n="ORND.266c:22"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266c:24"/><group n="15"/>¶ Dame, de grace la droite <rhyme>ante</rhyme>,
+<lb n="ORND.266c:25"/>Qui devant <name ref="God">dieu</name> nous <rhyme>represente</rhyme>,
+<lb n="ORND.266c:26"/>Et ce tesmoigne <name ref="Saint+Bernard">saint <rhyme><c>b</c>ernard</rhyme></name>,
+<lb n="ORND.266c:27"/>Nostre moyen et nostre <rhyme>sente</rhyme>,<l n="172"/>
+<lb n="ORND.266c:28"/>Nostre escu quant pechié nous <rhyme><choice><sic>co</sic><corr reason="poor rhyme" rend="'o' partially corrected" resp="JCL">te</corr></choice>mpte</rhyme>,
+<lb n="ORND.266c:29"/>Qui pour nous prie main et <rhyme>tart</rhyme>,
+<lb n="ORND.266c:30"/>Pour tous les laboureurs de <rhyme>terre</rhyme>
+<lb n="ORND.266c:31"/>Te pri que leur vueilles <rhyme>acquerre</rhyme><l n="176"/>
+<lb n="ORND.266c:32"/>Sauvement/,et leur donnes <rhyme>grace</rhyme>
+<lb n="ORND.266c:33"/>Que tel labour puissent <rhyme><g lemma="pourquérir" en="to aim, strive for" fr="s'efforcer d'obtenir, rechercher">pourquerre</g></rhyme>,
+<lb n="ORND.266c:34"/>Dont <name ref="God"><c>d</c>ieu</name> soit servi en tout <rhyme><g lemma="erre1" en="plan, project" fr="dessein, projet">erre</g></rhyme>
+<lb n="ORND.266c:35"/>Et toute la terre en soit <rhyme>grasse</rhyme>.<l n="180"/>
+<lb n="ORND.266c:36"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266c:38"/><group n=" 16"/>¶ Coulombe simple, sade et <rhyme>blanche</rhyme>,
+<lb n="ORND.266c:39"/>De peché monde, pure et <rhyme>franche</rhyme>,<note>The last two lines in columns c and d take up a smaller than usual space, it having been realised that the insertion of an additional line in each column would allow the poem to be completed on fol. 266v.</note><cb n="d"/><layout ruledLines="39"/>
+<lb n="ORND.266d:01"/>Sicomme <name ref="Jesus+Christ">ton filz</name> <rhyme>t'appella</rhyme>,
+<lb n="ORND.266d:02"/>Quant de la mort passas la <rhyme><g lemma="planche" en="passage" fr="passage">planche</g></rhyme><l n="184"/>
+<lb n="ORND.266d:03"/>Et entre ses bras comme <rhyme><g lemma="branche" en="branch; metaphor for Virgin Mary" fr="branche; métaphore pour la Vierge">branche</g></rhyme>
+<lb n="ORND.266d:04"/>Oû ciel te porta,\ pour <rhyme>cela</rhyme>
+<lb n="ORND.266d:05"/>Te pri pour tous les <rhyme>trespassez</rhyme>
+<lb n="ORND.266d:06"/>De purgatoire, <rhyme>qu'effacez</rhyme><l n="188"/>
+<lb n="ORND.266d:07"/>Soit de leur pechié le <rhyme>renom</rhyme>,
+<lb n="ORND.266d:08"/>Et soient en gloire <rhyme>passez</rhyme>
+<lb n="ORND.266d:09"/>Et de ton filz soit <rhyme>embracez</rhyme>
+<lb n="ORND.266d:10"/>L'esperit <name ref="Charles+V">Charles roy quint du <rhyme>nom</rhyme></name>.<l n="192"/>
+<lb n="ORND.266d:11"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266d:13"/><group n="17"/>¶ <name ref="Virgin+Mary">Vierge mere, de <name ref="God"><c>d</c>ieu</name></name>, <rhyme>ancelle</rhyme>,
+<lb n="ORND.266d:14"/>De la <name ref="Trinity"><c>t</c>rinité</name> temple et <rhyme>cele</rhyme>,
+<lb n="ORND.266d:15"/><name ref="Saint+Jerome">Saint <c>j</c>erome</name> en fait <rhyme>mencïon</rhyme>,
+<lb n="ORND.266d:16"/>Après l'enfantement <rhyme>pucelle</rhyme>,<l n="196"/>
+<lb n="ORND.266d:17"/>Sur toutes femmes tu es <rhyme>celle</rhyme>
+<lb n="ORND.266d:18"/>Qui de grace eus <rhyme><g lemma="préventïon" en="advance knowledge" fr="fait de connaître le premier, privilège">prevencïon</g></rhyme>,
+<lb n="ORND.266d:19"/>Pour le devot sexe des <rhyme>femmes</rhyme>
+<lb n="ORND.266d:20"/>Te pry que leur corps et leur <rhyme>ames</rhyme><l n="200"/>
+<lb n="ORND.266d:21"/>Tu ayes en ta sainte <rhyme>garde</rhyme>,
+<lb n="ORND.266d:22"/>Soient damoiselles ou <rhyme>dames</rhyme>
+<lb n="ORND.266d:23"/>Ou autres. <c>g</c>ard les de <rhyme>diffames</rhyme>
+<lb n="ORND.266d:24"/>Et que feu d'enfer ne les <rhyme>arde</rhyme>.<note>The last two words are partly covered by a stain.</note><l n="204"/>
+<lb n="ORND.266d:25"/><fw type="refrain" place="centred"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name>.</foreign></fw>
+<!-- 1 blank line here -->
+<lb n="ORND.266d:27"/><group n="18"/>¶ Vierge pure, par les <rhyme>fontaines</rhyme>
+<lb n="ORND.266d:28"/>De tes chastes yeulx et les <rhyme>peines</rhyme>
+<lb n="ORND.266d:29"/>Qu'à <name ref="Jesus+Christ">ton filz</name> veïs en la <rhyme>croix</rhyme>,
+<lb n="ORND.266d:30"/>Dist <name ref="Saint+Anselm">saint <c>a</c>nsïaume</name> et les <rhyme>veines</rhyme><l n="208"/>
+<lb n="ORND.266d:31"/>De son corps qui pendoit en <rhyme>aines</rhyme>
+<lb n="ORND.266d:32"/>Ouvertes,\ te pry, oz ma <rhyme>voix</rhyme>,
+<lb n="ORND.266d:33"/>Et à <name ref="Jesus+Christ">ton filz</name>, qui fu mort <rhyme>mis</rhyme>
+<lb n="ORND.266d:34"/>Pour moy et pour tous mes <rhyme>amis</rhyme>,<l n="212"/>
+<lb n="ORND.266d:35"/>Il te plaise à faire <rhyme>prïere</rhyme>
+<lb n="ORND.266d:36"/>Et la gloire qu'il a <rhyme>promis</rhyme>
+<lb n="ORND.266d:37"/>À ceulx qui ont pechié <rhyme>remis</rhyme>
+<lb n="ORND.266d:38"/>No<abbr type="us"/> ottroit et grace <rhyme>pleniere</rhyme>.<l n="216"/>
+<lb n="ORND.266d:39"/><name ref="Virgin+Mary"><fw type="refrain" place="centred" rend="smaller point"><foreign xml:lang="la"><c>a</c>ve <c>m</c>aria</foreign>.</fw></name>&#x95;<fw place="raligned"><hi rend="smaller point">Explicit.</hi></fw><note>The explicit is on the same line as the final refrain and is written close to the column margin.</note>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

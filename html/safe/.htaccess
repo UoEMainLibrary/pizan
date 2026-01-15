@@ -1,0 +1,18 @@
+# full path to password directory
+ 
+AuthUserFile /data/d4/pizan/passwords/htpasswd
+AuthGroupFile /dev/null
+
+
+# any name you want
+
+AuthName "Safe Page"
+
+ AuthType Basic
+
+
+# put in desired username
+
+<Limit GET>
+require user coffre2
+</Limit> 

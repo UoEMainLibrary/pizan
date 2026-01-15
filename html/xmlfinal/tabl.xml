@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<!--?xml-stylesheet href="backrime.xsl" type="text/xsl"? -->
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<!--?xml-stylesheet href="newtestpropernames.xsl" type="text/xsl"? -->
+<!--?xml-stylesheet href="diplo_forOCP.xsl" type="text/xsl"? -->
+<!--?xml-stylesheet href="harley.xsl" type="text/xsl"? -->
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<!--?xml-stylesheet type="text/css" href="test_oxy.css"? -->
+<!--?xml-stylesheet href="harley.xsl" type="text/xsl"? -->
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<ref type="tablfm.htm"/>
+<div1 n="Table des dictiez" type="Item">
+<pb n="002" ed="v"/>
+<cb n="c"/><!-- 38 lines -->
+<lb n="TABL.002c:01"/><hi rend="cap3">C</hi>i commence <s>l</s>a ta<s>b</s><s>l</s>e des <g lemma="dicté" en="text, literary work" fr="texte, composition littéraire"><s>d</s>ictiez</g> en gene-
+<lb n="TABL.002c:02"/>ral, balades, rondiaulx et autres par-
+<lb n="TABL.002c:03"/>ticuliers livres qui sont contenus 
+<lb n="TABL.002c:04"/>en ce present volume. LF 
+<lb n="TABL.002c:05"/>¶ <s>P</s>remierement prologue adreçant LF 
+<lb n="TABL.002c:06"/>à la <name ref="Isabeau"><c>R</c>oyne.</name> LF <hi rend="red">&#x95; I &#x95;</hi> LF
+<lb n="TABL.002c:07"/>¶ Item cent balades. LF <hi rend="red">&#x95; ii &#x95;</hi>LF 
+<lb n="TABL.002c:08"/>¶ Item virelaiz. LF <hi rend="red">&#x95; iii &#x95;</hi> LF 
+<lb n="TABL.002c:09"/>¶ Item autres balades de <g lemma="plusieurs" en="many" fr="maint, nombreux">plusieurs</g> LF <hi rend="red">&#x95; iiii &#x95;</hi> LF <note>second dot written under the LF</note>
+<lb n="TABL.002c:10"/>façons. LF 
+<lb n="TABL.002c:11"/>¶ Item une assemblée de plusieurs LF <hi rend="red">v</hi> LF 
+<lb n="TABL.002c:12"/><c>R</c>imes <g lemma="auques" en="almost" fr="presque">auques</g> toutes léonimes, en LF 
+<lb n="TABL.002c:13"/>façon de lay, à qui vouldroit app<abbr type="re"/>ndre LF
+<lb n="TABL.002c:14"/>à rimer léonimement. LF <hi rend="red">&#x95; v &#x95;</hi> LF <note>Item 5 is numbered twice, here and in line 11.</note>
+<lb n="TABL.002c:15"/>¶ I<c>T</c>em ung autre lay. LF <hi rend="red">vi &#x95;</hi> LF
+<lb n="TABL.002c:16"/>¶ I<c>T</c>em rondiaulx. LF <hi rend="red">vii</hi> LF 
+<lb n="TABL.002c:17"/>¶ Item gieux à vendre. LF <hi rend="red">viii</hi> LF
+<lb n="TABL.002c:18"/>¶ Item plusieurs autres balades. LF <hi rend="red">&#x95; ix</hi> LF 
+<lb n="TABL.002c:19"/>¶ Item une complainte amoureuse. <hi rend="red">&#x95; x &#x95;</hi> LF 
+<lb n="TABL.002c:20"/>¶ Item ancore autres balades. LF <hi rend="red">&#x95; xi &#x95;</hi> LF 
+<lb n="TABL.002c:21"/>¶ Item l'epistre au <name ref="God+of+Love">dieu d'<c>a</c>mours</name>. LF <hi rend="red">xii</hi> LF 
+<lb n="TABL.002c:22"/>¶ Item une autre complainte LF 
+<lb n="TABL.002c:23"/>amoureuse. LF <hi rend="red">xiii</hi> LF
+<lb n="TABL.002c:24"/>¶ Item le livre du debat de deux LF
+<lb n="TABL.002c:25"/>amans. LF <hi rend="red">xiiii</hi> LF 
+<lb n="TABL.002c:26"/>¶ Item le livre des iii &#x95; jugemens LF
+<lb n="TABL.002c:27"/>qui s'adrece au <name ref="Jean+de+Werchin">Seneschal de <name ref="Hainaut"><c>h</c>aynau</name></name>. <hi rend="red">&#x95; xv</hi> LF
+<lb n="TABL.002c:28"/>¶ Item le livre de <name ref="Poissy"><c>p</c>oissy</name> qui s'adresce LF 
+<lb n="TABL.002c:29"/>à <name ref="Jean+de+Werchin ?">ung chevalier estrangier</name>. LF <hi rend="red">xvi</hi> LF
+<lb n="TABL.002c:30"/>¶ Item le livre de l'epistre <name ref="Othéa">Othéa</name>. LF <hi rend="red">xvii</hi> LF 
+<lb n="TABL.002c:31"/>¶ Item le livre du <name ref="Duke+of+True+Lovers">duc des vrays LF <hi rend="red">xviii</hi> LF 
+<lb n="TABL.002c:32"/>amans</name>. LF 
+<lb n="TABL.002c:33"/>¶ Item le chemin de lonc estude. LF <hi rend="red">xix</hi> LF 
+<lb n="TABL.002c:34"/>¶ Item le livre de la <name ref="Marotelle">pastoure</name>. LF <hi rend="red">xx</hi> LF 
+<lb n="TABL.002c:35"/>¶ Item les epistres contre le LF
+<lb n="TABL.002c:36"/><name ref="Romance+of+the+Rose">Rommant de la <c>r</c>ose</name>. LF <hi rend="red">xxi</hi> LF 
+<lb n="TABL.002c:37"/>¶ I<c>T</c>em une epistre que <name ref="Christine+de+Pizan"><abbr type="Crist"/>ine</name> LF 
+<lb n="TABL.002c:38"/>envoya à <name ref="Eustache+Deschamps"><c>e</c>u<s>s</s>tace <c>m</c>orel</name> tout de LF <cb n="d"/><!-- 38 lines -->
+<lb n="TABL.002d:01"/><c>R</c>imes equivoques. LF <hi rend="red">xxii</hi> LF
+<lb n="TABL.002d:02"/>¶ Item une oroison de la vie et LF 
+<lb n="TABL.002d:03"/>passion de <name ref="Jesus+Christ"><c>n</c><abbr type="ost"/>re <c>s</c>eigneur <c>j</c>h<abbr type="es"/>ucrist</name>. LF <hi rend="red">xxiii</hi> LF 
+<lb n="TABL.002d:04"/>¶ Item proverbes moraulx. LF <hi rend="red">xxiiii</hi> LF 
+<lb n="TABL.002d:05"/>¶ Item les enseignemens que LF 
+<lb n="TABL.002d:06"/><name ref="Christine+de+Pizan"><abbr type="Crist"/>ine de <c>p</c>izan</name> donne à <name ref="Jean+du+Castel">son filz</name>. LF <hi rend="red">&#x95; xxv</hi> LF 
+<lb n="TABL.002d:07"/>¶ Item une oroison de <name ref="Virgin+Mary"><c>n</c><abbr type="ost"/>re <c>d</c>ame</name>. LF <hi rend="red">xxvi</hi> LF
+<lb n="TABL.002d:08"/>¶ Item les xv <note>'xv' is followed by a superscript half-moon; its sense is unclear.</note><c>J</c>oyes <name ref="Virgin+Mary"><c>n</c><abbr type="ost"/>re <c>d</c>ame</name>. LF <hi rend="red">xxvii</hi> LF
+<lb n="TABL.002d:09"/>¶ Item le livre de <name ref="Prudence"><c>p</c>rudence</name> à LF 
+<lb n="TABL.002d:10"/>l'enseignement de bien vivre. LF <hi rend="red">xxviii</hi> LF
+<lb n="TABL.002d:11"/>¶ Item le livre de la cité des LF
+<lb n="TABL.002d:12"/>dames. LF <hi rend="red">xxix</hi> LF
+<lb n="TABL.002d:13"/>¶ I<c>T</c>em Cent balades de LF 
+ <lb n="TABL.002d:14"/>dame et d'amant. LF <hi rend="red">xxx</hi> LF <note>The collection is entitled 'Cent balades d'amant et de dame on fol. 376a'.</note>
+<!-- 24 blank line(s) here -->
+<note>There is a short, sewn repair at the level of 002c, line 26</note>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

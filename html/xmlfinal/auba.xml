@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://projects.oucs.ox.ac.uk/ENRICH/ODD/RomaResults/enrich.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC 
+award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 
+contact James.Laidlaw
+at ed.ac.uk</authority>
+<availability 
+status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno 
+type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Autres Balades" type="Item">
+<lb n="AUBA.037c:03"/>Ci commence<abbr type="n"/>t plusieurs balades
+<lb n="AUBA.037c:04"/>de divers propos <note>10 letter space</note> <hi rend="red">&#x95; ix &#x95;</hi>
+<!-- 4 blank line(s) here -->
+<group n=" 1"/><div2 n="1" satfno="1" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fff"><lb n="AUBA.037c:07 "/><hi rend="cap2">A</hi>ssez acquiert\ tresor et <rhyme>seignourie</rhyme>,<note>SATF Autre Balade 1.</note>
+<lb n="AUBA.037c:08 "/>Très noble avoir\ et grant richece <rhyme>amasse</rhyme>
+<lb n="AUBA.037c:09 "/>Qu<del rend="erasure" evidence="superscript dot, 2 letter space" reason="planned correction from 'Que' to 'Qui' not completed?"></del><supplied reason="unfinished correction" resp="JCL" >i</supplied> par bonté &#x2013; qui nul temps n'est <rhyme>perie</rhyme> &#x2013;
+<lb n="AUBA.037c:10 "/>Conqueste honneur, bon renom, loz <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>grace</rhyme>,<l n=" 4"/>
+<lb n="AUBA.037c:11 "/>Car oû monde\ n'est chose qui ne <rhyme>passe</rhyme>
+<lb n="AUBA.037c:12 "/>Fors que bien fait.\ <c>t</c>out ne vault une <rhyme>miche</rhyme>
+<lb n="AUBA.037c:13 "/>Autre tresor,\ ne chose que l'en <rhyme>brace</rhyme>,
+<lb n="AUBA.037c:14 "/><emph rend="italic">Car qui est bon\ doit estre appellé <rhyme><c>R</c>iche</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.037c:16 "/>Et bonté faite\ est haultem<abbr type="en"/>t <rhyme>merie</rhyme>,
+<lb n="AUBA.037c:17 "/>Car <name ref="God"><c>d</c>ieu</name> le rent, <choice><orig>&amp;</orig><reg>et</reg></choice> qui le bien <rhyme>pourchace</rhyme>
+<lb n="AUBA.037c:18 "/>Acquiert honneur,\ soit en <rhyme>chevalerie</rhyme>
+<lb n="AUBA.037c:19 "/>Ou autre estat.\ <c>q</c>ui des bons suit la <rhyme>trace</rhyme>,<l n="12"/>
+<lb n="AUBA.037c:20 "/>Loz doit avoir\ sur tous en toute <rhyme>place</rhyme>.
+<lb n="AUBA.037c:21 "/>Qui ès vertus\ du tout son cuer <rhyme>affiche</rhyme>,
+<lb n="AUBA.037c:22 "/>Tel tresor a\ que <name ref="Fortune"><c>f</c>ortune</name> <rhyme>n'efface</rhyme>,
+<lb n="AUBA.037c:23 "/><emph rend="italic">Car qui est bon\ doit estre appellé <rhyme>riche</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.037c:25 "/>Ne l'en ne doit\ une pomme <rhyme>pourrie</rhyme>
+<lb n="AUBA.037c:26 "/>Riche mauvais\ prisier, quoy qu'il\ <rhyme>embrace</rhyme>,<note>The final words or letters of this line and the next two lines are written on a patch which was applied before the transcription was begun; cf. JEUX.037b:29-31.</note>
+<lb n="AUBA.037c:27 "/>Ne lui louer,\ car c'est grant <rhyme>desverie</rhyme>
+<lb n="AUBA.037c:28 "/>De loz donner\ à mauvais, quoy qu'il <rhyme>face</rhyme>.<l n="20"/>
+<lb n="AUBA.037c:29 "/>Mais au vaillant\ qui à tout honneur <rhyme>chace</rhyme>
+<lb n="AUBA.037c:30 "/>Appartient loz, s'il n'est aver ne <rhyme>chiche</rhyme>:
+<lb n="AUBA.037c:31 "/>Des biens qu'il <subst><del rend="erasure"></del><add place="inline" evidence="blurring, paler ink">a soit large en deue <rhyme>place</rhyme></add></subst>,
+<lb n="AUBA.037c:32 "/><emph rend="italic">Car qui est bon doit estre appellé <rhyme>riche</rhyme>.</emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.037c:34 "/><s>P</s>rinces vaillans et de gentil <g lemma="attrace" en="extraction, origin" fr="extraction, origine"><rhyme>attrace</rhyme></g>,
+<lb n="AUBA.037c:35 "/>Ne souffrez pas vaillantise estre en <rhyme>friche</rhyme>.
+<lb n="AUBA.037c:36 "/>Poursuivez la, ne vous chaut d'or en <rhyme>masse</rhyme>,
+<lb n="AUBA.037c:37 "/><emph rend="italic">Car qui est bon <supplied reason="consistency of layout" resp="JCL">etc.</supplied></emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<cb n="d"/><layout ruledLines="40"/>
+<group n=" 2"/><div2 n="2" satfno="2" type="Ballade" metre="8" length="36" refrain="1" stanza="ababccddee" envoi="ccddee" rhyme="mfmmf"><lb n="AUBA.037d:01 "/><hi rend="cap2">O</hi>r est <name ref="Brutus, descendant of Æneas, the Trojan hero; founder of Britain"><c>b</c>rutus</name> <rhyme>ressucité</rhyme>,<note>SATF Autre Balade 2.</note><note>Christine follows the <emph rend="italic">Roman de Brut</emph> (Marcus Junius) Brutus, founder of the Roman Republic, elected first consul in 509 BC</note>
+<lb n="AUBA.037d:02 "/>D<subst><del rend="erasure"></del><add place="inline" evidence="blurring, paler ink, spacing">uq<abbr type="ue"/>l</add></subst> <name ref="Britain"><c>b</c>retaigne</name> fu <rhyme>nommée</rhyme>,
+<lb n="AUBA.037d:03 "/>Et<del rend="erasure" evidence="2 letter space, filler"></del> qui de <name ref="Rome"><c>r</c>omme la <rhyme>cité</rhyme></name>
+<lb n="AUBA.037d:04 "/>Fu consulë, et qui mainte <rhyme>armée</rhyme><l n=" 4"/>
+<lb n="AUBA.037d:05 "/>Fist en son temps, et tant fu <rhyme>sage</rhyme>,
+<lb n="AUBA.037d:06 "/>Preux, vaillant\ et plain de <rhyme>bernage</rhyme>
+<lb n="AUBA.037d:07 "/>Qu'à tous jours renom en <rhyme>remaint</rhyme>,
+<lb n="AUBA.037d:08 "/>Et tant fu après sa mort <rhyme>plaint</rhyme>.<l n=" 8"/>
+<lb n="AUBA.037d:09 "/>Charitable le fist <name ref="God"><c>d</c>ieux</name> <rhyme>naistre</rhyme>,
+<lb n="AUBA.037d:10 "/><emph rend="italic"><subst><del rend="overwritten">Et</del><add place="inline" evidence="overwritten, extended tail extended to make 'i'">Si</add></subst>com tous vaillans doive<abbr type="n"/>t <rhyme>estre</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.037d:12 "/>De cil <name ref="Brutus, descendant of Æneas, the Trojan hero; founder of Britain"><c>b</c>rutus</name> est <rhyme>recité</rhyme>
+<lb n="AUBA.037d:13 "/>Maint hault bien par gra<abbr type="n"/>t <rhyme>reno<abbr type="m"/>mée</rhyme>.<l n="12"/>
+<lb n="AUBA.037d:14 "/>Les dames en <rhyme>adversité</rhyme>
+<lb n="AUBA.037d:15 "/>Confortoit, ne par lui <rhyme>blamée</rhyme>
+<lb n="AUBA.037d:16 "/>Ne fust de fait ne de <rhyme>lengage</rhyme>
+<lb n="AUBA.037d:17 "/>Femme, ainçois qui feïst <rhyme>oultrage</rhyme><l n="16"/>
+<lb n="AUBA.037d:18 "/>Aux dames, <del rend="strikethrough, expunctuated">et</del> par lui fust <rhyme>estaint</rhyme>
+<lb n="AUBA.037d:19 "/>Le meffait et le bien <rhyme>ataint</rhyme>.
+<lb n="AUBA.037d:20 "/>Leur champïon fu en tout <rhyme>estre</rhyme>,
+<lb n="AUBA.037d:21 "/><emph rend="italic">Sicom tous vaillans doive<abbr type="n"/>t <rhyme>estre</rhyme></emph>.<l n="20"/>
+<!-- 1 blank line -->
+<lb n="AUBA.037d:23 "/>Or l'ensuit par grant <rhyme>charité</rhyme>
+<lb n="AUBA.037d:24 "/><name ref="Albret">Charles d'<c>a</c>lebret</name> qui <rhyme>amée</rhyme>
+<lb n="AUBA.037d:25 "/>A la voye de <rhyme>verité</rhyme>,
+<lb n="AUBA.037d:26 "/>Dont ja par tout est voix <rhyme>semée</rhyme><l n="24"/>
+<lb n="AUBA.037d:27 "/>De lui et de son <rhyme>vassellage</rhyme>
+<lb n="AUBA.037d:28 "/>Pour dames garder de <rhyme>dommage</rhyme>.
+<lb n="AUBA.037d:29 "/>Se de tort nulle se <rhyme>complaint</rhyme>,
+<lb n="AUBA.037d:30 "/>Veult estre sans avoir cuer <rhyme>faint</rhyme><l n="28"/>
+<lb n="AUBA.037d:31 "/>Leur <g lemma="défension" en="defence, protection" fr="défense, protection">deffensïon</g> et main <rhyme>destre</rhyme>,
+<lb n="AUBA.037d:32 "/><emph rend="italic">Sicom tous vaillans doive<abbr type="n"/>t <rhyme>estre</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.037d:34 "/>Au bon <name ref="Brutus"><c>b</c>rutus</name> de hault <rhyme>parage</rhyme>
+<lb n="AUBA.037d:35 "/><g lemma="retraire" en="to resemble" fr="ressembler à">Retrait</g> <name ref="Albret">Charles</name>, car d'un <rhyme>lignage</rhyme><l n="32"/>
+<lb n="AUBA.037d:36 "/>Descendirent, ce scevent <rhyme>maint</rhyme>,
+<lb n="AUBA.037d:37 "/>C'est des <name ref="Trojans"><c>t</c>royens</name> qui furent <rhyme>craint</rhyme>.
+<lb n="AUBA.037d:38 "/>Pour ce ensuivant est son <rhyme>ancestre</rhyme>
+<lb n="AUBA.037d:39 "/><emph rend="italic">Sicom to<abbr type="us"/> <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="36"/></div2>
+<!-- 1 blank line -->
+<pb ed="r" n="038" l="AUBA.038r:01"/><layout rend="above" ruledLines="yes" /><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="tabbed"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, above ruled space" rend="left aligned"><s>B</s>alades</fw> <fw type="header3" place="column b, above ruled space" rend="tabbed from right"> &#x95; ix &#x95;</fw></hi>
+<cb n="a"/>
+<layout ruledLines="40"/>
+<group n=" 3"/><div2 n="3" satfno="3" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="mfm"><lb n="AUBA.038a:01 "/><hi rend="cap2">B</hi>on chevalier où tous biens sont <rhyme>compris</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 3.</note><note>offset of decorated initial</note>
+<lb n="AUBA.038a:02 "/><c>n</c>oble, vaillant et de royal <rhyme>lignage</rhyme>,
+<lb n="AUBA.038a:03 "/>Qui par valeur avez armes <rhyme>empris</rhyme>,
+<lb n="AUBA.038a:04 "/>Dont vous portez la dame en ver<del rend="overwritten">t</del><add place="inline" evidence="paler ink">d</add>e <rhyme>targe</rhyme><l n=" 4"/>
+<lb n="AUBA.038a:05 "/>Pour demonstrer que de hardi <rhyme>visage</rhyme>
+<lb n="AUBA.038a:06 "/>Vous vous voulez pour les dames <rhyme>tenir</rhyme>
+<lb n="AUBA.038a:07 "/>Contre ceulx qui leur portero<abbr type="n"/>t <rhyme>do<abbr type="m"/>mage</rhyme>,
+<lb n="AUBA.038a:08 "/><emph rend="italic">Et <name ref="God"><c>d</c>ieu</name> vous doint leur bon droit <rhyme>soustenir</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038a:10 "/><name ref="God">Dieux</name> et <name ref="Pity"><c>p</c>itié</name> vous ont tout ce <rhyme>appris</rhyme>
+<lb n="AUBA.038a:11 "/>Et la valeur de vo noble <rhyme>courage</rhyme>,
+<lb n="AUBA.038a:12 "/>Et certes moult en croistra vostre <rhyme>pris</rhyme>
+<lb n="AUBA.038a:13 "/>Et paradis arés à <rhyme>heritage</rhyme>,<l n="12"/>
+<lb n="AUBA.038a:14 "/>Car aux dames plusieurs font mai<abbr type="n"/>t <rhyme>oultrage</rhyme>.
+<lb n="AUBA.038a:15 "/>C'est aumosne de leur droit <rhyme>maintenir</rhyme>,
+<lb n="AUBA.038a:16 "/>Si le ferés comme vaillant et <rhyme>sage</rhyme>,
+<lb n="AUBA.038a:17 "/><emph rend="italic">Et <name ref="God"><c>d</c>ieu</name> vous doint leur bon droit <rhyme>soustenir</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038a:19 "/>Or ay je espoir que ceulx qui ont <rhyme>mespris</rhyme>
+<lb n="AUBA.038a:20 "/>Vers les dames de fait et de <rhyme>lengage</rhyme>,
+<lb n="AUBA.038a:21 "/>Si se rendront comme las et <rhyme>despris</rhyme>.
+<lb n="AUBA.038a:22 "/>D'or en avant n'aront pas <rhyme>l'avantage</rhyme>,<l n="20"/>
+<lb n="AUBA.038a:23 "/>Confus seront par vostre <rhyme>vassellage</rhyme>.
+<lb n="AUBA.038a:24 "/>À tel baron doit bien <rhyme>appartenir</rhyme>
+<lb n="AUBA.038a:25 "/>Que des dames soit amé par <rhyme>usage</rhyme>,
+<lb n="AUBA.038a:26 "/><emph rend="italic">Et <name ref="God"><c>d</c>ieu</name> vous doint leur bon droit <rhyme>soustenir</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038a:28 "/>Mon redoubté seigneur, soubs vostre <rhyme>ho<abbr type="m"/>mage</rhyme>
+<lb n="AUBA.038a:29 "/>Je vous suppli me vueillés <rhyme>retenir</rhyme>,
+<lb n="AUBA.038a:30 "/>Car les vesves garderés de <rhyme>dommage</rhyme><note>'Dommage', found at the rhyme in line 7, is used a second time without there being an obvious difference of meaning.</note>
+<lb n="AUBA.038a:31 "/><emph rend="italic">Et <name ref="God"><c>d</c>ieu</name> <choice><orig>&amp;</orig><reg>et</reg></choice>c</emph>.<l n="28"/></div2>
+<!-- 1 blank line -->
+<group n=" 4"/><div2 n="4" satfno="4" type="Ballade" metre="8" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme=""><lb n="AUBA.038a:33 "/><hi rend="cap2">À</hi> vous, les chevaliers aux <rhyme>dames</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 4.</note>
+<lb n="AUBA.038a:34 "/><c>h</c>umble <rhyme>recommendacïon</rhyme>
+<lb n="AUBA.038a:35 "/>De par moy, la mendre des <rhyme>femmes</rhyme>,
+<lb n="AUBA.038a:36 "/>Prïant <name ref="God"><c>d</c>ieu</name> que <rhyme>l'affeccïon</rhyme>,<l n=" 4"/>
+<lb n="AUBA.038a:37 "/>Qu'avez en bonne <rhyme>entencïon</rhyme>
+<lb n="AUBA.038a:38 "/>De vouloir garder le droit <rhyme>d'elles</rhyme>,
+<lb n="AUBA.038a:39 "/>Vous doint mettre à <rhyme>perfeccïon</rhyme>
+<cb n="b"/><layout ruledLines="39"/><lb n="AUBA.038b:01 "/><emph rend="italic">Et honneur en toutes <rhyme>quereles</rhyme></emph>,<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038b:03 "/>Car le sauvement de voz <rhyme>ames</rhyme>
+<lb n="AUBA.038b:04 "/>Ferés, et sera <rhyme>mencïon</rhyme>
+<lb n="AUBA.038b:05 "/>À tous jours de voz belles <rhyme>armes</rhyme>,
+<lb n="AUBA.038b:06 "/>De revencher <rhyme>l'extorcïon</rhyme><l n="12"/>
+<lb n="AUBA.038b:07 "/>Et d'estre la <rhyme>deffencïon</rhyme>
+<lb n="AUBA.038b:08 "/>De femmes vesves et <rhyme>pucelles</rhyme>.
+<lb n="AUBA.038b:09 "/>Si en arés <rhyme>salvacïon</rhyme>
+<lb n="AUBA.038b:10 "/><emph rend="italic">Et honneur en toutes <rhyme>querelles</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038b:12 "/>Or vient le temps que les <rhyme>diffames</rhyme>
+<lb n="AUBA.038b:13 "/>Et la grant <rhyme>murmuracïon</rhyme>
+<lb n="AUBA.038b:14 "/>Que maint dïent d'elles, et <rhyme>blasmes</rhyme>
+<lb n="AUBA.038b:15 "/>Sans avoir nulle <rhyme>occasïon</rhyme>,<l n="20"/>
+<lb n="AUBA.038b:16 "/>Yert par vous à <rhyme>destruccïon</rhyme>.
+<lb n="AUBA.038b:17 "/>Si prïeront les <rhyme>damoiselles</rhyme>
+<lb n="AUBA.038b:18 "/>Que <name ref="God"><c>d</c>ieux</name> vous doint <rhyme>remissïon</rhyme>
+<lb n="AUBA.038b:19 "/><emph rend="italic">Et honneur\ en toutes <rhyme>querelles</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038b:21 "/>Prïez <name ref="God"><c>d</c>ieu</name> par <rhyme>devocïon</rhyme>
+<lb n="AUBA.038b:22 "/>Pour les bons, toutes <rhyme>jouvencelles</rhyme>,
+<lb n="AUBA.038b:23 "/>Qui ont noble <rhyme>condicïon</rhyme>
+<lb n="AUBA.038b:24 "/><emph rend="italic">Et honneur en toutes <rhyme>querelles</rhyme></emph>.<l n="28"/></div2>
+<!-- 1 blank line -->
+<group n=" 5"/><div2 n="5" satfno="5" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="ffm"><lb n="AUBA.038b:26 "/><hi rend="cap2">L</hi><add place="inline" evidence="paler ink" reason="text added in ruled line left blank?">es<note>Since insufficient space had been left for the decorated initial, the top half of the 'L' is painted in the ruled line left blank to mark the division between the ballades.</note> biens mondains et tous leurs <rhyme>accessoires</rhyme></add>,<note>SATF <emph rend="italic">Autre Balade</emph> 5.</note>
+<lb n="AUBA.038b:27 "/>Chacun voit bien\ qu'ilz sont vains <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>falibles</rhyme>.
+<lb n="AUBA.038b:28 "/>Si sommes folz,\ quant pour les <rhyme>transitoires</rhyme>
+<lb n="AUBA.038b:29 "/>Choses, laissons\ les joyes <rhyme>infalibles</rhyme><l n=" 4"/>
+<lb n="AUBA.038b:30 "/>Que <name ref="God"><c>d</c>ieu</name> donne\ aux innocens <rhyme>paysibles</rhyme>
+<lb n="AUBA.038b:31 "/>Qui n'ont nul soing\ de tresor <rhyme>acquerir</rhyme>.
+<lb n="AUBA.038b:32 "/>Mais pour prisier\ pou choses <rhyme>corruptibles</rhyme>,
+<lb n="AUBA.038b:33 "/><emph rend="italic">Avisons nous qu'il nous couvie<abbr type="n"/>t <rhyme>mourir</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038b:35 "/>Qu'est il des grans,\ dont on lit ès <rhyme>histoires</rhyme>,
+<lb n="AUBA.038b:36 "/>Qui porterent les fais grans et <rhyme>penibles</rhyme>
+<lb n="AUBA.038b:37 "/>Pour avoir loz,/ grans honneurs et <rhyme>victoires</rhyme>?
+<lb n="AUBA.038b:38 "/>Ne sont ilz mors? <add evidence="paler ink, cursive hand" place="supralinear" ><choice><orig>&amp;</orig><reg>Et</reg></choice></add> à noz yeulx <rhyme>visibles</rhyme><l n="12"/>
+<lb n="AUBA.038b:39 "/>Ne vëons nous, soient choses <rhyme>sensibles</rhyme><pb ed="v" n="038"  l="AUBA.038v:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c, in ruled space" rend="right aligned"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, in ruled space" rend="tabbed">balades</fw> <fw type="header3" place="column c, in ruled space" rend="centred">&#x95; ix</fw></hi><cb n="c"/><layout ruledLines="40"/>
+<lb n="AUBA.038c:01 "/>Ou non, faillir?\ <c>t</c>oute riens fault <rhyme>pourrir</rhyme>.
+<lb n="AUBA.038c:02 "/>Si n'ayons foy\ en choses <rhyme>impossibles</rhyme>,
+<lb n="AUBA.038c:03 "/><emph rend="italic">Avisons nous\ qu'il nous couvie<abbr type="n"/>t <rhyme>mourir</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038c:05 "/>Et pour les biens\ qui ne vale<abbr type="n"/>t &#x95;.ii.&#x95; <rhyme>poires</rhyme>
+<lb n="AUBA.038c:06 "/>Pour nous sauver &#x2013; ains souvent so<abbr type="n"/>t <add place="inline" evidence="paler ink, smaller point"><rhyme>nuisibles</rhyme></add> &#x2013;
+<lb n="AUBA.038c:07 "/>Ne perdons <name ref="God"><c>d</c>ieu</name>, disans choses non <rhyme>voires</rhyme>
+<lb n="AUBA.038c:08 "/>Pour accomplir\ pechez lais et <rhyme>orribles</rhyme><l n="20"/>
+<lb n="AUBA.038c:09 "/>Et pour delis\ vains, lais et non <rhyme>loisibles</rhyme>,
+<lb n="AUBA.038c:10 "/>Car <name ref="God"><c>d</c>ieu</name> scet tout;\ on ne lui peut <rhyme>couvrir</rhyme>
+<lb n="AUBA.038c:11 "/>Pour eschever <del rend="erasure"></del><add place="inline" evidence="paler ink, blurring">ses</add> vengences <rhyme>terribles</rhyme>,
+<lb n="AUBA.038c:12 "/><emph rend="italic">Avisons nous\ qu'il nous couvie<abbr type="n"/>t <rhyme>mourir</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038c:14 "/>Princes et clers\ d'entendem<abbr type="en"/>t <rhyme>senscibles</rhyme>,
+<lb n="AUBA.038c:15 "/>Ne vueillons <del rend="strikethrough">nous</del> pas par noz meffais <add place="inline" evidence="paler ink, smaller point"><rhyme>p<abbr type="er"/>ir</rhyme></add>.
+<lb n="AUBA.038c:16 "/>À nous sauver soions tous <rhyme>entendibles</rhyme>,
+<lb n="AUBA.038c:17 "/><emph rend="italic">Avisons nous <choice><orig>&amp;</orig><reg>et</reg></choice>c</emph>.<l n="28"/></div2>
+<!-- 1 blank line -->
+<group n=" 6"/><div2 n=" 6" satfno="6" type="Ballade layée" metre="10 &amp; 8" length="33" refrain="1" stanza="ababbccdd" envoi="bbccdd" rhyme="mfmf"><lb n="AUBA.038c:19 "/><hi rend="cap2">H</hi>elas, où dont\  trouveront <rhyme>reconfort</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 6.</note>
+<lb n="AUBA.038c:20 "/><c>p</c>ovres vesves,\ de leurs biens <rhyme>despoullées</rhyme>,
+<lb n="AUBA.038c:21 "/>Puis qu'en <name ref="France"><c>f</c>rance</name>\ qui seut estre le <rhyme>port</rhyme>
+<lb n="AUBA.038c:22 "/>De leur salu\ et où les <rhyme>exillées</rhyme><l n=" 4"/>
+<lb n="AUBA.038c:23 "/><choice><sic>V</sic><corr reason="sense" resp="JCL" source="SATF" rend="very significant">S</corr></choice>eulent fuïr\ et les <rhyme>desconseillées</rhyme>?
+<lb n="AUBA.038c:24 "/>Mais or n'y ont plus <rhyme>amistié</rhyme>:
+<lb n="AUBA.038c:25 "/>Les nobles gens\ n'en ont nulle <rhyme>pitié</rhyme>,
+<lb n="AUBA.038c:26 "/>Aussi n'ont clercs\ li greigneur\ <del rend="erasure"></del><add place="inline" evidence="darker ink. blurring">ne li</add> <rhyme>mendre</rhyme>,<l n=" 8"/>
+<lb n="AUBA.038c:27 "/><emph rend="italic">Ne les princes ne les daigne<abbr type="n"/>t <rhyme>entendre</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.038c:29 "/>Des chevaliers\ n'ont elles nesun <rhyme>port</rhyme>,
+<lb n="AUBA.038c:30 "/>Par les prelas\ ne sont bien <rhyme>conseillées</rhyme>
+<lb n="AUBA.038c:31 "/>Ne les juges ne les gardent de <rhyme>tort</rhyme>.<l n="12"/>
+<lb n="AUBA.038c:32 "/>Des officiers n'aroient &#x95; .ii. &#x95; <g lemma="maillée" en="penny's worth" fr="valeur d'une maille"><rhyme>maillées</rhyme></g>
+<lb n="AUBA.038c:33 "/>De bon respons.\ <c>d</c>es poissans <rhyme>traveillées</rhyme>
+<lb n="AUBA.038c:34 "/>Sont en maint cas,\ n'à la <rhyme>moitié</rhyme>
+<lb n="AUBA.038c:35 "/>Devers les grans n'aroient <rhyme>exploitié</rhyme><l n="16"/>
+<lb n="AUBA.038c:36 "/>Jamais nul jour.\ <c>a</c>illeurs ont à<note>tracé du 'a' ?</note> <rhyme>ente<abbr type="n"/>dre</rhyme>
+<lb n="AUBA.038c:37 "/><emph rend="italic">Ne les princes ne les daigne<abbr type="n"/>t <rhyme>ente<abbr type="n"/>dre</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.038c:39 "/>Où pourront mais\ fuïr, puis q<abbr type="ue"/> <rhyme>ressort</rhyme>
+<lb n="AUBA.038c:40 "/>N'ont en <name ref="France"><c><s>f</s></c>rance</name>,\ là où leur sont <rhyme>baillées</rhyme><l n="20"/>
+<cb n="d"/><layout ruledLines="40"/><lb n="AUBA.038d:01 "/><s>E</s>sperances <s>v</s>aines, conseil de <rhyme>mort</rhyme>.
+<lb n="AUBA.038d:02 "/>Voyes d'<name ref="Hell"><c>e</c>nfer</name> / leur sont <rhyme>appareillées</rhyme>
+<lb n="AUBA.038d:03 "/>S'elles veulent croire voyes <rhyme>broullées</rhyme>
+<lb n="AUBA.038d:04 "/>Et faulx <g lemma="conseil" en="counsel" fr="conseil" type="object plural">consaulx</g>, où <g lemma="appointer1" en="to show concern over" fr="s'occuper de"><rhyme>appointié</rhyme></g><l n="24"/>
+<lb n="AUBA.038d:05 "/>N'est de leur fait,\ n'il n'ont si <g lemma="accointer" en="friend" fr="ami"><rhyme>accointié</rhyme></g>
+<lb n="AUBA.038d:06 "/>Qui leur ayde\ sans à aucun mal <rhyme>tendre</rhyme>,
+<lb n="AUBA.038d:07 "/><emph rend="italic">Ne les princes\ ne les daigne<abbr type="n"/>t <rhyme>entendre</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.038d:09 "/>Bons et vaillans,\ or soyent <rhyme>esveillées</rhyme><l n="28"/>
+<lb n="AUBA.038d:10 "/>Voz grans bontez \ où vesves sont <g lemma="tailler" en="to be liable to" fr="être susceptible de"><rhyme>taillées</rhyme></g>
+<lb n="AUBA.038d:11 "/>D'avoir mains maulx. <c>D</c>e cuer <g lemma="haitié" en="happy, willing" fr="content, généreux"><rhyme>haitié</rhyme></g>
+<lb n="AUBA.038d:12 "/>Secourez les,\ et croyez mon <rhyme>dictié</rhyme>,
+<lb n="AUBA.038d:13 "/>Car nul ne voy\ qui vers <choice><sic>elle</sic><corr reason="sense" resp="JCL" source="SATF" rend="very significant">elles</corr></choice> soit <rhyme>tendre</rhyme><l n="32"/>
+<lb n="AUBA.038d:14 "/><emph rend="italic">Ne les princes <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></div2>
+<!-- 1 blank line -->
+<group n=" 7"/><div2 n="7" satfno="7" type="Ballade layée" metre="10 &amp; 8" length="34" refrain="1" stanza="ababbccdcd" envoi="cdcd" rhyme="mmmm"><lb n="AUBA.038d:16 "/><hi rend="cap2">S</hi>e de <name ref="Pallas"><c>p</c>allas</name>\ me peüsse <rhyme>accointier</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 7.</note>
+<lb n="AUBA.038d:17 "/><c>j</c>oye et tout bien\ ne me fauldroit <rhyme>jamais</rhyme>,
+<lb n="AUBA.038d:18 "/>Car par elle je seroye oû <rhyme>sentier</rhyme>
+<lb n="AUBA.038d:19 "/>De reconfort,\ et de porter le <g lemma="faix" en="burden" fr="fardeau"><rhyme>fais</rhyme></g><l n=" 4"/>
+<lb n="AUBA.038d:20 "/>Que <name ref="Fortune"><c>f</c>ortune</name> a pour moy trop charger <rhyme>fai<choice><sic>t</sic><corr reason="poor rhyme" resp="JCL" source="SATF" rend="very significant">s</corr></choice></rhyme>,
+<lb n="AUBA.038d:21 "/>Mais foible suis pour <rhyme>soustenir</rhyme>
+<lb n="AUBA.038d:22 "/>Si grant faissel, s'elle ne vient <rhyme>tenir</rhyme>
+<lb n="AUBA.038d:23 "/>De l'autre part par son poissant <rhyme>effort</rhyme><l n=" 8"/>
+<lb n="AUBA.038d:24 "/>Pour moy aydier.\ <name ref="God"><c>d</c>ieu</name> m'i doint <rhyme>avenir</rhyme>,
+<lb n="AUBA.038d:25 "/><emph rend="italic">Car de <name ref="Juno"><c>j</c>uno</name> n'ay je nul <rhyme>reconfort</rhyme>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.038d:27 "/><name ref="Pallas">Pallas</name>, <name ref="Juno">Juno</name>, <name ref="Venus"><c>v</c>enus</name> voldre<abbr type="n"/>t <rhyme>plaidier</rhyme>
+<lb n="AUBA.038d:28 "/>Devant <name ref="Paris, son of Priam"><c>p</c>aris</name>\ jadis de leur tort<add  evidence="paler ink" place="supralinear" type="cursive">s</add> <rhyme>fai<del rend="cursive 's' in gutter margin">t</del><add place="gutter margin" evidence="paler ink">s</add></rhyme>,<l n="12"/>
+<lb n="AUBA.038d:29 "/>Dont chacune\  disoit qu'à son <rhyme>cuider</rhyme>
+<lb n="AUBA.038d:30 "/>Plus belle estoit,\ et plus estoit <rhyme>parfais</rhyme>
+<lb n="AUBA.038d:31 "/>Ses grans povoirs\ que de l'autre en to<abbr type="us"/> <rhyme>fais</rhyme>.
+<lb n="AUBA.038d:32 "/>Sus <name ref="Paris, son of Priam"><c>p</c>aris</name> s'en voldrent <rhyme>tenir</rhyme><l n="16"/>
+<lb n="AUBA.038d:33 "/>Qu<add place="inline" evidence="erasure, not aligned">i</add> lors jugia que l'en devoit <rhyme>tenir</rhyme>
+<lb n="AUBA.038d:34 "/>À plus belle\ <name ref="Venus"><c>v</c>enus</name> et à plus <rhyme>fort</rhyme>,
+<lb n="AUBA.038d:35 "/>Si dis<choice><sic></sic><corr reason="sense" resp="JCL" source="SATF" rend="very significant">t</corr></choice>, "<c>d</c>ame,\ vous vueil <c>J</c>e <rhyme>detenir</rhyme>,
+<lb n="AUBA.038d:36 "/><emph rend="italic">Car de <name ref="Juno"><c>j</c>uno</name>\ n'ay je nul <rhyme>reconfort</rhyme>".</emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="AUBA.038d:38 "/>Pour la pomme d'or lui vint\ puis <rhyme>aydier</rhyme>
+<lb n="AUBA.038d:39 "/>Vers <name ref="Helen"><c>h</c>elaine</name>\ <name ref="Venus"><c>v</c>enus</name>. <c>m</c>ors et <rhyme>deffais</rhyme>
+<lb n="AUBA.038d:40 "/>En fu après,\ si n'ay d'elle <rhyme>mestier</rhyme>.
+<pb ed="r" n="039" l="AUBA.039r:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a, high in ruled space" rend="tabbed"><s>A</s>utres </fw> <fw type="header2" place="intercolumn, high in ruled space" rend="centred" ><s>B</s>alades</fw> <fw type="header3" place="column b, high in ruled space" rend="tabbed">&#x95; ix &#x95;</fw></hi>
+<cb n="a"/><layout ruledLines="39"/><lb n="AUBA.039a:01 "/>Mais de jo<s>y</s>e\ seroit mon cuer <rhyme>reffais</rhyme><l n="24"/>
+<lb n="AUBA.039a:02 "/><choice><sic>D</sic><corr reason="sense" resp="JCL" source="JCL" rend="very significant">S</corr></choice>e la vaillant/ <name ref="Pallas"><c>p</c>allas</name>, par qui <rhyme>meffais</rhyme>
+<lb n="AUBA.039a:03 "/>Sont delaissié/ et <rhyme>retenir</rhyme>
+<lb n="AUBA.039a:04 "/>Fait tous les biens,\ me daignoit <rhyme>retenir</rhyme>
+<lb n="AUBA.039a:05 "/>Pour <choice><sic><add evidence="paler ink, wide caret" place="supralinear">a</add> si</sic><corr reason="scansion, sense, correction not completed" source="SATF" resp="JCL" rend="significant">sa</corr></choice> serve. <c>p</c>lus ne devroye au <rhyme>fort</rhyme><l n="28"/>
+<lb n="AUBA.039a:06 "/>Ja desirer\ pour à grant bien <rhyme>venir</rhyme>,
+<lb n="AUBA.039a:07 "/><emph rend="italic">Car de <name ref="Juno"><c>j</c>uno</name> n'ay je nul <rhyme>reconfort</rhyme>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.039a:09 "/>Ces &#x95;.iii.&#x95; poissans déesses <rhyme>maintenir</rhyme>
+<lb n="AUBA.039a:10 "/>Font le monde, non obstant leur <rhyme>descort</rhyme>,<l n="32"/>
+<lb n="AUBA.039a:11 "/>Mais de <name ref="Pallas"><c>p</c>allas</name> me doint <name ref="God"><c>d</c>ieux</name> <rhyme>souvenir</rhyme>
+<lb n="AUBA.039a:12 "/><emph rend="italic">Car de <name ref="Juno">Juno</name> <choice><sic></sic><corr reason="layout" resp="JCL">etc</corr></choice>.</emph></div2>
+<!-- 1 blank line -->
+<group n=" 8"/><div2 n="8" satfno="8" type="Ballade" metre="8" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="mfm"><lb n="AUBA.039a:14 "/><name ref="God"><hi rend="cap2">D</hi>ieux</name>, on se plaint trop <rhyme>durement</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 8.</note>
+<lb n="AUBA.039a:15 "/>De <del evidence="superscript insertion" rend="">se</del><add place="superscript" evidence="cursive hand">ce</add>s maris! <c>t</c>rop oy <rhyme>mesdire</rhyme>
+<lb n="AUBA.039a:16 "/>D'eulx, et qu'ilz sont <rhyme>communement</rhyme>
+<lb n="AUBA.039a:17 "/>Jaloux, rechignez et plains <rhyme>d'ire</rhyme>.<l n=" 4"/>
+<lb n="AUBA.039a:18 "/>Mais ce ne puis je mie <rhyme>dire</rhyme>,
+<lb n="AUBA.039a:19 "/>Car j'ay mari tout à mon <rhyme>vueil</rhyme>,
+<lb n="AUBA.039a:20 "/>Bel et bon; et sans moy <rhyme>desdire</rhyme>,
+<lb n="AUBA.039a:21 "/><emph rend="italic">Il veult trestout quanque je\ <rhyme>vueil</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039a:23 "/>Il ne veult fors <rhyme>esbatement</rhyme>
+<lb n="AUBA.039a:24 "/>Et me tence quant je <rhyme>souspire</rhyme>,
+<lb n="AUBA.039a:25 "/>Et bien lui plaist s'il ne me <rhyme>ment</rhyme>
+<lb n="AUBA.039a:26 "/>Qu'ami aye pour moy <rhyme><choice><sic>desdire</sic><corr reason="sense, rhyme-word repeated"   resp="JCL" source="SATF" rend="significant">deduire</corr></choice></rhyme>,<l n="12"/>
+<lb n="AUBA.039a:27 "/>S'aultre que lui je vueil <rhyme>eslire</rhyme>
+<lb n="AUBA.039a:28 "/>De riens que je face il n'a <rhyme>dueil</rhyme>.
+<lb n="AUBA.039a:29 "/>Tout lui plaist sans moy <rhyme>contredire</rhyme>;
+<lb n="AUBA.039a:30 "/><emph rend="italic">Il veult trestout quanque je <rhyme>vueil</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039a:32 "/>Si doy bien vivre <rhyme>lïement</rhyme>,
+<lb n="AUBA.039a:33 "/>Car tel mari me doit <rhyme>souffire</rhyme>,
+<lb n="AUBA.039a:34 "/>Qui en tout mon <rhyme>gouverneme<abbr type="n"/>t</rhyme>
+<lb n="AUBA.039a:35 "/>Nulle riens ne treuve à <rhyme>redire</rhyme>.<l n="20"/>
+<lb n="AUBA.039a:36 "/>Et quant vers mon ami me <rhyme>tire</rhyme>
+<lb n="AUBA.039a:37 "/>Et je lui monstre bel <rhyme>accueil</rhyme>,
+<lb n="AUBA.039a:38 "/>Mon mari s'en rit, le doulx <rhyme>sire</rhyme>.
+<lb n="AUBA.039a:39 "/><emph rend="italic">Il veult trestout quanque je <rhyme>vueil</rhyme>.</emph><l n="24"/>  <cb n="b"/><layout ruledLines="39"/><!-- 1 blank line -->
+<lb n="AUBA.039b:02 "/><name ref="God"><s>D</s>ieu</name> le me sauve s'il <rhyme>n'empire</rhyme>,
+<lb n="AUBA.039b:03 "/>Ce mari: il n'a nul <rhyme>pareil</rhyme>,
+<lb n="AUBA.039b:04 "/>Car chanter, dancer vueille ou <rhyme><c>R</c>ire</rhyme>,
+<lb n="AUBA.039b:05 "/><emph rend="italic">Il veult <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n=" 9"/><div2 n=" 9" satfno="9" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="mmm"><lb n="AUBA.039b:07 "/><hi rend="cap2">O</hi>r sus or sus\ pensez de bien <rhyme>amer</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 9.</note>
+<lb n="AUBA.039b:08 "/>Vrays amoureux\ et joye <rhyme>maintenir</rhyme>
+<lb n="AUBA.039b:09 "/>Ce mois de <note>'d' sur grattage ?</note> may\ et vuidez tout <rhyme>amer</rhyme>
+<lb n="AUBA.039b:10 "/>De voz doulx cuers ne lui veullés <rhyme>tenir</rhyme><l n=" 4"/>
+<lb n="AUBA.039b:11 "/>Soiés joyeux et liez\ sans <rhyme>retenir</rhyme>
+<lb n="AUBA.039b:12 "/>Nul fel penser\ car resjouïr se <rhyme>doit</rhyme>
+<lb n="AUBA.039b:13 "/>Tout vray amant\ par plaisant\ <rhyme>souvenir</rhyme>
+<lb n="AUBA.039b:14 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le veult\ et la saison le <rhyme>doit</rhyme></emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039b:16 "/>Or y perra qui sara <rhyme>reclamer</rhyme>
+<lb n="AUBA.039b:17 "/><name ref="God+of+Love">Amours</name> à droit\ pour à grant bien <rhyme>venir</rhyme> <note>'v' overwritten ?</note>
+<lb n="AUBA.039b:18 "/>Faire beaulx dis\ soy pour <name ref="God+of+Love"><c>a</c>mours</name> <rhyme>armer</rhyme>
+<lb n="AUBA.039b:19 "/>Et ces beaulx coups\ à jouxte <rhyme>soustenir</rhyme><l n="12"/>
+<lb n="AUBA.039b:20 "/>Et le bon vueil\ sa dame <rhyme>retenir</rhyme>
+<lb n="AUBA.039b:21 "/>Tost obéir\ s'elle lui <rhyme>commandoit</rhyme>
+<lb n="AUBA.039b:22 "/>C'est le devoir\ qui bon veult <rhyme>devenir</rhyme>
+<lb n="AUBA.039b:23 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le veult\ et la saison le <rhyme>doit</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039b:25 "/>Si vous vueillés\ ès doulx b<abbr type="ie"/>ns <rhyme>affermer</rhyme>
+<lb n="AUBA.039b:26 "/>Qui à tous bons\ doivent <rhyme>appartenir</rhyme>
+<lb n="AUBA.039b:27 "/>Rire jouer\ chanter nul ne <rhyme>blamer</rhyme>
+<lb n="AUBA.039b:28 "/>Et tristece\ toute de vous <rhyme>banir</rhyme><l n="20"/>
+<lb n="AUBA.039b:29 "/>vestir de vert\ <note> ?</note> pour joye <rhyme>parfournir</rhyme>
+<lb n="AUBA.039b:30 "/>À feste aler\ se dame le <rhyme>mandoit</rhyme>
+<lb n="AUBA.039b:31 "/>Vous tenir liez / quoy qu'il doye <rhyme>avenir</rhyme>
+<lb n="AUBA.039b:32 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le veult / et la saison le <rhyme>doit</rhyme></emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039b:34 "/>Vrays fins amans / pour à joye <rhyme>avenir</rhyme>
+<lb n="AUBA.039b:35 "/>Soyés jolis\ car esperer on <rhyme>doit</rhyme>
+<lb n="AUBA.039b:36 "/>En ce doulx temps\ à to<abbr type="us"/> b<abbr type="ie"/>ns <rhyme>p<abbr type="ar"/>venir</rhyme>
+<lb n="AUBA.039b:37 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="10"/><div2 n="10" satfno="10" type="Ballade" metre="10" length="10" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="ffm"><lb n="AUBA.039b:39 "/><hi rend="cap2">T</hi>rès <note>initial extends into bottom margin</note>\ humblement dames et <rhyme>damoiselles</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 10.</note>
+<pb ed="v" n="039"  l="AUBA.039v:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="intercolumn, in ruled space" rend="left aligned" ><s>A</s>ultres</fw> <fw type="header2" place="column d, in ruled space" rend="left aligned" >balades</fw> <fw type="header3" place="column d, in ruled space" rend="centred">&#x95; ix &#x95;</fw></hi><cb n="c"/><layout ruledLines="39"/><lb n="AUBA.039c:01 "/>Me recommande à vostre <rhyme>gentillece</rhyme>
+<lb n="AUBA.039c:02 "/>Et de par moy\ sachés bonnes et <rhyme>belles</rhyme>
+<lb n="AUBA.039c:03 "/>Qu'<name ref="God+of+Love"><c>a</c>mours</name> a fait crier de sa <rhyme>richece</rhyme><l n=" 4"/>
+<lb n="AUBA.039c:04 "/>Ce jour de may joye et à grant <rhyme>largece</rhyme>
+<lb n="AUBA.039c:05 "/>Roses et flours\ qu'yver cheres <rhyme>vendoit</rhyme>
+<lb n="AUBA.039c:06 "/>Et que voz cuers\ vous tenez sans <rhyme>tristece</rhyme>
+<lb n="AUBA.039c:07 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le veult\ <choice><orig>&amp;</orig><reg>et</reg></choice> la saison le <rhyme>doit</rhyme></emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039c:09 "/>Et <name ref="Doulx+Deduit"><c>d</c>oulx <c>d</c>eduit</name>\ annonce ces <rhyme>nouvelles</rhyme>
+<lb n="AUBA.039c:10 "/>Et qu'il n'y ait\ nulle si grant <rhyme>maistrece</rhyme>
+<lb n="AUBA.039c:11 "/>Qui à l'amant\ refuse ses <rhyme>querelles</rhyme>
+<lb n="AUBA.039c:12 "/>Voire en honneur\ et en toute <rhyme>noblece</rhyme><l n="12"/>
+<lb n="AUBA.039c:13 "/>Sans que renom\ ne loyauté on <rhyme>blece</rhyme>
+<lb n="AUBA.039c:14 "/>Car tort aroit\ se plus en <rhyme>demandoit</rhyme>
+<lb n="AUBA.039c:15 "/>Mais qu'ottroyés\ <note>'er' overwritten to 'es'; cf AUBA 11 :17</note> <name ref="Bel+Accueil"><c>b</c>el <c>a</c>ccueil</name> en <rhyme>simplece</rhyme>
+<lb n="AUBA.039c:16 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le veult et la saison le <rhyme>doit</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039c:18 "/>Et si commande\ aux Jeunettes <rhyme>pucelles</rhyme>
+<lb n="AUBA.039c:19 "/>Chappeaulx de flours\ dessus la blonde <rhyme>tresse</rhyme>
+<lb n="AUBA.039c:20 "/>Jouer\ dancer\ en prez sus <rhyme>fontenelles</rhyme>
+<lb n="AUBA.039c:21 "/>Simplettement\ de maintien en <rhyme>humblece</rhyme><l n="20"/>
+<lb n="AUBA.039c:22 "/>Rire chanter\ fuÿr dueil et <rhyme>destresse</rhyme>
+<lb n="AUBA.039c:23 "/>Car jeune cuer\ se léece <rhyme>perdoit</rhyme>
+<lb n="AUBA.039c:24 "/>Il seroit mort\ si l'ayés sans <rhyme>parece</rhyme>
+<lb n="AUBA.039c:25 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le veult\ <choice><orig>&amp;</orig><reg>et</reg></choice> la saison le <rhyme>doit</rhyme></emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039c:27 "/>Belles plaisans\ dames de gra<abbr type="n"/>t <rhyme>haultece</rhyme>
+<lb n="AUBA.039c:28 "/>Je vi <name ref="Deduit"><c>d</c>eduit</name>\ qui grant odeur <rhyme>rendoit</rhyme>
+<lb n="AUBA.039c:29 "/>Et haultement crÿoit ayés <rhyme>léece</rhyme>
+<lb n="AUBA.039c:30 "/><emph rend="italic"><name ref="God+of+Love">Amours</name> le veult <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="11"/><div2 n="11" satfno="11" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fff"><lb n="AUBA.039c:32 "/><hi rend="cap2">H</hi>aulte poissant\ très louée <name ref="Unidentified+Princess"><rhyme>princesse</rhyme></name><note>SATF <emph rend="italic">Autre Balade</emph> 11.</note>
+<lb n="AUBA.039c:33 "/>Bonne belle\ vaillant de to<abbr type="us"/> <rhyme>no<abbr type="m"/>mée</rhyme>
+<lb n="AUBA.039c:34 "/>Plaine de sens\ d'onneur et de <rhyme>noblesce</rhyme>
+<lb n="AUBA.039c:35 "/>Et en mains lieux\ redoubtée et <rhyme>amée</rhyme><l n=" 4"/>
+<lb n="AUBA.039c:36 "/>Par le monde\ très excellant <rhyme>clamée</rhyme>
+<lb n="AUBA.039c:37 "/>Et parfaicte\ toute de corps <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>d'ame</rhyme>
+<lb n="AUBA.039c:38 "/>On ne pourroit\ vostre grant <rhyme>reno<abbr type="m"/>mée</rhyme>
+<lb n="AUBA.039c:39 "/><emph rend="italic">Assez louer, ma redoubtée <rhyme>dame</rhyme>.</emph><l n=" 8"/>
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="AUBA.039d:01 "/>Accompare <note>final letter erased ; 'r' above the line</note> à <name ref="Pallas"><c>p</c>allas\ la <rhyme>déesse</rhyme></name>
+<lb n="AUBA.039d:02 "/>Et à <name ref="Juno"><c>j</c>uno</name>\ qui tant est <rhyme>reclamée</rhyme>
+<lb n="AUBA.039d:03 "/>Certes vous puis\ pour vostre gra<abbr type="n"/>t <rhyme>sagece</rhyme>
+<lb n="AUBA.039d:04 "/>Et pour la très riche honneur <rhyme>affermée</rhyme><l n="12"/>
+<lb n="AUBA.039d:05 "/>Où vous estes\ ne jamais <rhyme>estimée</rhyme>
+<lb n="AUBA.039d:06 "/>Vostre valeur ne pourroit estre de <rhyme>ame</rhyme>
+<lb n="AUBA.039d:07 "/>N'escripture\ fust en prose ou <rhyme>Rime</rhyme> <note>error, rhyme</note>
+<lb n="AUBA.039d:08 "/><emph rend="italic">Assez louer, ma redoubtée <rhyme>dame</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039d:10 "/><name ref="Semiramis">Semiramis</name>\ ressemblés <note>'er' overwritten to 'es' ; cf AUBA 10 :15</note> de <rhyme>largece</rhyme>
+<lb n="AUBA.039d:11 "/>Qui tant fu preux\ et tant est <rhyme>reclamée</rhyme>
+<lb n="AUBA.039d:12 "/>Et de purté\ <name ref="Lucretia">la très belle <rhyme><c>l</c>ucresse</rhyme>
+<lb n="AUBA.039d:13 "/>La rommaine</name>\ de grant constance <rhyme>armée</rhyme><l n="20"/>
+<lb n="AUBA.039d:14 "/>De loyauté\ <name ref="Esther"><c>h</c>ester</name> la non <rhyme>blasmée</rhyme>
+<lb n="AUBA.039d:15 "/>En tous ai <note>expunctuated</note> estas\ plus que nulle aut<abbr type="re"/> <rhyme>fe<abbr type="m"/>me</rhyme>
+<lb n="AUBA.039d:16 "/>On ne vous peut\ tant estes b<abbr type="ie"/>n <rhyme>formée</rhyme>
+<lb n="AUBA.039d:17 "/><emph rend="italic">Assez louer ma redoubtée <rhyme>dame</rhyme>.</emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039d:19 "/>Très excellant\ en grace <rhyme>confermée</rhyme>
+<lb n="AUBA.039d:20 "/>De vous par tout\ cuert si très noble <rhyme>fame</rhyme>
+<lb n="AUBA.039d:21 "/>C'on ne pourroit\ vous c'est chose <rhyme>informée</rhyme>
+<lb n="AUBA.039d:22 "/><emph rend="italic">Assez louer, ma redoubtée <rhyme>dame</rhyme>.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="12"/><div2 n="12" satfno="12" type="Ballade" metre="8" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fmf"><lb n="AUBA.039d:24 "/><hi rend="cap2">P</hi>rïez dames et <rhyme>damoiselles</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 12.</note>
+<lb n="AUBA.039d:25 "/>pour <note>small 'p'</note> les bons chevaliers <rhyme>vaillans</rhyme>
+<lb n="AUBA.039d:26 "/>Qui pour soustenir voz <rhyme>querelles</rhyme>
+<lb n="AUBA.039d:27 "/>Mettent leur corps et leur <rhyme>vaillans</rhyme><l n=" 4"/>
+<lb n="AUBA.039d:28 "/>Que ja <name ref="God"><c>d</c>ieu</name> ne leur soit <rhyme>faillans</rhyme>
+<lb n="AUBA.039d:29 "/>Ains leur doint honneur et <rhyme>victoire</rhyme>
+<lb n="AUBA.039d:30 "/>Encontre tous leurs <rhyme>assaillans</rhyme>
+<lb n="AUBA.039d:31 "/><emph rend="italic">Si qu'à tous jours en soit <rhyme>memoire</rhyme></emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.039d:33 "/>Qui l'escu vert aux dames <rhyme>belles</rhyme>
+<lb n="AUBA.039d:34 "/>Portent sans estre <rhyme>deffaillans</rhyme>
+<lb n="AUBA.039d:35 "/>Pour demonstrer que l'onneur <rhyme>d'elles</rhyme>
+<lb n="AUBA.039d:36 "/>Veulent aux espées <rhyme>taillans</rhyme><l n="12"/>
+<lb n="AUBA.039d:37 "/>Garder contre leur mau <rhyme>veillans</rhyme>
+<lb n="AUBA.039d:38 "/>Si devez prier <name ref="God"><c>d</c>ieu</name> de <rhyme>gloire</rhyme>
+<lb n="AUBA.039d:39 "/>Que priz et loz soyent <rhyme>cueillans</rhyme>
+<pb ed="r" n="040" l="AUBA.040r:01"/><layout ruledLines="yes"/><hi rend="run"><fw  type="header1" place="column a, in ruled space" rend="centred"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, in ruled space" rend="right aligned" >balades</fw> <fw type="header3" place="column b, in ruled space" rend="tabbed">&#x95; ix </fw></hi>
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="AUBA.040a:01 "/><emph rend="italic"><s>S</s>i <note>elaborate 'S'</note> qu'à tous jours en soit <rhyme>memoire</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040a:03 "/>Du <name ref="Jean+de+Torsay">bon <c>t</c>orsay</name>\ bonnes <rhyme>nouvelles</rhyme>
+<lb n="AUBA.040a:04 "/>Avons com preux et <rhyme>traveillans</rhyme>
+<lb n="AUBA.040a:05 "/>Les armes <name ref="François+d'Aubiscourt"><c>a</c>ubissecourt</name> <rhyme>celles</rhyme>
+<lb n="AUBA.040a:06 "/>Facent joye à ses bien <rhyme>vueillans</rhyme><l n="20"/>
+<lb n="AUBA.040a:07 "/><name ref="Bernard+de+Castelbajac">Castel bayart</name>\ qui est <rhyme>veillans</rhyme> <note>'e' correction sur grattage ; préparation correction 'e' visible à côté du vers, dans marge</note>
+<lb n="AUBA.040a:08 "/>À poursuivre armes chose est <rhyme>voire</rhyme>
+<lb n="AUBA.040a:09 "/>À honneur en soit hors <rhyme>saillans</rhyme>
+<lb n="AUBA.040a:10 "/><emph rend="italic">Si qu'à tous jours en soit <rhyme>memoire</rhyme></emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040a:12 "/>Or prïer <note>lettre repassée en 'z' à l'encre brun pâle ?</note>  <name ref="God"><c>d</c>ieu</name> à yeulx <rhyme>moullans</rhyme>
+<lb n="AUBA.040a:13 "/>C'on dise d'eulx <note>'d' correction sur grattage et préparation de correction dessus ?</note> si bonne <rhyme>histoire</rhyme>
+<lb n="AUBA.040a:14 "/>Que chacun en soit <rhyme>merveilla<abbr type="n"/>s</rhyme>
+<lb n="AUBA.040a:15 "/><emph rend="italic">Si qu'à to<abbr type="us"/> jo<abbr type="ur"/>s.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="13"/><div2 n="13" satfno="13" type="Ballade" metre="10" length="35" refrain="1" stanza="ababbccdcd" envoi="ccdcd" rhyme=""><lb n="AUBA.040a:17 "/><hi rend="cap2">G</hi>entilz amans\ faites ce <rhyme>jugement</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 13.</note>
+<lb n="AUBA.040a:18 "/>et <note>small 'e'</note> je vous pri\ jugiez selon le <rhyme>voir</rhyme>
+<lb n="AUBA.040a:19 "/>Une dame retient <rhyme>entierement</rhyme>
+<lb n="AUBA.040a:20 "/>Un\ pour ami cuidant en lui <rhyme>avoir</rhyme><l n=" 4"/>
+<lb n="AUBA.040a:21 "/>Loyal amant\ qui face son <rhyme>devoir</rhyme>
+<lb n="AUBA.040a:22 "/>D'elle servir\ ainsi qu'il <rhyme>appartient</rhyme>
+<lb n="AUBA.040a:23 "/>Ce lui promet\ quant elle le <rhyme>retient</rhyme>
+<lb n="AUBA.040a:24 "/>Mais tost après\ le contraire <rhyme>apperçoit</rhyme><l n=" 8"/>
+<lb n="AUBA.040a:25 "/>S'un autre aime\ qui d'elle pres se <rhyme>tie<abbr type="n"/>t</rhyme>
+<lb n="AUBA.040a:26 "/><emph rend="italic">Vous semble il\ que ce faulceté <rhyme>soit</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.040a:28 "/>Quant le premier\ la voit <rhyme>neglige<abbr type="m"/>me<abbr type="n"/>t</rhyme>
+<lb n="AUBA.040a:29 "/>Et si la peut\ assez souvent <rhyme>vëoir</rhyme><l n="12"/>
+<lb n="AUBA.040a:30 "/>Et par plusieurs fois moult <rhyme>piteusem<abbr type="en"/>t</rhyme>
+<lb n="AUBA.040a:31 "/>Celle lui dist\ que moult a\ le cuer <rhyme>noir</rhyme>
+<lb n="AUBA.040a:32 "/>Dont elle voit\ lui en si pou <rhyme>chaloir</rhyme>
+<lb n="AUBA.040a:33 "/>Mais riens n'y vault\ trop pou de conte en <rhyme>tie<abbr type="n"/>t</rhyme><l n="16"/>
+<lb n="AUBA.040a:34 "/>Et fierement\ vers elle se <rhyme>maintie<abbr type="n"/>t</rhyme>
+<lb n="AUBA.040a:35 "/>Dont s'un autre\ qui mieulx l'aime <rhyme>reçoit</rhyme>
+<lb n="AUBA.040a:36 "/>Quant elle voit\ qu'à cil si pou en <rhyme>tient</rhyme>
+<lb n="AUBA.040a:37 "/><emph rend="italic">Vous semble il\ que ce faulseté <rhyme>soit</rhyme></emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040a:39 "/>Et ancor pis\ car il dit <rhyme>plainem<abbr type="en"/>t</rhyme>
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="AUBA.040b:01 "/>Devant elle <note>lighter ink ; 'present' above 'De' in top margin ; ces deux mots sont dans une encre plus claire</note> qui n'est pour nul <rhyme>avoir</rhyme>
+<lb n="AUBA.040b:02 "/>Que il voulsist en femme <rhyme>nullement</rhyme>
+<lb n="AUBA.040b:03 "/>Mettre son cuer pour peine en <rhyme>recevoir</rhyme><l n="24"/>
+<lb n="AUBA.040b:04 "/>Selon le dit\ peut le fait <rhyme>apparoir</rhyme>
+<lb n="AUBA.040b:05 "/>Qu'il ne l'aime\ ne ne lui en <rhyme>souvient</rhyme>
+<lb n="AUBA.040b:06 "/>Et une <note>error</note> autre\ vers elle se <rhyme>contient</rhyme>
+<lb n="AUBA.040b:07 "/>Si loyaument\ quelque l'escondit <rhyme>soit</rhyme><l n="28"/>
+<lb n="AUBA.040b:08 "/>Qu'elle voit bien\ qu'il l'aime si s'i <rhyme>tient</rhyme>
+<lb n="AUBA.040b:09 "/><emph rend="italic">Vous semble il\ que ce faulceté <rhyme>soit</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.040b:11 "/><name ref="God+of+Love">Amours</name> jugiez\ quant un tel cas <rhyme>avie<abbr type="n"/>t</rhyme>
+<lb n="AUBA.040b:12 "/>Se\ avoir doit\ congié se il <rhyme>remaint</rhyme> <note>poor rhyme</note><l n="32"/>
+<lb n="AUBA.040b:13 "/>L'amant premier\ qui la dame <rhyme>deçoit</rhyme>
+<lb n="AUBA.040b:14 "/>Se par faulte\ de lui autre y <rhyme>avient</rhyme>
+<lb n="AUBA.040b:15 "/><emph rend="italic">Vous semble <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="35"/></div2>
+<!-- 1 blank line -->
+<group n="14"/><div2 n="14" satfno="14" type="Ballade layée" metre="10 &amp; 7" length="28" refrain="1" stanza="ababc7cdd" envoi="c7cdd" rhyme="ffm"><lb n="AUBA.040b:17 "/><hi rend="cap2">V</hi>iengne <name ref="Pallas"><c>p</c>allas\ la déesse</name> <rhyme>honorable</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 14.</note>
+<lb n="AUBA.040b:18 "/>moy <note>small 'm'</note> conforter\ en ma dure <rhyme>destresse</rhyme>
+<lb n="AUBA.040b:19 "/>Où mon ennuy <add evidence="" place="supralinear" type=""><choice><orig>&amp;</orig><reg>et</reg></choice></add>\  <note>lighter ink</note> peine <rhyme>intollerable</rhyme>
+<lb n="AUBA.040b:20 "/>Mettront affin ma vie en grant <rhyme>aspresse</rhyme><l n=" 4"/> <note>'as' sur grattage</note>
+<lb n="AUBA.040b:21 "/>Car <name ref="Fortune"><c>f</c>ortune</name>\ me cuert <rhyme>sure</rhyme>
+<lb n="AUBA.040b:22 "/>Qui tout mon bien\ destruit rompt et <rhyme>deveure</rhyme>
+<lb n="AUBA.040b:23 "/>Et pou d'espoir\ me destraint jour <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>nuit</rhyme>
+<lb n="AUBA.040b:24 "/><emph rend="italic"><name ref="Juno">Juno</name> me het\ et <name ref="Ill+Fortune"><c>m</c>eseür</name> me <rhyme>nuit</rhyme></emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040b:26 "/>Ne je ne truis\ nul confort <rhyme>secourable</rhyme>
+<lb n="AUBA.040b:27 "/>À mon meschief\ ainçois quant je me <rhyme>drece</rhyme>
+<lb n="AUBA.040b:28 "/>Vers quelque part où voye <rhyme>reparable</rhyme>
+<lb n="AUBA.040b:29 "/>Deusse trouver vers le rebours <rhyme>m'adrece</rhyme><l n="12"/> <note>'vers le rebours m' in lighter ink, slightly compressed ; over erasure ?; vraisemblablement</note>
+<lb n="AUBA.040b:30 "/>Et en vain peine et <rhyme>labeure</rhyme>
+<lb n="AUBA.040b:31 "/>Car <name ref="Fortune"><c>f</c>ortune</name>\ despiece tout en <rhyme>l'eure</rhyme>
+<lb n="AUBA.040b:32 "/>Quanque j'ay fait ou me plaise ou <rhyme>m'anuit</rhyme>
+<lb n="AUBA.040b:33 "/><emph rend="italic"><name ref="Juno">Juno</name> me het et <name ref="Ill+Fortune"><c>m</c>eseür</name> me <rhyme>nuit</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040b:35 "/>Et pour ce pri\ la haulte <rhyme>venerable</rhyme>
+<lb n="AUBA.040b:36 "/>Fille de <name ref="God"><c>d</c>ieu</name>\ <name ref="Pallas"><c>p</c>allas</name> qui tous <rhyme><add evidence="" place="supralinear" type="">r</add>adresse</rhyme> <note>'adresse' with superscript 'r'</note>
+<lb n="AUBA.040b:37 "/>Les desvoyez\ qu'elle soit <rhyme>apparable</rhyme>
+<lb n="AUBA.040b:38 "/>En mes pensers\ comme vraye <rhyme>maistresse</rhyme><l n="20"/>
+<lb n="AUBA.040b:39 "/>Me doctrine\ et me <note>trait pour biffer le 'me' à l'encre plus claire ?</note> <rhyme>secueure</rhyme>
+<pb ed="v" n="040" l="AUBA.040v:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c, in ruled space" rend="centred"><s>A</s>ultres </fw> <fw type="header2" place="intercolumn, in ruled space" rend="right aligned"><s>B</s>alades</fw><fw type="header3" place="column d, in ruled space" rend="centred"> &#x95; ix &#x95;</fw></hi>
+<cb n="c"/><layout ruledLines="39" writtenLines="40"/>
+<lb n="AUBA.040c:01 "/><name ref="Diana">Dyane</name> <note>point sur le 'y'</note> soit avec elle à toute <rhyme>heure</rhyme>
+<lb n="AUBA.040c:02 "/>Car de lonc temps\ ne commence yer <rhyme>n'anuit</rhyme>
+<lb n="AUBA.040c:03 "/><emph rend="italic"><name ref="Juno">Juno</name> me het\ et <name ref="Ill+Fortune"><c>m</c>eseür</name> me <rhyme>nuit</rhyme></emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040c:05 "/>Princes ains que <name ref="Mort"><c>m</c>ort</name> <rhyme>m'aqueure</rhyme>
+<lb n="AUBA.040c:06 "/>Prïez <name ref="Pallas"><c>p</c>allas</name>\ que pour mon bien <rhyme>acueure</rhyme>
+<lb n="AUBA.040c:07 "/>Car en tous cas où que j'aye <g lemma="réduit" en="dwelling" fr="demeure" type="DMF entry needs to be expanded" ><rhyme>reduit</rhyme></g>
+<lb n="AUBA.040c:08 "/><emph rend="italic"><name ref="Juno">Juno</name> me het <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="15"/><div2 n="15" satfno="15" type="Ballade layée" metre="10 &amp; 4" length="28" refrain="1" stanza="ababc4cdd" envoi="c4cdd" rhyme="mfmf"><lb n="AUBA.040c:10 "/><hi rend="cap2">M</hi>on chier seigneur\ vueillez avoir <rhyme>pitié</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 15.</note>
+<lb n="AUBA.040c:11 "/>Du povre estat\ de vostre bonne <rhyme>amie</rhyme>
+<lb n="AUBA.040c:12 "/>Qui ne treuve nulle part <rhyme>amistié</rhyme>
+<lb n="AUBA.040c:13 "/>Pour <name ref="God"><c>d</c>ieu</name> merci\ si ne l'oublïez <rhyme>mie</rhyme><l n=" 4"/>
+<lb n="AUBA.040c:14 "/>Et <rhyme>souvenir</rhyme>
+<lb n="AUBA.040c:15 "/>Il vous vueille <note>dernier 'e' sur grattage ?</note>\  de son fait\ ou <rhyme>venir</rhyme>
+<lb n="AUBA.040c:16 "/>Lui couvendra\ à povreté <rhyme>obscure</rhyme>
+<lb n="AUBA.040c:17 "/><emph rend="italic">Se <name ref="God"><c>d</c>ieu</name> et vous\ ne la prenez en <rhyme>cure</rhyme></emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040c:19 "/>Ne peut avoir\ tant ait nul <rhyme>accointié</rhyme>
+<lb n="AUBA.040c:20 "/>Son las d'argent\ charité <rhyme>endormie</rhyme>
+<lb n="AUBA.040c:21 "/>Treuve en chacun\ dont tout ne la <rhyme>moitié</rhyme> <note>ou 'ct' ou 'tt' ?</note>
+<lb n="AUBA.040c:22 "/>N'en peut avoir\ <name ref="Fortune"><c>f</c>ortune</name> est <rhyme>s'anemie</rhyme><l n="12"/>
+<lb n="AUBA.040c:23 "/>Qui <rhyme>survenir</rhyme>
+<lb n="AUBA.040c:24 "/>Lui fait maint mal\ si ne peut <rhyme>soustenir</rhyme>
+<lb n="AUBA.040c:25 "/>Son povre estat\ où elle\ met gra<abbr type="n"/>t <rhyme>cure</rhyme>
+<lb n="AUBA.040c:26 "/><emph rend="italic">Se <name ref="God"><c>d</c>ieux</name> et vous\ ne la prenez en <rhyme>cure</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040c:28 "/>Si vous plaise\ que par vous <rhyme>exploitié</rhyme>
+<lb n="AUBA.040c:29 "/>Soit de son fait\ car ja plus que <rhyme>demie</rhyme>
+<lb n="AUBA.040c:30 "/>Est choite au bas\ dont a <note>over erasure, followed by 2 letter space ; 'a' avec 'queue' remontante</note> cuer <rhyme>deshaitié</rhyme>
+<lb n="AUBA.040c:31 "/>Souventes fois\ et de soucy <rhyme>blesmie</rhyme><l n="20"/>
+<lb n="AUBA.040c:32 "/>Dont si <rhyme>tenir</rhyme>
+<lb n="AUBA.040c:33 "/>Vueillez à <note>lighter ink ; faint 'a' between lines</note> memoirë et <rhyme>retenir</rhyme> <note>hiatus</note>
+<lb n="AUBA.040c:34 "/>Son fait qu'à chief\ en soit où trop <rhyme>endure</rhyme>
+<lb n="AUBA.040c:35 "/><emph rend="italic">Se <name ref="God"><c>d</c>ieux</name> et vous ne me <note>error</note> prenez en <rhyme>cure</rhyme></emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040c:37 "/>Tost <rhyme>avenir</rhyme>
+<lb n="AUBA.040c:38 "/>Puisse par vous\ à son fait <rhyme>p<abbr type="ar"/>fournir</rhyme>
+<lb n="AUBA.040c:39 "/>Mon chier seigneur\ car trop a peine <rhyme>dure</rhyme>
+<lb n="AUBA.040c:40 "/><emph rend="italic"><c>s</c>e <name ref="God"><c>d</c>ieux</name> <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/> <note>below last ruled line, in more rapid hand and in smaller 'point'</note></div2>
+<cb n="d"/><layout ruledLines="39"/>
+<group n="16"/><div2 n="16" satfno="17" type="Ballade" metre="8" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fmf"><lb n="AUBA.040d:01 "/><hi rend="cap2">J</hi>a<s>d</s>i<add place="inline" evidence="paler ink"
+ >s <name ref="Circe"><c>c</c>ircés</name></add> <rhyme><s>l</s>'enc<s>h</s>antarresse</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 17.</note>
+<lb n="AUBA.040d:02 "/><add place="inline" evidence="paler ink">F</add>ist chevaliers devenir <rhyme>pors</rhyme>,
+<lb n="AUBA.040d:03 "/>Mais <name ref="Ulysses"><c>u</c>lixés</name> par sa <rhyme>sagece</rhyme>
+<lb n="AUBA.040d:04 "/>De ce meschief les gita <rhyme>hors</rhyme>.<l n=" 4"/>
+<lb n="AUBA.040d:05 "/>Mais je ne sçay se c'est droit <g lemma="sort" en="decision, choice" fr="décision, choix"><rhyme>sors</rhyme></g>
+<lb n="AUBA.040d:06 "/>D'aucunes gens dont j'ay grant <rhyme>yre</rhyme>,
+<lb n="AUBA.040d:07 "/>Qui sont plus que porcs vilz et <rhyme>ors</rhyme>,
+<lb n="AUBA.040d:08 "/><emph rend="italic">N'on n'en pourroit assez <rhyme>mesdire</rhyme>.</emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040d:10 "/>Grans vanteurs sont et sans <rhyme>proëce</rhyme>
+<lb n="AUBA.040d:11 "/>Mais très bien parez par <rhyme>dehors</rhyme>,
+<lb n="AUBA.040d:12 "/>Orgueilleux pour leur <rhyme>gentillece</rhyme>,
+<lb n="AUBA.040d:13 "/>Et tiennent bien ayse leur <rhyme>corps</rhyme>.<l n="12"/>
+<lb n="AUBA.040d:14 "/>Mais en eulx a maint <g lemma="remords" en="evil, wickedness" fr="mal" type="not in SATF; cf. MFOR 21001">mal <rhyme>remors</rhyme></g>
+<lb n="AUBA.040d:15 "/>Et combien qu'on ne l'ose <rhyme>dire</rhyme>,
+<lb n="AUBA.040d:16 "/>À bien faire n'ont pas <rhyme>amors</rhyme>,
+<lb n="AUBA.040d:17 "/><emph rend="italic">N'on n'en pourroit assez <rhyme>mesdire</rhyme>.</emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040d:19 "/><del rend="erasure" evidence="'I' visible">I</del><add place="inline" evidence="paler ink, poorly aligned">N</add>'<add place="inline" evidence="paler ink, blurring" reason="perhaps replaces first line of envoy copied in error">il n'est nulle si grant <rhyme>maistresse</rhyme></add><note>The whole line has been corrected over an erasure, perhaps to replaces the first line of the envoy which had been copied in error.</note>
+<lb n="AUBA.040d:20 "/>Ne femme autre,\ soit droit soit <rhyme>tors</rhyme>,
+<lb n="AUBA.040d:21 "/>Que leur faulse lengue ne <rhyme>blesse</rhyme>
+<lb n="AUBA.040d:22 "/>Leur bon renom.\ <c>a</c>yse sont <rhyme>lors</rhyme><l n="20"/>
+<lb n="AUBA.040d:23 "/>Quant ilz en font mauvais <rhyme>rappors</rhyme> –
+<lb n="AUBA.040d:24 "/>Qui s'i vouldra mirer, s'i <rhyme>mire</rhyme> –
+<lb n="AUBA.040d:25 "/>Mais mieulx que vif<choice><sic></sic><corr reason="sense, clarity" resp="JCL" source="SATF" rend="significant">s</corr></choice> vaulsisse<abbr type="n"/>t <rhyme>mors</rhyme>,
+<lb n="AUBA.040d:26 "/><emph rend="italic">N'on n'en pourroit assez <rhyme>mesdire</rhyme>,</emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.040d:28 "/><del rend="erasure"></del><add place="margin-left" evidence="guide-letter 'i' within 'J', followed by blank space"><s>J</s></add>e<note>The elaborate 'J' is an untidy correction over an erasure: it overflows into the intercolumnar margin, incorporates the guide-letter 'i', and is separated from 'e' by a blank space.</note> ne mesdi de nullui <rhyme>fors</rhyme>
+<lb n="AUBA.040d:29 "/>D'aucuns qui sont de <name ref="Judas"><c>j</c>udas</name> <rhyme>pire</rhyme>,
+<lb n="AUBA.040d:30 "/>Et sont de tous mauvais <rhyme>accors</rhyme>,
+<lb n="AUBA.040d:31 "/><emph rend="italic">N'on n'en pourroit <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="17"/><div2 n="17" satfno="18" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fff"><lb n="AUBA.040d:33 "/><hi rend="cap2">H</hi>aulte excellant\ <name ref="Isabeau">roÿne <rhyme>couronnée</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 18.</note>
+<lb n="AUBA.040d:34 "/>de <name ref="France"><c>f</c>rance</name></name>, très\ redoubtée <rhyme>princesse</rhyme>,
+<lb n="AUBA.040d:35 "/>Dame poissant et de bonne heure <rhyme>née</rhyme>,
+<lb n="AUBA.040d:36 "/>À qui <c>h</c>onneur\ et <c>v</c>aillance <rhyme>s'adresse</rhyme>,<l n=" 4"/>
+<lb n="AUBA.040d:37 "/>Des princesses\ souveraine <rhyme>maistresse</rhyme>,
+<lb n="AUBA.040d:38 "/>Je pri cil <name ref="God"><c>d</c>ieu</name>\ qui ne fault à nulle <rhyme>ame</rhyme>,
+<lb n="AUBA.040d:39 "/>Qu'i vous envoit\ de toute joye <rhyme>adresse</rhyme>
+<pb ed="r" n="041"  l="AUBA.041r:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a, in ruled space" rend="centred"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, in ruled space" rend="left aligned">balades</fw> <fw type="header3" place="column b, in ruled space" rend="tabbed from right">&#x95; ix &#x95;</fw></hi><cb n="a"/><layout ruledLines="39"/><lb n="AUBA.041a:01 "/><emph rend="italic"><s>C</s>e jour <s>d</s>e <s>l</s>'an, ma t<abbr type="re"/>ss<del rend="erasure"></del><add place="inline" evidence="paler ink, smaller point" reason="new version of refrain; 'ma redoubtée dame' in Duke's MS">ouvraine <rhyme>dame</rhyme></add></emph>.<note>The refrain, which reads 'Ce jour de l'an, ma redoubtée dame'in the <emph rend="italic">Livre de Cristine</emph> and in the Duke's MS, has been corrected here, perhaps to avoid repeating 'redoubtée' whic occurs in lines 2 and 18.</note><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041a:03 "/>Bon eur,\ bon temps,\ très agréable <rhyme>année</rhyme>,
+<lb n="AUBA.041a:04 "/>Vray reconfort\  de ce que plus vous <rhyme>blesse</rhyme>,
+<lb n="AUBA.041a:05 "/>Plaisir, soulas\ vous doint ceste <rhyme>journée</rhyme>,
+<lb n="AUBA.041a:06 "/>Et les autres\ plus en plus vous <g lemma="esliesser" en="to fill with joy" fr="mettre en joie"><rhyme>eslesse</rhyme></g><l n="12"/>
+<lb n="AUBA.041a:07 "/>Toudis accroisce et garde vo <rhyme>haultesse</rhyme>,
+<lb n="AUBA.041a:08 "/>Vostre valeur et vo très noble <g lemma="fame" en="fame, reputation" fr="renommée, réputation"><rhyme>fame</rhyme></g>
+<lb n="AUBA.041a:09 "/>Et vous envoit\ joye qui ja ne <rhyme>cesse</rhyme>
+<lb n="AUBA.041a:10 "/><emph rend="italic">Ce jour de l'an, ma <del rend="erasure"></del><add place="inline" evidence="paler ink, blurring, ?larger point">t<abbr type="re"/>ssouvraine <rhyme>dame</rhyme></add></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041a:12 "/>Mais je suppli,\ haulte bien <rhyme>ordonnée</rhyme> <note>changement couleur encre à partir de ce point</note>
+<lb n="AUBA.041a:13 "/>Ma excellant redoubtée, où <name ref="Humility"><rhyme><c>h</c>umblece</rhyme></name>
+<lb n="AUBA.041a:14 "/>Fait son manoir,\ que merci soit <rhyme>donnée</rhyme>
+<lb n="AUBA.041a:15 "/>À moy se je mesprens par ma <rhyme>simplece</rhyme><l n="20"/>
+<lb n="AUBA.041a:16 "/>D'escripre à vous,\ où tant a de <rhyme>noblece</rhyme>.
+<lb n="AUBA.041a:17 "/>Digne n'en suis,\ si n'en aye nul <rhyme>blasme</rhyme>,
+<lb n="AUBA.041a:18 "/>Car grant desir\ de vous servir m'y <g lemma="dresser" en="to lead, direct" fr="diriger, conduire"><rhyme>drece</rhyme></g>,
+<lb n="AUBA.041a:19 "/><emph rend="italic">Ce jour de l'an,\ ma t<abbr type="re"/>s<del rend="erasure"></del><add place="inline" evidence="paler ink, blurring">souvraine</add> <rhyme>dame</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041a:21 "/>Ma balade preigne en gré vo <rhyme>haultece</rhyme>,
+<lb n="AUBA.041a:22 "/>Si suis vostre créature par <rhyme>m'ame</rhyme>
+<lb n="AUBA.041a:23 "/>Qui voulentiers vous donroye <rhyme>léece</rhyme>
+<lb n="AUBA.041a:24 "/><emph rend="italic">Ce <c>J</c>our de l'an <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="18"/><div2 n="18" satfno="19" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="ffm"><lb n="AUBA.041a:26 "/><hi rend="cap2">D</hi>e tous honneurs\ et de toutes <rhyme>querelles</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 19.</note>
+<lb n="AUBA.041a:27 "/>De tout bon eur\ et de bonne <rhyme>aventure</rhyme>,
+<lb n="AUBA.041a:28 "/><choice><sic></sic><corr reason="sense, omission" resp="JCL" source="SATF" rend="significant">D</corr></choice>e tous plaisirs,\ de toutes choses <rhyme>belle<del rend="overwritten">e</del><add place="inline" evidence="overwritten" reason="rhyme">s</add></rhyme>
+<lb n="AUBA.041a:29 "/>Et de <name ref="God">cellui</name>\ qui créé a <rhyme>nature</rhyme><l n=" 4"/>
+<lb n="AUBA.041a:30 "/>De quanque oû ciel\ et en terre a <rhyme>mesure</rhyme>
+<lb n="AUBA.041a:31 "/>Et de tout ce\ plus propre à ho<abbr type="m"/>me <rhyme>né</rhyme>,
+<lb n="AUBA.041a:32 "/>Mon redoubté\ seigneur plain de <rhyme>droit<abbr type="ur"/>e</rhyme>,
+<lb n="AUBA.041a:33 "/><emph rend="italic">Ce jour de l'an\ vous soyés <rhyme>estrené</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041a:35 "/>Très noble <name ref="Louis+d'Orléans">duc\ d'<c>o</c>rlïens</name> de <rhyme>nouvelles</rhyme>
+<lb n="AUBA.041a:36 "/>À vo souhait\ et d'amour vraye <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>pure</rhyme>,
+<lb n="AUBA.041a:37 "/>De ris, de gieux\ et de nottes <rhyme>nouvelles</rhyme>
+<lb n="AUBA.041a:38 "/>Resjouïssans,\ d'unïon sans <rhyme>murmure</rhyme><l n="12"/>
+<lb n="AUBA.041a:39 "/>Et de tout ce\ de quoy tous bons o<abbr type="n"/>t <rhyme>cure</rhyme>,
+<cb n="b"/><layout ruledLines="39"/><lb n="AUBA.041b:01 "/><s>D</s>e tout le bien\ que corps <s>b</s>ien <rhyme>ordonné</rhyme>
+<lb n="AUBA.041b:02 "/>Il doit avoir,\ de paix qui tous jours <rhyme>dure</rhyme>
+<lb n="AUBA.041b:03 "/><emph rend="italic">Ce jour de l'a<del rend="erasure"></del><add place="inline" evidence="paler ink, blurring, alignment">n / vous soiez <rhyme>estrené</rhyme></add></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041b:05 "/>De tous nobles,\ de dames, de <rhyme>pucelles</rhyme>,
+<lb n="AUBA.041b:06 "/>Et de chacun\ par <g lemma="communal" en="common" fr="commun" type="DMF has two examples, both from Christine, six examples in database">communal</g> <rhyme>jointure</rhyme>
+<lb n="AUBA.041b:07 "/>Amé soyez,\ et de ceulx et de <rhyme>celles</rhyme>
+<lb n="AUBA.041b:08 "/>Qu'oyent parler\ de bouche ou <rhyme>escript<abbr type="ur"/>e</rhyme><l n="20"/>
+<lb n="AUBA.041b:09 "/>De vous, prince\ de royale <g lemma="faiture" en="creation, form" fr="création, forme"><rhyme>faiture</rhyme></g>,
+<lb n="AUBA.041b:10 "/>De leur salus\ loyaulx en tout <rhyme>regné</rhyme>
+<lb n="AUBA.041b:11 "/>Et de leur los\ sans faulce <rhyme>couvert<abbr type="ur"/>e</rhyme>
+<lb n="AUBA.041b:12 "/><emph rend="italic">Ce jour de l'an\ vous soiez <rhyme>estrené</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041b:14 "/>Prince excellant\ où il n'a <rhyme>desmesure</rhyme>
+<lb n="AUBA.041b:15 "/>De ce livret\ qu'ay fait mal <rhyme>ordené</rhyme>
+<lb n="AUBA.041b:16 "/>De par moy, vo\ très humble <rhyme>créature</rhyme>,
+<lb n="AUBA.041b:17 "/><emph rend="italic">Ce jour de l'an <choice><sic></sic><corr reason="consistency" resp="JCL">etc.</corr></choice></emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="19"/><div2 n="19" satfno="20" type="Ballade layée" metre="10 &amp; 4" length="31" refrain="1" stanza="ababc4cdcd" envoi="cdcd" rhyme="fffm"><lb n="AUBA.041b:19 "/><hi rend="cap2">B</hi>on  jour,\ bon an,\ bon mois,\ bonne <rhyme>nouvelle</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 20.</note>
+<lb n="AUBA.041b:20 "/><c>c</c>e premier jour\ de la p<abbr type="rese"/>nt <rhyme>année</rhyme>
+<lb n="AUBA.041b:21 "/>Vous envoit <name ref="God"><c>d</c>ieux</name>,\ ma chiere <name ref="Marie+de+Berry+comtesse+de+Montpensier"><rhyme>damoiselle</rhyme>
+<lb n="AUBA.041b:22 "/>De <c>m</c>onpensier</name>,\ si soyés <rhyme>estrenée</rhyme><l n=" 4"/>
+<lb n="AUBA.041b:23 "/>De toute <rhyme>joye</rhyme>
+<lb n="AUBA.041b:24 "/>À vo souhait.\ <name ref="God"><c>d</c>ieux</name> pry qu'il vo<abbr type="us"/> <rhyme>envoye</rhyme>
+<lb n="AUBA.041b:25 "/>Tous voz plaisirs,\ tout gracïeux <g lemma="revel" en="joy, pleasure" fr="joie, plaisir"><rhyme>revel</rhyme></g>,
+<lb n="AUBA.041b:26 "/>Quanque vouldriez\ vous consente <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>ottroye</rhyme><l n=" 8"/>
+<lb n="AUBA.041b:27 "/><emph rend="italic">Ce plaisant jour,\ p<abbr type="re"/>mier de l'an <rhyme>nouvel</rhyme>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.041b:29 "/>Et ma très chiere\ et redoubtée, et <rhyme>celle</rhyme>
+<lb n="AUBA.041b:30 "/>Que je desir\ autant com dame <rhyme>née</rhyme>
+<lb n="AUBA.041b:31 "/>Servir, louer,\ et que chacun <rhyme>appelle</rhyme><l n="12"/>
+<lb n="AUBA.041b:32 "/>De grant bonté\ et beauté <rhyme>affinée</rhyme>,
+<lb n="AUBA.041b:33 "/>En plaisant <rhyme>joye</rhyme>
+<lb n="AUBA.041b:34 "/>Vo noble cuer\ <name ref="God"><c>d</c>ieux</name> <g lemma="parmener" en="to bring, conduct" fr="emmener, conduire" type="only one example in DMF also from Christine">p<abbr type="ar"/>maine</g> et <rhyme>convoye</rhyme>
+<lb n="AUBA.041b:35 "/>Oû jolis temps\ dont vient le <g lemma="renouvel" en="springtime" fr="printemps" type="DMF only cites adjective"><rhyme>renouvel</rhyme></g>,<l n="16"/>
+<lb n="AUBA.041b:36 "/>Et à present\ à tout bien vo<abbr type="us"/> <rhyme>avoye</rhyme>
+<lb n="AUBA.041b:37 "/><emph rend="italic">Ce plaisant jour,\ premier de l'an <rhyme>nouvel</rhyme>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.041b:39 "/>Noble, poissant,\ très gracïeuse <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>belle</rhyme>,
+<pb ed="v" n="041" l="AUBA.041v:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c, high in ruled space" rend="tabbed"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, high in ruled space" rend="centred"><s>B</s>alades</fw><fw type="header3" place="column d, high in ruled space" rend="centred">&#x95; ix &#x95;</fw></hi><cb n="c"/><layout ruledLines="39"/><lb n="AUBA.041c:01 "/>Bonne, plaisant, sage, bien <g lemma="atourner" en="well dressed" fr="bien parée"><rhyme>attournée</rhyme></g>,<l n="20"/>
+<lb n="AUBA.041c:02 "/>Prenez en gré\ ma balade <rhyme>nouvelle</rhyme>
+<lb n="AUBA.041c:03 "/>Que j'ay faite\ pour vous ceste <rhyme>journée</rhyme>,
+<lb n="AUBA.041c:04 "/>Car où que <rhyme>soye</rhyme>
+<lb n="AUBA.041c:05 "/>Vostre je suis\ et obéir <rhyme>vouldroye</rhyme>,<l n="24"/>
+<lb n="AUBA.041c:06 "/>Amer,\ cherir\ vo gracïeus corps <rhyme>bel</rhyme>;
+<lb n="AUBA.041c:07 "/>Si vous doint <name ref="God"><c>d</c>ieux</name>\ quanque pour moy <rhyme>voudroie</rhyme>
+<lb n="AUBA.041c:08 "/><emph rend="italic">Ce plaisant jour, premier de l'an <rhyme>nouvel</rhyme>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.041c:10 "/>Du petit don, pour <name ref="God"><c>d</c>ieu</name>, ne vous <rhyme>anoye</rhyme>,<l n="28"/>
+<lb n="AUBA.041c:11 "/>Car <name ref="Goodwill"><c>b</c>on <c>v</c>ouloir</name>\ mieulx q<abbr type="ue"/> <g lemma="fermail" en="clasp, brooch" fr="agrafe, fermoir">fermail</g> <rhyme>n'<g lemma="anneau" en="ring" fr="anneau">anel</g></rhyme>
+<lb n="AUBA.041c:12 "/>Vault moult souvent.\ <c>v</c>oulentiers plus <rhyme>feroye</rhyme>
+<lb n="AUBA.041c:13 "/><emph rend="italic">Ce plaisant <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="20"/><div2 n="20" satfno="21" type="Ballade layée" metre="10 &amp; 4" length="34" refrain="1" stanza="ababbc4cdcd" envoi="cdcd" rhyme="ffff"><lb n="AUBA.041c:15 "/><hi rend="cap2">B</hi>on jour,\ bon an\ et quanq<abbr type="ue"/> peut <rhyme>souffire</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 21.</note>
+<lb n="AUBA.041c:16 "/>De bien,\ d'onneur\ et de parfaicte <rhyme>joye</rhyme>,
+<lb n="AUBA.041c:17 "/>Mon redoubté\ seigneur, <name ref="Albret">d'<c>a</c>lebret <rhyme>sire</rhyme>,
+<lb n="AUBA.041c:18 "/>Charles</name> poissant,\ pry <name ref="God"><c>d</c>ieu</name> qu'il vo<abbr type="us"/> <rhyme>e<abbr type="n"/>voye</rhyme><l n=" 4"/>
+<lb n="AUBA.041c:19 "/>Ce jour de l'an\ qui maint bon cuer <rhyme>resjoye</rhyme>,
+<lb n="AUBA.041c:20 "/>Et vous <rhyme>presente</rhyme>
+<lb n="AUBA.041c:21 "/>Cestui livret que j'ay fait par <rhyme>ente<abbr type="n"/>te</rhyme>
+<lb n="AUBA.041c:22 "/>Où est escript\ et la joye et la <rhyme>peine</rhyme><l n=" 8"/>
+<lb n="AUBA.041c:23 "/>Qu'ont ceulx qu'<name ref="God+of+Love"><c>a</c>mours</name> met d'amer en la <rhyme>se<abbr type="n"/>te</rhyme>,
+<lb n="AUBA.041c:24 "/><emph rend="italic">Si le vueillés recevoir pour <rhyme>estrene</rhyme>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.041c:26 "/>Et s'il vous plait\ à l'oÿr ou le <rhyme>lire</rhyme>
+<lb n="AUBA.041c:27 "/><name ref="Debat+de+deux+amans">De &#x95;ii&#x95; <c>a</c>mans</name>\ orrés qu'<name ref="God+of+Love"><c>a</c>mours</name> <rhyme>maistroye</rhyme>;<l n="12"/>
+<lb n="AUBA.041c:28 "/>Si a entr'eulx\ debat, car l'un veult <rhyme>dire</rhyme>
+<lb n="AUBA.041c:29 "/>Qu'<name ref="God+of+Love"><c>a</c>mours</name> grieve\ trop plus qu'elle <rhyme>n'esjoye</rhyme>.
+<lb n="AUBA.041c:30 "/>L'autre dit non\ et que plus b<abbr type="ie"/>n <rhyme>envoye</rhyme>,
+<lb n="AUBA.041c:31 "/>Et à <rhyme>l'atente</rhyme><l n="16"/>
+<lb n="AUBA.041c:32 "/>De jugement,\ lequel a <g lemma="meilleur" en="better" fr="meilleur">mieuldre</g> <g lemma="entente" en="intelligence" fr="intelligence, esprit"><rhyme>ente<abbr type="n"/>te</rhyme></g>,
+<lb n="AUBA.041c:33 "/>Se soubmettent et à <del evidence="erasure, two letter space" rend="wavy line in paler ink"></del><add place="inline" evidence="wavy line in paler ink" reason="not clear"></add> <g lemma="sentence" en="judgment, decision" fr="jugement, décision">sentence</g> <rhyme>plaine</rhyme>
+<lb n="AUBA.041c:34 "/>Ces<del rend="erasure"></del><add place="inline" evidence="blurring">t n</add>ouvel cas à journée <rhyme>presente</rhyme>
+<lb n="AUBA.041c:35 "/><emph rend="italic">Si le vueillés recevoir pour <rhyme>estrene</rhyme></emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041c:37 "/>Et non obstant\ que ayent voulu <rhyme>eslire</rhyme>
+<lb n="AUBA.041c:38 "/><name ref="Louis+d'Orléans">Mon seigneur d'<c>o</c>rlïens</name> que leur fait <rhyme>voye</rhyme>
+<lb n="AUBA.041c:39 "/>Et juge en soit, ne vueillez <rhyme>escondire</rhyme>
+<cb n="d"/><layout ruledLines="39"/><lb n="AUBA.041d:01 "/>Leur <s>b</s>on desir,\ car c<s>h</s>acun <s>d</s>'eulx <s>v</s>ous <rhyme>proye</rhyme><l n="24"/>
+<lb n="AUBA.041d:02 "/>Très humblement,\ s'il vous plait <rhyme>toutevoye</rhyme>,
+<lb n="AUBA.041d:03 "/>Et <g lemma="guermenter" en="to lament and wish" fr="exprimer un désir par des plaintes">se <rhyme>guermente</rhyme></g>
+<lb n="AUBA.041d:04 "/>Que vous dissiés\ vostre avis: se <rhyme>dolente</rhyme>
+<lb n="AUBA.041d:05 "/>Vie est qu'amer\ ou très joyeuse <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>saine</rhyme>.<l n="28"/>
+<lb n="AUBA.041d:06 "/>Et le livret le fait vous <rhyme>represente</rhyme>,
+<lb n="AUBA.041d:07 "/><emph rend="italic">Si le vueillés recevoir pour <rhyme>estrene</rhyme></emph>.</div2><note>The ballade has no envoy.</note>
+<!-- 1 blank line -->
+<group n="21"/><div2 n="21" satfno="22" type="Ballade" metre="10" length="34" refrain="1" stanza="ababbccdcd" envoi="ccdd" rhyme="fffm"><lb n="AUBA.041d:09 "/><hi rend="cap2">T</hi>rès noble et hault,\ puissant, plain de <rhyme>sagece</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 22.</note>
+<lb n="AUBA.041d:10 "/><name ref="Louis+d'Orléans">D'<c>o</c>rlïens duc,\ <c>l</c>oÿs</name> très <rhyme>redoubtable</rhyme>,
+<lb n="AUBA.041d:11 "/>Mon redoubté\ seigneur, en grant <rhyme>humblece</rhyme>
+<lb n="AUBA.041d:12 "/>Me recommand à vous, prince <rhyme>notable</rhyme>,<l n=" 4"/><note>module et couleur de l'encre de prince notable ?</note>
+<lb n="AUBA.041d:13 "/>En desirant\ faire chose <rhyme>agréable</rhyme>
+<lb n="AUBA.041d:14 "/>À vous, vaillant\ seigneur de haulte <rhyme>emprise</rhyme>;
+<lb n="AUBA.041d:15 "/>Et si vous vueil\ donner, d'amour <rhyme>esprise</rhyme>,
+<lb n="AUBA.041d:16 "/>La riens qui soit\ que doy plus<note>virgule sur le 'p'</note> cher <rhyme>avoir</rhyme><l n=" 8"/>
+<lb n="AUBA.041d:17 "/>Et soubmettre\ du tout à vo <rhyme>franchise</rhyme>,
+<lb n="AUBA.041d:18 "/><emph rend="italic">Si le vueillés, noble duc, <rhyme>recevoir</rhyme>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.041d:20 "/>C'est un mien <name ref="Jean+de+Castel">filz</name>,\ le quel de sa <rhyme>jeunece</rhyme>
+<lb n="AUBA.041d:21 "/>A bon vouloir\ d'estre en son temps <rhyme>valable</rhyme>,<l n="12"/>
+<lb n="AUBA.041d:22 "/>Et desir a,\ selon sa <rhyme>petitece</rhyme>,
+<lb n="AUBA.041d:23 "/>De vous servir,\ s'il vous est <rhyme>acceptable</rhyme>.
+<lb n="AUBA.041d:24 "/>Pour ce suppli,\ vaillant prince <rhyme>amïable</rhyme>,
+<lb n="AUBA.041d:25 "/>Qu'il vous plaise\ le prendre à vo <rhyme>servise</rhyme>.<l n="16"/>
+<lb n="AUBA.041d:26 "/>Don vous en fais\ et tout à vo <rhyme>devise</rhyme>
+<lb n="AUBA.041d:27 "/>Faire de lui\ vueillés, car bon <rhyme>vouloir</rhyme>
+<lb n="AUBA.041d:28 "/>De vous servir\ a,\ de cuer en <rhyme>craintise</rhyme>,
+<lb n="AUBA.041d:29 "/><emph rend="italic">Si le vueillés,\ noble duc, <rhyme>recevoir</rhyme>.</emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="AUBA.041d:31 "/>Ja &#x95;.iii.&#x95; ans a\ que pour sa gra<abbr type="n"/>t <rhyme>promesse</rhyme><note>error ?</note>
+<lb n="AUBA.041d:32 "/>L'en emmena\ le <name ref="Salisbury">conte très <rhyme>louable</rhyme>
+<lb n="AUBA.041d:33 "/>De <c>s</c>alsbery</name>\ qui mouru à <rhyme>destresse</rhyme>
+<lb n="AUBA.041d:34 "/>Oû <name ref="England">mal paÿs\ d'<c>a</c>ngleterre</name>, où <rhyme>müable</rhyme><l n="24"/>
+<lb n="AUBA.041d:35 "/>Y sont la gent.\ <c>d</c>epuis lors, n'est pas <rhyme>fable</rhyme>,
+<lb n="AUBA.041d:36 "/>Y a esté, si ay tel peine <rhyme>mise</rhyme>
+<lb n="AUBA.041d:37 "/>Que je le ray,\ non obstant qu'à sa <rhyme>guise</rhyme>
+<lb n="AUBA.041d:38 "/>L'avoit <name ref="Henry+IV"><c>h</c>enry</name> qui de là se dit <g en="heir" fr="héritier" lemma="hoir"><rhyme>hoir</rhyme></g>.<l n="28"/>
+<lb n="AUBA.041d:39 "/>Or vous en fais\ je don de foy <rhyme>apprise</rhyme>,
+<pb ed="r" n="042" l="AUBA.042r:01"/><layout rend="above ruling" ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="centred"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, above ruled space" rend="centred">balades</fw> <fw type="header3" place="column b, above ruled space" rend="centred">&#x95; ix &#x95;</fw></hi><cb n="a"/><layout ruledLines="39"/><lb n="AUBA.042a:01 "/><emph rend="italic">Si le <s rend="inverted commas">v</s>uei<s>l</s><s>l</s>és, no<s>b</s><s>l</s>e duc, <rhyme>recevoir</rhyme></emph>.<l n="30"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042a:03 "/>Prince excellant, que chacun loe et <rhyme>prise</rhyme>,
+<lb n="AUBA.042a:04 "/>Du requerir\ je ne soye <rhyme>reprise</rhyme>
+<lb n="AUBA.042a:05 "/>N'escondite,\ car de tel qu'ay <rhyme>savoir</rhyme>
+<lb n="AUBA.042a:05a "/><choice><sic></sic><corr reason="line omitted" resp="JCL" source="JCL" rend="very significant">Mon service vous ottroy sanz faintise,</corr></choice><l n="34"/>
+<lb n="AUBA.042a:06 "/><emph rend="italic">Si le vueillés <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></div2>
+<!-- 1 blank line -->
+<group n="22"/><div2 n="22" satfno="23" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="ffm"><lb n="AUBA.042a:08 "/><hi rend="cap2">S</hi>'il est ainsi\ que de vous soye <rhyme>amée</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 23.</note>
+<lb n="AUBA.042a:09 "/><c>s</c>i loyaument\ comme je vous oy <rhyme>dire</rhyme>,
+<lb n="AUBA.042a:10 "/>Et que vo cuer\ d'amour très <rhyme>affermée</rhyme>
+<lb n="AUBA.042a:11 "/>M'aime si fort\ et ne veult ne <rhyme>desire</rhyme><l n=" 4"/>
+<lb n="AUBA.042a:12 "/>Fors moy sans plus, je vous suppli, <name ref="The+Lover">beau <rhyme>sire</rhyme></name>,
+<lb n="AUBA.042a:13 "/>Sans <choice><sic>tes</sic><corr reason="sense, 'vous' 'tu' consistency" resp="JCL" source="SATF" rend="very significant">telz</corr></choice> semblans ne <choice><sic>tes</sic><corr reason="sense, consistency" resp="JCL" source="SATF" rend="very significant">telz</corr></choice> dis <rhyme>recorder</rhyme>
+<lb n="AUBA.042a:14 "/>Pour m'asseurer\ qu'ailleurs\ vo cuer ne <rhyme>tire</rhyme>.
+<lb n="AUBA.042a:15 "/><emph rend="italic">Faites voz fais\ à voz dis <rhyme>accorder</rhyme>,</emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042a:17 "/>Car les amans\ si male <rhyme>renommée</rhyme>
+<lb n="AUBA.042a:18 "/>Ont à p<abbr type="rese"/>nt,\ non obstant que on <rhyme>souspire</rhyme>
+<lb n="AUBA.042a:19 "/>Et que mainte dame soit d'eulx <rhyme>clamée</rhyme>
+<lb n="AUBA.042a:20 "/>Dame et amour,\ que le meilleur ou <rhyme>pire</rhyme><l n="12"/>
+<lb n="AUBA.042a:21 "/>On ne congnoit,\ tant y a à <rhyme>redire</rhyme>
+<lb n="AUBA.042a:22 "/>En leurs faulx cuers\ <choice><sic>sçay</sic><corr reason="sense" resp="JCL" source="SATF" rend="very significant">s'ay</corr></choice> je ouÿ <rhyme>recorder</rhyme>;
+<lb n="AUBA.042a:23 "/>Et pour ce\ affin\ qu'il me doye <rhyme>souffire</rhyme>
+<lb n="AUBA.042a:24 "/><emph rend="italic">Faites voz fais\ à voz diz <rhyme>accorder</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042a:26 "/>Et se je vueil\ estre bien <rhyme>informée</rhyme>
+<lb n="AUBA.042a:27 "/>Ains qu'à ami\ du tout vous vueille <rhyme>eslire</rhyme>,
+<lb n="AUBA.042a:28 "/>J'ay bien raison,\ n'en doy estre <rhyme>blamée</rhyme>,
+<lb n="AUBA.042a:29 "/>Car son renom\ dame trop fort <rhyme>empire</rhyme><l n="20"/>
+<lb n="AUBA.042a:30 "/>Qui à croire\ legierem<abbr type="en"/>t se <rhyme>tire</rhyme>.
+<lb n="AUBA.042a:31 "/>Si demonstrez <del rend="erasure"></del><add place="inline" evidence="paler ink, squashed, blurred">qu'e<abbr type="n"/></add> riens <del rend="erasure, overwritten">riens?</del><add place="inline" evidence="space after" reason="repetition">à</add><note>4 letter space filler</note> à moy <rhyme>frauder</rhyme>
+<lb n="AUBA.042a:32 "/>Vous ne tachez,\ et pour ne m'en <rhyme>desdire</rhyme>
+<lb n="AUBA.042a:33 "/><emph rend="italic">Faites voz fais à voz diz <rhyme>accorder</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042a:35 "/>Se vous m'amez, n'en ayez ne dueil ne <rhyme>yre</rhyme>;
+<lb n="AUBA.042a:36 "/>Bien le saray sans longuem<abbr type="en"/>t <rhyme>tarder</rhyme>.
+<lb n="AUBA.042a:37 "/>Pour esprouver le vray sans <rhyme>cont<abbr type="re"/>dire</rhyme>
+<lb n="AUBA.042a:38 "/><emph rend="italic"><fw size="smaller point">Faites voz fais <choice><corr reason="consistency" resp="JCL">etc.</corr></choice></fw></emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<cb n="b"/><layout ruledLines="39"/><group n="23"/><div2 n="23" satfno="24" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="cdcd" rhyme="fff"><lb n="AUBA.042b:01 "/><hi rend="cap2">D</hi>oulce dame,\ que j'aim plus et <rhyme>desire</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 24.</note>
+<lb n="AUBA.042b:02 "/>C'onques n'amay\ nulle aut<abbr type="re"/> dame <rhyme>née</rhyme>,
+<lb n="AUBA.042b:03 "/>Partir me fault\ de vous, dont je <rhyme>souspire</rhyme>
+<lb n="AUBA.042b:04 "/>Ne bien n'aray\ jusqu'à la <rhyme>retournée</rhyme>,<l n=" 4"/>
+<lb n="AUBA.042b:05 "/>Car à vous ay\ toute m'amour <rhyme>donnée</rhyme>
+<lb n="AUBA.042b:06 "/>Ne je ne pense à autre riens nulle <rhyme>heure</rhyme>;
+<lb n="AUBA.042b:07 "/>Mais s'à present\ m'en vois,<note>'But if I go away now...'</note> très belle <rhyme>née</rhyme>,
+<lb n="AUBA.042b:08 "/><emph rend="italic">Le corps s'en va,\ mais le cuer vous <rhyme>demeure</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042b:10 "/>Et loing de vous\ vivray en grief <rhyme>martire</rhyme>,
+<lb n="AUBA.042b:11 "/>Ne ma doulour\ ne sera ja <rhyme>finée</rhyme>
+<lb n="AUBA.042b:12 "/>Jusqu'au retour,\ car riens ne peut <rhyme>souffire</rhyme>
+<lb n="AUBA.042b:13 "/>À mon vray cuer,\ n'avoir bonne <rhyme>journée</rhyme><l n="12"/>
+<lb n="AUBA.042b:14 "/>Se ne vous voy.\ <c>s</c>oiez <g lemma="acertener" en="to assure" fr="assurer"><rhyme>acertenée</rhyme></g>,
+<lb n="AUBA.042b:15 "/>Belle plaisant,\ pour qui mon penser <rhyme>pleure</rhyme>
+<lb n="AUBA.042b:16 "/>Où que je voyse — et y fusse une <rhyme>année</rhyme> —<note>'even if I were to spend a year there'.</note>
+<lb n="AUBA.042b:17 "/><emph rend="italic">Le corps s'en va, mais le cuer vous <rhyme>demeure</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042b:19 "/>Si ne vueillés\ nul autre ami <rhyme>eslire</rhyme>
+<lb n="AUBA.042b:20 "/>Ne m'oublïer,\ car soir ne <rhyme>matinée</rhyme>,
+<lb n="AUBA.042b:21 "/>N'eure du jour,\ vo beauté où me <rhyme>mire</rhyme>
+<lb n="AUBA.042b:22 "/>Et vo doulçour\  parfaicte et <rhyme>affinée</rhyme><l n="20"/>
+<lb n="AUBA.042b:23 "/>N'oublïeray;\ si ne soit ja <rhyme>finée</rhyme>
+<lb n="AUBA.042b:24 "/>L'amour de vous,\ quelque soit la <rhyme>demeure</rhyme>.
+<lb n="AUBA.042b:25 "/>De vous me p<choice><sic>e</sic><corr reason="sense" resp="JCL" source="SATF">a</corr></choice>rs,\ belle et b<abbr type="ie"/>n <rhyme>attournée</rhyme>,
+<lb n="AUBA.042b:26 "/><emph rend="italic">Le corps s'en va, mais le cuer vous <rhyme>demeure</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042b:28 "/>Je prens congié\ celle à qui j'ay <rhyme>donnée</rhyme><note>The sense is clear, even though a more usual construction would be 'Je prens congié à (de) celle'.</note>
+<lb n="AUBA.042b:29 "/>Toute m'amour.\ <c>d</c>e cuer plus noir q<abbr type="ue"/> <rhyme>meure</rhyme>
+<lb n="AUBA.042b:30 "/>Vous di à <name ref="God"><c>d</c>ieu</name>, ma joye <g lemma="entériner" en="to fix, set" fr="fixer, déterminer"><rhyme>enterinée</rhyme></g>,
+<lb n="AUBA.042b:31 "/><emph rend="italic">Le corps <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="24"/><div2 n="24" satfno="25" type="Ballade" metre="10" length="31" refrain="2" stanza="ababbcdcd" envoi="cdcd" rhyme="mmfm"><lb n="AUBA.042b:33 "/><hi rend="cap2">O</hi>r soyez liez,\ jolis et <rhyme>envoysiez</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 25.</note>
+<lb n="AUBA.042b:34 "/>Vrays fins amans,\ puis q<abbr type="ue"/> may est <rhyme>venu</rhyme>.
+<lb n="AUBA.042b:35 "/>Voz gentilz cuers\ gayement <rhyme>eslessiez</rhyme>,
+<lb n="AUBA.042b:36 "/>Ne soit de vous\ nul ennuy <rhyme>retenu</rhyme>,<l n=" 4"/>
+<lb n="AUBA.042b:37 "/>Ains soit solas\ doulceme<abbr type="n"/>t <rhyme>maintenu</rhyme>,
+<lb n="AUBA.042b:38 "/>Quant vous voyez\ resjouïr toutes <rhyme>chos<abbr type="es"/></rhyme>
+<lb n="AUBA.042b:39 "/>Et qu'en saison\ sont adez et <g lemma="cours1" en="in vogue" fr="en vogue">en <rhyme>cours</rhyme></g>
+<pb ed="v" n="042" l="AUBA.042v:01"/><layout ruledLines="no"/><hi rend="run"><fw type="header1" place="column c, no ruling" rend="tabbed"><s>A</s>ultres</fw> <fw type="header2" place="column d, no ruling" rend="left aligned"><s>B</s>alades</fw> <fw type="header3" place="column d, no ruling" rend="tabbed">&#x95; ix</fw></hi><cb n="c"/><layout ruledLines="40"/><lb n="AUBA.042c:01 "/><emph rend="italic"><s>C</s><s>h</s>appiaulx jolis,\ vïolettes\ et <rhyme>roses</rhyme></emph>,<l n=" 8"/>
+<lb n="AUBA.042c:02 "/><emph rend="italic">Fleur de prin temps,\ muguet et flour <rhyme>d'amo<abbr type="ur"/>s</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.042c:04 "/>Voyez ces champs <choice><orig>&amp;</orig><reg>et</reg></choice> ces arbres <g lemma="priser1" en="to esteem, value" fr="estimer, priser"><rhyme>proisiez</rhyme></g>
+<lb n="AUBA.042c:05 "/>Et ces beaulx prez\ qui sont vert <rhyme>devenu</rhyme>,
+<lb n="AUBA.042c:06 "/>Ces oysillons\ qui tant sont <g lemma="renvoisier" en="joyous" fr="joyeux, réjoui"><rhyme>renvoysiez</rhyme></g><l n="12"/>
+<lb n="AUBA.042c:07 "/>Que par eulx est\ tout doulx <g lemma="glas1" en="bird-song, twittering" fr="gazouillement">glay</g> <rhyme>soustenu</rhyme>.
+<lb n="AUBA.042c:08 "/>Tout se revest;\ il n'y a abre<note>sic</note> <rhyme>nu</rhyme>.
+<lb n="AUBA.042c:09 "/>Voyez ces flours\ espanies et <rhyme>closes</rhyme>,
+<lb n="AUBA.042c:10 "/>Dont bien devez\ avoir pour les <rhyme>oudours</rhyme><l n="16"/>
+<lb n="AUBA.042c:11 "/><emph rend="italic">Chappiaulx jolis,\ vïolettes et <rhyme>roses</rhyme></emph>,
+<lb n="AUBA.042c:12 "/><emph rend="italic">Flour de prin temps, <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.042c:14 "/>De doulx pensers\ voz gentilz cuers <rhyme>aysiez</rhyme>,<note>les 6 vers suivants transcrits sur grattage</note>
+<add place="inline" evidence="erasure, blurring, paler ink"><lb n="AUBA.042c:15 "/>Chantez, dancez pour estre <rhyme>retenu</rhyme>,<l n="20"/>
+<lb n="AUBA.042c:16 "/>Avec <name ref="Delight"><c>d</c>eduit</name> par qui sont <g lemma="accoiser" en="to calm, soothe" fr="calmer, apaiser"><rhyme>accoisiez</rhyme></g>
+<lb n="AUBA.042c:17 "/>Tous desplaisirs et souve<abbr type="n"/>t et <rhyme>menu</rhyme>.
+<lb n="AUBA.042c:18 "/>Rïez, jouez; soit bon temps <rhyme>detenu</rhyme>.
+<lb n="AUBA.042c:19 "/><name ref="God+of+Love">Amours</name> le veult, pour ce nous a <rhyme>descloses</rhyme><l n="24"/>
+<lb n="AUBA.042c:20 "/>Voyes<note>The SATF (and presumably the Duke's MS) reads 'Voiez' which Roy treats as an imperative, with the result that the line makes poor sense.</note> plaisans. <c>s</c>i ayez tous les <rhyme><c>J</c>ours</rhyme></add>
+<lb n="AUBA.042c:21 "/><emph rend="italic">Chappiaulx jolis, vïolettes et <rhyme>roses</rhyme></emph>,
+<lb n="AUBA.042c:22 "/><emph rend="italic">Fleur de prin temps, muguet et fle<abbr type="ur"/> <rhyme>d'amo<abbr type="ur"/>s</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.042c:24 "/>Princes d'amours, où bontez sont <rhyme>encloses</rhyme>,<l n="28"/>
+<lb n="AUBA.042c:25 "/>Ce mois de may portez les doulces <rhyme>flours</rhyme>,
+<lb n="AUBA.042c:26 "/><emph rend="italic">Chappeaulx jolis, vïolettes et <rhyme>roses</rhyme></emph>,
+<lb n="AUBA.042c:27 "/><emph rend="italic">Fleur <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="25"/><div2 n="25" satfno="26" type="Ballade" metre="8" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="mmm"><lb n="AUBA.042c:29 "/><hi rend="cap2">D</hi>oulce chose est que <rhyme>marïage</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 26.</note>
+<lb n="AUBA.042c:30 "/><c>j</c>e le puis bien par moy <rhyme>prouver</rhyme>,
+<lb n="AUBA.042c:31 "/><g lemma="voire1" en="truly" fr="vraiment">Voire</g> à qui mari bon <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>sage</rhyme>
+<lb n="AUBA.042c:32 "/>A,\ comme <name ref="God"><c>d</c>ieux</name>\ m'a fait <rhyme>trouver</rhyme>.<l n=" 4"/>
+<lb n="AUBA.042c:33 "/>Louez en soit il qui <rhyme>sauver</rhyme>
+<lb n="AUBA.042c:34 "/>Le me vueille, car son grant <rhyme>bien</rhyme>
+<lb n="AUBA.042c:35 "/>De fait je puis bien <g lemma="éprouver" en="to check, realise" fr="vérifier, constater"><rhyme>esprouver</rhyme></g>,
+<lb n="AUBA.042c:36 "/><emph rend="italic">Et certes le doulx m'aime <rhyme>bien</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042c:38 "/>La premiere nuit du <rhyme>mesnage</rhyme><note>'mariage' in SATF - irregular</note>
+<lb n="AUBA.042c:39 "/>Très lors peus je bien <g lemma="éprouver" en="to experience" fr="ressentir par expérience personnelle"><rhyme>esprouver</rhyme></g>
+<lb n="AUBA.042c:40 "/>Son <s>g</s>rant b<abbr type="ie"/>n, car onc<s>q</s>ues <rhyme>oultra<s>g</s>e</rhyme>
+<cb n="d"/><layout ruledLines="40"/><lb n="AUBA.042d:01 "/>Ne me fist dont me deust <rhyme>grever</rhyme>,<l n="12"/>
+<lb n="AUBA.042d:02 "/>Mais ains qu'il fust temps de <rhyme>lever</rhyme>
+<lb n="AUBA.042d:03 "/>Cent fois baysa, sicom je <rhyme>tien</rhyme>,
+<lb n="AUBA.042d:04 "/>Sans villenie autre <g lemma="rover" en="to seek, ask for" fr="demander, réclamer"><rhyme>rouver</rhyme></g>,
+<lb n="AUBA.042d:05 "/><emph rend="italic">Et certes le doulx m'aime <rhyme>bien</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042d:07 "/>Et disoit par si doulx <rhyme>lengage</rhyme>,
+<lb n="AUBA.042d:08 "/>"<name ref="God">Dieux</name> m'a fait à vous <rhyme>arriver</rhyme>,
+<lb n="AUBA.042d:09 "/><name ref="Lady">Doulce amie</name>, et pour vostre <rhyme>usage</rhyme>
+<lb n="AUBA.042d:10 "/>Je croy qu'il me fist <rhyme>eslever</rhyme>".<l n="20"/>
+<lb n="AUBA.042d:11 "/>Ainsi ne fina de <rhyme>resver</rhyme>
+<lb n="AUBA.042d:12 "/>Toute nuit en si fait <rhyme>maintien</rhyme>
+<lb n="AUBA.042d:13 "/>Sans autrement soy <g lemma="dériver1" en="to lose control, be carried away" fr="s'enflammer, s'emporter"><rhyme>desriver</rhyme></g>,
+<lb n="AUBA.042d:14 "/><emph rend="italic">Et c<abbr type="er"/>tes <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><note>The last two words are in smaller point.</note><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.042d:16 "/>Princes, <del rend="erasure"></del><add place="inline" evidence="blurring, spacing" reason="new version of text">mais <c>I</c>l</add> me fait <g lemma="desver" en="to go mad, lose one's reason" fr="perdre la raison, devenir fou"><rhyme>desver</rhyme></g>
+<lb n="AUBA.042d:17 "/>Quant il me dit qu'il est tout <rhyme>mien</rhyme>.
+<lb n="AUBA.042d:18 "/>De doulçour me fera <rhyme>crever</rhyme>,
+<lb n="AUBA.042d:19 "/><emph rend="italic">Et certes <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="26"/><div2 n="26" satfno="27" type="Ballade layée" metre="10 &amp; 4" length="31" refrain="1" stanza="ababc4cdcd" envoi="cdcd" rhyme="mfmf"><lb n="AUBA.042d:21 "/><hi rend="cap2">D</hi>es très bonnes\ celle qui vault le <rhyme>mieulx</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 27.</note>
+<lb n="AUBA.042d:22 "/><g lemma="assouvir" en="accomplished, perfect" fr="accompli, parfait" type="past participle"><c>a</c>ssouvie</g> sur toute\ <rhyme>damoiselle</rhyme>,
+<lb n="AUBA.042d:23 "/>Non pareille,\ tele vous forma <name ref="God"><rhyme><c>d</c>ieux</rhyme></name>,
+<lb n="AUBA.042d:24 "/>Plaine de sens,\ de haulte honneur et <rhyme>belle</rhyme>.<l n=" 4"/>
+<lb n="AUBA.042d:25 "/>Toutes <rhyme>passez</rhyme>
+<lb n="AUBA.042d:26 "/>À mon avis,\ et croy que vous <rhyme>pensez</rhyme>
+<lb n="AUBA.042d:27 "/>Toudis comment\ vous soiez <rhyme>exemplaire</rhyme>
+<lb n="AUBA.042d:28 "/>De tout honneur,\ qui tant en <rhyme>amassez</rhyme>,<l n=" 8"/>
+<lb n="AUBA.042d:29 "/><emph rend="italic">Et ce vous fait\ à tout le monde <rhyme>plaire</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.042d:31 "/>Redoubtée princesse,\ où biens sont <rhyme>tieulx</rhyme>
+<lb n="AUBA.042d:32 "/>Quë un chacun\ parfaicte vo<abbr type="us"/> <rhyme>appelle</rhyme>,
+<lb n="AUBA.042d:33 "/>De qui servir\ mon cuer est <rhyme>envïeux</rhyme><l n="12"/>
+<lb n="AUBA.042d:34 "/>Plus qu'autre riens,\ certes vous estes <rhyme>celle</rhyme>
+<lb n="AUBA.042d:35 "/>Qui <rhyme>enlassez</rhyme>
+<lb n="AUBA.042d:36 "/>Mon cuer en vous\ sans ja estre <rhyme>lassez</rhyme>,
+<lb n="AUBA.042d:37 "/>Mais se <del rend="faint strikethrough, paler ink">un</del>pou vail, ne vous vueille <rhyme>desplaire</rhyme>,<l n="16"/>
+<lb n="AUBA.042d:38 "/>Car vous valez\ pour un royaume <rhyme>assez</rhyme>
+<lb n="AUBA.042d:39 "/><emph rend="italic">Et ce vous fait\ à tout le monde <rhyme>plaire</rhyme></emph>.
+<!-- 1 blank line --><pb ed="r" n="043" l="AUBA.043r:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a, in ruled space" rend="tabbed"><s>A</s>ultres </fw> <fw type="header2" place="intercolumn, in ruled space" rend="left aligned">balades</fw> <fw type="header3" place="column b, in ruled space" rend="centred">&#x95; ix &#x95;</fw></hi><cb n="a"/><layout ruledLines="39"/>
+<lb n="AUBA.043a:01 "/>Doulce, plai<s>s</s>ant,\ corps gent et <rhyme>gracïeux</rhyme>,
+<lb n="AUBA.043a:02 "/><g lemma="flum" en="river, tide" fr="fleuve, marée montante">Flun</g> de doulçour,\ blanche com <g lemma="noif" en="snow" fr="neige">noif</g> <rhyme>nouvelle</rhyme>,<l n="20"/>
+<lb n="AUBA.043a:03 "/>Le doulx regart\ de voz amoureux <rhyme>yeulx</rhyme>
+<lb n="AUBA.043a:04 "/>Livre à mon cuer\ l'amoureuse <rhyme>estincelle</rhyme>
+<lb n="AUBA.043a:05 "/>Dont <rhyme>embrasez</rhyme>
+<lb n="AUBA.043a:06 "/>Il est d'amer\ et toudis <g lemma="apenser1" en="to decide, intend to" fr="décider de, se proposer de"><rhyme>appensez</rhyme></g><l n="24"/>
+<lb n="AUBA.043a:07 "/>De vous servir.\ <c>n</c>'en demande <rhyme>salaire</rhyme>
+<lb n="AUBA.043a:08 "/>Fors le regart\ que doulcement <rhyme>lancez</rhyme>,
+<lb n="AUBA.043a:09 "/><emph rend="italic">Et ce vous <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.043a:11 "/><s>T</s>rès belle, en qui\ tous maulx sont <rhyme>effacez</rhyme>,<l n="28"/>
+<lb n="AUBA.043a:12 "/>Je ne desir\ fors vo doulx plaisir <rhyme>faire</rhyme>,
+<lb n="AUBA.043a:13 "/>Car tous les biens sont en vous <rhyme>entassez</rhyme>, <note>vers transcrit sur grattage</note>
+<lb n="AUBA.043a:14 "/><emph rend="italic">Et ce vous fait à tout le monde <rhyme>plaire</rhyme>.</emph><l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="27"/><div2 n="27" satfno="29" type="Ballade layée" metre="10" length="31" refrain="1" stanza="ababccdcd" envoi="cdcd" rhyme="ffff"><lb n="AUBA.043a:16 "/><hi rend="cap2">P</hi>rince honnouré,\ <name ref="Louis+d'Orléans">duc d'<c>o</c>rlïens</name> <rhyme>louable</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 29.</note>
+<lb n="AUBA.043a:17 "/><c>b</c>ien vous devez\ en hault penser <rhyme>deduire</rhyme>
+<lb n="AUBA.043a:18 "/>Et louer <name ref="God"><c>d</c>ieu</name>\ et sa grace <rhyme>amïable</rhyme>
+<lb n="AUBA.043a:19 "/>Qui si vous veult\ en tout honneur <rhyme>conduire</rhyme><l n=" 4"/>
+<lb n="AUBA.043a:20 "/>Que le renom\ par le monde fait <rhyme>luire</rhyme>
+<lb n="AUBA.043a:21 "/>De vostre court\ remplie de <rhyme>noblece</rhyme>,
+<lb n="AUBA.043a:22 "/>Qui resplandist\ comme chose <rhyme>flourie</rhyme>
+<lb n="AUBA.043a:23 "/>En noble loz,\ et adès est <g lemma="radresse?" en="path; guide" fr="voie; guide" type="not in DMF"><rhyme>radrece</rhyme></g><l n=" 8"/>
+<lb n="AUBA.043a:24 "/><emph rend="italic">De hault honneur\ et de <rhyme>chevalerie</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043a:26 "/>Or ont acreu\ le los li .vii.&#x95; <rhyme>notable</rhyme>
+<lb n="AUBA.043a:27 "/>Bon chevalier\ que <name ref="Vaillance"><c>v</c>aillance</name> a fait <rhyme>duire</rhyme>
+<lb n="AUBA.043a:28 "/>Si qu'à grant los\ et victoire <rhyme>honorable</rhyme><l n="12"/>
+<lb n="AUBA.043a:29 "/>Ont desconfit\ les &#x95;.vii.&#x95; <name ref="English"><c>a</c>nglois</name> qui <rhyme>nuire</rhyme>
+<lb n="AUBA.043a:30 "/>Aux bons <name ref="French"><c>f</c>rançois</name>\ cuident et les <rhyme>destruire</rhyme>
+<lb n="AUBA.043a:31 "/>Mais <name ref="Guillaume+du+Chastel">le seigneur\ du <c/>hastel</name>, où <name ref="Proëce"><rhyme><c>p</c>roëce</rhyme></name>
+<lb n="AUBA.043a:32 "/>Fait son reduit,\ et la <g lemma="bachellerie" en="knightly valour" fr="prouesse de chevalier"><rhyme>bachelerie</rhyme></g><l n="16"/>
+<lb n="AUBA.043a:33 "/><name ref="Guillaume+Bataillé">Bataillé</name> ont mis <name ref="English"><c>a</c>nglois</name> hors <g lemma="adresse" en="road, way" fr="chemin"><rhyme>l'adrece</rhyme></g>
+<lb n="AUBA.043a:34 "/><emph rend="italic">De hault honneur\ et de <rhyme>chevalerie</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043a:36 "/>Et <note>trait sur le mot à l'encre pâle ?</note> <name ref="Ivon+de+Karouis"><c>k</c>arlouÿs le <c>b</c>reton</name> <rhyme>secourable</rhyme>
+<lb n="AUBA.043a:37 "/>Qui mains grans biens fera ainçois qu'il <rhyme>muire</rhyme><l n="20"/>,
+<lb n="AUBA.043a:38 "/>Et <name ref="Arnaud+Guilhem+de+Barbazan"><c>b</c>arbasan</name>\ et <name ref="Guillaume+de+la+Champagne"><c>c</c>hampaigne</name> <rhyme>amïable</rhyme>,
+<lb n="AUBA.043a:39 "/>Et <name ref="Archambault+de+Villars"><c>a</c>rchambaut</name> qui fait son renom <g lemma="bruire" en="to resound" fr="résonner"><rhyme>bruyre</rhyme></g>,
+<cb n="b"/><layout ruledLines="39"/><lb n="AUBA.043b:01 "/><s>L</s>e <s>b</s>on <name ref="Pierre+de+Brebant+dit+Clignet"><c>c</c><s>l</s>ignet de <c><s>b</s></c>re<s>b</s>an</name> qui <rhyme>aduire</rhyme>
+<lb n="AUBA.043b:02 "/>En armes veult\ son corps et sa <rhyme>jeunece</rhyme> –<l n="24"/>
+<lb n="AUBA.043b:03 "/>Par ces .vii.&#x95; <del rend="erasure"></del><add place="inline" evidence="spacing, paler ink, proportions">bons</add> est la gloire <rhyme>perie</rhyme>
+<lb n="AUBA.043b:04 "/>De noz nuisans\ qui perdent la <rhyme>haultece</rhyme>
+<lb n="AUBA.043b:05 "/><emph rend="italic">De hault honneur\ et de <rhyme>chevalerie</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043b:07 "/>Prince poissant,\ honnourez à <rhyme>léece</rhyme><l n="28"/>
+<lb n="AUBA.043b:08 "/>Les bons vaillans\ où <name ref="Worth"><c>v</c>aleur</name> n'est <rhyme>perie</rhyme>,
+<lb n="AUBA.043b:09 "/>Car vous arés\ par eulx toute <rhyme>largece</rhyme>
+<lb n="AUBA.043b:10 "/><emph rend="italic">De hault honneur\ et de <rhyme>chevalerie</rhyme></emph>.<l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="28"/><div2 n="28" satfno="30" type="Ballade" metre="10" length="31" refrain="1" stanza="ababbbcdcd" envoi="cdcd" rhyme="mfff"><lb n="AUBA.043b:12 "/><hi rend="cap2">H</hi>aultes dames,\ honnourez <rhyme>grandem<abbr type="en"/>t</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 30.</note>
+<lb n="AUBA.043b:13 "/>Et vous damoiselles et toutes <rhyme>femmes</rhyme>,
+<lb n="AUBA.043b:14 "/>Les &#x95;.vii.&#x95; vaillans\ qui ont fait <rhyme>telem<abbr type="en"/>t</rhyme>
+<lb n="AUBA.043b:15 "/>Qu'à tous jours mais\ sera <g lemma="" en="" fr="">nom</g> de le<abbr type="ur"/> <rhyme>armes</rhyme>.<l n=" 4"/>
+<lb n="AUBA.043b:16 "/><g lemma="neïs" en="even" fr="même">Nez</g><note>'Even'.</note> quant les corps\ seront dessoubz les <rhyme>lames</rhyme>
+<lb n="AUBA.043b:17 "/>Remaindra los\ de leur fait en <rhyme>memoire</rhyme>
+<lb n="AUBA.043b:18 "/>En grant honneur\ au <name ref="France">royaume de <rhyme><c>f</c>rance</rhyme></name>,
+<lb n="AUBA.043b:19 "/>Si qu'à tous jours\ en mainte belle <rhyme>histoire</rhyme><l n=" 8"/>
+<lb n="AUBA.043b:20 "/><emph rend="italic">Sera retrait\ de leur haulte <rhyme>vaillance</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043b:22 "/>Et comme on seult\ faire <rhyme>ancïennem<abbr type="en"/>t</rhyme>
+<lb n="AUBA.043b:23 "/>Aux bons vaillans\ chevalereux et <rhyme>fermes</rhyme>,
+<lb n="AUBA.043b:24 "/>Couronnez les\ de lorier <rhyme>lïement</rhyme>,<l n="12"/>
+<lb n="AUBA.043b:25 "/>Car <add evidence="paler ink, broad caret" place="supralinear" type="scribe">c'est</add> li drois de victoire et li <rhyme>termes</rhyme>.
+<lb n="AUBA.043b:26 "/>Bien leur affiert\ le lorier et les <rhyme>palmes</rhyme>
+<lb n="AUBA.043b:27 "/>De tout honneur\ en signe de <rhyme>victoire</rhyme>,
+<lb n="AUBA.043b:28 "/>Quant ont occis\ et <g lemma="outrance" en="to defeat completely" fr="vaincre complètement" type="DMF only has 'mettre à o.'">mené à <rhyme>oultrance</rhyme></g><l n="16"/>
+<lb n="AUBA.043b:29 "/>L'orgueil <name ref="English">anglois</name>\ dont, com chose <rhyme>nottoire</rhyme>,
+<lb n="AUBA.043b:30 "/><emph rend="italic">Sera retrait\ de leur haulte <rhyme>vaillance</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043b:32 "/>Et tant s'i sont\ <g lemma="porter1" en="to conduct o.s." fr="se comporter">porté</g> tuit <rhyme>vailla<abbr type="m"/>ment</rhyme>
+<lb n="AUBA.043b:33 "/>Que l'en doit bien\ leur noms mettre en beaulx <rhyme>t<abbr type="er"/>mes</rhyme>,<l n="20"/>
+<lb n="AUBA.043b:34 "/>Au bon <name ref="Guillaume+du+Chastel">seigneur\ du <c>c</c>hastel</name>, <rhyme>grandem<abbr type="en"/>t</rhyme>
+<lb n="AUBA.043b:35 "/>Lui affiert los;\ à <name ref="Guillaume+Bataillé"><c>b</c>ataillé</name> non <rhyme>blames</rhyme>.
+<lb n="AUBA.043b:36 "/>Bien fu aysyé\ <name ref="Arnaud+Guilhem+de+Barbazan"><c>b</c>arbasan</name> en ses <rhyme>armes</rhyme>.
+<lb n="AUBA.043b:37 "/><name ref="Guillaume+de+la+Champagne">Champaigne</name> aussi\ en doit avoir gra<abbr type="n"/>t <rhyme>gloire</rhyme>,<l n="24"/>
+<lb n="AUBA.043b:38 "/>Et <name ref="Archambault+de+Villars"><c>a</c>rchambault</name>,\ <name ref="Pierre+de+Brebant+dit+Clignet"><c>c</c>lignet</name> de grant <rhyme>constance</rhyme>,
+<lb n="AUBA.043b:39 "/><name ref="Ivon+de+Karouis">Karhalouÿs</name>.\ <c>d</c>e ceulx,\ ce devons <rhyme>croire</rhyme>,
+<pb ed="v" n="043" l="AUBA.043v:01"/><layout rend="above ruling" ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c, above ruled space" rend="centred"><s>A</s>ultres </fw> <fw  type="header2" place="intercolumn, above ruled space" rend="centred"><s>B</s>alades</fw><fw type="header3" place="column d, above ruled space" rend="centred" > &#x95; ix &#x95;</fw></hi><cb n="c"/><layout ruledLines="39"/><lb n="AUBA.043c:01 "/><emph rend="italic">Sera retrait <s>d</s>e <s>l</s>eur <s>h</s>au<s>l</s>te <rhyme><s rend="banderole">v</s>ai<s>l</s><s>l</s>ance</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043c:03 "/>Princesses très haultes,\ ayés <rhyme>memoire</rhyme><l n="28"/>
+<lb n="AUBA.043c:04 "/>Des bons vaillans qui par longue <rhyme>souffra<abbr type="n"/>ce</rhyme>
+<lb n="AUBA.043c:05 "/>Ont tant acquis\ qu'en maint lieux, chose est <rhyme>voire</rhyme>,
+<lb n="AUBA.043c:06 "/><emph rend="italic">Sera retrait <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="29"/><div2 n="29" satfno="31" type="Ballade" metre="10" length="31" refrain="1" stanza="ababbcdcd" envoi="cdcd" rhyme="mmmm"><lb n="AUBA.043c:08 "/><hi rend="cap2">B</hi>ien viengnez bons, bien viengniez <rhyme>reno<abbr type="m"/>mez</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 31.</note>
+<lb n="AUBA.043c:09 "/><c>b</c>ien viengniez vous, chevaliers de gra<abbr type="n"/>t <rhyme>pris</rhyme>,
+<lb n="AUBA.043c:10 "/>Bien viengniez preux et de chacun <rhyme>clamez</rhyme>
+<lb n="AUBA.043c:11 "/>Vaillans et fors\ et aux armes <rhyme>appris</rhyme>.<l n=" 4"/>
+<lb n="AUBA.043c:12 "/>Estre appellez devez en tout <g lemma="pourpris" en="house, dwelling" fr="logis, maison"><rhyme>pourpris</rhyme></g>
+<lb n="AUBA.043c:13 "/>Chevalereux,\ très vertüeus <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>fermes</rhyme>,
+<lb n="AUBA.043c:14 "/>Durs à travail\ pour grans coups <rhyme>ramen<abbr type="er"/></rhyme>,
+<lb n="AUBA.043c:15 "/>Fors et esleus,\ et pour voz belles <rhyme>armes</rhyme><l n=" 8"/>
+<lb n="AUBA.043c:16 "/><emph rend="italic">On vous doit bien\ de laurier <rhyme>couronner</rhyme></emph>.,
+<!-- 1 blank line -->
+<lb n="AUBA.043c:18 "/>Vous, bon <name ref="Guillaume+du+Chastel">seigneur\ du <c>c</c>hastel</name>, q<abbr type="ui"/> <rhyme>amez</rhyme>
+<lb n="AUBA.043c:19 "/>Estes de ceulx\ qui ont tout b<abbr type="ie"/>n <rhyme>empris</rhyme>;
+<lb n="AUBA.043c:20 "/>Vous, <name ref="Guillaume+Bataillé"><c>b</c>ataillé</name>\ vaillant et <rhyme>affermez</rhyme>;<l n="12"/>
+<lb n="AUBA.043c:21 "/>Et <name ref="Arnaud+Guilhem+de+Barbazan"><c>b</c>arbasan</name>\ en qui n'a nul <rhyme>mespris</rhyme>;
+<lb n="AUBA.043c:22 "/><name ref="Guillaume+de+la+Champagne">Champaigne</name> aussi\ de g<abbr type="ra"/>nt vailla<abbr type="n"/>ce <rhyme>espris</rhyme>;
+<lb n="AUBA.043c:23 "/>Et <name ref="Archambault+de+Villars"><c>a</c>rchambault</name>;\ <name ref="Pierre+de+Brebant+dit+Clignet"><c>c</c>lignet</name> aux belles <rhyme>armes</rhyme>;
+<lb n="AUBA.043c:24 "/><name ref="Ivon+de+Karouis">Karhalouÿs</name>;\ vous tous &#x95;.vii.&#x95; pour <rhyme>donner</rhyme><l n="16"/>
+<lb n="AUBA.043c:25 "/>Exemple aux bons\ et grant joye à voz <rhyme>dames</rhyme>,
+<lb n="AUBA.043c:26 "/><emph rend="italic">On vous doit bien\ de laurier <rhyme>couronner</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043c:28 "/>Or avez vous\ noz nuisans <rhyme>diffamez</rhyme>.
+<lb n="AUBA.043c:29 "/>Louez soit <name ref="God"><c>d</c>ieux</name> qui de si grans <rhyme>perilz</rhyme><l n="20"/>
+<lb n="AUBA.043c:30 "/>Vous a gitez.\ <c>t</c>ant vous a <g lemma="enamer" en="to bestow love" fr="accorder amour"><rhyme>en<choice><sic> </sic><corr reason="sense" resp="JCL" source="SATF"></corr></choice>amez</rhyme></g>
+<lb n="AUBA.043c:31 "/>Que vous avez\ desconfit, mors <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>pris</rhyme>
+<lb n="AUBA.043c:32 "/>Les &#x95;.vii.&#x95; <name ref="Englishman"><c>a</c>nglois</name>\ de grant orgueil <rhyme>surpris</rhyme>,
+<lb n="AUBA.043c:33 "/>Dont loz avez et d'ommes et de <rhyme>femmes</rhyme>.<l n="24"/>
+<lb n="AUBA.043c:34 "/>Et puis que <name ref="God"><c>d</c>ieux</name>\ à joye <rhyme>retourner</rhyme>
+<lb n="AUBA.043c:35 "/>Victorïeux vous fait, oû corps les <rhyme>ames</rhyme>,
+<lb n="AUBA.043c:36 "/><emph rend="italic">On vous doit b<abbr type="ie"/>n\ de laurier <rhyme>couronner</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043c:38 "/><s>J</s>adis les bons\ on couronnoit de <rhyme>palmes</rhyme><l n="28"/>
+<lb n="AUBA.043c:39 "/>Et de laurier\ en si<s>g</s>ne de <rhyme>re<s>g</s>ner</rhyme>
+ <cb n="d"/><layout ruledLines="39"/><lb n="AUBA.043d:01 "/>En hault honneur,\ <choice><orig>&amp;</orig><reg>et</reg></choice> pour <g lemma="terme" en="to conduct, behave o.s." fr="se comporter de cette manière">suivre <rhyme><choice><sic> e</sic><corr reason="sense" rend="erasure, space left blank, correctiion not completed" resp="JCL" source="SATF">ces</corr></choice>termes</rhyme></g><note>Rhymes in this poem?</note>
+<lb n="AUBA.043d:02 "/><emph rend="italic">On vous doit bien\ de laurier <rhyme>couronner</rhyme></emph>.<l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="30"/><div2 n="30" satfno="32" type="Ballade" metre="7" length="25" refrain="1" stanza="ababbcc" envoi="bbcc" rhyme="mfm"><lb n="AUBA.043d:04 "/><hi rend="cap2">Q</hi>uant je voy ces <rhyme>amoureux</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 32.</note>
+<lb n="AUBA.043d:05 "/><c>t</c>ant de si doulx semblans <rhyme>faire</rhyme>
+<lb n="AUBA.043d:06 "/>L'un à l'autre, et <rhyme>savoureux</rhyme>
+<lb n="AUBA.043d:07 "/>Et doulx regars <rhyme>entretraire</rhyme>,<l n=" 4"/>
+<lb n="AUBA.043d:08 "/>Doulcement rire et eulx <rhyme>traire</rhyme>
+<lb n="AUBA.043d:09 "/>À part et les tours qu'ilz <rhyme>font</rhyme>,
+<lb n="AUBA.043d:10 "/><emph rend="italic">À pou que mon cuer ne <rhyme>font</rhyme></emph>,
+<!-- 1 blank line -->
+<lb n="AUBA.043d:12 "/>Car lors me souvie<abbr type="n"/>t pour <rhyme>eulx</rhyme><l n=" 8"/>
+<lb n="AUBA.043d:13 "/>De cil dont ne puis <rhyme>retraire</rhyme>
+<lb n="AUBA.043d:14 "/>Mon cuer qui est <rhyme>desireux</rhyme>
+<lb n="AUBA.043d:15 "/>Que ainsi le peüsse <rhyme>attraire</rhyme>;
+<lb n="AUBA.043d:16 "/>Mais le doulx et <rhyme>debonnaire</rhyme><l n="12"/>
+<lb n="AUBA.043d:17 "/>Est loing, dont en dueil <rhyme>parfont</rhyme>
+<lb n="AUBA.043d:18 "/><emph rend="italic">À pou que mon cuer ne <rhyme>font</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043d:20 "/>Ainsi sera <rhyme>langoureux</rhyme>
+<lb n="AUBA.043d:21 "/>Mon cuer en ce grief <rhyme>contraire</rhyme>,<l n="16"/>
+<lb n="AUBA.043d:22 "/>Plains de pensers <rhyme>doulereux</rhyme>
+<lb n="AUBA.043d:23 "/>Jusques par deça <rhyme>repaire</rhyme>
+<lb n="AUBA.043d:24 "/>Cil qu'<name ref="God+of+Love"><c>a</c>mours</name> me fait tant <rhyme>plaire</rhyme>,
+<lb n="AUBA.043d:25 "/>Mais du mal qui me <rhyme>confont</rhyme><l n="20"/>
+<lb n="AUBA.043d:26 "/><emph rend="italic">À pou que mon cuer ne <rhyme>font</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.043d:28 "/>Princes, je ne me puis <rhyme>taire</rhyme>:
+<lb n="AUBA.043d:29 "/>Quant je voy gent paire à <rhyme>paire</rhyme>
+<lb n="AUBA.043d:30 "/>Qui de joye <g lemma="refaire" en="to fill o.s. full" fr="se rassasier">se <rhyme>refont</rhyme></g>,<l n="24"/>
+<lb n="AUBA.043d:31 "/><emph rend="italic">À pou que mon cuer ne <rhyme>font</rhyme></emph>.</div2>
+<!-- 1 blank line -->
+<group n="31"/><div2 n="31" satfno="33" type="Ballade" metre="7" length="25" refrain="1" stanza="ababbcc" envoi="bbcc" rhyme="fmf"><lb n="AUBA.043d:33 "/><name ref="Jean+de+Werchin"><hi rend="cap2">S</hi>eneschal vaillant et <rhyme>sage</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 33.</note>
+<lb n="AUBA.043d:34 "/>De <name ref="Hainaut"><c>h</c>aynault</name></name>, plain de <rhyme>valour</rhyme>,
+<lb n="AUBA.043d:35 "/>Chevalier où <rhyme><name ref="Valour"><c>v</c>assellage</name></rhyme>
+<lb n="AUBA.043d:36 "/>Et <name ref="Prowess"><c>p</c>rouëce</name> fait <rhyme>demour</rhyme>,<l n=" 4"/>
+<lb n="AUBA.043d:37 "/>Finerés vous jamais <rhyme>jour</rhyme>
+<lb n="AUBA.043d:38 "/>Par mainte terre <rhyme>lontaine</rhyme>
+<lb n="AUBA.043d:39 "/><emph rend="italic">D'entre prendre armes <choice><orig>&amp;</orig><reg>et</reg></choice></emph> <rhyme>peine</rhyme>?<!-- signature 'veult do|n|t vo' -->
+<gb n="6"/><pb ed="r" n="044" l="AUBA.044r:01"/><layout rend="above ruling" ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a" rend="tabbed">Aultres</fw> <fw type="header2" place="column a" rend="right aligned"><s>B</s>alades</fw> <fw type="header3" place="column b" rend="left aligned">&#x95; ix &#x95;</fw></hi>
+<cb n="a"/><layout ruledLines="40"/><lb n="AUBA.044a:01 "/><s rend="inverted commas">V</s>eult dont vo noble <rhyme>courage</rhyme><l n=" 8"/>
+<lb n="AUBA.044a:02 "/>Vo beau corps mett<choice><sic>e</sic><corr reason="sense" resp="JCL" source="SATF">re</corr></choice> à <rhyme>doulour</rhyme>
+<lb n="AUBA.044a:03 "/>En peril de mort <rhyme>sauvage</rhyme>
+<lb n="AUBA.044a:04 "/>Pour toudis poursuivre <rhyme>honnour</rhyme>?
+<lb n="AUBA.044a:05 "/>Est vo vueil que sans <rhyme>sejour</rhyme><l n="12"/>
+<lb n="AUBA.044a:06 "/>Ainsi vo vie se <rhyme>peine</rhyme>
+<lb n="AUBA.044a:07 "/><emph rend="italic">D'entre<choice><sic> </sic><corr reason="consistency" resp="JCL" source="SATF"></corr></choice>prendre armes <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>peine</rhyme></emph>?
+<!-- 1 blank line -->
+<lb n="AUBA.044a:09 "/>Vous ne plaignez le <rhyme>dommage</rhyme>
+<lb n="AUBA.044a:10 "/>Dont il s'ensuivroit maint <rhyme>plour</rhyme><l n="16"/>
+<lb n="AUBA.044a:11 "/>Se <name ref="Fortune"><c>f</c>ortune</name> et son <rhyme>oultrage</rhyme>
+<lb n="AUBA.044a:12 "/>Vous jouoit de son faulx <rhyme>tour</rhyme>.
+<lb n="AUBA.044a:13 "/><name ref="God">Dieux</name> vous en gart, qui <rhyme>toujour</rhyme>
+<lb n="AUBA.044a:14 "/>À victoire vous <rhyme>amaine</rhyme><l n="20"/>
+<lb n="AUBA.044a:15 "/><emph rend="italic">D'entreprendre armes <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>peine</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044a:17 "/>Mais je croy qu'en gra<abbr type="n"/>t <rhyme>cremeur</rhyme><note>Poor rhyme?</note>
+<lb n="AUBA.044a:18 "/>Mettez celle qui <rhyme>s'amour</rhyme>
+<lb n="AUBA.044a:19 "/>A du tout en vo <rhyme>demaine</rhyme><l n="24"/>
+<lb n="AUBA.044a:20 "/><emph rend="italic">D'entreprendre <choice><orig>&amp;</orig><reg>et</reg></choice>c</emph>.</div2>
+<!-- 1 blank line -->
+<group n="32"/><div2 n="32" satfno="34" type="Ballade" metre="7 &amp; 4" length="21" refrain="2" stanza="ababbc4c4" envoi="" rhyme="ffm"><lb n="AUBA.044a:22 "/><hi rend="cap2">T</hi>rès belle, je n'ose <rhyme>dire</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 34; the poem has no envoy, unlike the copy in the Duke's MS, the only other version known.</note>
+<lb n="AUBA.044a:23 "/>La doulour et la <rhyme>pointure</rhyme>
+<lb n="AUBA.044a:24 "/>Dont <name ref="God+of+Love"><c>a</c>mours</name> mon cuer <rhyme>martire</rhyme>
+<lb n="AUBA.044a:25 "/>Pour vostre gente <rhyme>figure</rhyme>,<l n=" 4"/>
+<lb n="AUBA.044a:26 "/>Mais du grief mal que <rhyme>j'endure</rhyme>
+<lb n="AUBA.044a:27 "/><emph rend="italic"><rhyme>Appercevoir</rhyme>
+<lb n="AUBA.044a:28 "/>Vueillés le <rhyme>voir</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044a:30 "/>Car tant doubte <rhyme>l'escondire</rhyme><l n=" 8"/>
+<lb n="AUBA.044a:31 "/>Que la doulour que <rhyme>j'endure</rhyme>
+<lb n="AUBA.044a:32 "/>Je n'ose dire <rhyme>n'escripre</rhyme>,
+<lb n="AUBA.044a:33 "/>Mais sans en faire <rhyme>murmure</rhyme>
+<lb n="AUBA.044a:34 "/>De ma grief doulour <rhyme>obscure</rhyme><l n="12"/>
+<lb n="AUBA.044a:35 "/><emph rend="italic"><rhyme>Appercevoir</rhyme>
+<lb n="AUBA.044a:36 "/>Vueillez le <rhyme>voir</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044a:38 "/>Et vous plaise estre le <rhyme>mire</rhyme>
+<lb n="AUBA.044a:39 "/>De mon mal, car je vous <rhyme>jure</rhyme><l n="16"/> <note>unusual disposition, error ?; différence de module, encre et moment d'écriture sur cette colonne ?</note><!-- 1 blank line -->
+<cb n="b"/><layout ruledLines="40"/><lb n="AUBA.044b:01 "/>Que <s>v</s>ostre sans <rhyme>contre<s>d</s>ire</rhyme>
+<lb n="AUBA.044b:02 "/>Suis et seray, c'est <rhyme>droiture</rhyme>,
+<lb n="AUBA.044b:03 "/>Et si vous aim d'amour <rhyme>pure</rhyme>
+<lb n="AUBA.044b:04 "/><emph rend="italic"><rhyme>Appercevoir</rhyme><l n="20"/>
+<lb n="AUBA.044b:05 "/>Vueillez le <rhyme>voir</rhyme></emph>.</div2>
+<!-- 1 blank line -->
+<group n=""/><div2 n="33" satfno="35" type="Ballade" metre="10" length="31" refrain="1" stanza="ababbcdcd" envoi="cdcd" rhyme="mmmf"><lb n="AUBA.044b:07 "/><hi rend="cap2">H</hi>a le plus doulx\ qui jamais soit <rhyme>formé</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 35.</note>
+<lb n="AUBA.044b:08 "/><c>l</c>e plus plaisant\ qu'onque nul<choice><sic></sic><corr reason="sense" resp="JCL" source="SATF" rend="very significant" >le</corr></choice> <rhyme>accointast</rhyme>,
+<lb n="AUBA.044b:09 "/>Le plus parfaict\ pour estre bon <rhyme>clamé</rhyme>,
+<lb n="AUBA.044b:10 "/>Le mieulx amé\ c'onques mais femme <rhyme>amast</rhyme>,<l n=" 4"/>
+<lb n="AUBA.044b:11 "/>De mon vray cuer\ le savoureux <rhyme>repast</rhyme>,
+<lb n="AUBA.044b:12 "/>Tout quanque j'aim,\ mon savoureux <rhyme>desir</rhyme>,
+<lb n="AUBA.044b:13 "/>Mon seul amé,\ mon paradis en <rhyme>terre</rhyme>
+<lb n="AUBA.044b:14 "/>Et de mes yeulx\ le très parfaict <rhyme>plaisir</rhyme>,<l n=" 8"/>
+<lb n="AUBA.044b:15 "/><emph rend="italic">Vostre doulçour\ me meine dure <rhyme>guerre</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044b:17 "/>Vostre doulçour\ voirement <rhyme>entamé</rhyme>
+<lb n="AUBA.044b:18 "/>A\ le mien cuer\ qui jamais ne <rhyme>pensast</rhyme>
+<lb n="AUBA.044b:19 "/>Estre en ce point,\ mais si l'a <rhyme>enflamé</rhyme><l n="12"/>
+<lb n="AUBA.044b:20 "/><name ref="Ardent Desire">Ardant <c>d</c>esir</name>\ qu'en vie ne <rhyme>durast</rhyme>
+<lb n="AUBA.044b:21 "/>Se <name ref="Sweet Thought"><c>d</c>oulx <c>p</c>enser</name>\ ne le <rhyme>reconfortast</rhyme>
+<lb n="AUBA.044b:22 "/>Mais <name ref="Memory"><c>s</c>ouvenir</name>\ vient avec lui <rhyme>gesir</rhyme>,<note>The opening word of this line and the initial letters of the next three lines are irregularly spaced because of a patch applied after the other parts of the text had been copied; cf. AUBA.044c:24-26.</note>
+<lb n="AUBA.044b:23 "/><s rend="base greatly extended">L</s>ors en pensant\ vous embra<add place="inline" evidence="erasure, spacing, blurring, change of ink">ce et</add> vo<abbr type="us"/> <rhyme>serre</rhyme>,<l n="16"/>
+<lb n="AUBA.044b:24 "/>Mais quant ne puis\ le doulx baisier <rhyme>saisir</rhyme>,
+<lb n="AUBA.044b:25 "/><emph rend="italic">Vostre doulçour\ me meine dure <rhyme>guerre</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044b:27 "/>Mon doulx ami,\ de tout mon cuer <rhyme>amé</rhyme>,
+<lb n="AUBA.044b:28 "/>Il n'est penser\ qui de mon cuer <rhyme>gitast</rhyme><l n="20"/>
+<lb n="AUBA.044b:29 "/>Le doulx regart\ que voz yeulx <rhyme>enfermé</rhyme>
+<lb n="AUBA.044b:30 "/>Ont dedens lui.\ <c>r</c>ien n'est qui l'en <rhyme>otast</rhyme>,
+<lb n="AUBA.044b:31 "/>Ne le parler\ et le gracïeux <rhyme>tast</rhyme>
+<lb n="AUBA.044b:32 "/>Des doulces mains\ qui sans lait <rhyme>desplaisir</rhyme><l n="24"/>
+<lb n="AUBA.044b:33 "/>Veulent par tout\ encercher <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>enquerre</rhyme>,
+<lb n="AUBA.044b:34 "/>Mais quant ne puis\ de mes yeulx vo<abbr type="us"/> <g lemma="choisir" en="to see, perceive" fr="voir, apercevoir"><add place="inline" evidence="erasure, blurring, change of ink"><rhyme>choisir</rhyme></add></g>,
+<lb n="AUBA.044b:35 "/><emph rend="italic">Vostre doulçour\ me maine dure <rhyme>guerre</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044b:37 "/>Très bel et bon\ <add place="inline" evidence="erasure, blurring, change of ink">qui</add> mon cuer v<add place="inline" evidence="erasure, blurring, change of ink, superscript dot">ient</add>\ <rhyme>saisir</rhyme><l n="28"/>
+<lb n="AUBA.044b:38 "/>Ne m'oublïez\ ce\ vous vueil je <rhyme>requerre</rhyme>
+<lb n="AUBA.044b:39 "/>Car quant vëoir ne vous puis à <rhyme>loisir</rhyme>
+<lb n="AUBA.044b:40 "/><emph rend="italic">Vostre doulçour <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="31"/></div2> <note>signature 'E j' low in outer margin, elaborate 'E'</note><note>l'envoi est décentré par rapport aux LR</note><note>'plus sign' lower still, positioned on repair, aligned with final letters of text in column b</note>
+<pb ed="v" n="044" l="AUBA.044v:01"/><layout ruledLines="no"/><hi rend="run"><fw type="header1" place="column c, no ruled space" rend="tabbed"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, no ruled space" rend="left aligned">balades</fw> <fw type="header3" place="column d, no ruled space" rend="centred">&#x95; ix &#x95;</fw></hi>
+<cb n="c"/><layout ruledLines="41"/>
+<group n="34"/><div2 n="34" satfno="36" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fff"><lb n="AUBA.044c:01 "/><hi rend="cap2"><del rend="remodelled">B</del><add place="inline" evidence="faint plus in margin" reason="sense">R</add></hi>e<s rend="banderole">d</s>oubtée,\ excellant, très <s>s</s>age <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme><s>d</s>igne</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 36.</note>
+<lb n="AUBA.044c:02 "/><c>n</c>oble, vaillant,\ de hault honneur <rhyme>pourp<abbr type="ri"/>se</rhyme>,
+<lb n="AUBA.044c:03 "/>Renommée\ <name ref="Isabeau">roÿne</name> très <rhyme>benigne</rhyme>,
+<lb n="AUBA.044c:04 "/>La souveraine\ des dames que l'en <rhyme>prise</rhyme>,<l n=" 4"/><note>Christine uses an epic caesura to emphasise 'Souveraine'.</note>
+<lb n="AUBA.044c:05 "/>Je pri cil <name ref="God"><c>d</c>ieu</name>\ qui sur tout a <rhyme>maistrise</rhyme>
+<lb n="AUBA.044c:06 "/>Qui à ce jour\ de l'an si bonne <rhyme>estreine</rhyme>
+<lb n="AUBA.044c:07 "/>Il vous <g  lemma="envoyer" en="" fr="" type="3 pres. subj.">envoit</g>\ qu'adès en vo<abbr type="us"/> <rhyme>esprise</rhyme>
+<lb n="AUBA.044c:08 "/><emph rend="italic">Soit, sans cesser,\ toute joye <rhyme>mondaine</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.044c:10 "/>Ma <name ref="Isabeau">tre<add place="inline" evidence="erasure, paler ink, compressed, smaller point">ssouvraine</add></name> où tout le monde <rhyme>encline</rhyme>,
+<lb n="AUBA.044c:11 "/>Pour ce que sçay\ que comme b<abbr type="ie"/>n <rhyme>apprise</rhyme>
+<lb n="AUBA.044c:12 "/>Livres amez,\ moy <add evidence="broad caret, paler ink" place="supralinear" type="">v<abbr type="ost"/>re</add> serve <rhyme>indigne</rhyme>
+<lb n="AUBA.044c:13 "/>Vous envoye\ cestui où est <rhyme>comprise</rhyme><l n="12"/>
+<lb n="AUBA.044c:14 "/>Matiere qu'ay\ en haulte place <rhyme>prise</rhyme>.
+<lb n="AUBA.044c:15 "/>En gré l'ayés,\ très noble <choice><orig>&amp;</orig><reg>et</reg></choice> de sens <rhyme>plaine</rhyme>,
+<lb n="AUBA.044c:16 "/>En qui tous jours\ sans ja estre <rhyme>desprise</rhyme>
+<lb n="AUBA.044c:17 "/><emph rend="italic">Soit, sans cesser,\ toute joye <rhyme>mondaine</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.044c:19 "/>Et s'il vous plait,\ très poissant, vraye <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>fine</rhyme>,
+<lb n="AUBA.044c:20 "/>Que vostre grant\ haultece un petit <rhyme>lise</rhyme>
+<lb n="AUBA.044c:21 "/>En mon dictié\ et vo sens <rhyme>determine</rhyme>
+<lb n="AUBA.044c:22 "/>De la cause qui est en termes <rhyme>mise</rhyme>,<l n="20"/>
+<lb n="AUBA.044c:23 "/>Mieulx en vauldra\ en to<abbr type="us"/> cas <add place="inline" evidence="over patch, larger point?">mon</add> <rhyme><add place="inline" evidence="over patch, larger point?">e</add>mp<abbr type="ri"/>se</rhyme>.<note>Following the application of a patch, part of the final word(s) of this line and the next three lines have been inserted in lighter ink in space left by the scribe; cf. AUBA.044b:22-25.</note>
+<lb n="AUBA.044c:24 "/>Si en jugez,\ princesse très <rhyme>ha<add place="inline" evidence="over patch, larger point, paler ink">ultaine</add></rhyme>,
+<lb n="AUBA.044c:25 "/>À qui <name ref="God"><c>d</c>ieux</name> doint\ grace qu'en <add place="inline" evidence="over patch, larger point, paler ink">toute</add> <rhyme>guise</rhyme>
+<lb n="AUBA.044c:26 "/><emph rend="italic">Soit, sanz cesser,\ toute joye <rhyme>m<add place="inline" evidence="over patch, larger point, paler ink">ondaine</add></rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.044c:28 "/>Haulte, poissant et plaine de <rhyme>franchise</rhyme>,
+<lb n="AUBA.044c:29 "/>Très humblement\ à vo valeur <rhyme>certaine</rhyme>
+<lb n="AUBA.044c:30 "/>Me recommand\ en qui trouvée <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>quise</rhyme>
+<lb n="AUBA.044c:31 "/><emph rend="italic">Soit, sans cesser <choice><sic></sic><corr reason="consistency" resp="JCL">etc</corr></choice></emph>.<l n="28"/></div2>
+<!-- 1 blank line -->
+<group n=""/><div2 n="" satfno="" type="Rondeau double" metre="10" length="12" refrain="" stanza="abab" envoi="" rhyme="ff"><lb n="AUBA.044c:33 "/><fw place="centred" type="rubric">Rondel<note>The scribe has decorated the rubric, setting it between two 'lozenges', penned in the same dark ink as the text.</note></fw>
+<!-- 1 blank line -->
+<lb n="AUBA.044c:35 "/><hi rend="cap2">M</hi>on chier seigneur,\ soyez de m<add place="inline" evidence="erasure, paler ink, spacing ">a</add> <rhyme>partie</rhyme>.
+<lb n="AUBA.044c:36 "/><c>a</c>ssailli m'ont à grant guerre <g lemma="déclore" en="to open" fr="ouvrir"><rhyme>desclose</rhyme></g>
+<lb n="AUBA.044c:37 "/>Les alïez\ du <name ref="Roman+de+la+Rose"><emph rend="italic"><c>r</c>ommant de la <rhyme>Rose</rhyme></emph></name>
+<lb n="AUBA.044c:38 "/>Pour ce que à eulx\ <add place="inline" evidence="erasure, blurring, paler ink, dot">ne</add> me suis <rhyme>convertie</rhyme>.<note>In preparation for the correction, 'ne' is written very faintly in the outer margin.</note><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="AUBA.044c:40 "/>Bataille m'ont si crüelle <rhyme>bastie</rhyme><note>It is not clear why there is a punctus in the outer margin.</note><!-- 1 blank line -->
+<cb n="d"/><layout ruledLines="41"/><lb n="AUBA.044d:01 "/>Que <s>b</s>ien cui<s>d</s>ent m'avoir <c><s rend="inverted commas">J</s></c>a pres <rhyme>qu'enc<s>l</s>o<s>s</s>e</rhyme>.
+<lb n="AUBA.044d:02 "/><fw place="centred" size="smaller point" type="refrain"><emph rend="italic">Mon chier <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></fw>
+
+<lb n="AUBA.044d:03 "/>Pour leurs assaulx\ ne seray <g lemma="alentir" en="to be hesitant, doubtful" fr="hésiter, douter" type="extends senses in DMF"><rhyme>alentie</rhyme></g><l n=" 8"/>
+<lb n="AUBA.044d:04 "/>De mon propos,\ mais c'est commune <rhyme>chos<abbr type="e"/></rhyme>
+<lb n="AUBA.044d:05 "/>Que l'en cuert sus\ à qui droit deffendre <rhyme>ose</rhyme>,
+<lb n="AUBA.044d:06 "/>Mais se je suis\ de sens pou <rhyme>advertie</rhyme>,
+<lb n="AUBA.044d:07 "/><emph rend="italic"><fw place="centred" size="smaller point" type="refrain">Mon chier <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="35"/><div2 n="35" satfno="37" type="Ballade" metre="10" length="31" refrain="1" stanza="ababccdcd" envoi="" rhyme="ffmm"><lb n="AUBA.044d:09 "/><hi rend="cap2">J</hi>adis<note>There is a faint '+' in the intercolumnar margin.</note> avoit\ en la <name ref="Athens">cité <rhyme>d'<c>a</c>thenes</rhyme></name><note>SATF <emph rend="italic">Autre Balade</emph> 37.</note>
+<lb n="AUBA.044d:10 "/><c>f</c>leur d'estude\ de clergie <rhyme>souvraine</rhyme>
+<lb n="AUBA.044d:11 "/>Mais, non obstant\ les <c>S</c>entences <rhyme>c<abbr type="er"/>taines</rhyme>
+<lb n="AUBA.044d:12 "/>De leur grant sens,\ une erreur trop <rhyme>villaine</rhyme><l n=" 4"/>
+<lb n="AUBA.044d:13 "/>Les decevoit,\ car plusieurs div<abbr type="er"/>s <name ref="God"><rhyme><c>d</c>ieux</rhyme></name>
+<lb n="AUBA.044d:14 "/>Äouroient,\ dont aucuns pour le<abbr type="ur"/> <rhyme>mieulx</rhyme>
+<lb n="AUBA.044d:15 "/>Y preschierent\ qu'ilz devoient <rhyme>savoir</rhyme>
+<lb n="AUBA.044d:16 "/>Qu'il n'est que un <name ref="God"><c>d</c>ieu</name>,\ mais mal en prist à <rhyme>cieux</rhyme>:<l n=" 8"/>
+<lb n="AUBA.044d:17 "/><emph rend="italic">On est souvent\ batu po<abbr type="ur"/> dire <rhyme>voir</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044d:19 "/><name ref="Aristotle">Aristote\ le très sage</name> aux <rhyme>haultaines</rhyme>
+<lb n="AUBA.044d:20 "/>Scïences <g lemma="prompt" en="having a talent for" fr="ayant une disposition pour">pront</g>,\ d'icelle <name ref="Athens">cité</name> <rhyme>plaine</rhyme>
+<lb n="AUBA.044d:21 "/>De tel erreur\ fu fuitifs; maintes <rhyme>peines</rhyme><l n="12"/>
+<lb n="AUBA.044d:22 "/>Il en souffri.\ <name ref="Socrates">Socrates</name>, qui <rhyme>fontaine</rhyme>
+<lb n="AUBA.044d:23 "/>De sens estoit,\ fu chaciez de cil <rhyme>lieux</rhyme>;
+<lb n="AUBA.044d:24 "/>Plusieurs autres occis des <rhyme>envïeux</rhyme>
+<lb n="AUBA.044d:25 "/>Pour verité\ dire;\ et <rhyme>appercevoir</rhyme><l n="16"/>
+<lb n="AUBA.044d:26 "/><add place="inline" evidence="erasure, compressed, smaller point">Peut b<abbr type="ie"/>n ch<abbr type="ac"/>un</add> que par tout <add place="inline" evidence="erasure, seven letter space filler"></add> soubz les <rhyme>cieulx</rhyme>,
+<lb n="AUBA.044d:27 "/><emph rend="italic">On est souvent batu pour dire <rhyme>voir</rhyme></emph>,
+<!-- 1 blank line -->
+<lb n="AUBA.044d:29 "/><del rend="erasure">Se?</del><add place="inline" evidence="blurring, trace of 'S', skethcy 'E' in paler ink in intercolumn">Et</add> ainsi va <del rend="strikethrough" evidence="paler ink" reason="scansion">que</del> des sentences <rhyme>mondaines</rhyme>.
+<lb n="AUBA.044d:30 "/>Pour ce le di que plusieurs ont <g lemma="atäine" en="quarrel, hostility" fr="querelle, hostilité"><rhyme>attaine</rhyme></g><l n="20"/>
+<lb n="AUBA.044d:31 "/>Sur moy. <c>p</c>our tant\ que paroles t<abbr type="rè"/>s <rhyme>veines</rhyme>,
+<lb n="AUBA.044d:32 "/>Deshonneur\ et diffamë <rhyme>incertaine</rhyme>
+<lb n="AUBA.044d:33 "/>Reprendre osay\ en jeunes <choice><orig>&amp;</orig><reg>et</reg></choice> en <rhyme>vieulx</rhyme>,
+<lb n="AUBA.044d:34 "/>Et <name ref="Roman+de+la+Rose"><emph rend="italic">le <c>r</c>ommant</emph>,\ plaisant aux <rhyme>curïeux</rhyme>,<l n="24"/>
+<lb n="AUBA.044d:35 "/><emph rend="italic">De la <c>r</c>ose</emph></name>\ que l'en devroit <g en="burn" fr="brûler" lemma="ardoir"><rhyme>ardoir</rhyme></g>,
+<lb n="AUBA.044d:36 "/>Mais pour ce mot\ maint me sauldro<abbr type="n"/>t aux <rhyme>yeulx</rhyme>;
+<lb n="AUBA.044d:37 "/><emph rend="italic">On est souve<abbr type="n"/>t <choice><sic></sic><corr reason="layout" resp="JCL
+">etc</corr></choice></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.044d:39 "/>Princes\ certes,\ voir dire est <rhyme>anïeux</rhyme><l n="28"/>
+<lb n="AUBA.044d:40 "/>Aux mençongeurs\ qui veulent <rhyme>decevoir</rhyme>.<!-- 1 blank line -->
+<pb ed="r" n="045" l="AUBA.045r:01"/><layout ruledLines="no"/><hi rend="run"><fw type="header1" place="column a, no ruled space" rend="tabbed">Aultres</fw><note>The top of 'A' has been cut by the binder.</note> <fw type="header2" place="intercolumn, no ruled space" rend="left aligned">balades</fw> <fw type="header3" place="column b, no ruled space" rend="tabbed">&#x95; ix &#x95;</fw></hi><cb n="a"/><layout ruledLines="40"/><lb n="AUBA.045a:01 "/>Pour ce au pere <s rend="banderole">v</s>oit on mentir le <g lemma="fils" en="son" fr="fils" type="nominative singular"><rhyme>fieulx</rhyme></g>;
+<lb n="AUBA.045a:02 "/><emph rend="italic">On est souvent <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="36"/><div2 n="36" satfno="38" type="Ballade" metre="10" length="34" refrain="1" stanza="ababbccdcd" envoi="cdcd" rhyme="mfff"><lb n="AUBA.045a:04 "/><name ref="Nobility of Birth"><hi rend="cap2">G</hi>entillece</name>\<note>There is a faint '+' in the inner margin.</note> qui les vaillans cuers <rhyme>duit</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 38.</note>
+<lb n="AUBA.045a:05 "/>De <name ref="Courtesy"><c>c</c>ourtoisie</name>\ fait sa <rhyme>messagiere</rhyme>
+<lb n="AUBA.045a:06 "/>Qui ses rappors\ très gracïeux <rhyme>conduit</rhyme>
+<lb n="AUBA.045a:07 "/>Et toute gent\ reçoit à lie <rhyme>chiere</rhyme>.<l n=" 4"/>
+<lb n="AUBA.045a:08 "/>Si voit on bien\ resplandir sa <rhyme>banniere</rhyme>
+<lb n="AUBA.045a:09 "/>En une court\ de <name ref="France"><c>f</c>rance</name> <g lemma="sollenner" en="to solemnise" fr="solleniser" type="not in DMF"><rhyme>sollempnée</rhyme></g>
+<lb n="AUBA.045a:10 "/>De <name ref="Philippe+le+Hardi">prince</name> hault,\ telement <rhyme>gouv<abbr type="er"/>née</rhyme>
+<lb n="AUBA.045a:11 "/>Que personne\ n'y a qui toute <rhyme>aduite</rhyme><l n=" 8"/>
+<lb n="AUBA.045a:12 "/>Ne soit d'honneur,\ dont, chose est <rhyme>certenée</rhyme>,
+<lb n="AUBA.045a:13 "/><emph rend="italic">Selon seigneur voit on mesgnée <rhyme>duite</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.045a:15 "/>Le très hault <name ref="Philippe+le+Hardi">duc,\ filz de roy</name>, qui est <rhyme>vuit</rhyme>
+<lb n="AUBA.045a:16 "/>De tout orgueil\ et qui sagece a <rhyme>chiere</rhyme>,<l n="12"/>
+<lb n="AUBA.045a:17 "/><name ref="Philippe+le+Hardi">Phelippe, bon\ des <name ref="Burgundians"><c>b</c>ourgongnons</name></name> <rhyme>reduit</rhyme>,
+<lb n="AUBA.045a:18 "/>Et les <name ref="Flemings"><c>f</c>lamens</name>\ tous a\ soubz sa <rhyme>baniere</rhyme>,
+<lb n="AUBA.045a:19 "/>En est le chief,\ en qui <name ref="Prudence"><c>p</c>rudence</name> <rhyme>entiere</rhyme>
+<lb n="AUBA.045a:20 "/>Maint\ si qu'il n'a\ o lui personne <rhyme>née</rhyme><l n="16"/>
+<lb n="AUBA.045a:21 "/>Qui en tous cas ne soit <add place="inline" evidence="erasure, 2 letter space filler" >si</add> <rhyme>ordenée</rhyme>
+<lb n="AUBA.045a:22 "/>C'on peut dire\ de sa très plaisa<abbr type="n"/>t <rhyme>suite</rhyme>,
+<lb n="AUBA.045a:23 "/>Tant noblement est\ et bien <rhyme>doctrinée</rhyme>,
+<lb n="AUBA.045a:24 "/><emph rend="italic">Selon seigneur <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045a:26 "/>Bel fait vëoir\ celle court qui <rhyme>reluit</rhyme>
+<lb n="AUBA.045a:27 "/>De nobles gens\ en fait\ et en <rhyme>maniere</rhyme>,
+<lb n="AUBA.045a:28 "/>Si beaulx,\ si gens,\ si courtois\ q<abbr type="ue"/> <rhyme>deduit</rhyme>
+<lb n="AUBA.045a:29 "/>Est du vëoir\ et sans maniere <rhyme>fiere</rhyme>,<l n="24"/>
+<lb n="AUBA.045a:30 "/>Si gracïeux que c'est joye <g lemma="plénier" en="complete" fr="complet"><rhyme>planiere</rhyme></g>;
+<lb n="AUBA.045a:31 "/>Et aux armes\ nulz meilleurs de <rhyme>l'a<abbr type="n"/>née</rhyme>
+<lb n="AUBA.045a:32 "/>On ne verra\ n'en champ, në a <rhyme>journée</rhyme>,
+<lb n="AUBA.045a:33 "/>Mais s'ilz sont bons\ et hardis et sanz <rhyme>fuite</rhyme>,<l n="28"/>
+<lb n="AUBA.045a:34 "/>C'est b<abbr type="ie"/>n raison.\ <c>p</c>ar coustume <rhyme>affermée</rhyme>,
+<lb n="AUBA.045a:35 "/><emph rend="italic">Selon seigneur\ voit on mesgnée <rhyme>duite</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.045a:37 "/>Prince excellant,\ se <g lemma="morigéner" en="well educated, well mannered" fr="de bonne éducation, de bonnes moeurs"><rhyme> b<abbr type="ie"/>n moriginée</rhyme></g>
+<lb n="AUBA.045a:38 "/>Est vostre court\ par <name ref="Nobility"><c>n</c>oblece</name> <rhyme>conduite</rhyme>,<l n="32"/>
+<lb n="AUBA.045a:39 "/>Le proverbe dit,\ c'est chose <rhyme>informée</rhyme>:
+<lb n="AUBA.045a:40 "/><emph rend="italic">Selon <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></div2>
+<cb n="b"/><layout ruledLines="40"/>
+<group n="37"/><div2 n="37" satfno="39" type="Ballade layée" metre="10 &amp; 4" length="28" refrain="1" stanza="ababc4cdd" envoi="c4cdd" rhyme="ffff"><lb n="AUBA.045b:01 "/><hi rend="cap2">F</hi><c><s>L</s></c>eur des meilleurs,\ <s>h</s>au<s>l</s>te, <s>h</s>onorée <rhyme>dame</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 39.</note>
+<lb n="AUBA.045b:02 "/><c>d</c>e tout mon cuer\ très amée et <rhyme>cherie</rhyme>,
+<lb n="AUBA.045b:03 "/>Bonne, sage,\ très parfaicte et sanz <rhyme>blame</rhyme>,
+<lb n="AUBA.045b:04 "/>Helas, vueillés\ que par vous soit <rhyme>garie</rhyme><l n=" 4"/>
+<lb n="AUBA.045b:05 "/>Ma dure <rhyme>peine</rhyme>.
+<lb n="AUBA.045b:06 "/>Appercevoir\ vueillez que je me <rhyme>peine</rhyme>
+<lb n="AUBA.045b:07 "/>De vous servir,\ ne je n'ay autre <rhyme>envie</rhyme>,
+<lb n="AUBA.045b:08 "/><emph rend="italic">Car je vous ay\ retenue à ma <rhyme>vie</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045b:10 "/>Et de pieça\ me tient, car corps et <rhyme>ame</rhyme>,
+<lb n="AUBA.045b:11 "/>Pensée, amour\ soubz vostre <rhyme>seignourie</rhyme>
+<lb n="AUBA.045b:12 "/>Très mon enfance y mis, ne depuis <rhyme>ame</rhyme>
+<lb n="AUBA.045b:13 "/>Ne l'en osta;\ ne n'en sera <rhyme>garie</rhyme>,<l n="12"/>
+<lb n="AUBA.045b:14 "/>Chose est <rhyme>certaine</rhyme>,
+<lb n="AUBA.045b:15 "/><add place="inline" evidence="erasure, paler ink, punctus in outer margin" reason="new version of hemistich">Jamais nul <c>J</c>our</add>, fors par vous qui <rhyme>fontaine</rhyme>
+<lb n="AUBA.045b:16 "/>Estes do<abbr type="n"/>t <add place="inline" evidence="erasure, slightly larger point">peut ma <c><s>J</s></c>oye</add> <add evidence="broad caret" place="supralinear" type="">estre</add> <rhyme>assouvie</rhyme>,
+<lb n="AUBA.045b:17 "/><emph rend="italic">Car je vous ay retenu<choice><sic></sic><corr reason="sense" source="SATF" resp="JCL" rend="very significant error">e</corr></choice> à ma <rhyme>vie</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045b:19 "/>Belle plaisant,\ que mon cuer ta<abbr type="n"/>t <rhyme>reclame</rhyme>,
+<lb n="AUBA.045b:20 "/>Par vo pitié\ vous plaise que <rhyme>tarie</rhyme>
+<lb n="AUBA.045b:21 "/>Soit l'<choice><sic>o</sic><corr reason="sense" resp="JCL" source="SATF" rend="very significant">a</corr></choice>rdure du desir qui <rhyme>m'enflame</rhyme>.
+<lb n="AUBA.045b:22 "/>N'est ce pas droit\ que me soit <g lemma="remérir" en="to reward" fr="récompenser"><rhyme>remerie</rhyme></g><l n="20"/>
+<lb n="AUBA.045b:23 "/>L'amour <rhyme>certaine</rhyme>
+<lb n="AUBA.045b:24 "/>Dont je vous aim,\ très doulce <rhyme>tremontaine</rhyme>,
+<lb n="AUBA.045b:25 "/>Puis que serés tous jours de moy <rhyme>s<abbr type="er"/>vie</rhyme>,
+<lb n="AUBA.045b:26 "/><emph rend="italic">Car je vous ay\ retenue à ma <rhyme>vie</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045b:28 "/>Ma <rhyme>souveraine</rhyme>
+<lb n="AUBA.045b:29 "/>Dame, amez moy,\ car je vous <rhyme>acertaine</rhyme>
+<lb n="AUBA.045b:30 "/>De n'en partir\ ja, se je ne <g lemma="dévier2" en="to die" fr="mourir"><rhyme>devie</rhyme></g>,
+<lb n="AUBA.045b:31 "/><emph rend="italic">Car je vo<abbr type="us"/> <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="38"/><div2 n="38" satfno="40" type="Ballade" metre="7" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fmf"><lb n="AUBA.045b:33 "/><hi rend="cap2">N</hi>e doubtez point du <rhyme>contraire</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 40.</note>
+<lb n="AUBA.045b:34 "/>Car dit\ vous en ay le <rhyme>voir</rhyme>,
+<lb n="AUBA.045b:35 "/>Belle, comment sans <rhyme>retraire</rhyme>
+<lb n="AUBA.045b:36 "/>Vous aim et sans <rhyme>decevoir</rhyme>.<l n=" 4"/>
+<lb n="AUBA.045b:37 "/>Vueillés lë <rhyme>appercevoir</rhyme>
+<lb n="AUBA.045b:38 "/>Et m'amez; ostez <rhyme>m'ardure</rhyme>,
+<lb n="AUBA.045b:39 "/>Car sans reconfort <rhyme>avoir</rhyme>
+<lb n="AUBA.045b:40 "/><emph rend="italic">Je mourray se m'estes <rhyme>dure</rhyme></emph>.<l n=" 8"/><!-- signatures 'E ii', black ink ; 'ii', brown ink -->
+ <pb ed="v" n="045" l="AUBA.045v:01"/><layout ruledLines="no"/><hi rend="run"><fw type="header1" place="column c, no ruled space" rend="tabbed"><s>A</s>ultres</fw><note>The top of 'A' has been cut by the binder.</note><fw type="header2" place="intercolumn, no ruled space" rend="left aligned">balades</fw> <fw type="header3" place="column d, no ruled space" rend="centred">&#x95; ix &#x95;</fw></hi><cb n="c"/><layout ruledLines="40"/><note>Unusually, the first ruled line is blank.</note><!-- 1 blank line -->
+<lb n="AUBA.045c:02 "/><s rend="flourished">V</s>oz <s>b</s>eau<s>l</s>x <s>y</s>eu<s>l</s>x <s rend="inverted commas">v</s>iennent <rhyme>attraire</rhyme>
+<lb n="AUBA.045c:03 "/>Si mon cuer\ que <rhyme>desmouvoir</rhyme>
+<lb n="AUBA.045c:04 "/>Ne l'en puis. <c>d</c>'autre part <rhyme>traire</rhyme>
+<lb n="AUBA.045c:05 "/>Lui vient <name ref="God+of+Love"><c>a</c>mour</name>\ qui <rhyme>ravoir</rhyme><l n="12"/>
+<lb n="AUBA.045c:06 "/>Le veult, et force et <rhyme>savoir</rhyme>
+<lb n="AUBA.045c:07 "/>M'ost<choice><sic>ent</sic><corr reason="sense, singular for plural" resp="JCL" source="none" rend="significant error, also  in SATF">e</corr></choice>, n'il n'y a <rhyme>mesure</rhyme>.
+<lb n="AUBA.045c:08 "/>Dont par tel mal <rhyme>recevoir</rhyme>
+<lb n="AUBA.045c:09 "/><emph rend="italic"><s>J</s>e mourray se m'estes <rhyme>dure</rhyme></emph>,<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045c:11 "/>Si vous plaise vers moy <rhyme>traire</rhyme>
+<lb n="AUBA.045c:12 "/><name ref="Pitié">Pitié</name> qui face <rhyme>esmouvoir</rhyme>
+<lb n="AUBA.045c:13 "/>Vo cuer, par quoy vous puist <rhyme>plaire</rhyme>
+<lb n="AUBA.045c:14 "/>M'amer, car si mon <rhyme>devoir</rhyme><l n="20"/>
+<lb n="AUBA.045c:15 "/>Feray,\ sanz m'en <rhyme>desmouvoir</rhyme>
+<lb n="AUBA.045c:16 "/>De vous servir, le vous <rhyme>jure</rhyme>.
+<lb n="AUBA.045c:17 "/>Mais bien vous fais <rhyme>assavoir</rhyme>
+<lb n="AUBA.045c:18 "/><emph rend="italic"><s>J</s>e mourray se m'estes <rhyme>dure</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045c:20 "/>Ma dame, corps,\ ame,\ <rhyme>avoir</rhyme>\
+<lb n="AUBA.045c:21 "/>Est\ tout vostre.\ <c>a</c>yez en <rhyme>cure</rhyme>.
+<lb n="AUBA.045c:22 "/>Puis que ne l'en puis <rhyme>ravoir</rhyme>,
+<lb n="AUBA.045c:23 "/><emph rend="italic"><s>J</s>e mourray</emph><choice><corr reason="consistency" resp="JCL">etc.</corr></choice><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="39"/><div2 n="39" satfno="41" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fff"><lb n="AUBA.045c:25 "/><hi rend="cap2">M</hi>erveilles <add evidence="paler ink, broad caret" place="supralinear" type="">est – <choice><orig>&amp;</orig><reg>et</reg></choice></add> seroit fort à <rhyme>croire</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 41. The text lacks line 13 and contains an unusually large number of corrections.</note>
+<lb n="AUBA.045c:26 "/><c>è</c>s estranges contrées qu'il peust <rhyme>est<abbr type="re"/></rhyme> –
+<lb n="AUBA.045c:27 "/>Qu'en ce paÿs,\ qui de longue <rhyme>memoire</rhyme>
+<lb n="AUBA.045c:28 "/>Est renommé\ en honneur sur tout <rhyme>est<abbr type="re"/></rhyme>,<l n=" 4"/>
+<lb n="AUBA.045c:29 "/>Que verité,\ depuis le greigneur <rhyme>maistre</rhyme>
+<lb n="AUBA.045c:30 "/>Jusqu'au petit <add place="inline" evidence="erasure, paler ink, larger font, two letter space filler">si</add> à paine <rhyme>trouvée</rhyme>
+<lb n="AUBA.045c:31 "/>Fust comme elle est.\ <c>c</c>'est b<abbr type="ie"/>n chose <rhyme>senestre</rhyme>
+<lb n="AUBA.045c:32 "/><emph rend="italic">Qu'en <name ref="France"><c>f</c>rance</name> soit si mençonge <rhyme>eslevée</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045c:34 "/>Mais de parler\ bel n'y voit on <g lemma="recroire" en="to cease, decide not to" fr="renoncer à, cesser de"><rhyme>recroire</rhyme></g>
+<lb n="AUBA.045c:35 "/>Les principaulx; et pour faire gens <rhyme>paistre</rhyme>
+<lb n="AUBA.045c:36 "/>Grans promesses,\ dont l'atente n'est <rhyme>voire</rhyme>,
+<lb n="AUBA.045c:37 "/>Ne leur couste\ riens, mais qui <g lemma="empêtrer" en="to seek to obtain" fr="chercher à obtenir" type="No reflexive form in DMF">s'en <rhyme>empestre</rhyme></g><l n="12"/>
+<lb n="AUBA.045c:37a"/><choice><sic></sic><corr reason="line omitted" resp="JCL" source="SATF">Se puet de vent comme pluvier repaistre</corr></choice>
+<!-- Line 13 omitted, NIL in margins ? -->
+<lb n="AUBA.045c:38 "/><add place="inline" evidence="erasure affecting initial of following line, paler ink, larger point">P</add>ar<note>The correction takes account of the break in sense caused by the omission of the preceding line.</note> lont effait,\ où ist, chose est <rhyme>prouvée</rhyme>,
+<lb n="AUBA.045c:39 "/>Cest lait renom\ qu'aquiert sa noble <g lemma="ancêtre" en="ancestry" fr="aïeux" type="nominative sing."><rhyme>encest<abbr type="re"/></rhyme></g>
+<lb n="AUBA.045c:40 "/><emph rend="italic">Qu'en <name ref="France"><c>f</c>rance</name> soit\ si mençonge <rhyme>eslevée</rhyme></emph>.<l n="16"/>
+<cb n="d"/><layout ruledLines="40"/><!-- 1 blank line -->
+<lb n="AUBA.045d:02 "/>Et quant à moy,\ pour ce que si <rhyme>nottoire</rhyme><note>Unusually, the first ruled line is blank.</note>
+<lb n="AUBA.045d:03 "/>Mençonge voy,\ il n'est chose <rhyme>terrestre</rhyme>
+<lb n="AUBA.045d:04 "/>Que on me die,<note>There are two ways of reading the first hemistich: with elision, s is normal, or with hiatus thereby creating an epic caesura.</note>\ quiconq<abbr type="ue"/>s la <g lemma="avérer" en="to affirm the truth of sth." fr="affirmer la vérité de qch." type="3 pres. subj."><rhyme>m'avoire</rhyme></g>,
+<lb n="AUBA.045d:05 "/>Ne promesse\ jurée de main <rhyme>destre</rhyme><l n="20"/>
+<lb n="AUBA.045d:06 "/>Que je croy<add place="inline" evidence="dot, 'e' of larger point compressed and awkwardly formed; associated with deletion later in verse?">e</add>,\ se le voir<del rend="two space dash over erasure"></del> ne voy <rhyme>naistre</rhyme>,
+<lb n="AUBA.045d:07 "/>Car pou y truis\ fors que fraude <rhyme>esprouvée</rhyme>;
+<lb n="AUBA.045d:08 "/>Et c'est pitié, <add place="inline" evidence="paler ink, dot, space follows">par</add> le hault <name ref="God"><c>d</c>ieu</name> <rhyme>celestre</rhyme>,
+<lb n="AUBA.045d:09 "/><emph rend="italic">Qu'en <name ref="France"><c>f</c>rance</name> soit si mençonge <add place="inline" evidence="erasure, blurring, preceded by dash and space, dot in gutter margin?"><rhyme>eslevée</rhyme></add></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.045d:11 "/>A haulx princes\ pour <name ref="God"><c>d</c>ieu</name> ne\ <del rend="erasure" evidence="descender erased below the line">p?</del><add place="inline" evidence="descender erased">v</add>ous <g lemma="adextrer" en="to lead, guide" fr="conduire, guider"><rhyme>adestre</rhyme></g>
+<lb n="AUBA.045d:12 "/>Vice si lait\ c'est chose <rhyme>reprouvée</rhyme>;
+<lb n="AUBA.045d:13 "/>S<add  place="inline" evidence="erasure, paler ink">i</add> deboutez tout homme qui <g lemma="empétrer" en="to aim, seek" fr="chercher"><rhyme>empetre</rhyme></g>
+<lb n="AUBA.045d:14 "/><emph rend="italic">Qu'en <name ref="France"><c>f</c>rance</name> <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="40"/><div2 n="40" satfno="42" type="Ballade" metre="" length="37" refrain="1" stanza="ababbccdede" envoi="dede" rhyme="mffmf"><lb n="AUBA.045d:16 "/><hi rend="cap2">P</hi>lourez, <name ref="French"><c>f</c>rançois</name>,\ tous d'un co<abbr type="m"/>mun <rhyme>vouloir</rhyme>;<note>SATF <emph rend="italic">Autre Balade</emph> 42.</note>
+<lb n="AUBA.045d:17 "/><c>g</c>rans et petis,\ plourez ceste g<abbr type="ra"/>nt <rhyme>p<abbr type="er"/>te</rhyme>.
+<lb n="AUBA.045d:18 "/>Plourez, <name ref="Charles+VI">bon roy</name>,\ b<abbr type="ie"/>n vous devez <rhyme>douloir</rhyme>;
+<lb n="AUBA.045d:19 "/>Plourer devez vostre <g lemma="grevance" en="hurt, harm" fr="dommage, tort">grevance</g> <rhyme>app<abbr type="er"/>te</rhyme>.<l n=" 4"/>
+<lb n="AUBA.045d:20 "/>Ploure<choice><sic>r</sic><corr reason="sense" source="SATF" resp="JCL">z</corr></choice> la mort\ de cil qui p<abbr type="ar"/> <g lemma="desserte" en="merit" fr="mérite"><rhyme>desserte</rhyme></g>
+<lb n="AUBA.045d:21 "/>Amer dev<add evidence="paler ink, dot below insertion" place="supralinear" type="angular">i</add>ez\ et par droit de <rhyme>lignage</rhyme>,
+<lb n="AUBA.045d:22 "/>Vostre loyal\ noble oncle, <name ref="Philippe+le+Hardi">le t<abbr type="rè"/>s <rhyme>sage</rhyme>
+<lb n="AUBA.045d:23 "/>Des <name ref="Burgundians"><c>b</c>ourgongnons</name>/ prince <choice><orig>&amp;</orig><reg>et</reg></choice> duc <rhyme>excella<abbr type="n"/>t</rhyme></name>,<l n=" 8"/>
+<lb n="AUBA.045d:24 "/>Car je vous di/ qu'en mai<abbr type="n"/>te g<abbr type="ra"/>nt <rhyme>besongne</rhyme>
+<lb n="AUBA.045d:25 "/>Ancor dirés\ très fort, à cuer <rhyme>dolent</rhyme>,
+<lb n="AUBA.045d:26 "/><emph rend="italic">"À faire eussions du <name ref="Philippe+le+Hardi">bon/ duc de <rhyme><c>b</c>ourgongne</rhyme></name>".</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.045d:28 "/>Ploure<choice><sic>r</sic><corr reason="sense" source="SATF" resp="JCL">z</corr></choice>, <name ref="Jean+de+Berry "><c>b</c>erry</name>,\ et ploure<choice><sic>r</sic><corr reason="sense" source="SATF" resp="JCL">z</corr></choice>, tuit <g lemma="son4" en="his" fr="ses" type="poss. nom. m. pl.">si</g> <rhyme>hoir</rhyme>,<l n="12"/>
+<lb n="AUBA.045d:29 "/>Car cause avez:\ <name ref="Death"><c>m</c>ort</name> la vous a/ <rhyme>ouverte</rhyme>.
+<lb n="AUBA.045d:30 "/><name ref="Louis+d'Orléans ">Duc d'<c>o</c>rlïens</name>,\ moult vous en doit <rhyme>chaloir</rhyme>,
+<lb n="AUBA.045d:31 "/>Car par son sens\ mainte faute est <rhyme>couv<abbr type="er"/>te</rhyme>.
+<lb n="AUBA.045d:32 "/><name ref="Jean+VI+de+Bretagne">Duc des <c>b</c>retons</name>,\ plourez, car je suis <g lemma="cert" en="sure" fr="sûr, certain"><rhyme>certe</rhyme></g><l n="16"/>
+<lb n="AUBA.045d:33 "/>Qu'à faire arés\ de lui en vo jeune <rhyme>aage</rhyme>.
+<lb n="AUBA.045d:34 "/>Plourez, <name ref="Flemings"><c>f</c>lamens</name>,\ son noble <g lemma="seigneurage" en="lordship" fr="autorité seigneuriale"><rhyme>seignourage</rhyme></g>;
+<lb n="AUBA.045d:35 "/>Tout noble sanc,\ alez vous <g lemma="adouler" en="to grieve" fr="se livrer à la douleur"><rhyme>adoula<abbr type="n"/>t</rhyme></g>.
+<lb n="AUBA.045d:36 "/>Plourez, ses gens,\ car/ <name ref="Joy"><c>j</c>oye</name> vo<abbr type="us"/> <g lemma="éloigner" en="to leave, quit" fr="quitter"><rhyme>eslongne</rhyme></g>,<l n="20"/>
+<lb n="AUBA.045d:37 "/>Dont vous dirés\ souvent en vo<abbr type="us"/> <g lemma="douloir" en="to suffer, sorrow" fr="'affliger, souffrir"><rhyme>doulant</rhyme></g>
+<lb n="AUBA.045d:38 "/><emph rend="italic">"À faire eussions/ du <name ref="Philip+the+Bold">bon duc de <rhyme><c>b</c>ourg<abbr type="ongne"/></rhyme></name>".</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.045d:40 "/>Plourez, <name ref="Isabeau"><s rend="inverted comma">r</s>o<s>ÿ</s>ne</name>,\ et a<s>y</s>és le cuer <rhyme>noir</rhyme>
+<pb ed="r" n="046" l="AUBA.046r:01"/><layout rend="above ruling" ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="tabbed"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, above ruled space" rend="left aligned">balades</fw> <fw type="header3" place="column b, above ruled space" rend="tabbed">&#x95; ix</fw></hi><cb n="a"/><layout ruledLines="41" writtenLines="42"/><lb n="AUBA.046a:01 "/>Pour cil <choice><sic>pour</sic><corr reason="sense" source="SATF" resp="JCL">par</corr></choice> qui\ fustes oû trosne <rhyme>offerte</rhyme>.<l n="24"/>
+<lb n="AUBA.046a:02 "/>Plourez, dames,\ sans en joye <rhyme>manoir</rhyme>.
+<lb n="AUBA.046a:03 "/><name ref="France">France</name>, plour<choice><sic>ez</sic><corr reason="singular required; cf. line 28" resp="JCL">e</corr></choice>,\ d'un piller es <rhyme>deserte</rhyme>,
+<lb n="AUBA.046a:04 "/>Dont tu reçois\ esche<del rend="overwritten">t</del><add place="inline" evidence="overwritten">q</add> <g lemma="découvert" en="in an exposed position" fr="en position exposée" type="many masculine examples in DMF, but no feminine ones">à <rhyme>descouverte</rhyme></g>.
+<lb n="AUBA.046a:05 "/>Gard toy du <g lemma="mat2" en="checkmate" fr="mat, mise en échec">mat</g>,\ quant <name ref="Death"><c>m</c>ort</name> p<abbr type="ar"/> son <rhyme>oultrage</rhyme><l n="28"/>
+<lb n="AUBA.046a:06 "/>Tel chevalier/ t'a tolu c'est <rhyme>dommage</rhyme>.
+<lb n="AUBA.046a:07 "/>Plourez, <name ref="Common+People">peuple\ commun</name>, sans estre <rhyme>lent</rhyme>,
+<lb n="AUBA.046a:08 "/>Car moult perdez\ et chacun le <rhyme>tesmongne</rhyme>,
+ <lb n="AUBA.046a:09 "/>Dont vous dirés\ souve<abbr type="n"/>t, <g lemma="mat1" en="downhearted, discouraged" fr="abattu, découragé" type="masculine subject plural" >ma<choice><sic>te</sic><corr reason="gender, agreement" resp="JCL">t</corr></choice></g> et <g lemma="relent" en="sickened, despondent" fr="écoeuré, découragé" type="masculine subject plural; add this sense to DMF?"><rhyme>relent</rhyme></g>,<l n="32"/>
+<lb n="AUBA.046a:10 "/><emph rend="italic">"À faire eussions\ du <name ref="Philip+the+Bold">bon duc de <rhyme><c>b</c>ourg<abbr type="ongne"/></rhyme></name>".</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.046a:12 "/>Princes royaulx,\ prïé<del rend="overwritten">r</del><add place="inline" evidence="crudely overwritten in paler ink">s</add> <choice><sic>pour</sic><corr reason="sense" source="SATF" resp="JCL">par</corr></choice> bon <g lemma="talent" en="desire, will" fr="désir, volonté"><rhyme>tale<abbr type="n"/>t</rhyme></g>
+<lb n="AUBA.046a:13 "/>Pour le <name ref="Philip+the+Bold">bon duc</name>,\ car sans moult gra<abbr type="n"/>t <g lemma="porloigne" en="delay" fr="retard, délai"><rhyme>p<abbr type="ar"/>longne</rhyme></g>,
+<lb n="AUBA.046a:14 "/>En voz <g lemma="conseil" en="council" fr="conseil" type="object plural">consaulx</g>\ de dire arés <rhyme>tale<abbr type="n"/>t</rhyme>,<l n="36"/>
+<lb n="AUBA.046a:15 "/><emph rend="italic">"À faire eussions\ du <name ref="Philip+the+Bold">bon duc de <rhyme><c>b</c>ourg<abbr type="ongne"/></rhyme></name></emph>".</div2>
+<!-- 1 blank line -->
+<group n="41"/><div2 n="41" satfno="43" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="ffm"><lb n="AUBA.046a:17"/><hi rend="cap2">D</hi>ames d'onneur,\ gardez voz <rhyme>renommées</rhyme>;<note>SATF <emph rend="italic">Autre Balade</emph> 43.</note>
+<lb n="AUBA.046a:18 "/><c>p</c>our <name ref="God"><c>d</c>ieu</name> mercis\ <g lemma="esquiver" en="to avoid, shun" fr="fuir éviter">eschevez</g> le <rhyme>cont<abbr type="ra"/>ire</rhyme>
+<lb n="AUBA.046a:19 "/>De bon renom\ que ne soiés <rhyme>blamées</rhyme>.
+<lb n="AUBA.046a:20 "/>Ne vueillez point / acointances <del rend="erasure?"></del><add place="inline" evidence="paler ink, larger point, 'tt', dot in intercolumn?, mark in gutter margin"><rhyme>attraire</rhyme></add><l n=" 4"/>
+<lb n="AUBA.046a:21 "/>Teles qu'on puist recorder ne <rhyme>retraire</rhyme>
+<lb n="AUBA.046a:22 "/>Par voz maintiens qu'ayés legers les <rhyme>cuers</rhyme>
+<lb n="AUBA.046a:23 "/>Ne qu'en nul cas vous daignissiés <rhyme>meffaire</rhyme>,
+<lb n="AUBA.046a:24 "/><emph rend="italic">Et ne croyez <g lemma="flajol" en="rustic flute" fr="flûte champêtre">flajolz</g> de <rhyme>deceveurs</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+ <lb n="AUBA.046a:26 "/>Car pou v<del rend="overwritten, erasure">o</del><add place="inline, over erasure"  evidence="paler ink, blurring, 't'">auldroit cui</add>/der b<abbr type="ie"/>n est<abbr type="re"/> <rhyme>amées</rhyme>
+<lb n="AUBA.046a:27 "/>D'ommes plusieurs\ pour recevoir <rhyme>salaire</rhyme>
+<lb n="AUBA.046a:28 "/>De mauvais los\ par paroles <rhyme>semées</rhyme>
+<lb n="AUBA.046a:29 "/>En divers lieux\ qu'il eust en vostre <rhyme>affaire</rhyme><l n="12"/>
+<lb n="AUBA.046a:30 "/>Legiereté.\ <c>s</c>i vous est <rhyme>neccessaire</rhyme>
+<lb n="AUBA.046a:31 "/>D'avoir recort\ toudis des <rhyme>deshonne<abbr type="ur"/>s</rhyme>
+<lb n="AUBA.046a:32 "/>Là où chëoir\ on peut par folour <rhyme>faire</rhyme>,
+<lb n="AUBA.046a:33 "/><emph rend="italic">Et ne croyez\ flajolz de <rhyme>deceveurs</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.046a:35 "/>Or soiés dont\ de parfait sens <rhyme>armées</rhyme>
+<lb n="AUBA.046a:36 "/>Contre ceulx qui\ tachent ta<abbr type="n"/>t à <rhyme>soubztraire</rhyme>
+<lb n="AUBA.046a:37 "/>L'onneur de vous\ et de qui <rhyme>diffamées</rhyme>
+<lb n="AUBA.046a:38 "/>Estes souvent\ sans cause, et po<abbr type="ur"/> vo<abbr type="us"/> <rhyme>plaire</rhyme><l n="20"/>
+<lb n="AUBA.046a:39 "/>Font le courtois.\ <c>e</c>t je ne m'en puis <rhyme>taire</rhyme>,
+<lb n="AUBA.046a:40 "/>Car j'en congnois et scez de tieulx <rhyme>vante<abbr type="ur"/>s</rhyme>
+<lb n="AUBA.046a:41 "/>Qui vous flatte<abbr type="n"/>t.\ <c>v</c>ueillez vous en <rhyme>retraire</rhyme>,
+ <lb n="AUBA.046a:42 "/><fw size="smaller"><emph rend="italic">Et ne <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></fw><l n="24"/><note>The abbreviated refrain is in smaller point and is positioned below the the last ruled line of columna.</note>
+<cb n="b"/><layout ruledLines="41"/><!-- 1 blank line -->
+<lb n="AUBA.046b:02 "/><s rend="unusual, very elaborate">C</s>hieres dames,\ ne vous <s rend="two sets of inverted commas">v</s>ueille <rhyme>desplaire</rhyme>
+<lb n="AUBA.046b:03 "/>Se je vous lo à garder des <rhyme>flateurs</rhyme>
+<lb n="AUBA.046b:04 "/>Qui ne tachent\ qu'à voz\ honneurs <rhyme>deffaire</rhyme>, 
+<lb n="AUBA.046b:05 "/><emph rend="italic">Et ne <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2><note>The refrain is in paler.</note>
+<!-- 1 blank line --><note>There is a plus sign in the intercolumnar margin.</note>
+<group n="42"/><div2 n="42" satfno="44" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="ffm"><lb n="AUBA.046b:07 "/><hi rend="cap2">D</hi>u mois de may je me tieng pour <rhyme>contente</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 44.</note> <note>This poem is in paler ink and in a less exuberant hand. The text contains only one abbreviation and only one '\'.</note>
+<lb n="AUBA.046b:08 "/>D'<name ref="God+of+Love"><c>a</c>mours</name> aussi de qui me vient la <rhyme>joye</rhyme>,
+<lb n="AUBA.046b:09 "/>Par ce que voy souvent com droite <rhyme>rente</rhyme>
+<lb n="AUBA.046b:10 "/>Ung bel amy que j'ay qui me <rhyme>resjoye</rhyme>;<l n=" 4"/>
+<lb n="AUBA.046b:11 "/>Ce tient mon cuer en léece où que <rhyme>soye</rhyme>,
+<lb n="AUBA.046b:12 "/>Car choisy l'ay de tous biens pour ma <rhyme>part</rhyme>.
+<lb n="AUBA.046b:13 "/>C'est mon plaisir, n'aultre ne me <rhyme>resjoye</rhyme>,
+<lb n="AUBA.046b:14 "/><emph rend="italic">Ne mon penser nulle heure ne s'en <rhyme>part</rhyme></emph>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.046b:16 "/>O quel solas et quel joyeuse <rhyme>attente</rhyme>
+<lb n="AUBA.046b:17 "/>Ce m'est quant suis en lieu seulette <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>coye</rhyme>
+<lb n="AUBA.046b:18 "/>Où je l'attens, combien que à l'eure <rhyme>sente</rhyme>
+<lb n="AUBA.046b:19 "/>Moult grant frayeur de päour que on le <rhyme>voye</rhyme>.<l n="12"/>
+<lb n="AUBA.046b:20 "/>Mais quant vers moy a achevé la <rhyme>voye</rhyme>,
+<lb n="AUBA.046b:21 "/>Lors de baisiers serrez donnons tel <rhyme>part</rhyme>
+<lb n="AUBA.046b:22 "/>Que la doulceur oublïer ne <rhyme>pourroye</rhyme>,
+<lb n="AUBA.046b:23 "/><emph rend="italic">Ne m<choice><sic>e</sic><corr reason="consistency" resp="JCL">o</corr></choice>n penser nulle heure ne s'en <rhyme>part</rhyme></emph>.<l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.046b:25 "/>Et se penser y ay, cuer et <rhyme>entente</rhyme>
+<lb n="AUBA.046b:26 "/>Merveilles n'est; c'est droiz q<abbr type="ue"/> avoir lui <rhyme>doye</rhyme>,
+<lb n="AUBA.046b:27 "/>Car le grant bien de lui m'i maine <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>tente</rhyme>
+<lb n="AUBA.046b:28 "/>Et sa doulceur et ce que tout <rhyme>s'employe</rhyme><l n="20"/>
+<lb n="AUBA.046b:29 "/>À me servir,\ si sçay que s'amour <rhyme>moye</rhyme>
+<lb n="AUBA.046b:30 "/>Est <g lemma="nu" en="purely, truly" fr="purement, vraiment" type="adverb not in DMF">nuement</g> n'ailleurs point n'en <rhyme>depart</rhyme>;
+<lb n="AUBA.046b:31 "/>Pareillement il m'en est par tel <rhyme>voye</rhyme>
+<lb n="AUBA.046b:32 "/><emph rend="italic">Ne mon penser nulle heure ne s'en <rhyme>part</rhyme></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.046b:34 "/>Mon doulx ami, qui es comble <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>monjoye</rhyme>
+<lb n="AUBA.046b:35 "/>De tout honneur et bonté, <c>I</c>l m'est <rhyme>tart</rhyme>
+<lb n="AUBA.046b:36 "/>Qu'entre mes bras briefment <c>J</c>e te <rhyme>festoye</rhyme>,
+<lb n="AUBA.046b:37 "/><emph rend="italic">Ne mon penser nulle heure ne s'en <rhyme>part</rhyme></emph>.<l n="28"/></div2><!-- 4 blank lines -->
+<pb ed="v" n="046" l="AUBA.046v:01"/><layout rend="above ruling" ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c, above ruled space" rend="tabbed"><s>A</s>ultres </fw> <fw type="header2" place="column c, above ruled space" rend="tabbed">balades</fw> <fw type="header3" place="column d, above ruled space" rend="tabbed">&#x95;&#x95; ix &#x95;</fw></hi>
+<cb n="c"/><layout ruledLines="41"/>
+<group n="43"/><div2 n="43" satfno="46" type="Ballade" metre="7" length="25" refrain="1" stanza="ababccdd" envoi="ccdd" rhyme="ffff"><lb n="AUBA.046c:01 "/><hi rend="cap2">S</hi>e je puis estre <rhyme>certaine</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 46.</note>
+<lb n="AUBA.046c:02 "/><c>d</c>e ce dont je suis en <rhyme>doubte</rhyme>
+<lb n="AUBA.046c:03 "/>C'est que je n'aye pas <rhyme>plaine</rhyme>-
+<lb n="AUBA.046c:04 "/>Ment/ t'amour et que\ ja\ <g lemma="rompre" en="broken" fr="rompue" type="past part."><rhyme>route</rhyme></g><l n=" 4"/>
+<lb n="AUBA.046c:05 "/>Soit ta foy. <c>a</c>mis, <rhyme>escoute</rhyme>:
+<lb n="AUBA.046c:06 "/>Saches que, par <name ref="Saint+Nicaise">saint <rhyme><c>n</c>icaise</rhyme></name>,
+<lb n="AUBA.046c:07 "/><emph rend="italic"><s>J</s>e m'en mettray <g lemma="aise" en="free" fr="libre">à mon <rhyme>ayse</rhyme></g>.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.046c:09 "/>Ta maniere <rhyme>m'acertaine</rhyme><l n=" 8"/>
+<lb n="AUBA.046c:10 "/>Et monstre, se je voy <rhyme>goute</rhyme>,
+<lb n="AUBA.046c:11 "/>Que d'amour<del rend="erasure" evidence="space" reason="The sense is love in general, not love personified">s</del> foiblette et <rhyme>veine</rhyme>
+<lb n="AUBA.046c:12 "/>Tu m'aimes, dont je suis <rhyme>toute</rhyme>
+<lb n="AUBA.046c:13 "/>Esbaÿe.\ <c>m</c>ais\ <g lemma="sacouter" en="to speak quietly" fr="parler à voix basse"><rhyme>sacoute</rhyme></g>:<l n="12"/>
+<lb n="AUBA.046c:14 "/>S'ainsi est,\ ne t'en <rhyme>desplaise</rhyme>,
+<lb n="AUBA.046c:15 "/><emph rend="italic">Je m'en mettray à mon <rhyme>ayse</rhyme>,</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.046c:17 "/>Car tous jours vivroie en <rhyme>peine</rhyme>
+<lb n="AUBA.046c:18 "/>D'ainsi m'estre à toy <rhyme>trestoute</rhyme><l n="16"/>
+<lb n="AUBA.046c:19 "/>Donnée,\ et qu'à mon <g lemma="demaine2" en="company" fr="compagnie"><rhyme>demaine</rhyme></g>
+<lb n="AUBA.046c:20 "/><del rend="erasure" evidence="blurring"></del><add place="inline" evidence="paler ink, larger point, dot" >N</add>e t'eusse\ aussi; si <rhyme>redoubte</rhyme>
+<lb n="AUBA.046c:21 "/>Le <g lemma="filer" en="destiny (set by the Fates)" fr="destin (fixé par les Parques)">fillé</g> où je me <rhyme>boute</rhyme>.
+<lb n="AUBA.046c:22 "/>Pour ce, tout soit ce à <rhyme>mesaise</rhyme>,<l n="20"/>
+<lb n="AUBA.046c:23 "/><emph rend="italic">Je m'en mettray à mon <rhyme>ayse</rhyme>,</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.046c:25 "/><del rend="expunctuated in paler ink">Car</del> <c>j</c>'ay <add place="supralinear" evidence="very faint cursive insertion; no caret" type="">ja</add> plouré mainte <rhyme>goute</rhyme>
+<lb n="AUBA.046c:26 "/>Pour toy plusieurs jours <g lemma="route" en="one after the other" fr="de suite">de <rhyme>route</rhyme></g>
+<lb n="AUBA.046c:27 "/>Mais se ton cuer ne <rhyme>m'apayse</rhyme><l n="24"/>
+<lb n="AUBA.046c:28 "/><emph rend="italic">Je m'en <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></div2>
+<!-- 1 blank line -->
+<group n="44"/><div2 n="44" satfno="47" type="Ballade" metre="10" length="25" refrain="1" stanza="ababbcc" envoi="bbcc" rhyme=""><lb n="AUBA.046c:30 "/><hi rend="cap2">B</hi>elle plaisant,\ sur toutes très <rhyme>amée</rhyme>,<note>SATF <emph rend="italic">Autre Balade</emph> 47.</note>
+<lb n="AUBA.046c:31 "/>De tout mon cuer\ ma souvraine <rhyme>maist<abbr type="re"/>sse</rhyme>,
+<lb n="AUBA.046c:32 "/>Appercevez\ que plus que chose <rhyme>née</rhyme>
+<lb n="AUBA.046c:33 "/>Vous aims et crains\ et vous sers en <rhyme>hu<abbr type="m"/>blece</rhyme>;<l n=" 4"/>
+<lb n="AUBA.046c:34 "/>Et pour ce, oste<del rend="erasure" evidence="trace of original is visible">z</del><add place="inline" evidence="blurring" reason="syntax">r</add> le mal qui ta<abbr type="n"/>t me <rhyme>blece</rhyme>
+<lb n="AUBA.046c:35 "/>Vous plaise tost,\ <choice><orig>&amp;</orig><reg>et</reg></choice> ouÿr ma <rhyme>clamour</rhyme>,
+<lb n="AUBA.046c:36 "/><emph rend="italic">Et me vueillés\ ottroier vostre <rhyme>amour</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.046c:38 "/>Se par vous m'est\ telë joye <rhyme>donnée</rhyme>,<l n=" 8"/>
+<lb n="AUBA.046c:39 "/>Vous me mettrés\ en la voye <choice><orig>&amp;</orig><reg>et</reg></choice> <del rend="erasure"></del><add place="inline" evidence="blurring, paler ink"><rhyme>adrece</rhyme></add>
+<lb n="AUBA.046c:40 "/>D'estre vaillant,\ et bien <rhyme>guerredonnée</rhyme>
+<lb n="AUBA.046c:41 "/>Sera toute\ ma peine <choice><orig>&amp;</orig><reg>et</reg></choice> ma <rhyme>destresse</rhyme>.
+<cb n="d"/><layout ruledLines="41"/><lb n="AUBA.046d:01 "/>Or le faites,\ ma sou<choice><sic>ver</sic><corr reason="scansion" resp="JCL">vr</corr></choice>aine <rhyme>princesse</rhyme>,<l n="12"/>
+<lb n="AUBA.046d:02 "/>Si n'y mettez\ plus dangier ne <rhyme>demour</rhyme>,
+<lb n="AUBA.046d:03 "/><emph rend="italic">Et me vueillés\ ottroier vostre <rhyme>amour</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.046d:05 "/>Mon fin cuer doulx,\ ma dame <rhyme>redoubtée</rhyme>,
+<lb n="AUBA.046d:06 "/>Retenez moy,\ car je vous fais <rhyme>promesse</rhyme><l n="16"/>
+<lb n="AUBA.046d:07 "/>Que vostre honneur\ sera par moy <rhyme>gardée</rhyme>
+<lb n="AUBA.046d:08 "/>Entierement,\ et tous jours sans <rhyme>parece</rhyme>
+<lb n="AUBA.046d:09 "/>Vous serviray com ma doulce <rhyme>déesse</rhyme>;
+<lb n="AUBA.046d:10 "/>Si me prenez / à merci, doulce <rhyme>flour</rhyme>,<l n="20"/>
+<lb n="AUBA.046d:11 "/><emph rend="italic">Et me vueillez\ ottroier vostre <rhyme>amour</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.046d:13 "/>Plaisant tresor,\ faittes moy tel <rhyme>largece</rhyme>
+<lb n="AUBA.046d:14 "/>De voz doulx biens\ q<abbr type="ue"/> ma douleur en <rhyme>cesse</rhyme>.
+<lb n="AUBA.046d:15 "/>Secourez tost\ le mal où je <rhyme>dem<del rend="overwritten">e</del><add place="inline" evidence="blurring">o</add>ur<del rend="erasure">e</del></rhyme>,<l n="24"/>
+<lb n="AUBA.046d:16 "/><emph rend="italic">Et me <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></div2>
+<!-- 1 blank line -->
+<group n="45"/><div2 n="45" satfno="48" type="Ballade" metre="10" length="31" refrain="1" stanza="ababbcdcd" envoi="cdcd" rhyme="ffff"><lb n="AUBA.046d:18 "/><name ref="God+of+Love"><hi rend="cap2">A</hi>mours</name>, <name ref="God+of+Love"><c>a</c>mours</name>,\ tu scez plus d'un<add place="inline" evidence="larger point, squashed; erasure??">e</add>\ <rhyme>voye</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 48.</note>
+<lb n="AUBA.046d:19 "/>D'atrapper gens\ à ta <g lemma="musser" en="to hide, conceal" fr="cacher">mussée</g> <g lemma="trappe1" en="snare" fr="piège" ><rhyme>trappe</rhyme></g>,
+<lb n="AUBA.046d:20 "/>Et qui fuÿr\ te cuide se <rhyme>forvoye</rhyme>,
+<lb n="AUBA.046d:21 "/>Car il n'est riens\ que <name ref="Doulx+Regart"><c>d</c>oulx <c>r</c>egart</name> <rhyme>n'atrape</rhyme>;<l n=" 4"/>
+<lb n="AUBA.046d:22 "/>C'est ton veneur;&#x95;/<note>Unusually, 'veneur' is followed by both a punctus and a forward slash.</note> cuer n'est qui lui <rhyme>eschappe</rhyme>.
+<lb n="AUBA.046d:23 "/><name ref="Plaisant+Maintien">Plaisant <c>m</c>aintien</name>\ <name ref="Courtoisie"><c>c</c>ourtoisie</name> <choice><orig>&amp;</orig><reg>et</reg></choice> <name ref="Lengage"><rhyme><c>l</c>engage</rhyme></name>
+<lb n="AUBA.046d:24 "/>Sont tes levriers;\ <name ref="Compaignie"><c>c</c>ompaignie</name> est la <rhyme>sente</rhyme>
+<lb n="AUBA.046d:25 "/>Où tu chasses\ plus souvent qu'en <rhyme>boscage</rhyme>.<l n=" 8"/>
+<lb n="AUBA.046d:26 "/><emph rend="italic">Je le sçay bien;\ il fault q<abbr type="ue"/> <g lemma="sentir" en="to suffer" fr="éprouver">je m'en <rhyme>sente</rhyme></g></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.046d:28 "/>Certes, tes tours mie <rhyme>n'appercevoye</rhyme>
+<lb n="AUBA.046d:29 "/>Ne comment tu scez soubs couverte <g lemma="chape" en="cape" fr="manteau"><rhyme>chappe</rhyme></g>
+<lb n="AUBA.046d:30 "/>Surprendre cuers\ quant si bien me <rhyme>devoye</rhyme><l n="12"/>
+<lb n="AUBA.046d:31 "/>De toy garder\ à mon dit; mais <g lemma="agrappe" en="hook" fr="croc"><rhyme><choice><sic>la a</sic><corr reason="scansion" resp="JCL">l'a</corr></choice>grappe</rhyme></g>
+<lb n="AUBA.046d:32 "/>Dont tu tires\ à toy si mon cuer <rhyme>happe</rhyme>
+<lb n="AUBA.046d:33 "/>Que il couvient\ que je <add evidence="broad caret" place="supralinear" type="">te</add> face <rhyme>ho<abbr type="m"/>mage</rhyme>,
+<lb n="AUBA.046d:34 "/>Ou vueille ou non,\ et qu'à toy me <rhyme>consente</rhyme>,<l n="16"/>
+<lb n="AUBA.046d:35 "/>Car ton povoir\ <g lemma="seigneurir" en="to hold sway" fr="exercer le pouvoir">seignourist</g> fol et <rhyme>sage</rhyme>.
+<lb n="AUBA.046d:36 "/><emph rend="italic">Je le sçay b<abbr type="ie"/>n;\ il fault q<abbr type="ue"/> je m'en <rhyme>sente</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.046d:38 "/>J'apperçoy bien\ que je me <rhyme>decevoye</rhyme>
+<lb n="AUBA.046d:39 "/>De te cuider\ fuÿr, car si m'en <rhyme>trappe</rhyme><l n="20"/>
+<lb n="AUBA.046d:40 "/><name ref="Doulx+Souvenir">Doulx <c>s</c>ouvenir</name>\ que mussié ne <rhyme>savoye</rhyme>,
+<lb n="AUBA.046d:41 "/>Et quant je cuid\ <g lemma="guenchir" en="to avoid, escape" fr="éviter, esquiver"><s>g</s>anc<s>h</s>ir</g> je me <rhyme>reffrappe</rhyme>
+<pb ed="r" n="047" l="AUBA.047r:01"/><layout rend="blank" ruledLines="yes"/><note>The space ruled for a running title has been left blank.</note><cb n="a"/><layout ruledLines="41"/><lb n="AUBA.047a:01"/>Dedens tes las\ et <name ref="Plaisance"><c>p</c>laisance</name> me <rhyme>frappe</rhyme>,
+<lb n="AUBA.047a:02 "/>De l'autre part\ tu te tiens au <rhyme>passage</rhyme><l n="24"/>
+<lb n="AUBA.047a:03 "/>Pour traire à moy. <name ref="Beauté"><c>b</c>eauté</name> y est <rhyme>presente</rhyme>:
+<lb n="AUBA.047a:04 "/>Rendre me fault,\ ou soit sens ou <rhyme>folage</rhyme>.
+<lb n="AUBA.047a:05 "/><emph rend="italic">Je le sçay bien;\ il fault q<abbr type="ue"/> je m'en <rhyme>sente</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.047a:07 "/>Ha <name ref="God+of+Love">dieu d'<c>a</c>mours</name>,\ puis qu'à ton doulx <rhyme>s<abbr type="er"/>vage</rhyme><l n="28"/>
+<lb n="AUBA.047a:08 "/>Prendre me veulx,\ fais q<abbr type="ue"/> ne m'en <rhyme>repente</rhyme>,
+<lb n="AUBA.047a:09 "/>Car eschapper\ ne puis <add place="inline" evidence="erasure, blurring, paler ink, 't'">ton</add> <g lemma="seigneurage" en="dominion, authority" fr="domination, autorité"><rhyme>seignourage</rhyme></g>.
+<lb n="AUBA.047a:10 "/><emph rend="italic">Je le sçay bien <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="46"/><div2 n="46" satfno="49" type="Ballade layée" metre="10 &amp; 4" length="34" refrain="1" stanza="ababbc4cdcd" envoi="cdcd" rhyme="mmfm"><lb n="AUBA.047a:12 "/><hi rend="cap2">T</hi>rop hardement\ <choice><orig>&amp;</orig><reg>et</reg></choice> gra<abbr type="n"/>t <rhyme>presompcïon</rhyme><note>SATF <emph rend="italic">Autre Balade </emph> 49.</note>
+<lb n="AUBA.047a:13 "/><c>a</c>ucuns instruit\ à assez <rhyme>diffamer</rhyme>
+<lb n="AUBA.047a:14 "/>Les plus sou<choice><sic>ver</sic><corr reason="scansion" resp="JCL">vr</corr></choice>ains,\ faigna<abbr type="n"/>t <rhyme>entencïon</rhyme> 
+<lb n="AUBA.047a:15 "/>Juste et loyal,\ disant qu'on <add place="inline" evidence="erasure, paler ink, 't'">doit</add> <note>over erasure</note> <rhyme>bla<add place="inline" evidence="paler ink, rising 's'">s</add>mer</rhyme><l n=" 4"/>
+<lb n="AUBA.047a:16 "/>Tout vicïeux\ maudire et non <rhyme>amer</rhyme>, <note>The first three words of the line have been lightly scoed out in paler ink.</note>
+<lb n="AUBA.047a:17 "/>Mais <rhyme>l'inutile</rhyme>
+<lb n="AUBA.047a:18 "/>Parole qui\ peut mettre en une <rhyme>ville</rhyme>
+<lb n="AUBA.047a:19 "/>Noise, contens,\ traÿson et <g lemma="défait" en="defeat" fr="défaite" type="not in DMF" ><rhyme>defait</rhyme></g><l n=" 8"/>
+<lb n="AUBA.047a:20 "/><add place="inline" evidence="erasure, paler ink, one blank space filled by curved dash">Rebellïon</add> en contrée <rhyme>fertile</rhyme>,
+<lb n="AUBA.047a:21 "/><emph rend="italic">Je di que c'est\ pechié à qui le <rhyme>fait</rhyme></emph>.
+<!-- 1 blank line -->
+<lb n="AUBA.047a:23 "/>Pour ceulx <add evidence="broad caret, paler ink" place="supralinear" type="">le dy</add> qui par <rhyme>destraccïon</rhyme>
+<lb n="AUBA.047a:24 "/><add place="inline" evidence="erasure, blurring, larger point, 't'">Vont diffama<abbr type="n"/>t</add> princes pour <rhyme>enflamer</rhyme><l n="12"/>
+ <lb n="AUBA.047a:25 "/>Peuple contrë eulx,\ <del rend="erasure" evidence="long slash in paler ink, traces of &amp; remain, superscript dot">&amp;</del> grief <rhyme>co<abbr type="m"/>mocïon</rhyme>
+<lb n="AUBA.047a:26 "/>Et les osent\ ours lÿons loups <rhyme>no<abbr type="m"/>mer</rhyme>
+<lb n="AUBA.047a:27 "/>Et fiers tirans les fleurs c'om seult <rhyme>clam<abbr type="er"/></rhyme>
+<lb n="AUBA.047a:28 "/>Lis très <rhyme>nobile</rhyme><l n="16"/>
+<lb n="AUBA.047a:29 "/>Pillers de foy\ sousteneurs <rhyme>d'<name ref="Gospels"><c>e</c>uvangile</name></rhyme>
+<lb n="AUBA.047a:30 "/>Pour les flater\ ne le dis mais <rhyme>meffait</rhyme>
+<lb n="AUBA.047a:31 "/>Dont peut venir\ esclandre à plus de <rhyme>mile</rhyme>
+<lb n="AUBA.047a:32 "/><emph rend="italic">Je dy que c'est pechié à qui le <rhyme>fait</rhyme></emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="AUBA.047a:34 "/>Si ne faites bons <name ref="Frenchmen"><c>f</c>rançois</name>\ <rhyme>mencïon</rhyme> <note>'men' sur grattage ?</note>
+<lb n="AUBA.047a:35 "/>Que vous ayés\ tirans fiers plains <rhyme>d'amer</rhyme>
+<lb n="AUBA.047a:36 "/>Laissez parler\ à aut<abbr type="re"/> <rhyme>nacïon</rhyme>
+<lb n="AUBA.047a:37 "/>Car ne savez\ qu'est tirant et <note>over erasure</note> <rhyme>semer</rhyme><l n="24"/>
+<lb n="AUBA.047a:38 "/>Souffrez à tort\ tieulx dis ne <rhyme>mesamer</rhyme> <note>1 letter space between 's' and 'a' ; 's' sur grattage ? cf. encre plus pâle</note>
+<lb n="AUBA.047a:39 "/>Voz souverains qui <rhyme>le</rhyme> <note>5 syllabes; présence d'un grattage ?</note>
+<lb n="AUBA.047a:40 "/>Seuffrent\ de leur doulceur\ c'est chose <rhyme>vile</rhyme>
+<lb n="AUBA.047a:41 "/>De soustenir contre eulx si gra<abbr type="n"/>t tort <rhyme>fait</rhyme><l n="28"/>
+<cb n="b"/><layout ruledLines="41"/><lb n="AUBA.047b:01 "/>Et de dicter\ balades\ de tel <rhyme>stile</rhyme>
+<lb n="AUBA.047b:02 "/><emph rend="italic">Je dis que c'est peché à q<abbr type="ui"/> le <rhyme>fait</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.047b:04 "/>Princes poissans\ criminelle ou <rhyme>civile</rhyme> <note>last 3 words over erasure ?</note>
+<lb n="AUBA.047b:05 "/>Vengence pour\ tieulx dis en voz cuers <rhyme>n'ait</rhyme><l n="32"/>
+<lb n="AUBA.047b:06 "/>Car qui glaive\ contre son peuple <rhyme>affule</rhyme> <note>rhyme</note>
+<lb n="AUBA.047b:07 "/><emph rend="italic">Je dy que <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></div2>
+<!-- 1 blank line -->
+<group n="47"/><div2 n="47" satfno="50" type="Ballade" metre="10" length="43" refrain="1" stanza="ababbccddefef" envoi="efef" rhyme="fffmff"><lb n="AUBA.047b:09 "/><hi rend="cap2">G</hi>entil homme\ qui veult proëce <rhyme>acq<abbr type="ue"/>rre</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 50.</note>
+<lb n="AUBA.047b:10 "/>Escoutes ci\ entens qu'il te faut <rhyme>faire</rhyme>
+<lb n="AUBA.047b:11 "/>Armes suivir\ t'esteut en mainte <rhyme>terre</rhyme>
+<lb n="AUBA.047b:12 "/>Estre loyal\ contre ton <rhyme>adversaire</rhyme><l n=" 4"/>
+<lb n="AUBA.047b:13 "/>De bataille\ ne fuÿr n'en sus <rhyme>traire</rhyme>
+<lb n="AUBA.047b:14 "/>Et doubter <name ref="God"><c>d</c>ieu</name>\ parole avoir <rhyme>tardive</rhyme>
+<lb n="AUBA.047b:15 "/>En fait d'assault\ trouver voye <rhyme>soubtive</rhyme>
+<lb n="AUBA.047b:16 "/>Ne soit ton cuer\ de lacheté <rhyme>repris</rhyme><l n=" 8"/>
+<lb n="AUBA.047b:17 "/>Des tours d'armes\ duit dois estre <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>appris</rhyme>
+<lb n="AUBA.047b:18 "/>Amer ton prince\ et à ton <rhyme>chevetaine</rhyme>
+<lb n="AUBA.047b:19 "/>Estre loyal\ avoir ferme <rhyme>courage</rhyme>
+<lb n="AUBA.047b:20 "/>Croire conseil\ promesse avoir <rhyme>certaine</rhyme><l n="12"/>
+<lb n="AUBA.047b:21 "/><emph rend="italic">S'ainsi le fais\ tu s<abbr type="er"/>as preux <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>sage</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.047b:23 "/>Te gouverner\ par gra<abbr type="n"/>t advis en <rhyme>guerre</rhyme>
+<lb n="AUBA.047b:24 "/>À voyager\ souvent te doit moult <rhyme>plaire</rhyme>
+<lb n="AUBA.047b:25 "/>Princes et cours estranges tu dois <rhyme>querre</rhyme><l n="16"/>
+<lb n="AUBA.047b:26 "/>Tout enquerir\ leur estat et <rhyme>affaire</rhyme>
+<lb n="AUBA.047b:27 "/>Des bons parler\ et à toy les <rhyme>attraire</rhyme>
+<lb n="AUBA.047b:28 "/>Contre raison\ ta parole <rhyme>n'estrive</rhyme>
+<lb n="AUBA.047b:29 "/>Ne mesdire\ de personne qui <rhyme>vive</rhyme><l n="20"/>
+<lb n="AUBA.047b:30 "/>Porter honneur\ aux vaillans où <rhyme>appris</rhyme> <note>trait après le 'a' de 'appris'</note>
+<lb n="AUBA.047b:31 "/>Hanter les bons\ n'avoir povre <note>over erasure ; module plus petit et encre plus foncée</note> en <rhyme>despris</rhyme>
+<lb n="AUBA.047b:32 "/>Pour acquerir\ honneur ne plaindre <rhyme>peine</rhyme>
+<lb n="AUBA.047b:33 "/>Trop couvoiteux\ n'estre mais du tien <rhyme>large</rhyme><l n="24"/>
+<lb n="AUBA.047b:34 "/>Et ta parole\ soit vraye et non <add evidence="" place="supralinear" type="">pas</add> <note>broad caret ; encre claire</note> <rhyme>vaine</rhyme>
+<lb n="AUBA.047b:35 "/><emph rend="italic">S'ainsi le fais\ tu\ seras preux <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>sage</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.047b:37 "/>Sans bon conseil de faire armes <rhyme>requerre</rhyme>
+<lb n="AUBA.047b:38 "/>Ne dois autrui\ et s'il n'est <rhyme>neccessaire</rhyme><l n="28"/>
+<lb n="AUBA.047b:39 "/>Pour ton honneur\ ta bouche <choice><orig>&amp;</orig><reg>et</reg></choice> tes dens <rhyme>serre</rhyme>
+<lb n="AUBA.047b:40 "/>Qu'il n'en ysse\ chose qui face à <rhyme>taire</rhyme>
+<lb n="AUBA.047b:41 "/>L'autruy bien fait\ dois voulentiers <rhyme>retraire</rhyme><!-- signature 'Eiiii' -->
+<pb ed="v" n="047" l="AUBA.047v:01"/><layout rend="blank" ruledLines="no"/><note>There is neither a running title nor ruled space for one.</note>
+<cb n="c"/><layout ruledLines="40"/><lb n="AUBA.047c:01 "/>Taire le tien\ ne t'entendre en <rhyme>oysive</rhyme><l n="32"/> <note>very elaborate 'd'</note>
+<lb n="AUBA.047c:02 "/>Estre attrempé\ n'avoir teste <rhyme>hastive</rhyme>
+<lb n="AUBA.047c:03 "/>Fouÿr tout vice et avoir en <rhyme>mespris</rhyme>
+<lb n="AUBA.047c:04 "/>Tost achever\ ce que tu as <rhyme>empris</rhyme>
+<lb n="AUBA.047c:05 "/>N'avoir orgueil\ ne parole <rhyme>haultaine</rhyme><l n="36"/>
+<lb n="AUBA.047c:06 "/>Ta contenance\ seure et non <rhyme>sauvage</rhyme>
+<lb n="AUBA.047c:07 "/>Par bel maintien\ en tous lieux te <rhyme>demaine</rhyme>
+<lb n="AUBA.047c:08 "/><emph rend="italic">S'ainsi le fais <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph>
+<!-- 1 blank line -->
+<lb n="AUBA.047c:10 "/>Prince gentil\ ceste voye est <rhyme>certaine</rhyme><l n="40"/>
+<lb n="AUBA.047c:11 "/>Pour acquerir\ de hault honneur la <rhyme>targe</rhyme>
+<lb n="AUBA.047c:12 "/>Homme noble\ suis la je <rhyme>t'acertaine</rhyme> <note>imperative from 'süir/suivre'</note>
+<lb n="AUBA.047c:13 "/><emph rend="italic">S'ainsi le fais <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph></div2>
+<!-- 1 blank line -->
+ <group n="48"/><div2 n="48" satfno="51" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="mff"><lb n="AUBA.047c:15 "/><hi rend="cap2">T</hi>rop sont divers\ et merveilleux les <rhyme>tours</rhyme><note><emph rend="italic">Autre Balade</emph> 51.</note>
+<lb n="AUBA.047c:16 "/>De l'inconstant\ double <choice><orig>&amp;</orig><reg>et</reg></choice> faulce <rhyme><name ref="Fortune"><c>f</c>ortune</name></rhyme>
+<lb n="AUBA.047c:17 "/>Car ses maulx sont moult loncs et ses b<abbr type="ie"/>ns <rhyme>cours</rhyme>
+<lb n="AUBA.047c:18 "/>Nous le vëons\ et c'est chose <rhyme>commune</rhyme><l n=" 4"/>
+<lb n="AUBA.047c:19 "/>Dont je ne voy\ pourvéance fors q<abbr type="ue"/> <rhyme>une</rhyme>
+<lb n="AUBA.047c:20 "/>Contre elle\ C'est <note>'c' sur grattage ? encre plus claire</note> <add evidence="" place="supralinear" type="">q<abbr type="ue"/></add> <note>superscript, encre plus claire</note> l'omme soit si <rhyme>sage</rhyme> <note>last 3 corrected, space left ?</note>
+<lb n="AUBA.047c:21 "/>Qu'il n'ait ès biens\ d'elle léece <rhyme>aucune</rhyme>
+<lb n="AUBA.047c:22 "/><emph rend="italic">Et ait oû mal\ fort et poissant <rhyme>courage</rhyme></emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.047c:24 "/>Vëoir pouons\ que tout vie<abbr type="n"/>t à <rhyme>rebours</rhyme>
+<lb n="AUBA.047c:25 "/>Souvent aux bons\ par sa fallace <rhyme>enfrune</rhyme>
+<lb n="AUBA.047c:26 "/>Et aux mauvais\ sans desserte ou <rhyme>labours</rhyme>
+<lb n="AUBA.047c:27 "/>Rent bon guerdon\ mais de &#x95; ii &#x95; voies <rhyme>l'une</rhyme><l n="12"/>
+<lb n="AUBA.047c:28 "/>Ou reconfort\ ou lenguir en <rhyme>rancune</rhyme>
+<lb n="AUBA.047c:29 "/>Prendre couvie<abbr type="n"/>t\ si conseil que homs se <note>'e' over erasure' ; 'e' between columns</note> <rhyme>targe</rhyme>
+<lb n="AUBA.047c:30 "/>De bon espoir\ quoy qu'elle lui soit <rhyme>brune</rhyme>
+<lb n="AUBA.047c:31 "/><emph rend="italic">Et ait en mal\ fort et poissant <rhyme>courage</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.047c:33 "/>Car puis que ses\ joyes ne font q<abbr type="ue"/> un <rhyme>cours</rhyme>
+<lb n="AUBA.047c:34 "/>Par le monde\ general en <rhyme>commune</rhyme>
+<lb n="AUBA.047c:35 "/>Que nous vëons\ plus souve<abbr type="n"/>t en <rhyme>decours</rhyme>
+<lb n="AUBA.047c:36 "/>Sur les greigneurs\ mesmes q<abbr type="ue"/> n'est la <rhyme>lune</rhyme><l n="20"/>
+<lb n="AUBA.047c:37 "/>Ho<abbr type="m"/>me ne doit\ les prisier une <rhyme>prune</rhyme>
+<lb n="AUBA.047c:38 "/>Mais s'ilz vienne<abbr type="n"/>t pense <note>1 letter space and filler ; dernière lettre grattée</note> q<abbr type="ue"/> en petit de <rhyme>age</rhyme>
+<lb n="AUBA.047c:39 "/>Perdre <add evidence="" place="supralinear" type="">on</add> <note>broad caret</note> les peut\ seurté n'y ait <rhyme>aucune</rhyme>
+<lb n="AUBA.047c:40 "/><emph rend="italic">Et ait en mal <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="24"/> <note>module plus petit et plus rapide</note>
+<cb n="d"/><layout ruledLines="40"/><!-- 1 blank line -->
+<lb n="AUBA.047d:02 "/>Princes soyés certains que oncques <rhyme>nesune</rhyme>
+<lb n="AUBA.047d:03 "/>Ja ne sera\ <name ref="Fortune"><c>f</c>ortune</name> fors <rhyme>volage</rhyme>
+<lb n="AUBA.047d:04 "/>En soit chacun\ avisié et <rhyme>chacune</rhyme>
+<lb n="AUBA.047d:05 "/><emph rend="italic">Et ait en mal <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="49"/><div2 n="49"  satfno="52" type="Ballade" metre="10" length="28" refrain="1" stanza="ababbcbc" envoi="bcbc" rhyme="fff"><lb n="AUBA.047d:07 "/><hi rend="cap2">Q</hi>ui est cellui\ qui ne sent la <rhyme>pointure</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 52.</note>
+<lb n="AUBA.047d:08 "/>Aucunement d'<name ref="God+of+Love"><c>a</c>mours</name> qui poi<abbr type="n"/>t ne <rhyme>blece</rhyme>
+<lb n="AUBA.047d:09 "/>Oû mois de may\ jolis plain de <rhyme>verdure</rhyme>
+<lb n="AUBA.047d:10 "/>Sy ne croy pas\ <name ref="Unidentified+Prince">prince de grant <rhyme>noblece</rhyme></name><l n=" 4"/>
+<lb n="AUBA.047d:11 "/>Haulte et poissant\ que vraye amour ne <rhyme>dresce</rhyme>
+<lb n="AUBA.047d:12 "/>Voz nobles fais\ en toute bonne <rhyme>voye</rhyme>
+<lb n="AUBA.047d:13 "/>Et pour ce à vous\ ma balade <rhyme>s'adresse</rhyme>
+<lb n="AUBA.047d:14 "/><emph rend="italic">Ce jour de may\ gracïeux plain de <rhyme>joye</rhyme></emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="AUBA.047d:16 "/>Car je vous voy\ plus que autre <rhyme>créature</rhyme>
+<lb n="AUBA.047d:17 "/>Rempli de biens\ et haulte <rhyme>gentillece</rhyme>
+<lb n="AUBA.047d:18 "/>Pour ce je tiens\ qu'en vous en tout t<abbr type="em"/>ps <rhyme>dure</rhyme>
+<lb n="AUBA.047d:19 "/><name ref="Doulx+Souvenir">Doulx <c>s</c>ouvenir</name>\ qui despartir ne <rhyme>laisse</rhyme><l n="12"/>
+<lb n="AUBA.047d:20 "/>Loyal amour\ de vous\ et que <rhyme>maistrece</rhyme>
+<lb n="AUBA.047d:21 "/>Avez plaisant\ et belle en qui <rhyme>s'employe</rhyme>
+<lb n="AUBA.047d:22 "/>Vo noble cuer\ qu'elle tient sans <rhyme>tristece</rhyme>
+<lb n="AUBA.047d:23 "/><emph rend="italic">Ce jour de may\ gracïeux plain de <rhyme>joye</rhyme></emph><l n="16"/>
+<!-- 1 blank line -->
+<lb n="AUBA.047d:25 "/>Si affiert bien\ que mettiés temps <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>cure</rhyme>
+<lb n="AUBA.047d:26 "/>D'<name ref="God+of+Love"><c>a</c>mours</name> servir\ qui de sa gra<abbr type="n"/>t <rhyme>richece</rhyme>
+<lb n="AUBA.047d:27 "/>Guerredonner\ vous peut de <rhyme>nourriture</rhyme>
+<lb n="AUBA.047d:28 "/>Doulce plaisant\ et\ qui fait en <rhyme>proëce</rhyme><l n="20"/>
+<lb n="AUBA.047d:29 "/>Les bons monter\ et que vo cuer <rhyme>s'eslesse</rhyme>
+<lb n="AUBA.047d:30 "/>En ce doulx temps\ qui aux amans <rhyme>envoye</rhyme>
+<lb n="AUBA.047d:31 "/>Plaisant penser\ et cuers tient en <rhyme>léece</rhyme>
+<lb n="AUBA.047d:32 "/><emph rend="italic">Ce jour de may\ gracïeux plain de <rhyme>joye</rhyme></emph><l n="24"/>
+<!-- 1 blank line -->
+<lb n="AUBA.047d:34 "/>Prince amoureux doulx humain sans <rhyme>haultece</rhyme>
+<lb n="AUBA.047d:35 "/>De nul orgueil\ pour moy <name ref="God+of+Love"><c>a</c>mours</name> vous <rhyme>proye</rhyme>
+<lb n="AUBA.047d:36 "/>Que gay soyés\ pour vo doulce <rhyme>déesse</rhyme>
+<lb n="AUBA.047d:37 "/><emph rend="italic">Ce jour de may</emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="50"/><div2 n="50" satfno="53" type="Ballade" metre="10" length="25" refrain="1" stanza="ababbcc" envoi="bcbc" rhyme="fff"><lb n="AUBA.047d:39 "/><hi rend="cap2">J</hi>e ne croy pas que ma male <rhyme>fortune</rhyme><note>SATF <emph rend="italic">Autre Balade</emph> 53.</note>
+<lb n="AUBA.047d:40 "/>puisse <note>small 'p'</note> souffrir qu'aucun bien me <rhyme>sequeure</rhyme>
+<pb ed="r" n="048" l="AUBA.048r:01"/><layout rend="blank" ruledLines="no"/><note>There is no running title and no ruled space has been prepared for one.</note>
+    <cb n="a"/><layout ruledLines="41"/><lb n="AUBA.048a:01 "/>Car de lonc temps\ par rigle trop <rhyme>commune</rhyme>
+<lb n="AUBA.048a:02 "/>M'a couru sus\ et quanque je <rhyme>labeure</rhyme>
+<lb n="AUBA.048a:03 "/>N'est fors en vain\ car tout despiece en <rhyme>l'eure</rhyme><l n=" 4"/>
+<lb n="AUBA.048a:04 "/>La desloyal\ qui tant <note>or 'tout' ? – corrected ?</note> mal me <rhyme>pourchace</rhyme>
+<lb n="AUBA.048a:05 "/><emph rend="italic">Quant bien me doit\ venir <name ref="Ill+Fortune"><c>m</c>eseur</name> <rhyme>l'enchace</rhyme>
+<!-- 1 blank line -->
+<lb n="AUBA.048a:07 "/>N'il ne me vient\ à nulle heure pas <rhyme>une</rhyme></emph><l n=" 8"/>
+<lb n="AUBA.048a:08 "/>Riens à droit point pour chose q<abbr type="ue"/> je <rhyme>queure</rhyme>
+<lb n="AUBA.048a:09 "/>La où secours\ cuid trouver mais <rhyme>nesune</rhyme>
+<lb n="AUBA.048a:10 "/>Voye n'y a\ il fault que je <rhyme>demeure</rhyme>
+<lb n="AUBA.048a:11 "/>À tous jours mais\ ainsi par quoy je <rhyme>pleure</rhyme><l n="12"/>
+<lb n="AUBA.048a:12 "/>Souvent véant\ que par diverse <rhyme>chace</rhyme>
+<lb n="AUBA.048a:13 "/><emph rend="italic">Quant bien me doit venir <name ref="Ill+Fortune"><c>m</c>eseur</name> <rhyme>l'enchace</rhyme>
+<!-- 1 blank line -->
+<lb n="AUBA.048a:15 "/>Et puis qu'ainsi\ tel fortune <rhyme>reppune</rhyme>
+<lb n="AUBA.048a:16 "/>À tout bon eur\ pour moy et tout <rhyme>deveure</rhyme></emph><l n="16"/>
+<lb n="AUBA.048a:17 "/>Mes reconfors\ avoir ne doy <rhyme>aucune</rhyme>
+<lb n="AUBA.048a:18 "/>Esperance\ de jamais vëoir <rhyme>l'eure</rhyme>
+<lb n="AUBA.048a:19 "/>D'avoir repos\ du traveil qui <rhyme>m'acueure</rhyme>
+<lb n="AUBA.048a:20 "/>Car je congnois\ qu'à tout quanq<abbr type="ue"/> <rhyme>rechace</rhyme><l n="20"/> <note>corrected to 'je chace' ?</note>
+<lb n="AUBA.048a:21 "/><emph rend="italic">Quant bien me doit\ venir <name ref="Ill+Fortune"><c>m</c>eseur</name> <rhyme>l'enchace</rhyme></emph>
+<!-- 1 blank line -->
+<lb n="AUBA.048a:23 "/>Princes ainsi\ à cuer plus noir q<abbr type="ue"/> <rhyme>meure</rhyme>
+<lb n="AUBA.048a:24 "/>Me fault lenguir\ car tout vent me <rhyme>dechace</rhyme>
+<lb n="AUBA.048a:25 "/>Est ce bien droit\ meschief qui me cuert <rhyme>sure</rhyme><l n="24"/>
+<lb n="AUBA.048a:26 "/><emph rend="italic">Quant b<abbr type="ie"/>n <choice><orig>&amp;</orig><reg>et</reg></choice>c.</emph> </div2><note>The end of this item is not marked by an explicit.</note>
+</div1>
+
+
+</p>
+</body>
+</text>
+</TEI>

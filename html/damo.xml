@@ -1,0 +1,974 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="L'Epistre au dieu d'amours" type="Item">
+<pb n="051" ed="r"/><layout ruledLines="no"/>
+<lb n="DAMO.051r:01"/>
+<cb n="b"/><layout  ruledLines="40"/>
+<figure place="21" ref="051b"></figure>
+<!-- 1 blank line here -->
+<lb n="DAMO.051b:23"/><hi rend="red">Ci commence l'<c>e</c>pistre au</hi> <name ref="God+of+Love"><hi rend="red">dieu d'<c>a</c>mours</hi></name>
+<lb n="DAMO.051b:24"/><hi rend="red">&#x95; xii &#x95;</hi><note>centred</note>
+<!-- 1 blank line here -->
+<lb n="DAMO.051b:26"/><name ref=""><hi rend="cap5">C</hi>upido dieu \ par la grace de <rhyme>lui</rhyme>
+<lb n="DAMO.051b:27"/>Dieu des amans</name> \ sans ayde de
+<lb n="DAMO.051b:28"/><rhyme>nullui</rhyme>
+<lb n="DAMO.051b:29"/>Regnant en l'air \ du ciel très 
+<lb n="DAMO.051b:30"/><rhyme>reluisant</rhyme>
+<lb n="DAMO.051b:31"/>Filz de <name ref="">venus \ la déesse <rhyme>poissant</rhyme></name><l n="   4"/>
+<lb n="DAMO.051b:32"/>Sire d'amours \ et de tous ses <rhyme>obgèz</rhyme>
+<lb n="DAMO.051b:33"/>À tous nos vrays loyaulx servans <rhyme>subgèz</rhyme>
+<lb n="DAMO.051b:34"/>Salut amour \ <rhyme>familïarité</rhyme>
+<lb n="DAMO.051b:35"/>Savoir faisons \ en <rhyme>generalité</rhyme><l n="   8"/>
+<lb n="DAMO.051b:36"/>Qu'à n<abbr type="ost"/>re court \ sont venues <rhyme>complaintes</rhyme>
+<lb n="DAMO.051b:37"/>Par devant nous \ et moult piteuses <rhyme>plai<abbr type="n"/>tes</rhyme>
+<lb n="DAMO.051b:38"/>De par toutes \ dames et <rhyme>damoiselles</rhyme>
+<lb n="DAMO.051b:39"/>Gentilz femmes \ bourgoises et <rhyme>pucelles</rhyme><l n="  12"/>
+<lb n="DAMO.051b:40"/>Et de toutes femmes <rhyme>generaume<abbr type="n"/>t</rhyme>
+
+
+<pb n="051" ed="v"/><layout ruledLines="no"/>
+<lb n="DAMO.051v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Epistre</fw> <fw type="header2" place="inter column " rend="centred">au dieu</fw> <fw type="header3" place="column d" rend="tabbed">d'<c>a</c>mours</fw> <fw type="header4" place="column d" rend="tabbed from right">&#x95; xii &#x95;</fw></hi>
+
+<cb n="c"/><layout ruledLines="41"/>
+<lb n="DAMO.051c:01"/>Nostre secours \ req<abbr type="ue"/>rant <rhyme>humblement</rhyme> <note>elaborate abbreviation, 'h', 'b', 'l'</note>
+<lb n="DAMO.051c:02"/>Ou se ce non \ du tout <rhyme>desheritées</rhyme>
+<lb n="DAMO.051c:03"/>De leur honneur \ seront et <rhyme>ahontées</rhyme><l n="  16"/>
+<lb n="DAMO.051c:04"/>Si se plaignent les dessus d<abbr type="i"/>c<abbr type="t"/>es <rhyme>dames</rhyme>
+<lb n="DAMO.051c:05"/>Des grans extors \ des blames des <rhyme>diffames</rhyme> <note>rising 's'</note>
+<lb n="DAMO.051c:06"/>Des traÿsons \ des oultrages très <rhyme>griefs</rhyme>
+<lb n="DAMO.051c:07"/>Des faulcetez \ et de mains aut<abbr type="re"/>s <rhyme>griefs</rhyme><l n="  20"/>
+<lb n="DAMO.051c:08"/>Que chacun jour \ des desloyaulx <rhyme>reçoive<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051c:09"/>Qui les blament diffame<abbr type="n"/>t et <rhyme>deçoive<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051c:10"/>¶ Sur tous paÿs \ se complaignent de <name ref=""><rhyme>fra<abbr type="n"/>ce</rhyme></name>
+<lb n="DAMO.051c:11"/>Qui jadis fu \ leur escu et <rhyme>deffence</rhyme><l n="  24"/>
+<lb n="DAMO.051c:12"/>Qui contre tous \ de tort les <rhyme>deffendoit</rhyme>
+<lb n="DAMO.051c:13"/>Comme il est droit \ &amp; sicom faire <rhyme>doit</rhyme>
+<lb n="DAMO.051c:14"/>Noble paÿs \ où <name ref="">gentillece</name> <rhyme>regne</rhyme>
+<lb n="DAMO.051c:15"/>Mais à present \ elles sont en ce <rhyme>regne</rhyme><l n="  28"/>
+<lb n="DAMO.051c:16"/>Où jadis tant \ estoient <rhyme>honnourées</rhyme>
+<lb n="DAMO.051c:17"/>Plus qu'autre part \ des faulx <rhyme>deshonorées</rhyme> <note>rising 's'</note>
+<lb n="DAMO.051c:18"/>Et meismement \ do<abbr type="n"/>t plus griefm<abbr type="en"/>t se <rhyme>deule<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051c:19"/>Des nobles gens \ qui plus garder les <rhyme>seule<abbr type="n"/>t</rhyme><l n="  32"/>
+<lb n="DAMO.051c:20"/>Car à present \ sont plusieurs <rhyme>chevaliers</rhyme>
+<lb n="DAMO.051c:21"/>Et escuyers \ maint \ duit et <rhyme>coustumiers</rhyme>
+<lb n="DAMO.051c:22"/>D'elles traÿr \ par beaulx <rhyme>blandisseme<abbr type="n"/>s</rhyme>
+<lb n="DAMO.051c:23"/>Si se faignent \ estre loyaulx <rhyme>amans</rhyme><l n="  36"/>
+<lb n="DAMO.051c:24"/>Et se cueuvrent \ de diverse <rhyme>faintise</rhyme>
+<lb n="DAMO.051c:25"/>Si vont disant \ que griefment les <rhyme>atise</rhyme>
+<lb n="DAMO.051c:26"/>L'amour d'elles \ qui leurs cuers tie<abbr type="n"/>t en <rhyme>serre</rhyme>
+<lb n="DAMO.051c:27"/>Dont l'un se plaint \ à l'aut<abbr type="re"/> le cuer <rhyme>serre</rhyme><l n="  40"/>
+<lb n="DAMO.051c:28"/>L'autre pleure \ par semblant et en <note>sic</note> <rhyme>souspire</rhyme>
+<lb n="DAMO.051c:29"/>Et l'autre faint \ que trop griefme<abbr type="n"/>t <rhyme>empire</rhyme>
+<lb n="DAMO.051c:30"/>Par trop amer \ tout soit <rhyme>descoulouré</rhyme>
+<lb n="DAMO.051c:31"/>Et pres que mort \ et tout <rhyme>alengouré</rhyme><l n="  44"/>
+<lb n="DAMO.051c:32"/>Si jurent fort \ et promettent et <rhyme>mente<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051c:33"/>Estre loyaulx \ secrès et puis s'en <rhyme>vante<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051c:34"/>D'aler souvent \ et de venir se <rhyme>peine<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051c:35"/>Par ces moustiers \ ça et la se <rhyme>po<abbr type="ur"/>meine<abbr type="n"/>t</rhyme><l n="  48"/>
+<lb n="DAMO.051c:36"/>En regardant \ s'apuyent sur <rhyme>autelz</rhyme>
+<lb n="DAMO.051c:37"/>Par faulx semblans \ mains en y a de <rhyme>telz</rhyme>
+<lb n="DAMO.051c:38"/>Par mi rues \ leurs chevaulx <rhyme>espero<abbr type="n"/>ne<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051c:39"/>Gays et mignos \ à cliquettes qui <rhyme>sonne<abbr type="n"/>t</rhyme><l n="  52"/>
+<lb n="DAMO.051c:40"/>Moult font semblant \ d'en estre <rhyme>embeso<abbr type="n"/>gnez</rhyme>
+<lb n="DAMO.051c:41"/>Mulles chevaulx \ n'y sont pas <rhyme>espargnez</rhyme>
+
+<cb n="d"/><layout ruledLines="41"/>
+<lb n="DAMO.051d:01"/>Diligens sont \ de bailler leurs <rhyme>req<abbr type="ue"/>stes</rhyme> <note>elaborate 'b', 'll', 'l', abbreviation</note>
+<lb n="DAMO.051d:02"/>Moult enquierent \ où sont nopces &amp; <rhyme>festes</rhyme><l n="  56"/>
+<lb n="DAMO.051d:03"/>Là vont plusieurs \ mignos jolis &amp; <rhyme>cointes</rhyme>
+<lb n="DAMO.051d:04"/>Si font semblant \ de sentir de noz <rhyme>poi<abbr type="n"/>tes</rhyme>
+<lb n="DAMO.051d:05"/>Si qu'à peines \ les pevent <rhyme>endurer</rhyme>
+<lb n="DAMO.051d:06"/>¶ Autres mette<abbr type="n"/>t \ grant peine à <rhyme>procurer</rhyme><l n="  60"/>
+<lb n="DAMO.051d:07"/>Par messages \ ou par quelque <rhyme>acointa<abbr type="n"/>ce</rhyme>
+<lb n="DAMO.051d:08"/>De mettre à fin \ ce que leur faulx cuer <rhyme>pe<abbr type="n"/>se</rhyme>
+<lb n="DAMO.051d:09"/>Par tieulx maintiens en plus de mile <rhyme>guises</rhyme>
+<lb n="DAMO.051d:10"/>Les faulx amans \ se cueuvre<abbr type="n"/>t de <rhyme>faintises</rhyme><l n="  64"/>
+<lb n="DAMO.051d:11"/>C'est assavoir \ les desloiaulz qui <rhyme>héent</rhyme>
+<lb n="DAMO.051d:12"/>Foy loyauté \ et à decevoir <rhyme>béent</rhyme>
+<lb n="DAMO.051d:13"/>¶ Car les loyaulx ne sont pas en ce <rhyme>conte</rhyme>
+<lb n="DAMO.051d:14"/>Et ceulx doit on amer et tenir <rhyme>conte</rhyme><l n="  68"/> <note>in browner ink</note>
+<lb n="DAMO.051d:15"/>Car decevoir \ en nul cas ne <rhyme>vouldroye<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051d:16"/>Je leur deffens pour ce consens qu'ilz <rhyme>aye<abbr type="n"/>t</rhyme>
+<lb n="DAMO.051d:17"/>De noz doulx biens \ savoureux bonne <rhyme>part</rhyme>
+<lb n="DAMO.051d:18"/>Car à mes gens \ largement en <rhyme>depart</rhyme><l n="  72"/>
+<lb n="DAMO.051d:19"/>Et ceulx tiennent \ mes vrays <rhyme>commandem<abbr type="en"/>s</rhyme>
+<lb n="DAMO.051d:20"/>Justes loyaulx et bons <rhyme>enseignemens</rhyme>
+<lb n="DAMO.051d:21"/>Si leur deffens \ villennie et <rhyme>meffait</rhyme>
+<lb n="DAMO.051d:22"/>Et leur commands \ poursuivre honne<abbr type="ur"/> de <rhyme>fait</rhyme><l n="  76"/>
+<lb n="DAMO.051d:23"/>Estre loyaulx \ secrès et voir <rhyme>disans</rhyme>
+<lb n="DAMO.051d:24"/>Larges courtois \ et fuïr <rhyme>mesdisans</rhyme>
+<lb n="DAMO.051d:25"/>Humbles et doulx \ jolis et <rhyme>assesmez</rhyme>
+<lb n="DAMO.051d:26"/>Fermes et frans \ poursuivre à estre <rhyme>amez</rhyme><l n="  80"/>
+<lb n="DAMO.051d:27"/>Armes suivir \ à ceulx qu'il <rhyme>appartient</rhyme>
+<lb n="DAMO.051d:28"/>Los acquerir \ qui en ce point se <rhyme>tient</rhyme>
+<lb n="DAMO.051d:29"/>Sache pour vray \ que ne lui fauldray <rhyme>mye</rhyme>
+<lb n="DAMO.051d:30"/>À lui donner \ dame belle &amp; <rhyme>amie</rhyme><l n="  84"/>
+<lb n="DAMO.051d:31"/>Car quant ainsi \ je suis d'aucun <rhyme>servy</rhyme>
+<lb n="DAMO.051d:32"/>Guerredon lui rens \ co<abbr type="m"/>me il a <rhyme>desservy</rhyme> <note>11 syllables, irregular</note>
+<lb n="DAMO.051d:33"/>Mais se bien vient \ à ces faulx <rhyme>d'avent<abbr type="ur"/>e</rhyme>
+<lb n="DAMO.051d:34"/>N'est pas droit bien \ combien que je <rhyme>l'endure</rhyme><l n="  88"/>
+<lb n="DAMO.051d:35"/>Car en tous cas \ le b<abbr type="ie"/>n est moult <rhyme>petit</rhyme>
+<lb n="DAMO.051d:36"/>Quant il est pris \ sans desir <rhyme>n'appetit</rhyme>
+<lb n="DAMO.051d:37"/>¶ Et que vauldroit \ à homs <rhyme>descouragé</rhyme>
+<lb n="DAMO.051d:38"/>Grans vïandes \ ypocras ou <rhyme>saugé</rhyme><l n="  92"/>
+<lb n="DAMO.051d:39"/>Puis que saveur \ nulle ou pou y <rhyme>aroit</rhyme>
+<lb n="DAMO.051d:40"/>Mais à cellui \ qui desira<abbr type="n"/>t <rhyme>seroit</rhyme>
+<lb n="DAMO.051d:41"/>De pain faitis \ ou d'une miche <rhyme>bla<abbr type="n"/>che</rhyme>
+
+
+<pb n="052" ed="r"/><layout ruledLines="no"/>
+<lb n="DAMO.052r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">L'<c>e</c>pistre au</fw> <fw type="header2" place="column a" rend="tabbed from right">dieu</fw> <fw type="header3" place="column " rend="left aligned">d'<c>a</c>mours</fw> <fw type="header4" place="column " rend="tabbed from right">&#x95; xii &#x95;</fw></hi>
+
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="DAMO.052a:01"/>S'ataindre y peut <name ref="">dieux</name> scet co<abbr type="m"/>me il la <rhyme>tra<abbr type="n"/>che</rhyme><l n="  96"/> <note>elaborate 'd', abbreviation signs</note>
+<lb n="DAMO.052a:02"/>Joyeusement \ et de grant cuer s'en <rhyme>paist</rhyme>
+<lb n="DAMO.052a:03"/>Ainsi de toute riens desirée <rhyme>est</rhyme>
+<lb n="DAMO.052a:04"/>¶ Ainsi se trop \ ne sont <rhyme>apperceües</rhyme>
+<lb n="DAMO.052a:05"/>Sont maintes fois \ les dames <rhyme>deceües</rhyme><l n=" 100"/>
+<lb n="DAMO.052a:06"/>Car simples sont n'y pensent se b<abbr type="ie"/>n <rhyme>no<abbr type="n"/></rhyme>
+<lb n="DAMO.052a:07"/>Dont il avient souvent vueille<abbr type="n"/>t ou <rhyme>no<abbr type="n"/></rhyme>
+<lb n="DAMO.052a:08"/>Qu'amer leur fault ceulx qui si les <rhyme>deçoive<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052a:09"/>Traÿes sont \ ains qu'elles <rhyme>l'apperçoive<abbr type="n"/>t</rhyme><l n=" 104"/>
+<lb n="DAMO.052a:10"/>Mais quant ainsi les <note>'i les' cramped over erasure ; rising 's'</note> ont <rhyme>enveloppées</rhyme>
+<lb n="DAMO.052a:11"/>Les desloyaulx qui les ont <rhyme>attrappées</rhyme>
+<lb n="DAMO.052a:12"/>Or escoutez comment ilz s'en <rhyme>chevisse<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052a:13"/>Ne leur souffit \ ce qu'ainsi les <note>blot under 's' ? - not expunctuation</note> <rhyme>traÿsse<abbr type="n"/>t</rhyme><l n=" 108"/>
+<lb n="DAMO.052a:14"/>Ains ont compains \ de leur male <rhyme>alïa<abbr type="n"/>ce</rhyme>
+<lb n="DAMO.052a:15"/>Si n'y remaint \ ne fait ne <rhyme>couvena<abbr type="n"/>ce</rhyme>
+<lb n="DAMO.052a:16"/>Qui ne soit dit l'un à l'aut<abbr type="re"/> et trop <rhyme>plus</rhyme>
+<lb n="DAMO.052a:17"/>Qu'ilz n'ont de bien se vante<abbr type="n"/>t que <rhyme>reclus</rhyme><l n=" 112"/>
+<lb n="DAMO.052a:18"/>Sont devenus \ en la chambre leur <rhyme>dames</rhyme>
+<lb n="DAMO.052a:19"/>Dont sont amez \ puis jure<abbr type="n"/>t corps &amp; <rhyme>ames</rhyme>
+<lb n="DAMO.052a:20"/>Comment du fait il leur est <rhyme>avenu</rhyme>
+<lb n="DAMO.052a:21"/>Et que couchié \ bras à bras y o<abbr type="n"/>t <rhyme>nu</rhyme><l n=" 116"/>
+<lb n="DAMO.052a:22"/>Les compaignons \ ce dïent ès <rhyme>tav<abbr type="er"/>nes</rhyme>
+<lb n="DAMO.052a:23"/>Et les nobles \ font leurs parcs &amp; leur <rhyme>c<abbr type="er"/>nes</rhyme>
+<lb n="DAMO.052a:24"/>En ces grans cours \ de noz seigne<abbr type="ur"/>s les <rhyme>ducs</rhyme>
+<lb n="DAMO.052a:25"/>Ou cheus le roy \ ou ailleurs <rhyme>espandus</rhyme><l n=" 120"/>
+<lb n="DAMO.052a:26"/>Et la tiennent de tieulx plais le<abbr type="ur"/> <rhyme>escoles</rhyme>
+<lb n="DAMO.052a:27"/>Plusieurs y a qui deussent leur <rhyme>paroles</rhyme>
+<lb n="DAMO.052a:28"/>En bons contes drecier sans <rhyme>bourderie</rhyme>
+<lb n="DAMO.052a:29"/>À raconter \ pris de <rhyme>chevalerie</rhyme><l n=" 124"/>
+<lb n="DAMO.052a:30"/>Mais aux grans feus \ à ces soirs ou sur <rhyme>couches</rhyme>
+<lb n="DAMO.052a:31"/>Là rigolent \ l'un l'autre et p<abbr type="ar"/> <rhyme>reprouches</rhyme>
+<lb n="DAMO.052a:32"/>S'entre dïent \ je sçay b<abbr type="ie"/>n de tes <rhyme>fais</rhyme>
+<lb n="DAMO.052a:33"/>Tele t'aimë \ et tu le jolis <rhyme>fais</rhyme><l n=" 128"/> <note>hiatus</note>
+<lb n="DAMO.052a:34"/>Pour seue amour \ mais plusieurs y o<abbr type="n"/>t <rhyme>part</rhyme>
+<lb n="DAMO.052a:35"/>Tu es receu \ quant un autre s'en <rhyme>part</rhyme>
+<lb n="DAMO.052a:36"/>La diffament \ les envïeux la <rhyme>belle</rhyme>
+<lb n="DAMO.052a:37"/>Sans achoison \ ne nul mal savoir <rhyme>d'elle</rhyme><l n=" 132"/>
+<lb n="DAMO.052a:38"/>Et lors cellui \ qui en est <rhyme>rigollé</rhyme>
+<lb n="DAMO.052a:39"/>Monstre semblant \ qu'il en soit <rhyme>adolé</rhyme>
+
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="DAMO.052b:01"/>Mais moult lui plaist \ de ce q<abbr type="ue"/> on l'en <rhyme>rigolle</rhyme>
+<lb n="DAMO.052b:02"/>Et de son beq \ mainte parole <rhyme>volle</rhyme><l n=" 136"/>
+<lb n="DAMO.052b:03"/>Qui blasme vault \ combien qu'il s'en <rhyme>excuse</rhyme>
+<lb n="DAMO.052b:04"/>En excusant \ celle no<abbr type="m"/>me et <rhyme>accuse</rhyme>
+<lb n="DAMO.052b:05"/>Et fait semblant \ de celer et <rhyme>couvrir</rhyme>
+<lb n="DAMO.052b:06"/>Ce qui lui plaist \ à dire et <rhyme>descouvrir</rhyme><l n=" 140"/>
+<lb n="DAMO.052b:07"/>¶ D'autres y a qui le rigol <rhyme>commence<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052b:08"/>À celle fin \ que les autres <rhyme>s'avance<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052b:09"/>D'eulx rigoler \ et d'eulx <rhyme>ramentevoir</rhyme>
+<lb n="DAMO.052b:10"/>Ce qu'ilz veulent \ à tous faire <rhyme>savoir</rhyme><l n=" 144"/>
+<lb n="DAMO.052b:11"/>Si s'en rïent \ et tout en <rhyme>accusant</rhyme>
+<lb n="DAMO.052b:12"/>Se vont du fait \ lachement <rhyme>excusant</rhyme>
+<lb n="DAMO.052b:13"/>¶ Si en y a \ qui se sont mis en <rhyme>peine</rhyme>
+<lb n="DAMO.052b:14"/>C'on les amast \ mais perdu ont le<abbr type="ur"/> <rhyme>peine</rhyme><l n=" 148"/>
+<lb n="DAMO.052b:15"/>Si sont honteux dont ilz sont <rhyme>refusé</rhyme>
+<lb n="DAMO.052b:16"/>Ne veulent pas \ qu'on croye que <rhyme>musé</rhyme>
+<lb n="DAMO.052b:17"/>Ayent en vain \ pour ce de ce se <rhyme>vante<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052b:18"/>C'onques n'avint \ et s'en cellui lieu <rhyme>ha<abbr type="n"/>te<abbr type="n"/>t</rhyme><l n=" 152"/>
+<lb n="DAMO.052b:19"/>Pour aucun cas \ ou par quelque <rhyme>acointa<abbr type="n"/>ce</rhyme>
+<lb n="DAMO.052b:20"/>De tout l'ostel \ compteront <rhyme>l'ordonna<abbr type="n"/>ce</rhyme>
+<lb n="DAMO.052b:21"/>Pour enseignes de confermer leur <rhyme>bourdes</rhyme>
+<lb n="DAMO.052b:22"/>Là sont dictes \ maintes paroles <rhyme>lourdes</rhyme><l n=" 156"/>
+<lb n="DAMO.052b:23"/>Et qui dire \ ne les veult mie <rhyme>appertes</rhyme>
+<lb n="DAMO.052b:24"/>Les monstre au doy par paroles <rhyme>couv<abbr type="er"/>tes</rhyme>
+<lb n="DAMO.052b:25"/>Là sont femmes \ moult laidem<abbr type="en"/>t <rhyme>no<abbr type="m"/>mées</rhyme>
+<lb n="DAMO.052b:26"/>Souventes fois \ et sans cause <rhyme>blamées</rhyme><l n=" 160"/>
+<lb n="DAMO.052b:27"/>Et mesmem<abbr type="en"/>t \ d'aucunes grans <rhyme>maistresses</rhyme>
+<lb n="DAMO.052b:28"/>Tout ayent ilz \ brunes ou blondes <rhyme>tresses</rhyme>
+<lb n="DAMO.052b:29"/><name ref="">Dieux</name> quieulx paroles \ <name ref="">dieux</name> quelles <rhyme>assemblées</rhyme> <note>epic caesura ?</note>
+<lb n="DAMO.052b:30"/>Où les honneurs \ des dames sont <rhyme>emblées</rhyme><l n=" 164"/>
+<lb n="DAMO.052b:31"/>Et quel prouffit \ vient d'ainsi <rhyme>diffamer</rhyme>
+<lb n="DAMO.052b:32"/>À ceulx mesmes \ qui se deussent <rhyme>armer</rhyme>
+<lb n="DAMO.052b:33"/>Pour les garder \ et leur honneur <rhyme>deffendre</rhyme>
+<lb n="DAMO.052b:34"/>Car tout homme \ doit avoir le cuer <rhyme>tendre</rhyme><l n=" 168"/>
+<lb n="DAMO.052b:35"/>Envers femme \ qui est sa chiere <rhyme>mere</rhyme>
+<lb n="DAMO.052b:36"/>Et ne lui est \ ne diverse <rhyme>n'amere</rhyme>
+<lb n="DAMO.052b:37"/>Ainçois souëve \ doulce &amp; <rhyme>amïable</rhyme> <note>epic caesura &amp; hiatus ?</note>
+<lb n="DAMO.052b:38"/>À son besoing \ piteuse et <rhyme>secourable</rhyme><l n=" 172"/>
+<lb n="DAMO.052b:39"/>Qui tant lui a \ fait et fait de <rhyme>services</rhyme>
+
+<pb n="052" ed="v"/><layout ruledLines="no"/>
+<lb n="DAMO.052v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">L'<c>e</c>pistre</fw> <fw type="header2" place="intercolumn " rend="centred">au dieu</fw> <fw type="header3" place="column d" rend="tabbed">d'<c>a</c>mours</fw> <fw type="header4" place="column d" rend="tabbed from right">&#x95; xii &#x95;</fw></hi>
+
+<cb n="c"/><layout ruledLines="40"/>
+<lb n="DAMO.052c:01"/>Et de qui tant \ les oeuvres sont <rhyme>propices</rhyme>
+<lb n="DAMO.052c:02"/>À corps d'omme \ souëvement <rhyme>nourrir</rhyme>
+<lb n="DAMO.052c:03"/>À son naistre \ au vivre et au <rhyme>mourir</rhyme><l n=" 176"/>
+<lb n="DAMO.052c:04"/>Lui sont femmes \ aydans et <rhyme>secourables</rhyme>
+<lb n="DAMO.052c:05"/>Et piteuses \ doulces et amïables <rhyme>servïables</rhyme> <note>rising 's' ; irregular ; alternative rhyme-words ?</note>
+<lb n="DAMO.052c:06"/>Si est cellui \ mau congnoissant et <rhyme>rude</rhyme> <note>'Jaquete' in outer margin</note>
+<lb n="DAMO.052c:07"/>Qui en mesdit \ et plain <rhyme>d'ingratitude</rhyme><l n=" 180"/>
+<lb n="DAMO.052c:08"/>Ancor dis je \ que trop se <rhyme>desnature</rhyme>
+<lb n="DAMO.052c:09"/>Homme qui dit \ diffame ne <rhyme>laidure</rhyme>
+<lb n="DAMO.052c:10"/>Ne reprouche \ de femme en la <rhyme>blamant</rhyme>
+<lb n="DAMO.052c:11"/>N'une ne &#x95; ii &#x95; ne tout <rhyme>generaument</rhyme><l n=" 184"/>
+<lb n="DAMO.052c:12"/>Et supposé \ qu'il en y ait de <rhyme>nices</rhyme>
+<lb n="DAMO.052c:13"/>Ou remplies \ de plusieurs divers <rhyme>vices</rhyme>
+<lb n="DAMO.052c:14"/>Sans foy n'amour \ ne nulle <rhyme>loyauté</rhyme>
+<lb n="DAMO.052c:15"/>Fieres males \ plaines de <rhyme>cruauté</rhyme><l n=" 188"/>
+<lb n="DAMO.052c:16"/>Ou pou constans \ legieres <rhyme>varïables</rhyme>
+<lb n="DAMO.052c:17"/>Cautilleuses faulces et <rhyme>decevables</rhyme>
+<lb n="DAMO.052c:18"/>Doit on pour tant \ toutes mettre en <rhyme>fermaille</rhyme>
+<lb n="DAMO.052c:19"/>Et tesmoigner \ qu'il n'est nulle qui <rhyme>vaille</rhyme><l n=" 192"/>
+<lb n="DAMO.052c:20"/>¶ Quant le hault <name ref="">dieu</name> \ fist et forma les <rhyme>angelz</rhyme>
+<lb n="DAMO.052c:21"/>Les cherubins \ ceraphins et <rhyme>archangelz</rhyme>
+<lb n="DAMO.052c:22"/>N'en y ot il \ de mauvais en leurs <rhyme>fais</rhyme>
+<lb n="DAMO.052c:23"/>Doit on pour tant \ anges nommer <rhyme>mauvais</rhyme><l n=" 196"/>
+<lb n="DAMO.052c:24"/>Mais qui male \ femme scet si s'en <rhyme>gard</rhyme>
+<lb n="DAMO.052c:25"/>Sans diffamer ne le tiers ne le <rhyme>quart</rhyme>
+<lb n="DAMO.052c:26"/>Ne trestoutes \ en general <rhyme>blamer</rhyme>
+<lb n="DAMO.052c:27"/>Ne tous leurs meurs \ femenins <rhyme>diffamer</rhyme><l n=" 200"/>
+<lb n="DAMO.052c:28"/>Car moult en fu \ est et sera de <rhyme>celles</rhyme>
+<lb n="DAMO.052c:29"/>Qui à louer \ sont com bonnes et <rhyme>belles</rhyme>
+<lb n="DAMO.052c:30"/>¶ Et où vertus \ et graces sont <rhyme>trouvées</rhyme>
+<lb n="DAMO.052c:31"/>Sens et valeur \ en bonté <rhyme>esprouvées</rhyme><l n=" 204"/>
+<lb n="DAMO.052c:32"/>Et de blasmer \ celles qui le mains <rhyme>vale<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052c:33"/>Ceulx qui ce font \ encor dis je \ qu'ilz <rhyme>fale<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052c:34"/>S'ilz les nomment \ disant qui elles <rhyme>sont</rhyme>
+<lb n="DAMO.052c:35"/>Où demeurent \ quoy ne quieulx leurs fais <rhyme>so<abbr type="n"/>t</rhyme><l n=" 208"/>
+<lb n="DAMO.052c:36"/>Car le pecheur \ on ne doit <rhyme>diffamer</rhyme>
+<lb n="DAMO.052c:37"/>Ce nous dit <name ref="">dieux</name> \ n'en publiq<abbr type="ue"/> <rhyme>blamer</rhyme>
+<lb n="DAMO.052c:38"/>Les vices bien \ peut on et les <rhyme>pechez</rhyme>
+<lb n="DAMO.052c:39"/>Très fort blamer \ sans ceulx q<abbr type="ui"/> <rhyme>entechez</rhyme><l n=" 212"/>
+<lb n="DAMO.052c:40"/>En sont nommer \ ne diffamer <rhyme>nullui</rhyme>
+
+<cb n="d"/><layout ruledLines="40"/>
+<lb n="DAMO.052d:01"/>Le <note>Ce ?</note> tesmongne \ l'escript où je le <rhyme>lui</rhyme><note>elaborate 'L', 'l'</note>
+<lb n="DAMO.052d:02"/>De tieulx parleurs \ en y a à grans <rhyme>sommes</rhyme>
+<lb n="DAMO.052d:03"/>Dont grant honte est \ tel vice en gentilz <rhyme>ho<abbr type="m"/>mes</rhyme><l n=" 216"/>
+<lb n="DAMO.052d:04"/>Je di à ceulx \ qui en sont <rhyme>entechié</rhyme>
+<lb n="DAMO.052d:05"/>Non mie à ceulx \ qui n'y ont nul <rhyme>pechié</rhyme>
+<lb n="DAMO.052d:06"/>Car maint y a \ des nobles si <rhyme>vaillans</rhyme>
+<lb n="DAMO.052d:07"/>Qui mieulx perdre \ vouldroient leur <rhyme>vailla<abbr type="n"/>s</rhyme><l n=" 220"/>
+<lb n="DAMO.052d:08"/>Que de tieulx fais \ restez ne <rhyme>reprouvez</rhyme>
+<lb n="DAMO.052d:09"/>Fussent pour riens \ n'en tel cas pris <rhyme>p<abbr type="ro"/>uvez</rhyme>
+<lb n="DAMO.052d:10"/>Mais les mauvais \ dont je fais <rhyme>mencïon</rhyme>
+<lb n="DAMO.052d:11"/>Qui n'ont bon fait \ ne bonne <rhyme>entencïon</rhyme><l n=" 224"/>
+<lb n="DAMO.052d:12"/>Ne prennent pas \ au <name ref="">bon hutin <rhyme>exemple</rhyme>
+<lb n="DAMO.052d:13"/>De vermeilles</name> \ où bonté ot si <rhyme>ample</rhyme>
+<lb n="DAMO.052d:14"/>C'onques nulz homs \ n'y sçot q<abbr type="ue"/> <rhyme>reproucher</rhyme>
+<lb n="DAMO.052d:15"/>Ne nul mesdit \ en diffamant n'ot <rhyme>cher</rhyme><l n=" 228"/>
+<lb n="DAMO.052d:16"/>Souvrainement \ porta honnour aux <rhyme>fe<abbr type="m"/>mes</rhyme>
+<lb n="DAMO.052d:17"/>Ne pot ouÿr \ d'elles blasme ou <rhyme>diffames</rhyme>
+<lb n="DAMO.052d:18"/>Chevalier fu \ preux sage et b<abbr type="ie"/>n <rhyme>amé</rhyme>
+<lb n="DAMO.052d:19"/>Pour ce fu il \ et sera <rhyme>renommé</rhyme><l n=" 232"/>
+<lb n="DAMO.052d:20"/>¶ <name ref="">Le bon otte \ de grançon le <rhyme>vailla<abbr type="n"/>t</rhyme></name>
+<lb n="DAMO.052d:21"/>Qui pour armes \ tant s'ala <rhyme>travailla<abbr type="n"/>t</rhyme>
+<lb n="DAMO.052d:22"/>Courtois gentil \ preux \ bel &amp; <rhyme>gracïeux</rhyme>
+<lb n="DAMO.052d:23"/>Fu en son temps \ <name ref="">dieux</name> en ait l'ame ès <rhyme>cieux</rhyme><l n=" 236"/> <note>check - last letters lost in margin</note>
+<lb n="DAMO.052d:24"/>Car chevalier fu \ moult bien <rhyme>enteché</rhyme>
+<lb n="DAMO.052d:25"/>Qui mal lui fist \ je tiens qu'il fist <rhyme>peché</rhyme>
+<lb n="DAMO.052d:26"/>Non obstant ce \ que lui nuisi <name ref=""><rhyme>fortune</rhyme></name>
+<lb n="DAMO.052d:27"/>Mais de grever \ aux bons elle est <rhyme>co<abbr type="m"/>mune</rhyme><l n=" 240"/>
+<lb n="DAMO.052d:28"/>Car en tous cas \ je tiens qu'il fu <rhyme>loyaulx</rhyme>
+<lb n="DAMO.052d:29"/>D'armes plus preus que <name ref="">thelamon <rhyme>ayaulx</rhyme></name>
+<lb n="DAMO.052d:30"/>Onc ne lui plot \ p<abbr type="er"/>sonne <rhyme>diffamer</rhyme>
+<lb n="DAMO.052d:31"/>Les dames volt \ servir prisier <rhyme>amer</rhyme><l n=" 244"/>
+<lb n="DAMO.052d:32"/>¶ D'autres plusieurs \ furent bons et <rhyme>vailla<abbr type="n"/>s</rhyme>
+<lb n="DAMO.052d:33"/>Estre doivent \ exemple aux <rhyme>deffailla<abbr type="n"/>s</rhyme>
+<lb n="DAMO.052d:34"/>Encor en est \ maint il est b<abbr type="ie"/>n <rhyme>mestiers</rhyme>
+<lb n="DAMO.052d:35"/>Qui des vaillans \ suivent les bons <rhyme>sentiers</rhyme><l n=" 248"/>
+<lb n="DAMO.052d:36"/><name ref="">Honneur</name> les duit \ <name ref="">vaillance</name> les y <rhyme>maine</rhyme>
+<lb n="DAMO.052d:37"/>À acquerir \ pris et loz mettent <rhyme>peine</rhyme>
+<lb n="DAMO.052d:38"/>Des nobles meurs \ bien entechez se <rhyme>perent</rhyme>
+<lb n="DAMO.052d:39"/>Par leurs beaulx fais \ leur vaillances <rhyme>appere<abbr type="n"/>t</rhyme><l n=" 252"/>
+<lb n="DAMO.052d:40"/>En ce royaume \ ailleurs &amp; oultre <rhyme>mer</rhyme><note>cursive catchword : 'mais Je me tais' - 'I' with inverted comm</note>
+
+
+<pb n="053" ed="r"/><layout ruledLines="no"/>
+<lb n="DAMO.053r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">L'<c>e</c>pistre</fw> <fw type="header2" place="column a" rend="right aligned,">au</fw> <fw type="header3" place="intercolumn" rend="right aligned">dieu</fw> <fw type="header4" place="column b" rend="tabbed">d'<c>a</c>mours</fw> <fw type="header5" place="column b" rend="tabbed from right">&#x95; xii &#x95;</fw></hi>
+
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="DAMO.053a:01"/>Mais je me tais d'eulz <add place="supralinear" type="" evidence="">&amp;</add> <note>caret</note><note>'ulz'  squashed over erasure</note> leurs noms <rhyme>nommer</rhyme>
+<lb n="DAMO.053a:02"/>C'on ne deïst que ce fust <rhyme>flaterie</rhyme>
+<lb n="DAMO.053a:03"/>Ou qu'il peüst tourner à <rhyme>vanterie</rhyme><l n=" 256"/>
+<lb n="DAMO.053a:04"/>Et <note>2 letter space - 'de' erased ?</note> tieulx doivent gentilz hommes p<abbr type="ar"/> <rhyme>droit</rhyme>
+<lb n="DAMO.053a:05"/>Estre / autrement gentillece y <rhyme>faudroit</rhyme>
+<lb n="DAMO.053a:06"/>¶ Si se plaignent les dessus d<abbr type="i"/>c<abbr type="t"/>es <rhyme>dames</rhyme>
+<lb n="DAMO.053a:07"/>De plusieurs clercs qui leur surmette<abbr type="n"/>t <rhyme>blasmes</rhyme><l n=" 260"/>
+<lb n="DAMO.053a:08"/>Dictiez en font rimes proses et <rhyme>vers</rhyme>
+<lb n="DAMO.053a:09"/>En diffamant leurs meurs par moz <rhyme>div<abbr type="er"/>s</rhyme>
+<lb n="DAMO.053a:10"/>Si les baillent en matiere aux <rhyme>premiers</rhyme>
+<lb n="DAMO.053a:11"/>À leurs nouveaulx et jeunes <rhyme>escoliers</rhyme><l n=" 264"/>
+<lb n="DAMO.053a:12"/>En maniere d'exemple et de <rhyme>doctrine</rhyme>
+<lb n="DAMO.053a:13"/>Pour retenir en age tel <rhyme>doctrine</rhyme>
+<lb n="DAMO.053a:14"/>¶ En vers dïent \ <name ref="">Adam</name> <name ref="">david</name> <name ref=""><rhyme>Sanson</rhyme></name>
+<lb n="DAMO.053a:15"/>Et <name ref="">Salomon</name> et autres à <rhyme>foison</rhyme><l n=" 268"/>
+<lb n="DAMO.053a:16"/>Furent deceu par femme main &amp; <rhyme>tart</rhyme>
+<lb n="DAMO.053a:17"/>Et qui sera dont \ li homs qui s'en <rhyme>gard</rhyme>
+<lb n="DAMO.053a:18"/>Li autre dit \ que moult sont <rhyme>decevables</rhyme>
+<lb n="DAMO.053a:19"/>Cautilleuses \ faulses et pou <rhyme>valables</rhyme><l n=" 272"/>
+<lb n="DAMO.053a:20"/>¶ Autres dïent \ que trop sont <rhyme>mençongieres</rhyme>
+<lb n="DAMO.053a:21"/>Varïables \ inconstans et <rhyme>legieres</rhyme>
+<lb n="DAMO.053a:22"/>D'autres plusieurs \ grans vices les <rhyme>accuse<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053a:23"/>Et blasment moult \ sans qu'en rie<abbr type="n"/>s les <rhyme>excuse<abbr type="n"/>t</rhyme><l n=" 276"/>
+<lb n="DAMO.053a:24"/>Et ainsi font clers et soir et <rhyme>matin</rhyme>
+<lb n="DAMO.053a:25"/>Puis en françois leurs vers puis en <rhyme>latin</rhyme>
+<lb n="DAMO.053a:26"/>Et se fondent \ dessus ne sçay quelz <rhyme>livres</rhyme>
+<lb n="DAMO.053a:27"/>Qui plus dïent de mençonge q'uns <rhyme>yvres</rhyme><l n=" 280"/>
+<lb n="DAMO.053a:28"/><name ref="">Ovide</name> en dit \ en un <name ref="">livre</name> qu'il <rhyme>fist</rhyme>
+<lb n="DAMO.053a:29"/>Assez de maulx dont je tiens qu'il <rhyme>meffist</rhyme>
+<lb n="DAMO.053a:30"/>Qu'il appella \ le <name ref="">remede <rhyme>d'amours</rhyme></name>
+<lb n="DAMO.053a:31"/>Où leur met sus \ de moult villaines <rhyme>mours</rhyme><l n=" 284"/>
+<lb n="DAMO.053a:32"/>Ordes laides \ plaines de <rhyme>villennie</rhyme>
+<lb n="DAMO.053a:33"/>Que tieulx vices \ ayent je le <note>'e' over erasure ; 1 letter space &amp; filler</note> lui <rhyme>nie</rhyme>
+<lb n="DAMO.053a:34"/>Au deffendre \ par bataille je <rhyme>gage</rhyme>
+<lb n="DAMO.053a:35"/>Contre tous ceulx qui getter vouldro<abbr type="n"/>t <rhyme>gage</rhyme><l n=" 288"/>
+<lb n="DAMO.053a:36"/>Voire j'entens \ des femmes <rhyme>honorables</rhyme>
+<lb n="DAMO.053a:37"/>En mes comptes ne mes les non <rhyme>valables</rhyme>
+<lb n="DAMO.053a:38"/>Si ont les clers appris très leur <rhyme>enfance</rhyme>
+<lb n="DAMO.053a:39"/>Cellui <name ref="">livret</name> en premiere <rhyme>scïence</rhyme><l n=" 292"/>
+
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="DAMO.053b:01"/>De gramairë \ et aux autres <rhyme>l'apprenne<abbr type="n"/>t</rhyme> <note>hiatus ; elaborate 'l' &amp; abbreviation</note> 
+<lb n="DAMO.053b:02"/>À celle fin \ qu'à femme amer <rhyme>n'emprenne<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053b:03"/>Mais de ce sont \ folz et perdent leur <rhyme>peine</rhyme>
+<lb n="DAMO.053b:04"/>Ne l'empescher si n'est fors chose <rhyme>vaine</rhyme><l n=" 296"/>
+<lb n="DAMO.053b:05"/>Car entre moy \ et <name ref="">ma dame <rhyme>nature</rhyme></name>
+<lb n="DAMO.053b:06"/>Ne souffrerons \ tant com le monde <rhyme>dure</rhyme>
+<lb n="DAMO.053b:07"/>Que cheries et amées ne <rhyme>soie<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053b:08"/>Mal gré tous ceulx qui blamer les <rhyme>vouldroie<abbr type="n"/>t</rhyme><l n=" 300"/>
+<lb n="DAMO.053b:09"/>Et qu'à plusieurs \ meismes qui plus les <rhyme>blasment</rhyme>
+<lb n="DAMO.053b:10"/>N'ostent les cuers \ et ravissent &amp; <rhyme>emblent</rhyme>
+<lb n="DAMO.053b:11"/>Sans nul frauder \ ne faire <rhyme>extorcïon</rhyme>
+<lb n="DAMO.053b:12"/>Mais tout par nous \ et n<abbr type="ost"/>re <rhyme>impressïon</rhyme><l n=" 304"/>
+<lb n="DAMO.053b:13"/>Ja n'en seront hommes si <rhyme>accointez</rhyme>
+<lb n="DAMO.053b:14"/>Par soubtilz clercs \ ne pour tous leurs <rhyme>dictiez</rhyme>
+<lb n="DAMO.053b:15"/>Non obstant ce \ que mains livres en <rhyme>parle<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053b:16"/>Et les blasment \ qui assez pou y <rhyme>valent</rhyme><l n=" 308"/>
+<lb n="DAMO.053b:17"/>¶ Et s'aucun dit \ qu'on doit les livres <rhyme>croire</rhyme>
+<lb n="DAMO.053b:18"/>Qui furent fais \ d'ommes de gra<abbr type="n"/>t <rhyme>memoire</rhyme>
+<lb n="DAMO.053b:19"/>Et de grant sens \ qui mentir ne <rhyme>daignere<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053b:20"/>Qui des femmes \ les malices <rhyme>prouvere<abbr type="n"/>t</rhyme><l n=" 312"/>
+<lb n="DAMO.053b:21"/>Je leur respons \ que ceulx qui cë <rhyme>escripre<abbr type="n"/>t</rhyme> <note>hiatus</note>
+<lb n="DAMO.053b:22"/>En leurs livres \ je treuve qu'ilz ne <rhyme>quistre<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053b:23"/>En leurs vies \ fors femmes <rhyme>decepvoir</rhyme>
+<lb n="DAMO.053b:24"/>N'en pouoient \ yceulx assez <rhyme>avoir</rhyme><l n=" 316"/>
+<lb n="DAMO.053b:25"/>Et tous les jours \ vouloie<abbr type="n"/>t des <rhyme>nouvelles</rhyme>
+<lb n="DAMO.053b:26"/>Sans loyauté tenir nez aux plus <rhyme>belles</rhyme>
+<lb n="DAMO.053b:27"/>Qu'en ot <name ref="">david</name> \ &amp; <name ref="">salomon le <rhyme>roy</rhyme></name>
+<lb n="DAMO.053b:28"/><name ref="">Dieu</name> s'en courrouça \ et pugni leur <rhyme>desroy</rhyme><l n=" 320"/> <note>11 syllables</note>
+<lb n="DAMO.053b:29"/>¶ D'autres plusieurs \ et mesmem<abbr type="en"/>t <name ref=""><rhyme>ovide</rhyme></name>
+<lb n="DAMO.053b:30"/>Qui tant en volt \ puis diffamer les <rhyme>cuide</rhyme>
+<lb n="DAMO.053b:31"/>Et tous les clercs \ qui tant en ont <rhyme>parlé</rhyme>
+<lb n="DAMO.053b:32"/>Plus qu'autre gent \ en furent <rhyme>affollé</rhyme><l n=" 324"/>
+<lb n="DAMO.053b:33"/>Non pas d'une \ seule mais d'un <rhyme>miller</rhyme>
+<lb n="DAMO.053b:34"/>Et se tel gent \ orent dame ou <rhyme>mouller</rhyme>
+<lb n="DAMO.053b:35"/>Qui ne feïst \ du tout à leur <rhyme>vouloir</rhyme>
+<lb n="DAMO.053b:36"/>Ou qui meïst \ peine à les <rhyme>decevoir</rhyme><l n=" 328"/>
+<lb n="DAMO.053b:37"/>Quel merveille car il n'est nulle <rhyme>doubte</rhyme>
+<lb n="DAMO.053b:38"/>Que quant uns homs en tel vilté se <rhyme>boute</rhyme>
+<lb n="DAMO.053b:39"/>Il ne va pas \ querant les vaillans <rhyme>dames</rhyme>
+<!-- no signature -->
+
+
+<pb n="053" ed="v"/><layout ruledLines="no"/>
+<lb n="DAMO.053v:01"/><hi rend="red"><fw type="header1" place="column c" rend="">L'<c>e</c>pistre</fw> <fw type="header2" place="intercolumn" rend="">au dieu</fw> <fw type="header3" place="column d" rend="">d'<c>a</c>mours</fw> <fw type="header4" place="column d" rend="">&#x95; xii &#x95;</fw></hi><note>The end of the running title has been cropped by the binder.</note>
+
+<cb n="c"/><layout ruledLines="41"/>
+<lb n="DAMO.053c:01"/>Ne <s>l</s>es <s>b</s>onnes \ prisiées preu<s>d</s>es <rhyme>femmes</rhyme><l n=" 332"/><note>next two lines inverted ; correct order shown by 'B' and 'A' in margin</note>
+<lb n="DAMO.053c:02"/>Ne les \ congnoit \ në il n'en a que <rhyme>faire</rhyme> <note>hiatus</note>
+<lb n="DAMO.053c:03"/>Fors ceulx ne veult \ qui sont de son <rhyme>affaire</rhyme>
+<lb n="DAMO.053c:04"/>De fillettes \ se pare et de <rhyme>pietaille</rhyme>
+<lb n="DAMO.053c:05"/>Est il digne \ d'avoir chose qui <rhyme>vaille</rhyme><l n=" 336"/>
+<lb n="DAMO.053c:06"/>Un villottier \ qui toutes met en <rhyme>conte</rhyme>
+<lb n="DAMO.053c:07"/>Et puis cuide \ trop bien couvrir sa <rhyme>honte</rhyme>
+<lb n="DAMO.053c:08"/>Quant plus n'en peut et qu'il est ja vielx <rhyme>ho<abbr type="m"/>s</rhyme>
+<lb n="DAMO.053c:09"/>D'elle traÿr \ par ses soubtilz <rhyme>raisons</rhyme><l n=" 340"/>
+<lb n="DAMO.053c:10"/>¶ Mais qui blamast \ seulement les <rhyme>do<abbr type="n"/>nées</rhyme>
+<lb n="DAMO.053c:11"/>Aux grans vices \ et les <rhyme>abandonnées</rhyme>
+<lb n="DAMO.053c:12"/>Et conseillast \ à elles non <rhyme>suivir</rhyme>
+<lb n="DAMO.053c:13"/>Comme ilz ont fait \ bien s'en po<abbr type="ur"/>roit <rhyme>suivir</rhyme><l n=" 344"/>
+<lb n="DAMO.053c:14"/>Et ce seroit \ chose moult <rhyme>raisonnable</rhyme>
+<lb n="DAMO.053c:15"/>Enseignement <add place="supralinear" type="" evidence="">juste</add> <note>caret ; lighter ink</note> &amp; digne et <rhyme>louable</rhyme>
+<lb n="DAMO.053c:16"/>Sans diffamer \ toutes <rhyme>generaum<abbr type="en"/>t</rhyme>
+<lb n="DAMO.053c:17"/>Et à parler \ quant au <rhyme>decevem<abbr type="en"/>t</rhyme><l n=" 348"/>
+<lb n="DAMO.053c:18"/>Je ne sçay pas \ penser ne <rhyme>concevoir</rhyme>
+<lb n="DAMO.053c:19"/>Comment femme \ puist ho<abbr type="m"/>me <rhyme>decevoir</rhyme>
+<lb n="DAMO.053c:20"/>Ne le va pas \ ne cercher ne <rhyme>querir</rhyme>
+<lb n="DAMO.053c:21"/>Ne sus son lieu \ prïer ne <rhyme>requerir</rhyme><l n=" 352"/>
+<lb n="DAMO.053c:22"/>Ne pense à lui \ ne ne lui en <rhyme>souvie<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053c:23"/>Quant decevoir \ l'omme et tempter la <rhyme>vie<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053c:24"/>Tempter comment \ voire par tel <rhyme>maniere</rhyme>
+<lb n="DAMO.053c:25"/>Qu'il n'est peine \ qui ne lui soit <rhyme>legiere</rhyme><l n=" 356"/>
+<lb n="DAMO.053c:26"/>À endurer \ ne faissel à <rhyme>porter</rhyme>
+<lb n="DAMO.053c:27"/>À autre riens \ ne se veult <rhyme>deporter</rhyme>
+<lb n="DAMO.053c:28"/>Fors à pener à elles <rhyme>decevoir</rhyme>
+<lb n="DAMO.053c:29"/>Pour y mettre \ cuer &amp; corps et <rhyme>avoir</rhyme><l n=" 360"/>
+<lb n="DAMO.053c:30"/>Et par lonc temps \ dure la <rhyme>triolaine</rhyme>
+<lb n="DAMO.053c:31"/>Souventes fois \ avient et celle <rhyme>peine</rhyme>
+<lb n="DAMO.053c:32"/>Non obstant ce \ que moult souve<abbr type="n"/>t ilz <rhyme>faille<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053c:33"/>À leurs esmes \ ja soit ce qu'ilz <rhyme>travaille<abbr type="n"/>t</rhyme><l n=" 364"/>
+<lb n="DAMO.053c:34"/>¶ Et de ceulx parle <name ref="">ovide</name> en son <name ref=""><rhyme>traictié</rhyme>
+<lb n="DAMO.053c:35"/>De l'art d'amours</name> \ car pour la gra<abbr type="n"/>t <rhyme>pitié</rhyme>
+<lb n="DAMO.053c:36"/>Qu'il ot de ceulx \ compila il un <name ref=""><rhyme>livre</rhyme></name>
+<lb n="DAMO.053c:37"/>Où leur escript \ et enseigne à <rhyme>delivre</rhyme><l n=" 368"/>
+<lb n="DAMO.053c:38"/>Comment pourront les fe<abbr type="m"/>mes <rhyme>decevoir</rhyme>
+<lb n="DAMO.053c:39"/>Par faintises \ &amp; leur amour <rhyme>avoir</rhyme>
+<lb n="DAMO.053c:40"/>Si l'appella <name ref="">livre de l'art <rhyme>d'amours</rhyme></name>
+<lb n="DAMO.053c:41"/>Mais n'enseigne condicions ne <rhyme>mours</rhyme><l n=" 372"/> <note>line inserted in different ink</note>
+
+<cb n="d"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="DAMO.053d:01"/><s>D</s>e bien amer \ mais ainçois le <rhyme>contraire</rhyme> <note>very elaborate 'D' with scrolling</note>
+<lb n="DAMO.053d:02"/>Car homs qui veult selon ce livre <rhyme>faire</rhyme>
+<lb n="DAMO.053d:03"/>N'amera ja \ combien qu'il soit <rhyme>amez</rhyme>
+<lb n="DAMO.053d:04"/>Et pour ce est \ li livres mau <rhyme>no<abbr type="m"/>mez</rhyme><l n=" 376"/>
+<lb n="DAMO.053d:05"/>Car c'est livre \ d'art de gra<abbr type="n"/>t <rhyme>decevance</rhyme>
+<lb n="DAMO.053d:06"/>Tel nom lui don \ et de faulce <rhyme>appare<abbr type="n"/>ce</rhyme>
+<lb n="DAMO.053d:07"/>Et comment dont \ quant fraisles et <rhyme>legieres</rhyme>
+<lb n="DAMO.053d:08"/>Et tournables \ nices et pou <rhyme>entieres</rhyme><l n=" 380"/>
+<lb n="DAMO.053d:09"/>Sont les femmes \ sicomme aucu<abbr type="n"/>s clers <rhyme>dïe<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053d:10"/>Quel besoing dont est il à ceulx qui <rhyme>prïe<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053d:11"/>De tant pour ce pourchacier de <rhyme>cautelles</rhyme>
+<lb n="DAMO.053d:12"/>Et pour quoy tost ne s'i accorde<abbr type="n"/>t <rhyme>elles</rhyme><l n=" 384"/>
+<lb n="DAMO.053d:13"/>Sans qu'il faille \ art n'engin à elles <rhyme>prendre</rhyme>
+<lb n="DAMO.053d:14"/>Car pour chastel pris ne faut guerre <rhyme>emp<abbr type="re"/>ndre</rhyme>
+<lb n="DAMO.053d:15"/>Et mesmement poete si <rhyme>soubtil</rhyme>
+<lb n="DAMO.053d:16"/>Comme <name ref="">Ovide</name> qui puis fu en <rhyme>exil</rhyme><l n=" 388"/>
+<lb n="DAMO.053d:17"/>¶ Et <name ref="">Jehan de meun</name> oû <name ref="">ro<abbr type="m"/>mant de la <rhyme>rose</rhyme></name>
+<lb n="DAMO.053d:18"/>Quel lonc procès quel difficile <rhyme>chose</rhyme>
+<lb n="DAMO.053d:19"/>Et scïences et cleres et <rhyme>obscures</rhyme>
+<lb n="DAMO.053d:20"/>Mist il y là \ et de grans <rhyme>aventures</rhyme><l n=" 392"/>
+<lb n="DAMO.053d:21"/>Et que de gent \ supploiez et <rhyme>rouvez</rhyme>
+<lb n="DAMO.053d:22"/>Et de peines \ et de baras <rhyme>trouvez</rhyme>
+<lb n="DAMO.053d:23"/>Pour decevoir \ sans plus une <rhyme>pucelle</rhyme>
+<lb n="DAMO.053d:24"/>S'en est la fin \ par fraude et par <rhyme>cautelle</rhyme><l n=" 396"/>
+<lb n="DAMO.053d:25"/>À foible lieu fault il dont gra<abbr type="n"/>t <rhyme>assault</rhyme>
+<lb n="DAMO.053d:26"/>Comment peut on \ de pres faire gra<abbr type="n"/>t <rhyme>sault</rhyme>
+<lb n="DAMO.053d:27"/>Je ne sçay pas \ ne vëoir ne <rhyme>comprendre</rhyme>
+<lb n="DAMO.053d:28"/>Que grant peine \ faille à foible lieu <rhyme>p<abbr type="re"/>ndre</rhyme><l n=" 400"/>
+<lb n="DAMO.053d:29"/>Në art n'engin \ ne grant <rhyme>soubtiveté</rhyme>
+<lb n="DAMO.053d:30"/>Où il <note>over erasure</note> couvient <note>2 letter space with dash ; 'il', largely erased underneath</note> tout de <rhyme>neccessité</rhyme>
+<lb n="DAMO.053d:31"/>Puis que art couvient \ grant engin &amp; gra<abbr type="n"/>t <rhyme>peine</rhyme>
+<lb n="DAMO.053d:32"/>À decevoir \ femme noble ou <rhyme>villaine</rhyme><l n=" 404"/>
+<lb n="DAMO.053d:33"/>Qu'elz ne soient \ mie si <rhyme>varïables</rhyme>
+<lb n="DAMO.053d:34"/>Comme aucuns dit \ n'en leur fais si <rhyme>müables</rhyme>
+<lb n="DAMO.053d:35"/>¶ Et s'on me dit li livre en sont tuit <rhyme>plain</rhyme>
+<lb n="DAMO.053d:36"/>C'est le respons \ à maint dont je me <rhyme>plain</rhyme><l n=" 408"/>
+<lb n="DAMO.053d:37"/>Je leur respons \ que les livres ne <rhyme>fire<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053d:38"/>Pas les femmes \ ne les choses n'i <rhyme>mire<abbr type="n"/>t</rhyme>
+<lb n="DAMO.053d:39"/>Que l'en y list cont<abbr type="re"/> elles et leurs <rhyme>meurs</rhyme>
+<lb n="DAMO.053d:40"/>Si devisent \ à l'aise de leurs <rhyme>cuers</rhyme><l n=" 412"/>
+<!-- 1 blank line here -->
+
+<pb n="054" ed="r"/><layout ruledLines="no"/>
+<lb n="DAMO.054r:01"/><hi rend="red"><fw type="header1" place="column a" rend="centred">L'<c>e</c>pistre</fw> <fw type="header2" place="column a" rend="tabbed from right">au</fw> <fw type="header3" place="column b" rend="left aligned">dieu</fw> <fw type="header4" place="column b" rend="centred">d'<c>a</c>mours</fw> <fw type="header5" place="column b" rend="tabbed from right">&#x95; xii &#x95;</fw></hi><note>The beginning of the running title has been cropped by the binder.</note>
+
+<cb n="a"/><layout ruledLines="41"/>
+<lb n="DAMO.054a:01"/>Ceulx qui plaident \ leur cause sans <rhyme>partie</rhyme>
+<lb n="DAMO.054a:02"/>Sans rabatre \ comptent et gra<abbr type="n"/>t <rhyme>partie</rhyme>
+<lb n="DAMO.054a:03"/>Prennent pour eulx \ car de leger <rhyme>offende<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054a:04"/>Les batailleurs \ ceulx qui ne se <rhyme>deffende<abbr type="n"/>t</rhyme><l n=" 416"/>
+<lb n="DAMO.054a:05"/>Mais se femmes \ eussent li livre <rhyme>fait</rhyme>
+<lb n="DAMO.054a:06"/>Je sçay de vray \ qu'aultreme<abbr type="n"/>t fust du <rhyme>fait</rhyme>
+<lb n="DAMO.054a:07"/>Car bien scevent \ qu'à tort sont <rhyme>encoulpées</rhyme>
+<lb n="DAMO.054a:08"/>Si <note>'S' over erasure ?</note> ne sont pas \ les pars à droit <rhyme>coppées</rhyme><l n=" 420"/>
+<lb n="DAMO.054a:09"/>Car les plus fors \ prennent la plus gra<abbr type="n"/>t <rhyme>part</rhyme>
+<lb n="DAMO.054a:10"/>Et le meilleur \ pour soy qui pieces <rhyme>part</rhyme>
+<lb n="DAMO.054a:11"/>¶ Encor dïent \ li felon <rhyme>mesdisant</rhyme>
+<lb n="DAMO.054a:12"/>Qui les femmes vont ainsi <rhyme>desprisant</rhyme><l n=" 424"/>
+<lb n="DAMO.054a:13"/>Que toutes sont \ faulces seront et <rhyme>fure<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054a:14"/>N'onques ancor nulle loyauté <rhyme>n'ure<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054a:15"/>Et que teles amans <note>'e teles amans' over erasure</note> \ qui qu'elles <rhyme>soie<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054a:16"/>Toutes treuvent \ quant les fe<abbr type="m"/>mes <rhyme>essaye<abbr type="n"/>t</rhyme><l n=" 428"/> <note>rhyme ?</note>
+<lb n="DAMO.054a:17"/>À toutes fins \ leur est le tort <rhyme>donné</rhyme>
+<lb n="DAMO.054a:18"/>Qui qu'ait meffait \ sur elles est <rhyme>tourné</rhyme>
+<lb n="DAMO.054a:19"/>¶ Mais c'est mau dit \ et on voit le <rhyme>rebours</rhyme>
+<lb n="DAMO.054a:20"/>Car quant à ce \ qui affiert à <rhyme>amours</rhyme><l n=" 432"/>
+<lb n="DAMO.054a:21"/>Trop de femmes y ont esté <rhyme>loyales</rhyme>
+<lb n="DAMO.054a:22"/>Sont et seront \ non obstant <rhyme>intervalles</rhyme>
+<lb n="DAMO.054a:23"/>Où faulcetez \ baras ou <rhyme>tricheries</rhyme>
+<lb n="DAMO.054a:24"/>C'on leur ait fait \ et maintes <rhyme>menteries</rhyme><l n=" 436"/>
+<lb n="DAMO.054a:25"/>Que fu jadis \ <name ref="">medée</name> au <name ref="">faulx <rhyme>jason</rhyme></name>
+<lb n="DAMO.054a:26"/>Très loyale et lui fist la <rhyme>toison</rhyme>
+<lb n="DAMO.054a:27"/>D'or conquerir \ par son engin <rhyme>soubtil</rhyme>
+<lb n="DAMO.054a:28"/>Dont il acquist \ loz plus qu'autre cent <rhyme>mil</rhyme><l n=" 4440"/>
+<lb n="DAMO.054a:29"/>Par elle fu renommé dessur <rhyme>to<abbr type="us"/></rhyme>
+<lb n="DAMO.054a:30"/>Si lui promist \ que loyal ami <rhyme>doulx</rhyme>
+<lb n="DAMO.054a:31"/>Seroit tout sien \ mais sa foy lui <rhyme>menti</rhyme>
+<lb n="DAMO.054a:32"/>Et la laissa \ pour autre et s'en <rhyme>parti</rhyme><l n=" 444"/>
+<lb n="DAMO.054a:33"/>¶ Que fu <name ref="">dido \ roÿne de <rhyme>cartage</rhyme></name>
+<lb n="DAMO.054a:34"/>De grant amour \ et de loyal <rhyme>courage</rhyme>
+<lb n="DAMO.054a:35"/>Vers <name ref="">enéas</name> \ qui exillé de <name ref=""><rhyme>troye</rhyme></name>
+<lb n="DAMO.054a:36"/>Aloit par mer \ las despris et sans <rhyme>joye</rhyme><l n=" 448"/>
+<lb n="DAMO.054a:37"/>Pres que peri \ lui et ses <rhyme>chevaliers</rhyme>
+<lb n="DAMO.054a:38"/>Recueilli fu \ dont lui estoit <rhyme>mestiers</rhyme>
+<lb n="DAMO.054a:39"/>De la belle \ qu'il faulcement <rhyme>deceut</rhyme>
+<lb n="DAMO.054a:40"/>Car à très grant \ honneur elle <rhyme>receut</rhyme><l n=" 452"/>
+<lb n="DAMO.054a:41"/>Lui et ses gens \ et trop de bien lui <rhyme>fist</rhyme>
+
+<cb n="b"/><layout ruledLines="41"/>
+<lb n="DAMO.054b:01"/>Mais puis après \ vers elle ta<abbr type="n"/>t <rhyme>meffist</rhyme> <note>elaborate 'u' with double inverted commas</note>
+<lb n="DAMO.054b:02"/>Non obstant ce \ que lui eust foy <rhyme>promise</rhyme>
+<lb n="DAMO.054b:03"/>Et donnée \ s'amour voire en <rhyme>faintise</rhyme><l n=" 456"/>
+<lb n="DAMO.054b:04"/>Si s'en parti \ ne puis ne <rhyme>retourna</rhyme>
+<lb n="DAMO.054b:05"/>Et autre part \ la sienne amour <rhyme>tourna</rhyme>
+<lb n="DAMO.054b:06"/>Dont à la fin \ celle pour <rhyme>s'amistié</rhyme>
+<lb n="DAMO.054b:07"/>Mourut de dueil \ dont ce fu gra<abbr type="n"/>t <rhyme>pitié</rhyme><l n=" 460"/>
+<lb n="DAMO.054b:08"/>¶ <name ref="">Peneloppe la femmë <rhyme>ulixés</rhyme></name> <note>hiatus ; 'Ulixés', stressed final syllable</note>
+<lb n="DAMO.054b:09"/>Qui raconter \ vouldroit tout le <rhyme>procès</rhyme>
+<lb n="DAMO.054b:10"/>De la dame \ trop trouveroit à <rhyme>dire</rhyme>
+<lb n="DAMO.054b:11"/>De sa bonté \ où il n'ot que <rhyme>redire</rhyme><l n=" 464"/>
+<lb n="DAMO.054b:12"/>Très belle <note>erasures ?</note> fu \ requise et b<abbr type="ie"/>n <rhyme>amée</rhyme>
+<lb n="DAMO.054b:13"/>Noble sage \ vaillant et <rhyme>reno<abbr type="m"/>mée</rhyme>
+<lb n="DAMO.054b:14"/>D'autres plusieurs et tant que c'est sans <rhyme>nombre</rhyme>
+<lb n="DAMO.054b:15"/>Furent et sont \ et seront en ce <rhyme>nombre</rhyme><l n=" 468"/>
+<lb n="DAMO.054b:16"/>Mais je me tais \ adès d'en plus <rhyme>compter</rhyme>
+<lb n="DAMO.054b:17"/>Car lonc procès \ seroit à <rhyme>raconter</rhyme>
+<lb n="DAMO.054b:18"/>Si ne sont pas femmes si <rhyme>desloyales</rhyme>
+<lb n="DAMO.054b:19"/>Comme aucun \ dit \ ains sont plus<abbr type="ieur"/>s <rhyme>loyales</rhyme><l n=" 472"/>
+<lb n="DAMO.054b:20"/>Mais il avient \ et c'est de commun <rhyme>cours</rhyme>
+<lb n="DAMO.054b:21"/>C'on les deçoit \ et traÿst en <rhyme>amours</rhyme>
+<lb n="DAMO.054b:22"/>Et quant ainsi \ se treuvent <rhyme>deceües</rhyme>
+<lb n="DAMO.054b:23"/>Les aucunes \ des plus <rhyme>apperceües</rhyme><l n=" 476"/>
+<lb n="DAMO.054b:24"/>S'en retrayent \ de ce font gra<abbr type="n"/>t <rhyme>savoir</rhyme>
+<lb n="DAMO.054b:25"/>Doivent elles \ dont de ce blasme <rhyme>avoir</rhyme>
+<lb n="DAMO.054b:26"/>Est ce doncques \ se <name ref="">dieux</name> vous doi<abbr type="n"/>t <rhyme>santé</rhyme>
+<lb n="DAMO.054b:27"/>Mal ne folour \ barat ne <rhyme>faulceté</rhyme><l n=" 480"/>
+<lb n="DAMO.054b:28"/>Nennil certes ains est grant sens <rhyme>ainçois</rhyme>
+<lb n="DAMO.054b:29"/>¶ Mais je congnois \ de voir et <rhyme>apperçois</rhyme>
+<lb n="DAMO.054b:30"/>Que se amans \ tenissent <rhyme>verité</rhyme>
+<lb n="DAMO.054b:31"/>Foy loyauté \ sans <rhyme>contrarïeté</rhyme><l n=" 484"/>
+<lb n="DAMO.054b:32"/>Vers leur dames \ feïssent leur <rhyme>devoir</rhyme>
+<lb n="DAMO.054b:33"/>Comme amant doit \ faire par droit <rhyme>devoir</rhyme>
+<lb n="DAMO.054b:34"/>Je croy que pou \ ou nulle <rhyme>faulseroit</rhyme>
+<lb n="DAMO.054b:35"/>Et que toute \ femme loyal <rhyme>seroit</rhyme><l n=" 488"/> <note>2 lines, SATF 489-90, omitted here</note>
+<lb n="DAMO.054b:36"/>Mais pour ce que \ plusieurs faulce<abbr type="n"/>t &amp; <rhyme>mente<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054b:37"/>Et en maint lieux \ par desloyauté <rhyme>hante<abbr type="n"/>t</rhyme><l n=" 492"/>
+<lb n="DAMO.054b:38"/>Leur faulce l'en \ et c'est tout par leur <rhyme>coulpe</rhyme>
+<lb n="DAMO.054b:39"/>Se on leur fait \ de tout autel pain <rhyme>souppe</rhyme>
+<lb n="DAMO.054b:40"/>¶ Et <note>1 letter space ; 's' erased</note> aucuns sont qui jadis en mes <rhyme>las</rhyme>
+<lb n="DAMO.054b:41"/>Furent tenus \ mais il sont d'amer <rhyme>las</rhyme><l n=" 496"/>
+<!-- signatures 'Eii' and 'ii' -->
+
+
+<pb n="054" ed="v"/><layout ruledLines="no"/>
+<lb n="DAMO.054v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">L'<c>e</c>pi</fw> <fw type="header2" place="intercolumn" rend="centred">  stre</fw></hi>
+
+<cb n="c"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="DAMO.054c:01"/>Ou par viellece \ ou deffaute de <rhyme>cuer</rhyme> <note>very elaborate 'u' with inverted commas</note>
+<lb n="DAMO.054c:02"/>Si ne veulent \ plus amer à nul <rhyme>fuer</rhyme>
+<lb n="DAMO.054c:03"/>Et couvenant \ m'ont de tous poins <rhyme>nÿé</rhyme>
+<lb n="DAMO.054c:04"/>Moy et mon fait \ guerpy et <rhyme>renÿé</rhyme><l n=" 500"/>
+<lb n="DAMO.054c:05"/>Comme mauvais \ serviteurs et <rhyme>rebelles</rhyme>
+<lb n="DAMO.054c:06"/>Et tele gent \ racomptent tieulx <rhyme>nouvelles</rhyme>
+<lb n="DAMO.054c:07"/>Communement \ et se plaigne<abbr type="n"/>t et <rhyme>blasm<abbr type="en"/>t</rhyme>
+<lb n="DAMO.054c:08"/>Moy et mon fait \ et les femmes <rhyme>diffam<abbr type="en"/>t</rhyme><l n=" 504"/>
+<lb n="DAMO.054c:09"/>Pour ce que plus \ ne s'en peve<abbr type="n"/>t <rhyme>aydier</rhyme>
+<lb n="DAMO.054c:10"/>Ou que leur cuers \ veulent de moy <rhyme>vuider</rhyme>
+<lb n="DAMO.054c:11"/>Si les cuident \ faire aux autres <rhyme>desplaire</rhyme>
+<lb n="DAMO.054c:12"/>Par les blasmer \ mais ce ne peue<abbr type="n"/>t <rhyme>faire</rhyme><l n=" 508"/>
+<lb n="DAMO.054c:13"/>Je <note>over erasure</note> hé tel gent \ <add place="supralinear" type="" evidence="">trop</add> <note>lighter ink ; strange hand</note> plus que autre riens <rhyme>certes</rhyme>
+<lb n="DAMO.054c:14"/>Et les paye \ souvent de leurs <rhyme>dessertes</rhyme>
+<lb n="DAMO.054c:15"/>Car en despit \ de leurs males <rhyme>paroles</rhyme>
+<lb n="DAMO.054c:16"/>Eulx assotter \ d'aucunes femmes <rhyme>folles</rhyme><l n=" 512"/>
+<lb n="DAMO.054c:17"/>De pou d'onneur \ males mau <rhyme>reno<abbr type="m"/>mées</rhyme>
+<lb n="DAMO.054c:18"/>Je fais yceulx \ de tel gent sont <rhyme>amées</rhyme>
+<lb n="DAMO.054c:19"/>Si ne remaint \ en eulx plume à <rhyme>plumer</rhyme>
+<lb n="DAMO.054c:20"/>Bien les scevent \ à leur droit <rhyme>reclamer</rhyme><l n=" 516"/>
+<lb n="DAMO.054c:21"/>Là sont surpris \ et bien <rhyme>enveloppé</rhyme>
+<lb n="DAMO.054c:22"/>Ceulx qui le mieulx \ cuident estre <rhyme>eschappé</rhyme>
+<lb n="DAMO.054c:23"/>Comme il affiert \ sont tel gent <rhyme>avoyé</rhyme>
+<lb n="DAMO.054c:24"/>Si leur est bien \ tout meschief <rhyme>emploié</rhyme><l n=" 520"/>
+<lb n="DAMO.054c:25"/>Et ancor pis \ car ceulx qui plus <rhyme>souve<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054c:26"/>Vont les femmes \ par grant soing <rhyme>deceva<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054c:27"/>Et qui <note>over erasure, then 1 letter space &amp; filler</note> le plus \ s'en peinent et <rhyme>travaille<abbr type="n"/>t</rhyme> <note>2nd 'a' over erasure ; superscript 'a' not erased</note><l n=" 524"/>
+<lb n="DAMO.054c:28"/>N'il ne leur chault \ qu'il leur coste ou q<abbr type="u'i"/>lz <rhyme>baille<abbr type="n"/>t</rhyme> <note>last 3 words in lighter ink and not quite aligned - added ?</note>
+<lb n="DAMO.054c:29"/>Ne quel peinë \ ilz doyent <rhyme>endurer</rhyme> <note>hiatus</note>
+<lb n="DAMO.054c:30"/>Pour à grant soing \ leur vouloir <rhyme>procurer</rhyme>
+<lb n="DAMO.054c:31"/>Tant qu'ilz tant font \ par malices <rhyme>prouvées</rhyme>
+<lb n="DAMO.054c:32"/>Par faulx semblans \ par choses <rhyme>controuvées</rhyme><l n=" 528"/>
+<lb n="DAMO.054c:33"/>Qu'ilz attrayent \ plusieurs à leurs <rhyme>cordelles</rhyme>
+<lb n="DAMO.054c:34"/>Par leurs engins \ et par faulces <rhyme>cautelles</rhyme>
+<lb n="DAMO.054c:35"/>Et puis après \ s'en moquent et s'en <rhyme>vante<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054c:36"/>Et vont disant \ que femmes se <rhyme>consente<abbr type="n"/>t</rhyme><l n=" 532"/>
+<lb n="DAMO.054c:37"/>Legierement \ com legieres et <rhyme>fraisles</rhyme>
+<lb n="DAMO.054c:38"/>Et qu'on ne doit \ avoir fïance en <rhyme>elles</rhyme>
+<lb n="DAMO.054c:39"/>C'est mal jugié \ et trop male <rhyme>sentence</rhyme>
+<lb n="DAMO.054c:40"/>De trestoutes \ pour tant mettre en la <rhyme>da<abbr type="n"/>ce</rhyme><l n=" 536"/>
+<!-- 1 blank line here -->
+
+<cb n="d"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="DAMO.054d:01"/>Mais s'aucunes \ attrayent en tel <rhyme>guise</rhyme> <note>superscript 'i' - why ?</note>
+<lb n="DAMO.054d:02"/>Quel merveille \ ne fu pas par <rhyme>faintise</rhyme>
+<lb n="DAMO.054d:03"/>Par faulx consaulx \ par traÿson <rhyme>bastie</rhyme>
+<lb n="DAMO.054d:04"/>Par parlemens \ engins et foy <rhyme>mentie</rhyme><l n=" 540"/>
+<lb n="DAMO.054d:05"/><name ref="">La grant cité \ de troye</name> jadis <rhyme>prise</rhyme>
+<lb n="DAMO.054d:06"/>Qui tant fu fort \ et toute en feu <rhyme>esprise</rhyme>
+<lb n="DAMO.054d:07"/>Et tous les jours \ par engins et <rhyme>desrois</rhyme>
+<lb n="DAMO.054d:08"/>Ne traÿst on \ et royaumes et <rhyme>roys</rhyme><l n=" 544"/>
+<lb n="DAMO.054d:09"/>Trop deçoivent \ les beaulx <rhyme>blandissem<abbr type="en"/>s</rhyme>
+<lb n="DAMO.054d:10"/>Tous en sont plains \ et livres et <rhyme>ro<abbr type="m"/>mans</rhyme>
+<lb n="DAMO.054d:11"/>Si n'est pas dont \ chose à trop <rhyme>merveiller</rhyme>
+<lb n="DAMO.054d:12"/>Quant pour mentir \ pener et <rhyme>traveiller</rhyme><l n=" 548"/>
+<lb n="DAMO.054d:13"/>On peut vaincre \ une chose <rhyme>simplete</rhyme>
+<lb n="DAMO.054d:14"/>Une ignorant \ petite <rhyme>femmellecte</rhyme>
+<lb n="DAMO.054d:15"/>Et fust ores \ malicïeuse et <rhyme>sage</rhyme>
+<lb n="DAMO.054d:16"/>Si n'est ce pas \ en ce grant <rhyme>vassellage</rhyme><l n=" 552"/>
+<lb n="DAMO.054d:17"/>À homme agu \ de grant malice <rhyme>plain</rhyme>
+<lb n="DAMO.054d:18"/>Qui peine y met \ comme il en est tout <rhyme>plain</rhyme>
+<lb n="DAMO.054d:19"/>¶ Et ainsi sont \ les femmes <rhyme>diffamées</rhyme>
+<lb n="DAMO.054d:20"/>De plusieurs gens \ et à grant tort <rhyme>blasmées</rhyme><l n=" 556"/>
+<lb n="DAMO.054d:21"/>Et de bouchë \ et en plusieurs <rhyme>escrips</rhyme> <note>hiatus</note>
+<lb n="DAMO.054d:22"/>Ou qu'il soit voir \ ou non tel est li <rhyme>cris</rhyme>
+<lb n="DAMO.054d:23"/>¶ Mais qui qu'en ait \ mesdit ou mal <rhyme>escript</rhyme>
+<lb n="DAMO.054d:24"/>Je ne truys pas \ en livre n'en <rhyme>escript</rhyme><l n=" 560"/>
+<lb n="DAMO.054d:25"/>Qui de <name ref="">Jhesus</name> \ parle ne <note>'ne' in margin</note> de sa <rhyme>vie</rhyme>
+<lb n="DAMO.054d:26"/>Ou de sa mort \ pourchaciée <rhyme>d'envie</rhyme>
+<!-- 2 lines, SATF 563-64, not included here -->
+<lb n="DAMO.054d:27"/>N'<name ref="">euvangile</name> \ qui nul mal en <rhyme>tesmoigne</rhyme>
+<lb n="DAMO.054d:28"/>Mais maint grant bien \ mainte haulte <rhyme>besongne</rhyme>
+<lb n="DAMO.054d:29"/>Grant prudence \ grant sens et gra<abbr type="n"/>t <rhyme><abbr type="con"/>stance</rhyme>
+<lb n="DAMO.054d:30"/>Parfaicte amour \ en foy grant <rhyme>arrestance</rhyme><l n=" 568"/>
+<lb n="DAMO.054d:31"/>Grant charité \ fervante <rhyme>voulenté</rhyme>
+<lb n="DAMO.054d:32"/>Ferme et entier \ courage <rhyme>entalenté</rhyme>
+<lb n="DAMO.054d:33"/>De <name ref="">dieu</name> servir \ et grant semblant en <rhyme>fire<abbr type="n"/>t</rhyme>
+<lb n="DAMO.054d:34"/>Car mort ne vif oncques ne le <rhyme>guerpire<abbr type="n"/>t</rhyme><l n=" 572"/>
+<lb n="DAMO.054d:35"/>Fors des femmes fu du tout <rhyme>delaissié</rhyme>
+<lb n="DAMO.054d:36"/>Le <name ref="">doulx jhesus</name> \ navré mort et <rhyme>blecié</rhyme>
+<lb n="DAMO.054d:37"/>Toute la foy \ remaint en une <rhyme>femme</rhyme>
+<lb n="DAMO.054d:38"/>Si est trop fol \ qui d'elles dit <rhyme>diffame</rhyme><l n=" 576"/>
+<lb n="DAMO.054d:39"/>Ne fust ores \ que po<abbr type="ur"/> la <rhyme>reverence</rhyme>
+<lb n="DAMO.054d:40"/>De la haute \ <name ref="">roÿne</name> en <rhyme>remembrance</rhyme>
+<!-- 1 blank line here -->
+
+
+<pb n="055" ed="r"/><layout ruledLines="no"/>
+<lb n="DAMO.055r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">L'<c>e</c>pistre</fw> <fw type="header2" place="column a" rend="centred">au</fw> <fw type="header3" place="column a" rend="tabbed from right">dieu</fw> <fw type="header4" place="column b" rend="straddles">d'<c>a</c>mours</fw> <fw type="header5" place="column b" rend="centred">&#x95; xii &#x95;</fw></hi>
+
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="DAMO.055a:01"/>De sa bonté \ qui tant fu noble et <rhyme>digne</rhyme>
+<lb n="DAMO.055a:02"/>Que du <name ref="">filz dieu</name> \ porter elle fu <rhyme>digne</rhyme><l n=" 580"/>
+<lb n="DAMO.055a:03"/>Grant honneur \ fist à femme <name ref="">dieu le <rhyme>pere</rhyme></name>
+<lb n="DAMO.055a:04"/>Qui faire en volt \ son espouse et sa <rhyme>mere</rhyme>
+<lb n="DAMO.055a:05"/>Temple de <name ref="">dieu</name> \ à la <name ref="">trinité</name> <rhyme>jointe</rhyme>
+<lb n="DAMO.055a:06"/>Bien estre doit \ femme joyeuse et <rhyme>cointe</rhyme><l n=" 584"/>
+<lb n="DAMO.055a:07"/>Qui autele \ comme celle forme <rhyme>a</rhyme>
+<lb n="DAMO.055a:08"/>Car oncques <name ref="">dieux</name> \ nulle riens ne <rhyme>forma</rhyme>
+<lb n="DAMO.055a:09"/>De dignité \ semblable n'aussi <rhyme>bonne</rhyme>
+<lb n="DAMO.055a:10"/>Fors seulement \ de <name ref="">Jhesus</name> la <rhyme>personne</rhyme><l n=" 588"/>
+<lb n="DAMO.055a:11"/>Si est trop folz \ qui de riens les <rhyme>ramposne</rhyme>
+<lb n="DAMO.055a:12"/>Quant femme est \ assise en si hault <rhyme>trosne</rhyme>
+<lb n="DAMO.055a:13"/>Coste son <name ref="">filz</name> \ à la dextre du <name ref=""><rhyme>pere</rhyme></name>
+<lb n="DAMO.055a:14"/>C'est grant honneur \ à femenine <rhyme>mere</rhyme><l n=" 592"/>
+<lb n="DAMO.055a:15"/>Si ne trouvons \ qu'onques les <rhyme>desprisast</rhyme>
+<lb n="DAMO.055a:16"/>Le bon <name ref="">Jhesus</name> \ mais amast et <rhyme>prisast</rhyme>
+<lb n="DAMO.055a:17"/>¶ <name ref="">Dieu</name> la forma à sa digne <rhyme>semblance</rhyme>
+<lb n="DAMO.055a:18"/>Et lui donna \ savoir et <rhyme>congnoissance</rhyme><l n=" 596"/>
+<lb n="DAMO.055a:19"/>Pour soy sauver \ et don <rhyme>d'entendement</rhyme>
+<lb n="DAMO.055a:20"/>Si lui donna \ forme moult <rhyme>noblem<abbr type="en"/>t</rhyme>
+<lb n="DAMO.055a:21"/>Et fut faite de moult noble <rhyme>matere</rhyme>
+<lb n="DAMO.055a:22"/>Car ne fu pas \ du limon de la <rhyme>tere</rhyme><l n=" 600"/>
+<lb n="DAMO.055a:23"/>Mais seulement \ de la coste de <rhyme>l'omme</rhyme>
+<lb n="DAMO.055a:24"/>Le quel corps ja estoit s'en est la <rhyme>somme</rhyme> <note>'s'en' i.e. 'c'en'</note>
+<lb n="DAMO.055a:25"/>Le plus noble \ des choses <rhyme>terrïennes</rhyme>
+<lb n="DAMO.055a:26"/>Et les vrayes \ histoires <rhyme>ancïennes</rhyme><l n=" 604"/>
+<lb n="DAMO.055a:27"/>De la <name ref="">bible</name> \ qui ne peut mençonge <rhyme>estre</rhyme>
+<lb n="DAMO.055a:28"/>Nous racontent \ qu'en <name ref="">paradis</name> <rhyme>terrestre</rhyme>
+<lb n="DAMO.055a:29"/>Fu formée \ femme <rhyme>premierement</rhyme>
+<lb n="DAMO.055a:30"/>Non pas l'omme \ mais du <rhyme>decevem<abbr type="en"/>t</rhyme><l n=" 608"/>
+<lb n="DAMO.055a:31"/>Dont on blasme \ dame <name ref="">Eve n<abbr type="ost"/>re <rhyme>mere</rhyme></name>
+<lb n="DAMO.055a:32"/>Dont s'ensuivi \ de <name ref="">dieu</name> sentence <rhyme>amere</rhyme>
+<lb n="DAMO.055a:33"/>Je di pour vray \ qu'onques <name ref="">adam</name> ne <rhyme>deceut</rhyme> <note>11 syllables</note>
+<lb n="DAMO.055a:34"/>Et simplement \ de l'ennemi <rhyme>conceut</rhyme><l n=" 612"/>
+<lb n="DAMO.055a:35"/>La parole \ qu'il lui donna à <rhyme>croire</rhyme>
+<lb n="DAMO.055a:36"/>Si la cuida \ estre loyale et <rhyme>voire</rhyme>
+<lb n="DAMO.055a:37"/>En celle foy \ de lui dire <rhyme>s'avance</rhyme>
+<lb n="DAMO.055a:38"/>Si ne fu donq \ fraude ne <rhyme>deceva<abbr type="n"/>ce</rhyme><l n=" 616"/>
+<lb n="DAMO.055a:39"/>Car simplece \ sans malice <rhyme>celée</rhyme>
+<lb n="DAMO.055a:40"/>Ne doit estre \ decevance <rhyme>appellée</rhyme>
+
+<cb n="b"/><layout ruledLines="40"/>
+<lb n="DAMO.055b:01"/>Nul ne deçoit \ sans cuider <rhyme>decevoir</rhyme>
+<lb n="DAMO.055b:02"/>Ou autrement decevance n'est <rhyme>voir</rhyme><l n=" 620"/>
+<lb n="DAMO.055b:03"/>¶ Quieulx grans maulx donc en peve<abbr type="n"/>t estre <rhyme>dis</rhyme>
+<lb n="DAMO.055b:04"/>Par desservir \ n'ont elles <rhyme>paradis</rhyme>
+<lb n="DAMO.055b:05"/>De quieulx crimes \ les peut on <rhyme>accuser</rhyme>
+<lb n="DAMO.055b:06"/>Et s'aucuns folz à leur amour <rhyme>muser</rhyme><l n=" 624"/>
+<lb n="DAMO.055b:07"/>Veulent à eulx \ par quoy mal en <rhyme>couviengne</rhyme>
+<lb n="DAMO.055b:08"/>N'en pevent mais \ qui est sage s'en <rhyme>tiengne</rhyme>
+<lb n="DAMO.055b:09"/>Qui est deceu \ et cuidoit <rhyme>decevoir</rhyme>
+<lb n="DAMO.055b:10"/>Fors lui tout seul \ n'en doit le blasme <rhyme>avoir</rhyme><l n=" 628"/>
+<lb n="DAMO.055b:11"/>Et se sur ce \ je vouloie tout <rhyme>dire</rhyme>
+<lb n="DAMO.055b:12"/>Doubte aroie \ d'encourir d'aucuns <rhyme>l'ire</rhyme>
+<lb n="DAMO.055b:13"/>Car moult souvent \ pour dire <rhyme>verité</rhyme>
+<lb n="DAMO.055b:14"/>Mau talent vient \ et <rhyme>contrarïeté</rhyme><l n=" 632"/>
+<lb n="DAMO.055b:15"/>Pour ce ne vueil \ faire <rhyme>comparoisons</rhyme>
+<lb n="DAMO.055b:16"/>Haineuses sont \ à la fois tieulx <rhyme>raisons</rhyme>
+<lb n="DAMO.055b:17"/>Si me souffist \ de louer sans <rhyme>blamer</rhyme>
+<lb n="DAMO.055b:18"/>Car on peut bien \ quelque riens bon <rhyme>clamer</rhyme><l n=" 636"/>
+<lb n="DAMO.055b:19"/>Sans autre riens \ nommer mauvais ou <rhyme>pire</rhyme>
+<lb n="DAMO.055b:20"/>Car son bon droit \ aucune foiz <rhyme>empire</rhyme>
+<lb n="DAMO.055b:21"/>Cellui qui blasme \ autrui pour <rhyme>s'aloser</rhyme>
+<lb n="DAMO.055b:22"/>Si se vault mieulx du dire <rhyme>repposer</rhyme><l n=" 640"/>
+<lb n="DAMO.055b:23"/>Pour ce m'en tais \ si en soit chacun <rhyme>juge</rhyme>
+<lb n="DAMO.055b:24"/>Si justement \ selon verité <rhyme>juge</rhyme>
+<lb n="DAMO.055b:25"/>Si trouvera \ se vient à droit <rhyme>juger</rhyme>
+<lb n="DAMO.055b:26"/>Que leur plus grant \ maulx peut pou <rhyme>domag<abbr type="er"/></rhyme><l n=" 644"/>
+<lb n="DAMO.055b:27"/>N'occient gent \ ne blescent ne <rhyme>mahaigne<abbr type="n"/>t</rhyme>
+<lb n="DAMO.055b:28"/>Ne traÿsons \ ne pourchace<abbr type="n"/>t <rhyme>n'emprenne<abbr type="n"/>t</rhyme>
+<lb n="DAMO.055b:29"/>Feu ne boutent \ ne desherite<abbr type="n"/>t <rhyme>gent</rhyme>
+<lb n="DAMO.055b:30"/>N'empoisonnent n'emblent / or / në <rhyme>arge<abbr type="n"/>t</rhyme><l n=" 648"/> <note>hiatus - marked by scribe ?</note>
+<lb n="DAMO.055b:31"/>Ne deçoivent \ d'avoir ne <rhyme>d'eritage</rhyme>
+<lb n="DAMO.055b:32"/>N'en faulx contras \ et ne portent <rhyme>do<abbr type="m"/>mage</rhyme>
+<lb n="DAMO.055b:33"/>Aux royaumes \ aux duchez n'aux <rhyme>empires</rhyme>
+<lb n="DAMO.055b:34"/>Mal ne s'ensuit \ gueres mesmes des <rhyme>pires</rhyme><l n=" 652"/>
+<lb n="DAMO.055b:35"/>Communement &#x95; une ne fait pas <rhyme>rigle</rhyme>
+<lb n="DAMO.055b:36"/>¶ Et qui vouldra \ par histoire ou par <name ref=""><rhyme>bible</rhyme></name>
+<lb n="DAMO.055b:37"/>Me <note>'e' over erasure, then space - 'Moy' corrected ?</note> remproner pour moy donner <rhyme>exemple</rhyme>
+<lb n="DAMO.055b:38"/>D'une ou de &#x95; ii &#x95; ou de plusieurs <rhyme>ensemble</rhyme><l n=" 656"/>
+<lb n="DAMO.055b:39"/>Qui ont esté \ reprouvées et <rhyme>males</rhyme>
+<lb n="DAMO.055b:40"/>Encore en soit \ celles met <rhyme>ennormales</rhyme> <note>sense ?</note>
+
+
+<pb n="055" ed="v"/><layout ruledLines="no"/>
+<lb n="DAMO.055v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">L'<c>e</c>pistre</fw></hi>
+
+<cb n="c"/><layout ruledLines="41" writtenLines="40" rend="marginal insertion makes 46"/>
+<lb n="DAMO.055c:01"/>Car je parle \ selon le commun <rhyme>cours</rhyme>
+<lb n="DAMO.055c:02"/>Car moult pou sont \ qui usent de tieulx <rhyme>tours</rhyme><l n=" 660"/>
+<lb n="DAMO.055c:03"/>¶ Et s'on me veult \ dire que mie <rhyme>enclines</rhyme>
+<lb n="DAMO.055c:04"/>Condicïons \ et taches <rhyme>femenines</rhyme>
+<lb n="DAMO.055c:05"/>Ne sont à ce \ n'à user de <rhyme>batailles</rhyme>
+<lb n="DAMO.055c:06"/>N'à gens tüer në à faire <rhyme>fouailles</rhyme><l n=" 664"/> <note>hiatus</note>
+<lb n="DAMO.055c:07"/>Pour bouter feu \ ne à tieulx choses <rhyme>faire</rhyme> <note>The next six lines, omitted at first, were copied later in the outer margin. The place where they are to be inserted is marked by a plus sign, the horizontal bar of which is extended to the right; there is a superscript dot towards the end of the bar. An almost identical mark precedes the text to be inserted. The six lines are written as a block of prose, the beginning of each line being marked by a capital letter and the end by a full stop.</note>
+<lb n="DAMO.055c:08"/>Pource nul preu louange ne <rhyme>salaire</rhyme>
+<lb n="DAMO.055c:09"/>Ne leur en peut ne doit <rhyme>appartenir</rhyme>
+<lb n="DAMO.055c:10"/>D'elles souffrir de telz cas <rhyme>n'abstenir</rhyme><l n=" 668"/>
+<lb n="DAMO.055c:11"/>Mais sauve soit la grace des <rhyme>diseurs</rhyme>
+<lb n="DAMO.055c:12"/>Je consens bien qu'elles n'ont pas les <rhyme>cuers</rhyme>
+<lb n="DAMO.055c:13"/>Enclins à ce ne à faiz de tel <rhyme>affaire</rhyme>
+<lb n="DAMO.055c:14"/>Car nature \ de femme est <rhyme>debonnaire</rhyme><l n=" 672"/>
+<lb n="DAMO.055c:15"/>Moult piteuse \ päoureuse et <rhyme>doubtable</rhyme>
+<lb n="DAMO.055c:16"/>Humble doulce coye et moult <rhyme>charitable</rhyme>
+<lb n="DAMO.055c:17"/>Amïable \ devote \ en paix <rhyme>honteuse</rhyme>
+<lb n="DAMO.055c:18"/>Et guerre craint \ simple et <rhyme>religïeuse</rhyme><l n=" 676"/>
+<lb n="DAMO.055c:19"/>Et en courrous tost appaise son <rhyme>yre</rhyme>
+<lb n="DAMO.055c:20"/>Ne peut vëoir \ cruaulté ne <rhyme>martire</rhyme>
+<lb n="DAMO.055c:21"/>Et teles sont \ par nature sans <rhyme>doubte</rhyme>
+<lb n="DAMO.055c:22"/>Condicïons \ de femme somme <rhyme>toute</rhyme><l n=" 680"/>
+<lb n="DAMO.055c:23"/>Et celle qui \ ne les a <rhyme>d'aventure</rhyme>
+<lb n="DAMO.055c:24"/>Contre le droit \ toute se <rhyme>desnature</rhyme>
+<lb n="DAMO.055c:25"/>Car cruauté \ fait en femme à <rhyme>reprendre</rhyme>
+<lb n="DAMO.055c:26"/>Ne l'en n'i doit \ fors toute doulceur <rhyme>prendre</rhyme><l n=" 684"/>
+<lb n="DAMO.055c:27"/>¶ Et puis qu'elz <note>'qu'ilz' ?</note> n'ont \ meurs ne <rhyme>condicïons</rhyme>
+<lb n="DAMO.055c:28"/>À faire fais \ de sanc <rhyme>n'occisïons</rhyme>
+<lb n="DAMO.055c:29"/>N'à autres grans pechez lais et <rhyme>orribles</rhyme>
+<lb n="DAMO.055c:30"/>Dont sont elles \ ignocens et <rhyme>paysibles</rhyme><l n=" 688"/>
+<lb n="DAMO.055c:31"/>Voire des grans \ et i<abbr type="n"/>normes <rhyme>pechez</rhyme>
+<lb n="DAMO.055c:32"/>Car chacun est d'aucun vice <rhyme>tachez</rhyme>
+<lb n="DAMO.055c:33"/>Si ne seront \ doncques pas <rhyme>encoulpées</rhyme>
+<lb n="DAMO.055c:34"/>Des grans meffais \ où ne sont <rhyme>attrappées</rhyme><l n=" 692"/>
+<lb n="DAMO.055c:35"/>Si n'en aront \ n'en peine në en <rhyme>coulpe</rhyme> <note>hiatus</note>
+<lb n="DAMO.055c:36"/>Punicïon \ puis qu'elles n'y ont <rhyme>coulpe</rhyme>
+<lb n="DAMO.055c:37"/>Dont dire puis \ ce n'est pas <rhyme>heresie</rhyme>
+<lb n="DAMO.055c:38"/>Que moult leur fist \ le hault <name ref="">dieu</name> <rhyme>courtoisie</rhyme><l n=" 696"/>
+<lb n="DAMO.055c:39"/>D'elles former sans les <rhyme>condicïons</rhyme>
+<lb n="DAMO.055c:40"/>Qui mettent gens à griefs <rhyme>perdicïons</rhyme>
+<lb n="DAMO.055c:41"/>Car des desirs \ s'en ensuivent les <rhyme>fais</rhyme>
+<lb n="DAMO.055c:42"/>Dont maint portent \ sur leur armes grief <rhyme>fais</rhyme><l n=" 700"/>
+<lb n="DAMO.055c:43"/>Si vault trop mieulx \ c'on n'ait pas le <rhyme>desir</rhyme>
+<lb n="DAMO.055c:44"/>Dont l'acomplir \ souvent fait mort <rhyme>gesir</rhyme>
+<lb n="DAMO.055c:45"/>Qui soustenir \ vouldroit seroit <rhyme>herite</rhyme>
+<lb n="DAMO.055c:46"/>Que qui tempté \ n'est n'a poi<abbr type="n"/>t de <rhyme>merite</rhyme><l n=" 704"/>
+<!-- 1 blank line here -->
+
+<cb n="d"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="DAMO.055d:01"/>De non pecher \ et de soy <rhyme>abstenir</rhyme>
+<lb n="DAMO.055d:02"/>Teles raisons \ ne font à <rhyme>soustenir</rhyme>
+<lb n="DAMO.055d:03"/>Car nous vëons \ par les sains le <rhyme>contraire</rhyme>
+<lb n="DAMO.055d:04"/><name ref="">Saint nicolas</name> n'eust sceü peché <rhyme>faire</rhyme><l n=" 708"/>
+<lb n="DAMO.055d:05"/>Onq ne pecha \ n'oncques n'en fu <rhyme>tempté</rhyme>
+<lb n="DAMO.055d:06"/>N'autres plusieurs n'en orent <rhyme>voulenté</rhyme>
+<lb n="DAMO.055d:07"/>Je di pecher \ quant est <rhyme>mortellem<abbr type="en"/>t</rhyme>
+<lb n="DAMO.055d:08"/>Pecher pouoient \ ilz <rhyme>venïelement</rhyme><l n=" 712"/> <note>epic caesura ?</note>
+<lb n="DAMO.055d:09"/>Si sont tous ceulx appellez <rhyme>pre</rhyme> esleus <note>scansion ?</note>
+<lb n="DAMO.055d:10"/>Predestinez \ et de <name ref="">dieu</name> <rhyme>esleüs</rhyme>
+<lb n="DAMO.055d:11"/>¶ Par ces raisons \ conclus et vueil <rhyme>prouver</rhyme>
+<lb n="DAMO.055d:12"/>Que grandement \ femmes à <rhyme>approuver</rhyme><l n=" 716"/>
+<lb n="DAMO.055d:13"/>Font et louer \ et leurs <rhyme>condicïons</rhyme>
+<lb n="DAMO.055d:14"/>Recommander \ qui <rhyme>inclinacïons</rhyme>
+<lb n="DAMO.055d:15"/>N'ont aux vices \ qui humaine <rhyme>nature</rhyme>
+<lb n="DAMO.055d:16"/>Va domagiant \ et grevant <rhyme>créature</rhyme><l n=" 720"/>
+<lb n="DAMO.055d:17"/>Par ces preuves \ justes et <rhyme>veritables</rhyme>
+<lb n="DAMO.055d:18"/>Je conclus que \ tous ho<abbr type="m"/>mes <rhyme>raisonnables</rhyme>
+<lb n="DAMO.055d:19"/>Doivent femmes \ prisier \ cherir \ <rhyme>amer</rhyme>
+<lb n="DAMO.055d:20"/>Et ne doivent \ avoir cuer de <rhyme>blamer</rhyme><l n=" 724"/>
+<lb n="DAMO.055d:21"/>Elles de qui \ tout homme est <rhyme>descendu</rhyme>
+<lb n="DAMO.055d:22"/>Ne leur soit pas \ mal pour le b<abbr type="ie"/>n <rhyme>rendu</rhyme>
+<lb n="DAMO.055d:23"/>Car c'est la riens \ où monde par <rhyme>droit<abbr type="ur"/>e</rhyme>
+<lb n="DAMO.055d:24"/>Que homme aime mieulx et de droite <rhyme>nat<abbr type="ur"/>e</rhyme><l n=" 728"/>
+<lb n="DAMO.055d:25"/>Si est moult lait \ et grant honte à <rhyme>blasmer</rhyme>
+<lb n="DAMO.055d:26"/>La riens qui soit \ que l'en doit plus <rhyme>amer</rhyme>
+<lb n="DAMO.055d:27"/>Et qui plus fait \ à tout ho<abbr type="m"/>me de <rhyme>joye</rhyme>
+<lb n="DAMO.055d:28"/>Homs naturel \ sans femme ne <rhyme>s'esjoye</rhyme><l n=" 732"/>
+<lb n="DAMO.055d:29"/>C'est sa mere \ c'est sa seur c'est <rhyme>s'amie</rhyme>
+<lb n="DAMO.055d:30"/>Et pou avient \ que à homs soit <rhyme>ennemie</rhyme>
+<lb n="DAMO.055d:31"/>C'est son droit per \ qui à lui est <rhyme>semblable</rhyme>
+<lb n="DAMO.055d:32"/>La riens qui plus \ lui peut estre <rhyme>agréable</rhyme><l n=" 736"/>
+<lb n="DAMO.055d:33"/>Në on n'y peut \ pris ne los <rhyme>conquester</rhyme>
+<lb n="DAMO.055d:34"/>À les blamer \ mais grant blame <rhyme>acquester</rhyme>
+<lb n="DAMO.055d:35"/>N'il n'est blame si lait ne si <rhyme>nuisant</rhyme>
+<lb n="DAMO.055d:36"/>Co<abbr type="m"/>me tenu \ estre pour <rhyme>mesdisant</rhyme><l n=" 740"/>
+<lb n="DAMO.055d:37"/>Voire ancor plus \ <rhyme>especïallement</rhyme>
+<lb n="DAMO.055d:38"/>De diffamer \ fe<abbr type="m"/>mes <rhyme>co<abbr type="m"/>munement</rhyme>
+<lb n="DAMO.055d:39"/>C'est un vice \ diffamable et <rhyme>villain</rhyme>
+<lb n="DAMO.055d:40"/>Je le deffens \ à homme quant je <rhyme>l'aim</rhyme><l n=" 744"/>
+<!-- 1 blank line here -->
+
+
+<pb n="056" ed="r"/><layout ruledLines="no"/>
+<lb n="DAMO.056r:01"/><hi rend="red"><fw type="header1" place="column a" rend="left aligned">L'<c>e</c>pistre au</fw> <fw type="header2" place="column a" rend="tabbed from right">dieu</fw> <fw type="header3" place="intercolumn" rend="centred">d'<c>a</c>mours</fw> <fw type="header4" place="column b" rend="centred">&#x95; xii &#x95;</fw></hi>
+
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="DAMO.056a:01"/>Si s'en gard donc \ trestout noble <rhyme>courage</rhyme>
+<lb n="DAMO.056a:02"/>Car bien n'en peut \ venir mais gra<abbr type="n"/>t <rhyme>domage</rhyme>
+<lb n="DAMO.056a:03"/>Honte despit \ et toute <rhyme>villenie</rhyme>
+<lb n="DAMO.056a:04"/>Qui tel vice a \ n'est pas de ma <rhyme>mesgnie</rhyme><l n=" 748"/>
+<lb n="DAMO.056a:05"/>¶ Or ay conclus \ en tous cas mes <rhyme>raiso<abbr type="n"/>s</rhyme>
+<lb n="DAMO.056a:06"/>Bien et à droit \ n'en desplaise à nulz <rhyme>homs</rhyme>
+<lb n="DAMO.056a:07"/>Car se bonté \ et valeur a en <rhyme>femme</rhyme>
+<lb n="DAMO.056a:08"/>Honte n'est pas \ à homme ne <rhyme>diffame</rhyme><l n=" 752"/>
+<lb n="DAMO.056a:09"/>Car il est né \ et fait d'autel <rhyme>merrien</rhyme>
+<lb n="DAMO.056a:10"/>Se mauvaise est \ il ne peut valoir <rhyme>rien</rhyme>
+<lb n="DAMO.056a:11"/>Car nul bon fruit \ de mal arbre ne <rhyme>vie<abbr type="n"/>t</rhyme>
+<lb n="DAMO.056a:12"/>Tele qu'elle est \ ressembler lui <rhyme>couvie<abbr type="n"/>t</rhyme><l n=" 756"/>
+<lb n="DAMO.056a:13"/>Et se bonne est \ il en doit valoir <rhyme>mieulx</rhyme>
+<lb n="DAMO.056a:14"/>Car aux meres \ bien ressemble<abbr type="n"/>t les <rhyme>fieulx</rhyme>
+<lb n="DAMO.056a:15"/>Et se j'ay dit d'elles bien et <rhyme>louange</rhyme>
+<lb n="DAMO.056a:16"/>Comme il est vray \ ne l'ay fait p<abbr type="ar"/> <rhyme>losange</rhyme><l n=" 760"/>
+<lb n="DAMO.056a:17"/>N'à celle fin \ que plus orgueil en <rhyme>aient</rhyme>
+<lb n="DAMO.056a:18"/>Mais tout affin \ que toudis elles <rhyme>soie<abbr type="n"/>t</rhyme>
+<lb n="DAMO.056a:19"/>Curïeuses de mieulx en mieulx <rhyme>valoir</rhyme>
+<lb n="DAMO.056a:20"/>Sans les vices \ que l'en ne doit <rhyme>avoir</rhyme><l n=" 764"/>
+<lb n="DAMO.056a:21"/>Car qui plus a \ grant vertu et <rhyme>bonté</rhyme>
+<lb n="DAMO.056a:22"/>En doit estre \ moins d'orgueil <rhyme>surmo<abbr type="n"/>t</rhyme>é
+<lb n="DAMO.056a:23"/>Car les vertus \ si enchacent les <rhyme>vices</rhyme>
+<lb n="DAMO.056a:24"/>Et s'aucunes \ des femmes est <note>'nices' preceded by erasure and 2 letter space dash ; trace of abbreviation mark or 'dot' for 'i' still visible</note> <rhyme>nices</rhyme><l n=" 768"/> <note>9 syllables</note>
+<lb n="DAMO.056a:25"/>Cest epistre \ leur puist estre <rhyme>doctrine</rhyme>
+<lb n="DAMO.056a:26"/>Le bien prennent pour loyale <rhyme>dott<abbr type="ri"/>ne</rhyme>
+<lb n="DAMO.056a:27"/>Le mal laissent \ les bonnes vueille<abbr type="n"/>t en <rhyme>ce</rhyme>
+<lb n="DAMO.056a:28"/>Prendre vouloir \ d'avoir <rhyme>perseverence</rhyme><l n=" 772"/>
+<lb n="DAMO.056a:29"/>Si <add place="supralinear" type="" evidence="">en</add> <note>caret</note> aront preu \ joye \ honneur &amp; <rhyme>loz</rhyme>
+<lb n="DAMO.056a:30"/>Et <name ref="">paradis</name> \ à la fin dire <rhyme>l'oz</rhyme>
+<lb n="DAMO.056a:31"/>¶ Pour ce conclus en <rhyme>diffinicïon</rhyme>
+<lb n="DAMO.056a:32"/>Que des mauvais \ soit fait <rhyme>punicïon</rhyme><l n=" 776"/>
+<lb n="DAMO.056a:33"/>Qui les blasment \ diffament &amp; <rhyme>acuse<abbr type="n"/>t</rhyme>
+<lb n="DAMO.056a:34"/>Et qui de faulx desloyaulx semblans <rhyme>use<abbr type="n"/>t</rhyme>
+<lb n="DAMO.056a:35"/>Pour decevoir \ elles si soient <rhyme>tuit</rhyme>
+<lb n="DAMO.056a:36"/>De n<abbr type="ost"/>re court chacié \ bani \ <rhyme>destruit</rhyme><l n=" 780"/>
+<lb n="DAMO.056a:37"/>Et entredis \ et <rhyme>escommenïé</rhyme>
+<lb n="DAMO.056a:38"/>Et tous noz biens \ si leur soie<abbr type="n"/>t <rhyme>nïé</rhyme>
+<lb n="DAMO.056a:39"/>C'est bien raison qu'on les <rhyme>exco<abbr type="m"/>menie</rhyme>
+<lb n="DAMO.056a:40"/>Et commandons \ de fait à no <rhyme>mesgnie</rhyme><l n=" 784"/>
+
+<cb n="b"/><layout ruledLines="40"/>
+<lb n="DAMO.056b:01"/>Generaument \ et à noz <rhyme>officiers</rhyme>
+<lb n="DAMO.056b:02"/>À noz sergens \ et à tous noz <rhyme>maciers</rhyme>
+<lb n="DAMO.056b:03"/>À noz prevosts \ et maires et <rhyme>baillis</rhyme>
+<lb n="DAMO.056b:04"/>Et vicaires \ que tous ceulx mau <rhyme>baillis</rhyme><l n=" 788"/>
+<lb n="DAMO.056b:05"/>Et villenez \ soient très <rhyme>laidem<abbr type="en"/>t</rhyme>
+<lb n="DAMO.056b:06"/>Injurïez \ punis <rhyme>honteusem<abbr type="en"/>t</rhyme>
+<lb n="DAMO.056b:07"/>Pris et lïez \ et justice en soit <rhyme>faite</rhyme>
+<lb n="DAMO.056b:08"/>Sans plus souffrir \ nulle injure si <rhyme>fai<add place="supralinear" type="" evidence="">t</add>te</rhyme><l n=" 792"/>
+<lb n="DAMO.056b:09"/>Ne plus ne soit enduré <note>over erasure, then 2 letter space &amp; dash</note> tel <rhyme>laidure</rhyme>
+<lb n="DAMO.056b:10"/>Nous le voulons ainsi et c'est <rhyme>droiture</rhyme>
+<lb n="DAMO.056b:11"/>Accompli soit \ sans faire aucun <rhyme>delais</rhyme>
+<lb n="DAMO.056b:12"/>Donné en l'air en n<abbr type="ost"/>re grant <rhyme>palais</rhyme><l n=" 796"/>
+<lb n="DAMO.056b:13"/>Le jour de may \ la sollempnée <rhyme>feste</rhyme>
+<lb n="DAMO.056b:14"/>Où les amans nous font mainte <rhyme>req<abbr type="ue"/>ste</rhyme>
+<lb n="DAMO.056b:15"/>L'an de grace mil CCC <rhyme>iiiixx</rhyme>
+<lb n="DAMO.056b:16"/>Et &#x95; xix &#x95; presens dieux &amp; <rhyme>d vins</rhyme><l n=" 800"/> <note>'e' erased ? no correction made</note>
+<!-- 3 blank lines here -->
+<lb n="DAMO.056b:20"/>Par le <name ref="">dieu d'amours <rhyme>puissant</rhyme></name>
+<lb n="DAMO.056b:21"/>À la relacïon de <rhyme>cent</rhyme>
+<lb n="DAMO.056b:22"/>Dieux et plus de grant <rhyme>povoir</rhyme>
+<lb n="DAMO.056b:23"/>Confermans nostre <rhyme>vouloir</rhyme><l n=" 804"/>
+<lb n="DAMO.056b:24"/><name ref="">Jupiter</name> <name ref="">appollo</name> et <name ref=""><rhyme>mars</rhyme></name>
+<lb n="DAMO.056b:25"/><name ref="">Vulcan</name> par qui <name ref="">pheton</name> fu <rhyme>ars</rhyme>
+<lb n="DAMO.056b:26"/><name ref="">Mercurïus dieu de <rhyme>lengage</rhyme></name>
+<lb n="DAMO.056b:27"/><name ref="">Éolus qui vens tient en <rhyme>cage</rhyme></name><l n=" 808"/>
+<lb n="DAMO.056b:28"/><name ref="">Neptunus le dieu de la <rhyme>mer</rhyme></name>
+<lb n="DAMO.056b:29"/><name ref="">Glaucus</name> qui mer fait <rhyme>escumer</rhyme>
+<lb n="DAMO.056b:30"/>Les dieux des vaulx et des <rhyme>montaignes</rhyme>
+<lb n="DAMO.056b:31"/>Des grans forests et des <rhyme>champaignes</rhyme><l n=" 812"/>
+<lb n="DAMO.056b:32"/>Et les dieux qui par nuit <rhyme>obscure</rhyme>
+<lb n="DAMO.056b:33"/>S'en vont pour querir <rhyme>aventure</rhyme>
+<lb n="DAMO.056b:34"/><name ref="">Le dieu des \ pastours \ pan</name> \ <name ref=""><rhyme>saturnus</rhyme></name> <note>9 syllables</note>
+<lb n="DAMO.056b:35"/><name ref="">Nostre mere la grant <rhyme>venus</rhyme></name><l n=" 816"/>
+<lb n="DAMO.056b:36"/><name ref="">Pallas</name> \ <name ref="">Juno</name> et <name ref=""><rhyme>lathona</rhyme></name>
+<lb n="DAMO.056b:37"/><name ref="">Cerés</name> <name ref="">vesta</name> \ <name ref=""><rhyme>Anthigona</rhyme></name>
+<lb n="DAMO.056b:38"/><name ref="">Aurora</name> \ <name ref="">thetis</name> \ <name ref=""><rhyme>arecusa</rhyme></name> <note>9 syllables</note>
+<lb n="DAMO.056b:39"/>Qui le dieu <name ref="">pluto</name> <rhyme>encusa</rhyme><l n=" 820"/>
+<lb n="DAMO.056b:40"/><name ref="">Minerve la <rhyme>bateillerresse</rhyme></name>
+<!-- signatures : 'E iiii' in fine black script ; top part of 'b' ? 'e' ? in thicker brown script -->
+
+<pb n="056" ed="v"/><layout ruledLines="no"/>
+<lb n="DAMO.056v:01"/><note>There is no running title over column c.</note> 
+
+<cb n="c"/><layout ruledLines="40"/>
+<lb n="DAMO.056c:01"/>Et <name ref="">dyane la <rhyme>chassarresse</rhyme></name>
+<lb n="DAMO.056c:02"/>Et d'autres dieux no <rhyme>conseiller</rhyme>
+<lb n="DAMO.056c:03"/>Et déesses plus d'un <rhyme>miller</rhyme><l n=" 824"/>
+<!-- 6 blank lines here -->
+<lb n="DAMO.056c:10"/><name ref="">Cupido le dieu <rhyme>d'amours</rhyme></name>
+<lb n="DAMO.056c:11"/>Cui amans font leurs <rhyme>clamours</rhyme>
+<!-- 2 blank lines here -->
+<lb n="DAMO.056c:14"/>Explicit l'epistre au <name ref="">dieu <note>centred</note>
+<lb n="DAMO.056c:15"/>d'amours</name> <note>written immediately below 'Explicit'</note>
+<!-- 25 blank lines here -->
+<lb n="CMP1.056v:01"/><hi rend="red"><fw type="header1" place="column d" rend="tabbed">Une <c>a</c>utre <c>c</c>omplainte amoureuse</fw> <fw type="header2" place="column d" rend="right aligned">xiii &#x95;</fw></hi>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

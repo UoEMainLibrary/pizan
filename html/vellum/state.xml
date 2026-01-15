@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vvstate version="1">
+ <general left="-2052" top="-60" width="1032" height="776" languagefile="null" language="English" menubar="true" thumbnails="true" threads="2"/>
+ <catalogue filename="images.xml">
+  <colselector width="200" height="120"/>
+  <thumbnails selcolthumbindex="4"/>
+ </catalogue>
+ <windows viewstyle="1">
+  <window left="0" top="0" width="990" height="555" imgcatindex="" imgcolindex="4" centrex="3400" centrey="4200" magnification="7" preview="true" colourbar="false" rulers="false"/>
+ </windows>
+</vvstate>

@@ -1,0 +1,34 @@
+>>> graphics.checkRange(True, (0,'end'))
+True
+>>> graphics.checkRange(True, (0,300))
+True
+>>> graphics.checkRange(True, (300,700))
+True
+>>> graphics.checkRange(True, (300,800))
+True
+>>> graphics.checkRange(True, (300,801))
+False
+>>> graphics.checkRange(True, (800,800))
+False
+>>> graphics.checkRange(True, (800,795))
+False
+>>> graphics.checkRange(True, (799,795))
+False
+>>> graphics.checkRange(False, (0,'end'))
+True
+>>> graphics.checkRange(False, (0,300))
+True
+>>> graphics.checkRange(False, (0,700))
+False
+>>> graphics.checkRange(False, (0,400))
+True
+>>> graphics.checkRange(False, (0,401))
+False
+>>> graphics.checkRange(False, (300,200))
+False
+>>> graphics.checkRange(False, (400,400))
+False
+>>> graphics.checkRange(False, (399,400))
+True
+>>> 
+

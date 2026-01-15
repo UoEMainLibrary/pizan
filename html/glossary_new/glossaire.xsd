@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+    <!-- ****************** 
+        types
+        ****************** -->
+    
+    <xsd:simpleType name="dmf">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="entree_absente"/>
+            <xsd:enumeration value="sens_absent"/>
+            <xsd:enumeration value="rien_a_signaler"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    
+    <!-- ****************** 
+        Éléments
+        ****************** -->
+    
+	<xsd:element name="Glossaire">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="1">
+				<xsd:element ref="entry"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="entry">
+		<xsd:complexType>
+				<xsd:sequence maxOccurs="unbounded" minOccurs="1">
+					<xsd:element ref="form"/>
+					<xsd:choice>				
+						<xsd:sequence>
+							<xsd:element ref="pos"/>
+							<xsd:element ref="occurrences"/>
+							<xsd:element ref="DMFBQ"  minOccurs="0"/>
+						</xsd:sequence>
+						<xsd:sequence>
+							<xsd:element ref="target"/>
+						</xsd:sequence>
+					</xsd:choice>				
+				</xsd:sequence>
+		    <xsd:attribute name="dmf" type="dmf"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="form">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="orth"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="target">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="orth"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="orth" type="xsd:string"/>
+	<xsd:element name="pos" type="xsd:string"/>
+	<xsd:element name="occurrences">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="occurrence" minOccurs="1" maxOccurs="unbounded" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="occurrence">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="w"/>
+				<xsd:element minOccurs="0" ref="lemmes"/>
+				<xsd:element ref="exemples"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="exemples">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="1">
+				<xsd:element ref="exemple"/>
+			</xsd:sequence>
+			<xsd:attribute name="card" type="xsd:integer"/>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="exemple">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="1">
+				<xsd:element ref="texte"/>
+				<xsd:element ref="reference"/>
+			</xsd:sequence>
+		               <xsd:attribute name="dmf" type="dmf"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="texte">
+	     <xsd:complexType mixed="true">
+	         <xsd:sequence maxOccurs="unbounded" minOccurs="1">
+	             <xsd:element ref="br"  minOccurs="0" maxOccurs="unbounded"/>
+	             <xsd:element ref="occ"  minOccurs="0" maxOccurs="unbounded"/>
+	         </xsd:sequence>
+	    </xsd:complexType>
+	</xsd:element>
+	
+            <xsd:element name="br">
+                <xsd:complexType></xsd:complexType>
+            </xsd:element>
+    
+    	<xsd:element name="occ">
+        		<xsd:complexType mixed="true">
+                		<xsd:sequence maxOccurs="unbounded" minOccurs="0">
+                    			<xsd:element ref="br"/>
+                		</xsd:sequence>
+           		 </xsd:complexType>
+       	 </xsd:element>
+    
+        	<xsd:element name="w">
+		 <xsd:annotation>
+		 	<xsd:documentation>forme rencontrée dans le texte</xsd:documentation>
+		 </xsd:annotation>       		
+        		<xsd:complexType>
+        			<xsd:simpleContent>
+        				<xsd:extension base="xsd:string">
+        					<xsd:attribute name="statut" type="xsd:integer"/>
+        				</xsd:extension>
+        			</xsd:simpleContent>
+        		</xsd:complexType>
+        	</xsd:element>
+	
+	<xsd:element name="lemmes">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="1">
+				<xsd:element ref="lem"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="lem" type="xsd:string"/>
+	
+	<xsd:element name="references">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="0">
+				<xsd:element ref="reference"/>
+			</xsd:sequence>
+			<xsd:attribute name="card" type="xsd:integer"/>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="reference" type="xsd:string"/>
+	
+	<xsd:element name="DMFBQ">
+		<xsd:complexType>
+			<xsd:choice>
+				<xsd:sequence>
+					<xsd:element minOccurs="0" ref="VED"/>
+					<xsd:element minOccurs="0" ref="CODE"/>
+					<xsd:element maxOccurs="unbounded" minOccurs="1" ref="corps"/>
+				</xsd:sequence>
+		 		<xsd:element ref="NON_TRAITE"/>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="corps">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="0">
+				<xsd:element ref="P"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="VED" type="xsd:string"/>
+	<xsd:element name="CODE" type="xsd:string"/>
+	<xsd:element name="NON_TRAITE" type="xsd:string"/>
+	<xsd:element name="P">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="1">
+			            <xsd:element minOccurs="0" ref="NUM"/>
+			            <xsd:element ref="DISC"/>
+			            <xsd:element minOccurs="0" ref="EXE"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="DISC">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element minOccurs="0" ref="DOM"/>
+			               <xsd:element minOccurs="0" maxOccurs="2" ref="IND"/>
+				<xsd:element minOccurs="0" ref="EMPL"/>
+				<xsd:element minOccurs="0" ref="SYNT"/>
+				<xsd:element minOccurs="0" ref="DEF"/>
+				<xsd:element minOccurs="0" ref="VOIR"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="NUM" type="xsd:string"/>
+	<xsd:element name="DOM" type="xsd:string"/>
+	<xsd:element name="IND">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="fr"/>
+				<xsd:element minOccurs="0" ref="en"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="EMPL">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="fr"/>
+				<xsd:element minOccurs="0" ref="en"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="SYNT">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="fr"/>
+				<xsd:element minOccurs="0" ref="en"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="DEF">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="fr"/>
+				<xsd:element minOccurs="0" ref="en"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="VOIR">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element minOccurs="0" ref="CIBLE"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	<xsd:element name="CIBLE" type="xsd:string"/>
+	<xsd:element name="en" type="xsd:string"/>
+	<xsd:element name="fr" type="xsd:string"/>
+	<xsd:element name="EXE">
+		<xsd:complexType>
+			<xsd:sequence minOccurs="0" maxOccurs="unbounded">
+			        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="reference"/>
+			        <xsd:element minOccurs="0" maxOccurs="unbounded" ref="exemple"/>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
+

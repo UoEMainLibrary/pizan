@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway_18June2009.dtd">
+<!--xml-stylesheet href="fiche.xsl" type="text/xsl" -->
+<?xml-stylesheet href="student_18June2009.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes_18June2009.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="" type="">
+<div5><title type="main"><emph rend="headline">MS 4431: Acronyms, Item by Item</emph></title></div5>
+
+<div5>002c-002d&#160;&#160;&#160;TABL&#160;&#160;&#160;<emph rend="italic">La Table des Dictiez en general...</emph></div5>
+<div5>003a-003d&#160;&#160;&#160;PROL&#160;&#160;&#160;<emph rend="italic">Le Prologue</emph></div5>
+<div5>004a-021b&#160;&#160;&#160;CEBA&#160;&#160;&#160;<emph rend="italic">Cent Balades</emph></div5>
+<div5>021b-024b&#160;&#160;&#160;VIRL&#160;&#160;&#160;<emph rend="italic">Virelais</emph></div5>
+<div5>024b-025a&#160;&#160;&#160;BAEF&#160;&#160;&#160;<emph rend="italic">Balades d'Estrange Façon</emph></div5>
+<div5>025b-027a&#160;&#160;&#160;LAY1&#160;&#160;&#160;<emph rend="italic">Lay léonime</emph></div5>
+<div5>027a-028d&#160;&#160;&#160;LAY2&#160;&#160;&#160;<emph rend="italic">Un Autre Lay</emph></div5>
+<div5>028d-034b&#160;&#160;&#160;ROND&#160;&#160;&#160;<emph rend="italic">Rondeaux</emph></div5>
+<div5>034c-037c&#160;&#160;&#160;JEUX&#160;&#160;&#160;<emph rend="italic">Jeux à Vendre</emph></div5>
+<div5>037c-048a&#160;&#160;&#160;AUBA&#160;&#160;&#160;<emph rend="italic">Les Autres Balades</emph> (<emph rend="italic">Plusieurs Balades de divers propos</emph>)</div5>
+<div5>048b-049c&#160;&#160;&#160;CMP2&#160;&#160;&#160;<emph rend="italic">Une Complainte amoureuse</emph></div5>
+<div5>049c-051a&#160;&#160;&#160;EABA&#160;&#160;&#160;<emph rend="italic">Encore Autres Balades</emph></div5>
+<div5>051b-056c&#160;&#160;&#160;DAMO&#160;&#160;&#160;<emph rend="italic">L'Epistre au Dieu d'Amours</emph></div5>
+<div5>056d-058b&#160;&#160;&#160;CMP1&#160;&#160;&#160;<emph rend="italic">Une Autre Complainte amoureuse</emph></div5>  
+<div5>058c-071b&#160;&#160;&#160;2AMA&#160;&#160;&#160;<emph rend="italic">Le Debat de Deux Amans</emph></div5>
+<div5>071c-081a&#160;&#160;&#160;3JUG&#160;&#160;&#160;<emph rend="italic">Le Livre des Trois Jugemens</emph></div5>
+<div5>081a-094a&#160;&#160;&#160;POIS&#160;&#160;&#160;<emph rend="italic">Le Livre de Poissy</emph></div5>
+<div5>095a-141c&#160;&#160;&#160;OTEA&#160;&#160;&#160;<emph rend="italic">L'Epistre Othéa</emph></div5>
+<div5>143b-173d&#160;&#160;&#160;DVAL&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Livre</emph></div5>
+<div5>173d&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;DVAE&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Epilogue</emph></div5>
+<div5>173d-175c&#160;&#160;&#160;DVAB&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Balades de pluseurs Façons</emph></div5>
+<div5>175d-176b&#160;&#160;&#160;DVAV&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Virelais</emph></div5>
+<div5>176b-176d&#160;&#160;&#160;DVAR&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Rondeaux</emph></div5>
+<div5>176d-177d&#160;&#160;&#160;DVAC&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Complainte</emph></div5>
+<div5>178a-219c&#160;&#160;&#160;CHLE&#160;&#160;&#160;<emph rend="italic">Le Livre du Chemin de Long Estude</emph></div5>
+<div5>221a-236c&#160;&#160;&#160;PAST&#160;&#160;&#160;<emph rend="italic">Le Dit de la Pastoure</emph></div5>
+<div5>237a-254a&#160;&#160;&#160;EROS&#160;&#160;&#160;<emph rend="italic">Les Epistres sur le 'Roman de la Rose'</emph></div5>
+<div5>255a-255c&#160;&#160;&#160;ISAB&#160;&#160;&#160;&#160;<emph rend="italic">L'Epistre à la Reine Isabelle</emph></div5>
+<div5>255d-257a&#160;&#160;&#160;EUST&#160;&#160;&#160;<emph rend="italic">Une Epistre à Eustace Morel (Eustache Deschamps)</emph></div5>
+<div5>257b-259b&#160;&#160;&#160;ORNS&#160;&#160;&#160;<emph rend="italic">Une Oroison de la Vie et Passion Nostre Seigneur</emph></div5>
+<div5>259c-261c&#160;&#160;&#160;PMOR&#160;&#160;&#160;<emph rend="italic">Proverbes moraulx</emph></div5>
+<div5>261c-265b&#160;&#160;&#160;EMOR&#160;&#160;&#160;<emph rend="italic">Les Enseignemens que Cristine donne à son Filz</emph> (<emph rend="italic">Les Enseignemens moraux)</emph></div5>
+<div5>265b-266d&#160;&#160;&#160;ORND&#160;&#160;&#160;<emph rend="italic">Une Oroison Nostre Dame</emph></div5>
+<div5>267a-267c&#160;&#160;&#160;15JO&#160;&#160;&#160;<emph rend="italic">Les Quinze Joyes Nostre Dame rimées</emph></div5>
+<div5>268a-287c&#160;&#160;&#160;PRUD&#160;&#160;&#160;<emph rend="italic">Le Livre de Prudence</emph></div5>
+<div5>288c-374a&#160;&#160;&#160;CDAM&#160;&#160;&#160;<emph rend="italic">Le Livre de la Cité des Dames</emph></div5>
+<div5>376a-396b&#160;&#160;&#160;CBAD&#160;&#160;&#160;<emph rend="italic">Les Cent Balades d'Amant et de Dame</emph></div5>
+<div5>396b-398b&#160;&#160;&#160;LAYD&#160;&#160;&#160;<emph rend="italic">Lay de Dame (Lay Mortel)</emph></div5>
+
+<div5><title type="main"><emph rend="headline">MS 4431: Acronyms in Alphabetical Order</emph></title></div5>
+
+<div5>15JO&#160;&#160;&#160;267a-267c&#160;&#160;&#160;<emph rend="italic">Les Quinze Joyes Nostre Dame</emph></div5>
+<div5>2AMA&#160;&#160;&#160;058c-071b&#160;&#160;&#160;<emph rend="italic">Le Debat de Deux Amans</emph></div5>
+<div5>3JUG&#160;&#160;&#160;071c-081a&#160;&#160;&#160;<emph rend="italic">Le Livre des Trois Jugemens</emph></div5>
+<div5>AUBA&#160;&#160;&#160;037c-048a&#160;&#160;&#160;<emph rend="italic">Les Autres Balades</emph> (<emph rend="italic">Plusieurs Balades de Divers Propos)</emph></div5>
+<div5>BAEF&#160;&#160;&#160;024b-025a&#160;&#160;&#160;<emph rend="italic">Balades d'Estrange Façon</emph></div5>
+<div5>CBAD&#160;&#160;&#160;376a-396b&#160;&#160;&#160;<emph rend="italic">Cent Balades d'Amant et de Dame</emph></div5>
+<div5>CDAM&#160;&#160;&#160;288c-374a&#160;&#160;&#160;<emph rend="italic">Le Livre de la Cité des Dames</emph></div5>
+<div5>CEBA&#160;&#160;&#160;004a-021b&#160;&#160;&#160;&#160;<emph rend="italic">Cent Balades</emph></div5>
+<div5>CHLE&#160;&#160;&#160;178a-219c&#160;&#160;&#160;&#160;<emph rend="italic">Le Livre du Chemin de Long Estude</emph></div5>
+<div5>CMP1&#160;&#160;&#160;056d-058b&#160;&#160;&#160;<emph rend="italic">Une Autre Complainte amoureuse</emph></div5>
+<div5>CMP2&#160;&#160;&#160;048b-049c&#160;&#160;&#160;<emph rend="italic">Une Complainte amoureuse</emph></div5>
+<div5>DAMO&#160;&#160;&#160;051b-056c&#160;&#160;&#160;<emph rend="italic">L'Epistre au Dieu d'Amours</emph></div5>
+<div5>DVAB&#160;&#160;&#160;173d-175c&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Balades de pluseurs façons</emph></div5>
+<div5>DVAC&#160;&#160;&#160;176d-177d&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Complainte</emph></div5>
+<div5>DVAE&#160;&#160;&#160;173d&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;  <emph rend="italic">Le Livre du Duc des Vrais Amans - Epilogue</emph></div5>
+<div5>DVAL&#160;&#160;&#160;143b-173d&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Livre</emph></div5>
+<div5>DVAR&#160;&#160;&#160;176b-176d&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Rondeaulx</emph></div5>
+<div5>DVAV&#160;&#160;&#160;175d-176b&#160;&#160;&#160;<emph rend="italic">Le Livre du Duc des Vrais Amans - Virelais</emph></div5>
+<div5>EABA&#160;&#160;&#160;049c-051a&#160;&#160;&#160;<emph rend="italic">Encore Autres Balades</emph></div5>
+<div5>EMOR&#160;&#160;&#160;261c-265b&#160;&#160;&#160;<emph rend="italic">Les Enseignemens que Cristine donne à son Filz</emph> (<emph rend="italic">Les Enseignemens moraux)</emph></div5>
+<div5>EROS&#160;&#160;&#160;237a-254a&#160;&#160;&#160;<emph rend="italic">Les Epistres sur le 'Roman de la Rose'</emph></div5>
+<div5>EUST&#160;&#160;&#160;255d-257a&#160;&#160;&#160;<emph rend="italic">Une Epistre à Eustace Morel (Eustache Deschamps)</emph></div5>
+<div5>ISAB&#160;&#160;&#160;255a-255c&#160;&#160;&#160;<emph rend="italic">L'Epistre à la Reine Isabelle</emph></div5>
+<div5>JEUX&#160;&#160;&#160;034c-037c&#160;&#160;&#160;<emph rend="italic">Jeux à Vendre</emph></div5>
+<div5>LAY1&#160;&#160;&#160;025b-027a&#160;&#160;&#160;<emph rend="italic">Lay léonime</emph></div5>
+<div5>LAY2&#160;&#160;&#160;027a-028d&#160;&#160;&#160;<emph rend="italic">Un Autre Lay</emph></div5>
+<div5>ORND&#160;&#160;&#160;265b-266d&#160;&#160;&#160;<emph rend="italic">Une Oroison Nostre Dame</emph></div5>
+<div5>ORNS&#160;&#160;&#160;257b-259b&#160;&#160;&#160;<emph rend="italic">Une Oroison de la Vie et Passion Nostre Seigneur</emph></div5>
+<div5>OTEA&#160;&#160;&#160;095a-141c&#160;&#160;&#160;<emph rend="italic">L'Epistre Othéa</emph></div5>
+<div5>PAST&#160;&#160;&#160;221a-236c&#160;&#160;&#160;<emph rend="italic">Le Dit de la Pastoure</emph></div5>
+<div5>PMOR&#160;&#160;&#160;259c-261c&#160;&#160;&#160;<emph rend="italic">Proverbes moraux</emph></div5>
+<div5>POIS&#160;&#160;&#160;081a-094a&#160;&#160;&#160;<emph rend="italic">Le Livre de Poissy</emph></div5>
+<div5>PROL&#160;&#160;&#160;003a-003d&#160;&#160;&#160;<emph rend="italic">Le Prologue</emph></div5>
+<div5>PRUD&#160;&#160;&#160;268a-287c&#160;&#160;&#160;<emph rend="italic">Le Livre de Prudence</emph> (<emph rend="italic">Le Livre de la Prod'hommie de l'Homme)</emph></div5>
+<div5>ROND&#160;&#160;&#160;028d-034b&#160;&#160;&#160;<emph rend="italic">Rondeaux</emph></div5>
+<div5>TABL&#160;&#160;&#160;002c-002d&#160;&#160;&#160;<emph rend="italic">La Table des Dictiez en general...</emph></div5>
+<div5>VIRL&#160;&#160;&#160;021b-024b&#160;&#160;&#160;<emph rend="italic">Virelais</emph></div5>
+
+<div5><title type="main"><emph rend="headline">Acronyms of Works by Christine de Pizan not included in MS 4431</emph></title></div5>
+
+<div5>3VER&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Livre des Trois Vertus</emph> (<emph rend="italic">Le Tresor de la Cité des Dames)</emph></div5>
+<div5>7PSA&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Les Sept Psaumes allegorisés</emph></div5>
+<div5>AVCR&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">L'Avision Cristine</emph></div5>&#160;&#160;&#160;
+<div5>CPOL&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Livre du Corps de Policie</emph></div5>
+<div5>DARC&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Ditié de Jehanne d'Arc</emph></div5>
+<div5>FACH&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Livre des Fais d'Armes et de Chevalerie</emph></div5>
+<div5>FBMC&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Livre des Fais et bonnes Meurs du sage Roy Charles V</emph></div5>
+<div5>HCPA&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Les Heures de Contemplacion de la Passion</emph></div5>
+<div5>LMFR&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">La Lamentacion sur les Maux de la France</emph></div5>
+<div5>MFOR&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Livre de la Mutacion de Fortune</emph></div5>
+<div5>PAIX&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Livre de Paix</emph></div5>
+<div5>PRVH&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">L'Epistre de la Prison de Vie humaine</emph></div5>
+<div5>ROSE&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<emph rend="italic">Le Dit de la Rose</emph></div5>
+
+</div1>
+</p>
+</body>
+</text>
+</TEI>

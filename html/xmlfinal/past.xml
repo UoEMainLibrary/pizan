@@ -1,0 +1,2564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Le Livre de la pastoure" type="Item">
+<pb n="221" ed="r"/>
+<lb n="PAST.221r:01"/><hi rend="red">Le livre <note>wide space</note> de <note>wide space</note> la <note>wide space</note> pastoure <note>wide space</note> xx &#x95;</hi> <note>centred</note>
+<cb n="a"/>
+<!-- 37 lines -->
+<figure ref="221a"  place="19"></figure><!-- miniature extends 19 lines here -->
+<!-- 1 blank line(s) here -->
+<lb n="PAST.221a:21"/><hi rend="red">Cy commence le livre de la pastoure</hi>
+<lb n="PAST.221a:22"/><hi rend="red">&#x95; xx &#x95;</hi> <note>aligné à droite</note>
+<lb n="PAST.221a:23"/><hi rend="cap4">M</hi>oy de sagece pou <rhyme>duite</rhyme> <note>dans la marge lettre d'attente 'm' visible</note>
+<lb n="PAST.221a:24"/>Ja par mainte fois <rhyme>deduite</rhyme>
+<lb n="PAST.221a:25"/>Me suis à faire <rhyme>dictiez</rhyme>
+<lb n="PAST.221a:26"/>de plusieurs cas <rhyme>appointiez</rhyme>
+<lb n="PAST.221a:27"/>Combien que pou <rhyme>entremettre</rhyme>
+<lb n="PAST.221a:28"/>M'en sache mais pour <rhyme>desmettre</rhyme>
+<lb n="PAST.221a:29"/>Aucunement la <rhyme>pesance</rhyme>
+<lb n="PAST.221a:30"/>Dont je suis en <rhyme>mesaisance</rhyme>
+<lb n="PAST.221a:31"/>Qui jamais ne me <rhyme>sauldra</rhyme>
+<lb n="PAST.221a:32"/>Jusques vie me <rhyme>fauldra</rhyme>
+<lb n="PAST.221a:33"/>Car oublïer <rhyme>impossible</rhyme>
+<lb n="PAST.221a:34"/>M'est <name ref="Etienne+du+Castel">le doulx et le <rhyme>paysible</rhyme></name>
+<lb n="PAST.221a:35"/>Dont la mort me <rhyme>seppara</rhyme>
+<lb n="PAST.221a:36"/>Ce dueil tous jours <rhyme>m'apperra</rhyme>
+<lb n="PAST.221a:37"/>Ay fait ce dictié en <rhyme>rimes</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.221b:01"/>À mon povoir <rhyme>léonimes</rhyme>
+<lb n="PAST.221b:02"/>À requeste de <rhyme>personne</rhyme>
+<lb n="PAST.221b:03"/>Dont par le mond le nom <rhyme>sonne</rhyme>
+<lb n="PAST.221b:04"/>Qui bien me peut <rhyme>commander</rhyme>
+<lb n="PAST.221b:05"/>Et son bon vouloir <rhyme>mander</rhyme>
+<lb n="PAST.221b:06"/>Si le fis et le <rhyme>rimay</rhyme>
+<lb n="PAST.221b:07"/>En ce derrain mois de <rhyme>may</rhyme>
+<lb n="PAST.221b:08"/>L'an mil CCCC &#x95; &amp; <rhyme>trois</rhyme><note>The poem was composed in May 1403.</note>.
+<lb n="PAST.221b:09"/>Et m'est advis qui veult <rhyme>drois</rhyme>
+<lb n="PAST.221b:10"/>Y viser qu'on peut <rhyme>entendre</rhyme>
+<lb n="PAST.221b:11"/>Qu'à autre chose veult <rhyme>tendre</rhyme>
+<lb n="PAST.221b:12"/>Que le texte ne <rhyme>desclot</rhyme>
+<lb n="PAST.221b:13"/>Car aucune fois <note>aucunefois ?</note> on <rhyme>clot</rhyme>
+<lb n="PAST.221b:14"/>En parabole <rhyme>couverte</rhyme>
+<lb n="PAST.221b:15"/>Matiere à tous non <rhyme>ouverte</rhyme> <note>tache de cire ? cf. transparence</note>
+<lb n="PAST.221b:16"/>Qui semble estre truffe ou <rhyme>fable</rhyme>
+<lb n="PAST.221b:17"/>Où sentence gist <rhyme>nottable</rhyme>
+<lb n="PAST.221b:18"/>Si diray le <rhyme>Sentement</rhyme> <note>'s' majuscule, 'enroulé'</note>
+<lb n="PAST.221b:19"/>En rimant <rhyme>presentement</rhyme>
+<lb n="PAST.221b:20"/><hi rend="red">La pastoure</hi> <note>centred ; sur deux interlignes</note>
+<lb n="PAST.221b:21"/><hi rend="cap2">E</hi>ntendez mon <rhyme>aventure</rhyme> <note>lettre d'attente 'e' visible</note>
+<lb n="PAST.221b:22"/>vrays amans par <rhyme>aventure</rhyme>
+<lb n="PAST.221b:23"/>Oncques n'ouïstes <rhyme>pareille</rhyme>
+<lb n="PAST.221b:24"/>Si y tendés tous <rhyme>l'oreille</rhyme>
+<lb n="PAST.221b:25"/>Voyez comment <name ref="Love"><c>a</c>mours</name> <rhyme>traire</rhyme>
+<lb n="PAST.221b:26"/>Scet soubtilment pour <rhyme>attraire</rhyme>
+<lb n="PAST.221b:27"/>les cuers et faire <rhyme>subgès</rhyme>
+<lb n="PAST.221b:28"/>De ceulx qu'il lie en ses <rhyme>gièz</rhyme>
+<lb n="PAST.221b:29"/>Pastoure suis qui me <rhyme>plains</rhyme>
+<lb n="PAST.221b:30"/>En mes amoureux <rhyme>complains</rhyme>
+<lb n="PAST.221b:31"/>Compter vueil ma <rhyme>maladie</rhyme>
+<lb n="PAST.221b:32"/>Puis qu'il fault que je <rhyme>la die</rhyme>
+<lb n="PAST.221b:33"/>Comme d'amours trop <rhyme>contrainte</rhyme>
+<lb n="PAST.221b:34"/>Par force d'amer <rhyme>estrainte</rhyme>
+<lb n="PAST.221b:35"/>Diray comment je fus <rhyme>prise</rhyme>
+<lb n="PAST.221b:36"/>Estrangement par <rhyme>l'emprise</rhyme> <note>exuberant tail on 'g' ; long descenders on 's's, 'p's</note>
+<!-- allure générale du feuillet assez 'passée' -->
+<pb n="221" ed="v"/>
+<lb n="PAST.221v:01"/><hi rend="red"><note>wide space</note> Le livre <note>wide space</note> de la</hi> <note>all over column c</note>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.221c:01"/>Du <name ref="God"><c>d</c>ieu</name> qui les cuers <rhyme>maistroie</rhyme>
+<lb n="PAST.221c:02"/>Et qui bien et mal <rhyme>ottroie</rhyme>
+<lb n="PAST.221c:03"/>Si soit exemplaire aux <rhyme>dames</rhyme>
+<lb n="PAST.221c:04"/>Mon fait qui jurent leur <rhyme>ames</rhyme>
+<lb n="PAST.221c:05"/>Que jamais jour <rhyme>n'ameront</rhyme>
+<lb n="PAST.221c:06"/>Voyent comment <name ref="Love"><c>a</c>mours</name> <rhyme>rompt</rhyme>
+<lb n="PAST.221c:07"/>Par son très poissant <rhyme>effort</rhyme>
+<lb n="PAST.221c:08"/>Tout propos soit foible ou <rhyme>fort</rhyme>
+<lb n="PAST.221c:09"/><hi rend="cap2">T</hi>rès que jeune touse <rhyme>estoie</rhyme>
+<lb n="PAST.221c:10"/>Par my bocages <rhyme>hantoie</rhyme>
+<lb n="PAST.221c:11"/>Et par ces landes <rhyme>sauvages</rhyme>
+<lb n="PAST.221c:12"/>Pour repaistre en my <rhyme>herbages</rhyme>
+<lb n="PAST.221c:13"/>Les brebïetes mon <rhyme>pere</rhyme>
+<lb n="PAST.221c:14"/>Et quoy qu'adès en <rhyme>appere</rhyme>
+<lb n="PAST.221c:15"/>Ainsi par maintes <rhyme>années</rhyme>
+<lb n="PAST.221c:16"/>Furent par moy <rhyme>pourmenées</rhyme>
+<lb n="PAST.221c:17"/>Tant que je fus ja <rhyme>parcreue</rhyme>
+<lb n="PAST.221c:18"/>Sanz estre nul jour <rhyme>recreue</rhyme>
+<lb n="PAST.221c:19"/>Du maistier qui me <rhyme>plaisoit</rhyme>
+<lb n="PAST.221c:20"/>De bergerie et <rhyme>faisoit</rhyme>
+<lb n="PAST.221c:21"/>Matin lever par grant <rhyme>cure</rhyme>
+<lb n="PAST.221c:22"/>D'autre riens n'avoie <rhyme>cure</rhyme>
+<lb n="PAST.221c:23"/>Fors de reppairier en <rhyme>champs</rhyme>
+<lb n="PAST.221c:24"/>Et en bois où les doulx <rhyme>chants</rhyme>
+<lb n="PAST.221c:25"/>Des oysiaulx souvent <rhyme>ouoye</rhyme> <note>faut il mettre un accent ?</note>
+<lb n="PAST.221c:26"/>N'autre<add place="supralinear" type="" evidence="">s</add> <note>rising 's' ; encre pâle, insertion ?</note> gens je <rhyme>n'avouoye</rhyme>
+<lb n="PAST.221c:27"/>Fors pastoures et <rhyme>pastours</rhyme>
+<lb n="PAST.221c:28"/>Si savoie tous les <rhyme>tours</rhyme>
+<lb n="PAST.221c:29"/>Du mestier de <rhyme>bergerie</rhyme>
+<lb n="PAST.221c:30"/>Agneaulx en la <rhyme>bergerie</rhyme>
+<lb n="PAST.221c:31"/>Seigner mettre faing <note>'faing' c'est-à-dire 'foin' ?; surcharge sur l'initiale 'et' ? ; peu visible</note> en <rhyme>creche</rhyme>
+<lb n="PAST.221c:32"/>Semer où toit paille <rhyme>freche</rhyme>
+<lb n="PAST.221c:33"/>Et les moutons d'une <rhyme>part</rhyme>
+<lb n="PAST.221c:34"/>Trïer oindre et mettre à <rhyme>part</rhyme> <note>'apart' ? non ?</note>
+<lb n="PAST.221c:35"/>Brebis traire et faire à <rhyme>heure</rhyme>
+<lb n="PAST.221c:36"/>Agneaulx tetter / et <rhyme>desseure</rhyme>
+<lb n="PAST.221c:37"/>Le fourrage \ ès rastiaulx <rhyme>mettre</rhyme> <note>exuberant tail on 'g', 'x' ; long descender on 's'</note>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.221d:01"/>Ne nulle mieulx <rhyme>entremettre</rhyme>
+<lb n="PAST.221d:02"/>Ne se sceust de tout <rhyme>l'affaire</rhyme>
+<lb n="PAST.221d:03"/>Qu'il couvient au mestier <rhyme>faire</rhyme>
+<lb n="PAST.221d:04"/>Auble <note>'Anble' ? correction à l'encre noire sur grattage ; 'nbl' bas du 'b' ; 'e' élargi, encre pâle</note> de son et <rhyme>d'aveine</rhyme>
+<lb n="PAST.221d:05"/>Pour faire remplir la <rhyme>veine</rhyme>
+<lb n="PAST.221d:06"/>Aux brebis qui <rhyme>agnelé</rhyme>
+<lb n="PAST.221d:07"/>Avoient qui n'est <rhyme>coulé</rhyme>
+<lb n="PAST.221d:08"/>Sçavoie et mes brebis <rhyme>tondre</rhyme>
+<lb n="PAST.221d:09"/>En may assise en belle <rhyme>ombre</rhyme>
+<lb n="PAST.221d:10"/>Au matin et <rhyme>avesprée</rhyme> <note>agglutiné ?</note>
+<lb n="PAST.221d:11"/>Et apporter de la <rhyme>prée</rhyme>
+<lb n="PAST.221d:12"/>Herbes aux agnellés <rhyme>petis</rhyme> <note>irregular, 8 syllables, correct to 'Herbe' ?</note>
+<lb n="PAST.221d:13"/>Pour leur donner <rhyme>appetis</rhyme>
+<lb n="PAST.221d:14"/>Quant ilz viennent en <rhyme>saison</rhyme>
+<lb n="PAST.221d:15"/>Qu'on les tient en la <rhyme>maison</rhyme>
+<lb n="PAST.221d:16"/>Et bien rapporter des <rhyme>champs</rhyme>
+<lb n="PAST.221d:17"/>Aucunes brebis <rhyme>mechans</rhyme>
+<lb n="PAST.221d:18"/>Vielles et à doz <rhyme>pellé</rhyme>
+<lb n="PAST.221d:19"/>Et s'aucune eust <rhyme>agnellé</rhyme>
+<lb n="PAST.221d:20"/>Là hors / l'aignel entre <rhyme>bras</rhyme>
+<lb n="PAST.221d:21"/>Porter dedens mon <rhyme>rebras</rhyme>
+<lb n="PAST.221d:22"/>Et eulx garir de la <rhyme>rongne</rhyme>
+<lb n="PAST.221d:23"/>N'i avoit si grant <rhyme>besongne</rhyme>
+<lb n="PAST.221d:24"/>Dont je ne fusse <rhyme>maistresse</rhyme>
+<lb n="PAST.221d:25"/>Et des bergieres <rhyme>l'adrece</rhyme> <note>'la drece' ?</note>
+<lb n="PAST.221d:26"/>De tout ce songneuse <rhyme>estoie</rhyme>
+<lb n="PAST.221d:27"/>À droite heure me <rhyme>hastoie</rhyme>
+<lb n="PAST.221d:28"/>De mener à <rhyme>remontée</rhyme>
+<lb n="PAST.221d:29"/>Mes brebis sus la <rhyme>montée</rhyme>
+<lb n="PAST.221d:30"/>D'un tertre où herbe ot <rhyme>menue</rhyme>
+<lb n="PAST.221d:31"/>Et quant souleil ert soubz <rhyme>nue</rhyme>
+<lb n="PAST.221d:32"/>Au matin à la <rhyme>rosée</rhyme>
+<lb n="PAST.221d:33"/>Dont terre estoit <rhyme>arrosée</rhyme>
+<lb n="PAST.221d:34"/>Oû temps d'esté \ par <rhyme>herbis</rhyme>
+<lb n="PAST.221d:35"/>Couver<add place="supralinear" type="" evidence="">s</add> <note>'s' fuyant suscrit ; encre pâle ; correction 'Couver' devient 'Couvers'</note> mener mes <rhyme>brebis</rhyme>
+<lb n="PAST.221d:36"/>Bien savoie et <rhyme>assembler</rhyme>
+<lb n="PAST.221d:37"/>Mon parc que le loup <rhyme>embler</rhyme>
+<pb n="222" ed="r"/>
+<lb n="PAST.222r:01"/><hi rend="red">pastoure xx &#x95;</hi> <note>centred</note>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.222a:01"/>Ne m'en peüst chef ou <rhyme>queue</rhyme>
+<lb n="PAST.222a:02"/>Et que nulle ne fust <rhyme>seue</rhyme>
+<lb n="PAST.222a:03"/>Là en l'ombre me <rhyme>sëoie</rhyme>
+<lb n="PAST.222a:04"/>Soubz un chaine et <rhyme>assëoie</rhyme>
+<lb n="PAST.222a:05"/>À ouvrer de fil de <rhyme>laine</rhyme>
+<lb n="PAST.222a:06"/>En chantant à haulte <rhyme>aleine</rhyme>
+<lb n="PAST.222a:07"/>Çainturettes je <rhyme>faisoie</rhyme>
+<lb n="PAST.222a:08"/>Ouvrées com se fust <rhyme>soye</rhyme>
+<lb n="PAST.222a:09"/>Où je lassoie <rhyme>coiffettes</rhyme>
+<lb n="PAST.222a:10"/>Gracïeusetement <rhyme>faites</rhyme> <note>petit 'g' majuscule</note>
+<lb n="PAST.222a:11"/>Bien tissues et <rhyme>entieres</rhyme>
+<lb n="PAST.222a:12"/>Ou raisiaulx ou <note>sur grattage ?; encre pâle</note> <rhyme>pannetieres</rhyme>
+<lb n="PAST.222a:13"/>Où l'en met pain et <rhyme>frommage</rhyme>
+<lb n="PAST.222a:14"/>Là soubz le <note>'l' sur grattage ?</note> chaine <rhyme>ramage</rhyme>
+<lb n="PAST.222a:15"/>S'assembloient <rhyme>pastourelles</rhyme>
+<lb n="PAST.222a:16"/>Et non mie tout par <rhyme>elles</rhyme>
+<lb n="PAST.222a:17"/>Ainçois vissiés soir et <rhyme>main</rhyme>
+<lb n="PAST.222a:18"/>Son ami par mi la <rhyme>main</rhyme>
+<lb n="PAST.222a:19"/>Venir chacune <rhyme>tenant</rhyme>
+<lb n="PAST.222a:20"/>Plus de &#x95; xx &#x95; en un <rhyme>tenant</rhyme>
+<lb n="PAST.222a:21"/>Dont l'un flajolant <rhyme>venoit</rhyme>
+<lb n="PAST.222a:22"/>Et l'autre un tabour <rhyme>tenoit</rhyme>
+<lb n="PAST.222a:23"/>L'autre musette ou <rhyme>chevrette</rhyme>
+<lb n="PAST.222a:24"/>N'il n'y avoit si <rhyme>povrete</rhyme>
+<lb n="PAST.222a:25"/>Qui <note>'l' final gratté</note> ne fust riche <rhyme>d'ami</rhyme>
+<lb n="PAST.222a:26"/>Et là vous veissiés en <rhyme>mi</rhyme>
+<lb n="PAST.222a:27"/>La place mener la <rhyme>tresche</rhyme>
+<lb n="PAST.222a:28"/>Joliement sus l'erbe <rhyme>fresche</rhyme> <note>irregular, 8 syllables</note>
+<lb n="PAST.222a:29"/>Paroit <name ref="Soyer+shepherd"><c>s</c>oyer</name> et <rhyme><name ref="Hernou+shepherd"><c>h</c>ernou</name></rhyme> <note>words written later in space left blank ?</note>
+<lb n="PAST.222a:30"/>Et <name ref="Renault+shepherd"><c>r</c>enault</name> qui ot maint <rhyme>nou</rhyme>
+<lb n="PAST.222a:31"/>D'amours fait sus son <rhyme>juppel</rhyme>
+<lb n="PAST.222a:32"/>Et boquet sus le <rhyme>chappel</rhyme>
+<lb n="PAST.222a:33"/>Qu'<name ref="Erambourc+shepherdess"><c>e</c>rambourc</name> ot <rhyme>ataché</rhyme>
+<lb n="PAST.222a:34"/>Et mis le chappel oû <rhyme>chié</rhyme>
+<lb n="PAST.222a:35"/>Comme à son ami <rhyme>trescher</rhyme>
+<lb n="PAST.222a:36"/>Ainsi les veissiés <rhyme>trescher</rhyme>
+<lb n="PAST.222a:37"/>Et queroler et <rhyme>baler</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.222b:01"/>L'un en dançant <rhyme>reculer</rhyme>
+<lb n="PAST.222b:02"/>Tenant la main au <rhyme>costé</rhyme>
+<lb n="PAST.222b:03"/>Et le pan devant <rhyme>osté</rhyme>
+<lb n="PAST.222b:04"/>Et à la ceinture <rhyme>mis</rhyme>
+<lb n="PAST.222b:05"/>Puis en dançant c'est <rhyme>remis</rhyme> <note>'c'est' c'est-à-dire 's'est' ?</note>
+<lb n="PAST.222b:06"/>À la queue emprès <rhyme><name ref="Gilon+shepherd"><c>g</c>ilon</name></rhyme>
+<lb n="PAST.222b:07"/>Et devant met / <rhyme><name ref="">Sebilon</name></rhyme>
+<lb n="PAST.222b:08"/>Joliment y vait <rhyme><name ref="Bellotte+shepherdess"><c>b</c>ellotte</name></rhyme>
+<lb n="PAST.222b:09"/>Qui bien jeue à la <rhyme>pellotte</rhyme>
+<lb n="PAST.222b:10"/><name ref="Emangion+shepherd">Emangion</name> <note>'Emangion' ?</note> et <rhyme><name ref="Janeton+shepherd">Janeton</name></rhyme>
+<lb n="PAST.222b:11"/>Et <name ref="Belon+shepherd"><c>b</c>elon</name> au jolis <rhyme>ton</rhyme>
+<lb n="PAST.222b:12"/>Des instrumens <rhyme>accordez</rhyme>
+<lb n="PAST.222b:13"/>La veissiés bergers <rhyme>hourdez</rhyme>
+<lb n="PAST.222b:14"/>De gans blans et <rhyme>d'aumosnieres</rhyme>
+<lb n="PAST.222b:15"/>Et de diverses <rhyme>manieres</rhyme>
+<lb n="PAST.222b:16"/>D'outilz tieulx qu'ilz <rhyme>appartiennent</rhyme>
+<lb n="PAST.222b:17"/>À bergiers qui gays se <rhyme>tiennent</rhyme>
+<lb n="PAST.222b:18"/>Tranche pain <c>C</c>isiaulx <note>petit 'c' majuscule</note> <rhyme>forcetes</rhyme>
+<lb n="PAST.222b:19"/>boite à ointure <rhyme>eguillettes</rhyme>
+<lb n="PAST.222b:20"/>À loine <note>'Aloine' ?</note> cernoir <rhyme>cordelle</rhyme>
+<lb n="PAST.222b:21"/>Une grande tace <rhyme>belle</rhyme>
+<lb n="PAST.222b:22"/>Fil eguille et del <rhyme>avec</rhyme>
+<lb n="PAST.222b:23"/>Y a / bergier n'est sans <rhyme>hec</rhyme>
+<lb n="PAST.222b:24"/>Mainte autre chose / a / <rhyme>dedens</rhyme>
+<lb n="PAST.222b:25"/>bonne / &amp; lanieres <rhyme>pendans</rhyme>
+<lb n="PAST.222b:26"/>Et la grant clef de la <rhyme>porte</rhyme>
+<lb n="PAST.222b:27"/>De la bergerie on <rhyme>porte</rhyme>
+<lb n="PAST.222b:28"/>Qui à une bille <rhyme>pent</rhyme>
+<lb n="PAST.222b:29"/>Et derriere vait <rhyme>frappent</rhyme>
+<lb n="PAST.222b:30"/>Et tout pent à la <rhyme>ceinture</rhyme>
+<lb n="PAST.222b:31"/>Où le mastin à <rhyme>esture</rhyme>
+<lb n="PAST.222b:32"/>On tient lïé à toute <rhyme>heure</rhyme>
+<lb n="PAST.222b:33"/>Qu'après les <note>'le' encre plus noire, sur grattage ?</note> connins ne <rhyme>queure</rhyme>
+<lb n="PAST.222b:34"/>La houllette bien <rhyme>taillée</rhyme>
+<lb n="PAST.222b:35"/>Par amourettes <rhyme>baillée</rhyme>
+<lb n="PAST.222b:36"/>Que bergier tient en sa <rhyme>main</rhyme>
+<lb n="PAST.222b:37"/>Et la panetiere à <rhyme>pain</rhyme> <note>exuberant descenders</note>
+<pb n="222" ed="v"/>
+<lb n="PAST.222v:01"/><hi rend="red">Le <note>wide space</note> livre <note>wide space</note> de <note>space</note> la </hi> <note>all over column c</note>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.222c:01"/>Où aux et frommage on <rhyme>met</rhyme>
+<lb n="PAST.222c:02"/>Biaulx housiaulx je vous <rhyme>promet</rhyme>
+<lb n="PAST.222c:03"/>Ont ceulx qui sont les plus <rhyme>cointes</rhyme>
+<lb n="PAST.222c:04"/>Tous n'ayent ilz nulles <rhyme>pointes</rhyme>
+<lb n="PAST.222c:05"/>Qui leur voise au pas <rhyme>grevant</rhyme>
+<lb n="PAST.222c:06"/>Et la poitrine <rhyme>devant</rhyme>
+<lb n="PAST.222c:07"/>Desnoullée où le <rhyme>blanchet</rhyme>
+<lb n="PAST.222c:08"/>Pert blanc de nouvel <rhyme>achet</rhyme>
+<lb n="PAST.222c:09"/>Ou la croix de la <rhyme>chemise</rhyme>
+<lb n="PAST.222c:10"/>Quant toute neuve elle est <rhyme>mise</rhyme>
+<lb n="PAST.222c:11"/>Là à cottes de <rhyme>buriaulx</rhyme>
+<lb n="PAST.222c:12"/>Vous veissiés ces <rhyme>pastouriaulx</rhyme>
+<lb n="PAST.222c:13"/>Mener feste à <rhyme>desmesure</rhyme>
+<lb n="PAST.222c:14"/>Pour atteindre à la <rhyme>mesure</rhyme>
+<lb n="PAST.222c:15"/>Frapper du pié en <rhyme>dançant</rhyme>
+<lb n="PAST.222c:16"/><name ref="Gautier+shepherd">Gautier</name> emprès <rhyme><name ref="Helissant+shepherd"><c>h</c>elissant</name></rhyme>
+<lb n="PAST.222c:17"/>À cloche pié faire un <rhyme>sault</rhyme>
+<lb n="PAST.222c:18"/>Sicomme <name ref="Love"><c>a</c>mours</name> les <rhyme>assault</rhyme>
+<lb n="PAST.222c:19"/>Hucher crier <rhyme>rigoler</rhyme>
+<lb n="PAST.222c:20"/>Et ensemble entre <rhyme>accoller</rhyme>
+<lb n="PAST.222c:21"/>Est ce vie &#x95; vie &#x95; <rhyme>vie</rhyme> &#x95;
+<lb n="PAST.222c:22"/>Qui jamais a d'autre <rhyme>envie</rhyme>
+<lb n="PAST.222c:23"/>¶ Puis quant <note>sous le 'q' ligne horizontale</note> de dancier sont <rhyme>las</rhyme>
+<lb n="PAST.222c:24"/>Les veissiés par grant <rhyme>solas</rhyme>
+<lb n="PAST.222c:25"/>Eulx sëoir sur l'erbe <rhyme>drue</rhyme>
+<lb n="PAST.222c:26"/>Chacun amant lez sa <rhyme>drue</rhyme>
+<lb n="PAST.222c:27"/>Ataindre pain et <rhyme>frommage</rhyme>
+<lb n="PAST.222c:28"/>Et tout mettre sus <rhyme>l'erbage</rhyme>
+<lb n="PAST.222c:29"/>Et ces pastouriaulx <rhyme>gentilz</rhyme>
+<lb n="PAST.222c:30"/>Vous trancher ce pain <rhyme>faitis</rhyme>
+<lb n="PAST.222c:31"/>Par leches grandes et <rhyme>lées</rhyme>
+<lb n="PAST.222c:32"/>Après doulces <rhyme>accollées</rhyme>
+<lb n="PAST.222c:33"/>Les giter en la <rhyme>fontaine</rhyme>
+<lb n="PAST.222c:34"/>Et par bonne amour <rhyme>certaine</rhyme>
+<lb n="PAST.222c:35"/>D'ycellui mengier eulx <rhyme>paistre</rhyme>
+<lb n="PAST.222c:36"/>En celle lande <rhyme>champestre</rhyme>
+<lb n="PAST.222c:37"/>De flours couverte à tous <rhyme>tours</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.222d:01"/>Sont ilz ayse <del rend="erased">s</del><add place="inline" evidence="erasure" type="scribe">c</add>es <rhyme>pastours</rhyme>
+<lb n="PAST.222d:02"/>Brebis gardans par <rhyme>sillons</rhyme>
+<lb n="PAST.222d:03"/>Et / <del rend="overwritten">s</del><add place="inline" evidence="overwritten" type="scribe?">s</add>es <note>'ses' devient 'ces'?</note> jolis <rhyme>oysillons</rhyme>
+<lb n="PAST.222d:04"/>Qui les cuers leur <rhyme>resjouïst</rhyme>
+<lb n="PAST.222d:05"/>En celle place on <rhyme>ouÿst</rhyme>
+<lb n="PAST.222d:06"/>Chanter <name ref="Perrot=shepherd"><c>p</c>errot</name> et <rhyme><name ref="Margot+shepherdess"><c>m</c>argot</name></rhyme>
+<lb n="PAST.222d:07"/>Larigot valla <rhyme>Rigot</rhyme> <note>erreur ? 'Larigot va larigot' ?</note>
+<lb n="PAST.222d:08"/>Mari tu ne m'aimes <rhyme>mie</rhyme>
+<lb n="PAST.222d:09"/>Pour ce à <name ref="Robin+shepherd"><c>r</c>obin</name> suis <rhyme>amie</rhyme>
+<lb n="PAST.222d:10"/>Ainsi amont et <rhyme>aval</rhyme>
+<lb n="PAST.222d:11"/>Tout y retentist li <rhyme>val</rhyme>
+<lb n="PAST.222d:12"/>Des haultes voix <rhyme>delïées</rhyme>
+<lb n="PAST.222d:13"/>De ces pastourelles <rhyme>liées</rhyme>
+<lb n="PAST.222d:14"/>Chantans à joyeuse <rhyme>chiere</rhyme>
+<lb n="PAST.222d:15"/>Et <name ref="Robin+shepherd">Robin</name> qui a moult <rhyme>chiere</rhyme>
+<lb n="PAST.222d:16"/><name ref="Marion+shepherdess">Marïon</name> qu'il aime <rhyme>moult</rhyme>
+<lb n="PAST.222d:17"/>Si quiert aval et <rhyme>amont</rhyme>
+<lb n="PAST.222d:18"/><note>/ dans marge pour ¶ non exécuté ?</note> Pour trouver couldre qui <rhyme>ploye</rhyme>
+<lb n="PAST.222d:19"/>Large et longue et là <rhyme>s'employe</rhyme>
+<lb n="PAST.222d:20"/>À tout <note>'Atout' ? oui</note> un large <rhyme>coutel</rhyme>
+<lb n="PAST.222d:21"/>Assis sus son bleu <rhyme>mantel</rhyme>
+<lb n="PAST.222d:22"/>Si fent la couldre par <rhyme>mi</rhyme>
+<lb n="PAST.222d:23"/>Et dit que par <name ref="Saint+Rémy">saint <rhyme><c>r</c>emi</rhyme></name>
+<lb n="PAST.222d:24"/>Esclisse fera de <rhyme>couldre</rhyme>
+<lb n="PAST.222d:25"/>Ensemble veult les bous <rhyme>couldre</rhyme>
+<lb n="PAST.222d:26"/>Si ara de flours <rhyme>chappiau</rhyme>
+<lb n="PAST.222d:27"/>Moult bien sur ore d'or <rhyme>piau</rhyme>
+<lb n="PAST.222d:28"/>Que s'amie a en sa <rhyme>bourse</rhyme>
+<lb n="PAST.222d:29"/>Adont n'y a si <rhyme>rebourse</rhyme>
+<lb n="PAST.222d:30"/>Qui chappel à lie <rhyme>face</rhyme>
+<lb n="PAST.222d:31"/>À son doulx ami ne <rhyme>face</rhyme>
+<lb n="PAST.222d:32"/>De muguet et flours <rhyme>d'amer</rhyme>
+<lb n="PAST.222d:33"/>Ou de roses d'oultre <rhyme>mer</rhyme>
+<lb n="PAST.222d:34"/>Tandis vont o leurs <rhyme>musettes</rhyme>
+<lb n="PAST.222d:35"/>Cueillir cormes ou <rhyme>noysettes</rhyme>
+<lb n="PAST.222d:36"/>Ou chastaignes en ces <rhyme>bois</rhyme>
+<lb n="PAST.222d:37"/>À batre ou cerner des <rhyme>nois</rhyme>
+<pb n="223" ed="r"/>
+<lb n="PAST.223r:01"/><hi rend="red">pastoure xx &#x95;</hi> <note>centred</note>
+<cb n="a"/>
+<!-- 36 lines -->
+<lb n="PAST.223a:01"/>Selon <note>capital 'S', centre includes short vertical stroke, almost a cross</note> qu'il est la <rhyme>saisons</rhyme>
+<lb n="PAST.223a:02"/>Ou roisins en <rhyme>moustoisons</rhyme>
+<lb n="PAST.223a:03"/>Li pastours puis les <rhyme>apporte<abbr type="n"/>t</rhyme> <note>tilde nasalisation encre plus claire, première abbréviation ?</note>
+<lb n="PAST.223a:04"/>Aux belles qui se <rhyme>depportent</rhyme>
+<lb n="PAST.223a:05"/>En l'ombre et leur font <rhyme>chappiaulx</rhyme>
+<lb n="PAST.223a:06"/>Chacun<abbr type=" "/>dit li miens est <rhyme>beaulx</rhyme>
+<lb n="PAST.223a:07"/>Si broutent là / <note>trait encre claire</note> tel <rhyme>vïande</rhyme> <note>trait plus pour déligaturer les deux mots</note>
+<lb n="PAST.223a:08"/>Ne nul d'eulx plus ne <rhyme>demande</rhyme>
+<lb n="PAST.223a:09"/>¶ Tieulx y a qui jus leur <rhyme>flutes</rhyme>
+<lb n="PAST.223a:10"/>Mettent et trayent aux <rhyme>butes</rhyme>
+<lb n="PAST.223a:11"/>Autres la lutte <rhyme>commencent</rhyme>
+<lb n="PAST.223a:12"/>Et les autres si <rhyme>s'avancent</rhyme>
+<lb n="PAST.223a:13"/>À faire aucuns gieux de <rhyme>forces</rhyme>
+<lb n="PAST.223a:14"/>Ou arrachent les <rhyme>escorces</rhyme>
+<lb n="PAST.223a:15"/>Des arbres vieulx et <rhyme>moussus</rhyme>
+<lb n="PAST.223a:16"/>leurs chapperons lïent <rhyme>sus</rhyme>
+<lb n="PAST.223a:17"/>de bien estroite <rhyme>maniere</rhyme>
+<lb n="PAST.223a:18"/>Et cousent une <rhyme>laniere</rhyme>
+<lb n="PAST.223a:19"/>grande <note>petit 'g' majuscule</note> et large à celle <rhyme>escorce</rhyme>
+<lb n="PAST.223a:20"/>leur main oû creux de la <rhyme>torse</rhyme>
+<lb n="PAST.223a:21"/>boutent et bouclier en <rhyme>font</rhyme>
+<lb n="PAST.223a:22"/>Espées de bois <rhyme>refont</rhyme>
+<lb n="PAST.223a:23"/>Lors commence <rhyme>l'escremie</rhyme>
+<lb n="PAST.223a:24"/>Chacun dru devant sa <rhyme>mie</rhyme>
+<lb n="PAST.223a:25"/>Jeue du bouclier et <rhyme>fiert</rhyme>
+<lb n="PAST.223a:26"/>Ses compains comme il <rhyme>affiert</rhyme>
+<lb n="PAST.223a:27"/>là veissiés vous de beaulx <rhyme>coups</rhyme>
+<lb n="PAST.223a:28"/>lancier sur teste et sur <rhyme>coulx</rhyme>
+<lb n="PAST.223a:29"/>Et cellui qui mal <note>trous dans le parchemin en dessous des deux mots</note> se <rhyme>targe</rhyme>
+<lb n="PAST.223a:30"/>De l'escorce dont fait <rhyme>targe</rhyme>
+<lb n="PAST.223a:31"/>En emporte mainte <rhyme>boce</rhyme>
+<lb n="PAST.223a:32"/>Souvent quant lui fault <rhyme>l'escorce</rhyme>
+<lb n="PAST.223a:33"/>¶ L'autre le mort et se <rhyme>couche</rhyme>
+<lb n="PAST.223a:34"/>Fait et tient close la <rhyme>bouche</rhyme>
+<lb n="PAST.223a:35"/>Là <note>là ?</note> chacun se vient <rhyme>ployer</rhyme>
+<lb n="PAST.223a:36"/>Et au lever <rhyme>essayer</rhyme>
+<cb n="b"/>
+<!-- 36 lines -->
+<lb n="PAST.223b:01"/>Et cellui qui mieulx le <rhyme>lieve</rhyme>
+<lb n="PAST.223b:02"/>Le pris et l'onneur en <rhyme>lieve</rhyme>
+<lb n="PAST.223b:03"/>En yver jeuent aux <rhyme>billes</rhyme>
+<lb n="PAST.223b:04"/>Et au parquet et aux <rhyme>quilles</rhyme>
+<lb n="PAST.223b:05"/>Et aux meriaulx et aux <rhyme>nois</rhyme>
+<lb n="PAST.223b:06"/>Et à autres <rhyme>esbanois</rhyme>
+<lb n="PAST.223b:07"/>D'autres gieux font ilz <rhyme>assez</rhyme>
+<lb n="PAST.223b:08"/>beaulx <note>'Beaulx' ?</note>et plaisans ce <rhyme>pensez</rhyme>
+<lb n="PAST.223b:09"/>devant leur belles <rhyme>amies</rhyme>
+<lb n="PAST.223b:10"/>Qui ne sont pas <rhyme>endormies</rhyme>
+<lb n="PAST.223b:11"/>À jugier des mieulx <rhyme>appris</rhyme>
+<lb n="PAST.223b:12"/>Et bien assëoir le <rhyme>pris</rhyme>
+<lb n="PAST.223b:13"/>Et orriés ces <rhyme>vallettons</rhyme> <note>traits parallèles dans la marge, signe ¶ non exécuté ?</note><note>où sont ils ?</note>
+<lb n="PAST.223b:14"/>Quant ilz sont ès <rhyme>sommettons</rhyme>
+<lb n="PAST.223b:15"/>Des montaignes <rhyme>jargonner</rhyme>
+<lb n="PAST.223b:16"/>Et l'un l'autre <rhyme>ramposner</rhyme>
+<lb n="PAST.223b:17"/>En jargon tout en <rhyme>chantant</rhyme>
+<lb n="PAST.223b:18"/>Que nul fors qu'entr'eulx <rhyme>n'entent</rhyme>
+<lb n="PAST.223b:19"/><hi rend="cap2">A</hi>insi <note>présence d'une lettre d'attente 'a'</note> se vont <rhyme>deportant</rhyme>
+<lb n="PAST.223b:20"/>li pastourel mais pour <rhyme>tant</rhyme>
+<lb n="PAST.223b:21"/>Ne laissent à prendre <rhyme>garde</rhyme>
+<lb n="PAST.223b:22"/>Des brebis qu'ilz ont en <rhyme>garde</rhyme>
+<lb n="PAST.223b:23"/>Puis au vespre s'en <rhyme>retournent</rhyme>
+<lb n="PAST.223b:24"/>Et tous et toutes <rhyme>s'atournent</rhyme> <note>'a' corrigé ?</note>
+<lb n="PAST.223b:25"/>De trïer leurs <rhyme>brebïetes</rhyme>
+<lb n="PAST.223b:26"/>Congié de leurs <rhyme>amïettes</rhyme>
+<lb n="PAST.223b:27"/>Prennent li jolis <rhyme>pastour</rhyme>
+<lb n="PAST.223b:28"/>Et se mettent au <rhyme>retour</rhyme>
+<lb n="PAST.223b:29"/>¶ Ainsi longuement <rhyme>hantay</rhyme> <note>trait vertical dans la marge</note>
+<lb n="PAST.223b:30"/>Celle vie où je <rhyme>chantay</rhyme>
+<lb n="PAST.223b:31"/>Mainte jolie <rhyme>chançon</rhyme>
+<lb n="PAST.223b:32"/>Et en l'ombre du <rhyme>buisson</rhyme>
+<lb n="PAST.223b:33"/>O / mes compaignettes <rhyme>belles</rhyme>
+<lb n="PAST.223b:34"/>Et leur ami <note>marque suscrite ? 's' suscrit, préparation de correction 'amj' devient 'amis' ?</note> avec <rhyme>elles</rhyme>
+<lb n="PAST.223b:35"/><note>doubles traits marginaux pour ¶ non exécuté dans la marge ?</note> M'ombrayay mainte <rhyme>journée</rhyme>
+<lb n="PAST.223b:36"/>Jeune <note>prolongement cadelé du bas du 'J'</note> estoie et <rhyme>atournée</rhyme>
+<pb n="223" ed="v"/>
+<lb n="PAST.223v:01"/><hi rend="red">Le <note>space</note> livre <note>space</note> de la <note>centred</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.223c:01"/>Comme pastoure <rhyme>polie</rhyme>
+<lb n="PAST.223c:02"/>Seurcot vert <note>'i', lettre finale entamée, barrée d'un trait /</note> cotte <rhyme>jolie</rhyme>
+<lb n="PAST.223c:03"/>I'avoie et graisle <rhyme>çainture</rhyme>
+<lb n="PAST.223c:04"/>Bourse espinglier à <rhyme>esture</rhyme>
+<lb n="PAST.223c:05"/>Fait<abbr type=" "/><note>trait vertical ? separator ?</note> et coutellet <rhyme>faitis</rhyme>
+<lb n="PAST.223c:06"/>Et tous les gentilz <rhyme>outilz</rhyme>
+<lb n="PAST.223c:07"/>Qu'appartiennent à <rhyme>bergiere</rhyme>
+<lb n="PAST.223c:08"/>Et sus pelice <rhyme>legiere</rhyme>
+<lb n="PAST.223c:09"/>Chainse crespe et <rhyme>delïé</rhyme>
+<lb n="PAST.223c:10"/>Blanc flairant et bien <rhyme>lïé</rhyme>
+<lb n="PAST.223c:11"/><note>trait vertical dans la marge</note> Mignotte estoie et <rhyme>grassette</rhyme>
+<lb n="PAST.223c:12"/>Et rïant à voix <rhyme>bassette</rhyme>
+<lb n="PAST.223c:13"/>Et gente ce / <note>trait encre plus claire, postérieur ?</note> disoit <rhyme>on</rhyme>
+<lb n="PAST.223c:14"/>Si fus de maint <rhyme>valletton</rhyme>
+<lb n="PAST.223c:15"/>Amée moult <rhyme>chierement</rhyme>
+<lb n="PAST.223c:16"/>Mès / <note>tout sur grattage</note> si me tins <rhyme>fierement</rhyme>
+<lb n="PAST.223c:17"/>Que nul ne daignay <rhyme>amer</rhyme>
+<lb n="PAST.223c:18"/>Maint bergier à cuer <rhyme>amer</rhyme>
+<lb n="PAST.223c:19"/>Plourant vint m'amour <rhyme>requerre</rhyme>
+<lb n="PAST.223c:20"/>Mais nul ne la pot <rhyme>acquerre</rhyme>
+<lb n="PAST.223c:21"/>Non obstant que mes <rhyme>compaignes</rhyme>
+<lb n="PAST.223c:22"/>Vëoie par ces <rhyme>champaignes</rhyme>
+<lb n="PAST.223c:23"/>O leur doulx amis <rhyme>deduire</rhyme>
+<lb n="PAST.223c:24"/>Nul ne pouoit mon cuer <rhyme>duire</rhyme>
+<lb n="PAST.223c:25"/>Ad ce que l'amer <rhyme>empreisse</rhyme>
+<lb n="PAST.223c:26"/>Mais qu'autre vie <rhyme>appreïsse</rhyme> <note>ou hiatus ?</note>
+<lb n="PAST.223c:27"/>Que celle qu'apprise <rhyme>avoye</rhyme>
+<lb n="PAST.223c:28"/>Qu'estoit amer ne <rhyme>savoye</rhyme>
+<lb n="PAST.223c:29"/>N'apprendre ne le <rhyme>vouloie</rhyme>
+<lb n="PAST.223c:30"/>Ne de riens ne me <rhyme>douloye</rhyme>
+<lb n="PAST.223c:31"/>Tout mon soing ert de <rhyme>brebis</rhyme>
+<lb n="PAST.223c:32"/>Garder par mi ces <rhyme>herbis</rhyme>
+<lb n="PAST.223c:33"/>Et ces flours par prez <rhyme>cueillir</rhyme>
+<lb n="PAST.223c:34"/>En may ne un seul jour <rhyme>faillir</rhyme>
+<lb n="PAST.223c:35"/>On ne vist main ne <rhyme>ressie</rhyme>
+<lb n="PAST.223c:36"/>Que chappellet de <rhyme>soucye</rhyme>
+<lb n="PAST.223c:37"/>Ne meisse ou de passe <note>espace visible entre les deux mots, à cause du 'y' supérieur à la queue prolongée ?</note> <rhyme>roses</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.223d:01"/>Ou de muguet ou de <rhyme>Roses</rhyme>
+<lb n="PAST.223d:02"/>Ou d'autres flours plus <rhyme>nouvelles</rhyme>
+<lb n="PAST.223d:03"/>Ces pastouriaulx leurs <rhyme>nouvelles</rhyme>
+<lb n="PAST.223d:04"/>Me venoient <rhyme>p<abbr type="rese"/>nter</rhyme>
+<lb n="PAST.223d:05"/>Et pour mieulx mon cuer <rhyme>dompter</rhyme>
+<lb n="PAST.223d:06"/>Nouvelles <note>imperfection du parchemin</note> dons <rhyme>m'apportoient</rhyme>
+<lb n="PAST.223d:07"/>Çainturettes où <rhyme>estoient</rhyme>
+<lb n="PAST.223d:08"/>Pendans bourses et <rhyme>coutiaulx</rhyme>
+<lb n="PAST.223d:09"/>Et autres soubz leurs <rhyme>mantiaulx</rhyme>
+<lb n="PAST.223d:10"/>Chappellés vers <rhyme>devisez</rhyme>
+<lb n="PAST.223d:11"/>Gentement moult <rhyme>desguisez</rhyme>
+<lb n="PAST.223d:12"/>Me presentoient en <rhyme>don</rhyme>
+<lb n="PAST.223d:13"/>Et vous y veissiés <rhyme>adon</rhyme>
+<lb n="PAST.223d:14"/>Varlés dessendens d'un <rhyme>tertre</rhyme>
+<lb n="PAST.223d:15"/>Qui matons frommage et <rhyme>tartre</rhyme>
+<lb n="PAST.223d:16"/>M'apportoient ou <rhyme>flamiche</rhyme>
+<lb n="PAST.223d:17"/>Pommes poires blanche <rhyme>miche</rhyme>
+<lb n="PAST.223d:18"/>Me venoient <rhyme>presenter</rhyme>
+<lb n="PAST.223d:19"/>Et de leurs maulx <rhyme>guermenter</rhyme>
+<lb n="PAST.223d:20"/>Piteusement se <rhyme>penoient</rhyme>
+<lb n="PAST.223d:21"/>Et pres de moy se <rhyme>tenoient</rhyme>
+<lb n="PAST.223d:22"/>Pour moy servir s'eusse <rhyme>cher</rhyme>
+<lb n="PAST.223d:23"/>leur service ou pour <rhyme>trancher</rhyme>
+<lb n="PAST.223d:24"/>Devant moy pain et <rhyme>fro<abbr type="m"/>mage</rhyme>
+<lb n="PAST.223d:25"/>¶ L'un me disoit c'est <rhyme>dommage</rhyme>
+<lb n="PAST.223d:26"/><name ref="Marotelle+shepherdess">Marotelle</name> se tu <rhyme>n'aimes</rhyme>
+<lb n="PAST.223d:27"/>Je te pri qu'ami me <rhyme>claimes</rhyme>
+<lb n="PAST.223d:28"/>Pastourelle gente et <rhyme>belle</rhyme>
+<lb n="PAST.223d:29"/>Ne soiez vers moy si <rhyme>felle</rhyme>
+<lb n="PAST.223d:30"/>L'autre disoit doulce <rhyme>amie</rhyme> <note>taches/coupures ? au-dessus du mot</note>
+<lb n="PAST.223d:31"/>Et ne m'aimeras tu <rhyme>mie</rhyme>
+<lb n="PAST.223d:32"/>Quant je suis ton cher <rhyme>ami</rhyme>
+<lb n="PAST.223d:33"/>Tu vois que s'un seul <rhyme>demi</rhyme> <note>'i' tracé pour 'i', 'i' long</note>
+<lb n="PAST.223d:34"/>Pain avoie la <rhyme>moitié</rhyme>
+<lb n="PAST.223d:35"/>T'en donroye à cuer <rhyme>haitié</rhyme>
+<lb n="PAST.223d:36"/>Aime moy fillette <rhyme>doulce</rhyme>
+<lb n="PAST.223d:37"/>Je te donray une <rhyme>bourse</rhyme>
+<pb n="224" ed="r"/>
+<lb n="PAST.224r:01"/><hi rend="red">pastoure <note>space</note> xx &#x95; <note>centred</note></hi>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.224a:01"/>Jolie <note>cadelure au bas du 'I'</note> d'or et de <rhyme>soye</rhyme> <note>point sur le 'y'</note>
+<lb n="PAST.224a:02"/>¶ Ainsi a lors ne <rhyme>pensoie</rhyme>
+<lb n="PAST.224a:03"/>Nulle riens qui me <rhyme>grevast</rhyme>
+<lb n="PAST.224a:04"/>Nil ne fust riens qui <rhyme>Levast</rhyme> <note>'L' majuscule, tracé sur grattage du 'gr'</note>
+<lb n="PAST.224a:05"/>De moy parole <note>'p' sur grattage d'un 'd'</note> <rhyme>d'accort</rhyme>
+<lb n="PAST.224a:06"/>D'amer pour tont <note>sic 'tont' mais lire tout' ; petit 'o' à l'encre claire suscrit au-dessus de ce qui devait être un 'a', cf. 'a' gratté</note> leur <rhyme>recort</rhyme>
+<lb n="PAST.224a:07"/>À tous faisoie <rhyme>responce</rhyme>
+<lb n="PAST.224a:08"/>Que pour néant tel <rhyme>semonce</rhyme>
+<lb n="PAST.224a:09"/>M'aloient <rhyme>admonnestant</rhyme>
+<lb n="PAST.224a:10"/>Si s'en souffrissent a <rhyme>tant</rhyme>
+<lb n="PAST.224a:11"/>Car amer par tel <rhyme>devise</rhyme>
+<lb n="PAST.224a:12"/>Ne vouldroie en nulle <rhyme>guise</rhyme>
+<lb n="PAST.224a:13"/>¶ En ce point longuement <rhyme>fus</rhyme>
+<lb n="PAST.224a:14"/>Faisant de m'amour <rhyme>refus</rhyme>
+<lb n="PAST.224a:15"/>Et dongier à toute <rhyme>gent</rhyme>
+<lb n="PAST.224a:16"/>Tant fussent preux bel et <rhyme>gent</rhyme>
+<lb n="PAST.224a:17"/>Pou m'estoit de leurs <rhyme>clamours</rhyme>
+<lb n="PAST.224a:18"/>Orgueilleusette <rhyme>d'amours</rhyme>
+<lb n="PAST.224a:19"/>On m'appelloit pour le <rhyme>temps</rhyme>
+<lb n="PAST.224a:20"/>Mais je vous diray par <rhyme>temps</rhyme>
+<lb n="PAST.224a:21"/>Comment <name ref="Love"><c>a</c>mours</name> s'en <rhyme>vengia</rhyme>
+<lb n="PAST.224a:22"/>Qui bien mon vouloir <rhyme>changia</rhyme>
+<lb n="PAST.224a:23"/>Combien qu'il m'estoit <rhyme>avis</rhyme>
+<lb n="PAST.224a:24"/>Que tant eust homme cler <rhyme>vis</rhyme>
+<lb n="PAST.224a:25"/>Gent corps beauté ne <rhyme>valour</rhyme>
+<lb n="PAST.224a:26"/>N'aimeroie ains grant <rhyme>folour</rhyme>
+<lb n="PAST.224a:27"/>Me sembloit d'ainsi <rhyme>amer</rhyme>
+<lb n="PAST.224a:28"/>Pour en sentir doulx <rhyme>n'amer</rhyme>
+<lb n="PAST.224a:29"/>¶ Or diray je qu'il <rhyme>m'avint</rhyme>
+<lb n="PAST.224a:30"/>Il n'a mie des ans <rhyme>&#x95; xx</rhyme> &#x95;
+<lb n="PAST.224a:31"/>Ains croy que &#x95; iiii &#x95; ans <rhyme>passez</rhyme>
+<lb n="PAST.224a:32"/>N'a mie ancore <rhyme>d'assez</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.224a:34"/><hi rend="cap2">U</hi>n jour en l'ombre <rhyme>sëoie</rhyme> <note>encre et style différents ?</note>
+<lb n="PAST.224a:35"/>Soubz un chesne et <rhyme>assëoye</rhyme>
+<lb n="PAST.224a:36"/>Un vert Jolis <rhyme>chappellet</rhyme>
+<lb n="PAST.224a:37"/>Dessus mon chef <rhyme>crespellet</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.224b:01"/>Sus une fontaine <rhyme>belle</rhyme>
+<lb n="PAST.224b:02"/>Et comme d'amours <rhyme>rebelle</rhyme>
+<lb n="PAST.224b:03"/>Vouloie là seulete <rhyme>estre</rhyme>
+<lb n="PAST.224b:04"/>Oû lieu avoit moult bel <rhyme>estre</rhyme>
+<lb n="PAST.224b:05"/>Bois fueillu <note>trace d'encre rouge sur le 'u'</note> tout <rhyme>environ</rhyme>
+<lb n="PAST.224b:06"/>Et l'erbe jusque au <rhyme>giron</rhyme>
+<lb n="PAST.224b:07"/>Par plassetes basse <note>mot biffé d'un trait brun et également surchargé à l'encre rouge diluée ; trace d'un '&amp;' érasé</note> drue &amp; <rhyme>basse</rhyme>
+<lb n="PAST.224b:08"/>De flourettes à grant <rhyme>masse</rhyme>
+<lb n="PAST.224b:09"/>Diverses ot / et <rhyme>planté</rhyme>
+<lb n="PAST.224b:10"/>Sus la fontaine <rhyme>planté</rhyme>
+<lb n="PAST.224b:11"/>Abres beaulx de moult belle <rhyme>ombre</rhyme>
+<lb n="PAST.224b:12"/>Que souleil ne feist <rhyme>encombre</rhyme>
+<lb n="PAST.224b:13"/>Mes brebïettes <note>légère bavure horizontale sur le 's' final</note> <rhyme>gardant</rhyme>
+<lb n="PAST.224b:14"/>Là / sëoie en <rhyme>regardant</rhyme>
+<lb n="PAST.224b:15"/>Les flourettes que <rhyme>cueilloye</rhyme>
+<lb n="PAST.224b:16"/>Qu'en la fontaine <rhyme>moulloye</rhyme>
+<lb n="PAST.224b:17"/>Et de haulte voix <rhyme>serie</rhyme>
+<lb n="PAST.224b:18"/>Chantoie si que <rhyme>l'orie</rhyme>
+<lb n="PAST.224b:19"/>Du bois en <rhyme>retentissoit</rhyme>
+<lb n="PAST.224b:20"/>¶ Droit à celle heure <rhyme>passoit</rhyme>
+<lb n="PAST.224b:21"/>Par le grant chemin <rhyme>ferré</rhyme>
+<lb n="PAST.224b:22"/>Qui ert lez le bois <rhyme>querré</rhyme>
+<lb n="PAST.224b:23"/>Une grant tourbe de <rhyme>gens</rhyme>
+<lb n="PAST.224b:24"/>Sus chevaulx mignos et <rhyme>gens</rhyme>
+<lb n="PAST.224b:25"/>Qui entendirent le <rhyme>son</rhyme>
+<lb n="PAST.224b:26"/>Et le dit de ma <rhyme>chançon</rhyme>
+<lb n="PAST.224b:27"/>Adont se sont <rhyme>arrestez</rhyme>
+<lb n="PAST.224b:28"/>Et oû bois y ot de <rhyme>telz</rhyme>
+<lb n="PAST.224b:29"/>Entrerent suivant la <rhyme>voix</rhyme>
+<lb n="PAST.224b:30"/>Du chant / queroient oû <rhyme>bois</rhyme>
+<lb n="PAST.224b:31"/>Mais ne m'ont pas tost <rhyme>trouvée</rhyme>
+<lb n="PAST.224b:32"/>Car le bois fueillu leur <rhyme>vée</rhyme>
+<lb n="PAST.224b:33"/><note>doubles traits parallèles dans marge pour ¶ non exécuté</note> Mais moy qui fus seule en <rhyme>crainte</rhyme>
+<lb n="PAST.224b:34"/>Des chevaulx /<note> ?</note> ouÿ <rhyme>l'effrainte</rhyme>
+<lb n="PAST.224b:35"/>Qui par le bois se <rhyme>hastoient</rhyme>
+<lb n="PAST.224b:36"/>Et ja pres de moy <rhyme>estoient</rhyme>
+<lb n="PAST.224b:37"/>Tout ne me veissent ilz <rhyme>mie</rhyme>
+<pb n="224" ed="v"/>
+<lb n="PAST.224v:01"/><hi rend="red">Le <note>space</note> livre <note>space</note> de la <note>centred</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.224c:01"/>Adont <note>'A' calligraphié</note> la char me prie <note>exponctué</note> <rhyme>fremie</rhyme>
+<lb n="PAST.224c:02"/>De päour / si me teus <note>c'est-à-dire 'tens' ?</note> <rhyme>quoye</rhyme>
+<lb n="PAST.224c:03"/>Et du tout mon chant <rhyme>aquoye</rhyme>
+<lb n="PAST.224c:04"/>¶ Au chief de piece tant <rhyme>firent</rhyme>
+<lb n="PAST.224c:05"/>Ceulx qui en riens ne <rhyme>meffirent</rhyme>
+<lb n="PAST.224c:06"/>Que dessus la <rhyme>fontenelle</rhyme>
+<lb n="PAST.224c:07"/>Me trouverent / voix <rhyme>isnelle</rhyme>
+<lb n="PAST.224c:08"/>N'oz pas à les <rhyme>salüer</rhyme>
+<lb n="PAST.224c:09"/>Ainçois sans moy / <note>barre verticale montante ; queue du 'y' ?</note> <rhyme>remüer</rhyme>
+<lb n="PAST.224c:10"/>Me tins assise et <rhyme>honteuse</rhyme>
+<lb n="PAST.224c:11"/>Et de baudour <rhyme>souffreteuse</rhyme>
+<lb n="PAST.224c:12"/>Tremblant et rougie oû <rhyme>vis</rhyme>
+<lb n="PAST.224c:13"/>Je devins quant je les <rhyme>vis</rhyme>
+<lb n="PAST.224c:14"/>Car je n'oz gens de tel <rhyme>pris</rhyme>
+<lb n="PAST.224c:15"/>À vëoir souvent <rhyme>appris</rhyme>
+<lb n="PAST.224c:16"/>Frains dorez selles <rhyme>couvertes</rhyme>
+<lb n="PAST.224c:17"/>Avoient blanches et <rhyme>vertes</rhyme>
+<lb n="PAST.224c:18"/>Et de diverses <rhyme>couleurs</rhyme>
+<lb n="PAST.224c:19"/>Faites aux devises <rhyme>leurs</rhyme>
+<lb n="PAST.224c:20"/>Dessus gros chevaulx <rhyme>mignos</rhyme>
+<lb n="PAST.224c:21"/>Et sus genés <rhyme>espaignolz</rhyme>
+<lb n="PAST.224c:22"/>Montez estoient li <rhyme>ber</rhyme>
+<lb n="PAST.224c:23"/>Plus gentilz que nul <rhyme>ober</rhyme>
+<lb n="PAST.224c:24"/>Riches robes et <rhyme>traisnans</rhyme>
+<lb n="PAST.224c:25"/>Vestues très <rhyme>avenans</rhyme>
+<lb n="PAST.224c:26"/>D'or et de soye <rhyme>brodées</rhyme>
+<lb n="PAST.224c:27"/>Et devises <rhyme>bandées</rhyme>
+<lb n="PAST.224c:28"/>L'une d'or l'autre <rhyme>d'argent</rhyme>
+<lb n="PAST.224c:29"/>Escharpes qui bel et <rhyme>gent</rhyme>
+<lb n="PAST.224c:30"/>Leur estoient <rhyme>avenans</rhyme>
+<lb n="PAST.224c:31"/>Dont les cliquettes <rhyme>sonnans</rhyme>
+<lb n="PAST.224c:32"/>Tout le bois <rhyme>retentissoient</rhyme>
+<lb n="PAST.224c:33"/>Pour les sons qui en <rhyme>yssoient</rhyme>
+<lb n="PAST.224c:34"/>Chappiaulx jolis de <rhyme>festus</rhyme>
+<lb n="PAST.224c:35"/>Sur leur chapperons <rhyme>vestus</rhyme>
+<lb n="PAST.224c:36"/>Avoient jusques à <rhyme>l'ueil</rhyme>
+<lb n="PAST.224c:37"/>Pour l'arsure du <rhyme>souleil</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.224d:01"/>Moult furent bien <rhyme>assesmez</rhyme>
+<lb n="PAST.224d:02"/>Les gentilz hommes <rhyme>amez</rhyme>
+<lb n="PAST.224d:03"/>Beaulx et gens à droit <rhyme>souhait</rhyme>
+<lb n="PAST.224d:04"/>Gracïeux et de bon <rhyme>hait</rhyme>
+<lb n="PAST.224d:05"/>Adont assembla la <rhyme>route</rhyme>
+<lb n="PAST.224d:06"/>Où mainte haye fu <rhyme>route</rhyme>
+<lb n="PAST.224d:07"/>Pour venir à <rhyme>l'assemblée</rhyme> <note>'l' ajouté après ?</note>
+<lb n="PAST.224d:08"/>Où sans cause fus <rhyme>troublée</rhyme>
+<lb n="PAST.224d:09"/>Lors comme francs sans <rhyme>orgueil</rhyme>
+<lb n="PAST.224d:10"/>Tous dessendirent / oû <rhyme>brueil</rhyme>
+<lb n="PAST.224d:11"/>Or me tins je pour <rhyme>surprise</rhyme>
+<lb n="PAST.224d:12"/>Bien cuiday morte estre ou <rhyme>prise</rhyme>
+<lb n="PAST.224d:13"/>Vers moy adreçant leur <rhyme>pas</rhyme>
+<lb n="PAST.224d:14"/>Tous ensemble isnel le <rhyme>pas</rhyme>
+<lb n="PAST.224d:15"/>Distrent à joyeuse <rhyme>chere</rhyme>
+<lb n="PAST.224d:16"/><name ref="God">Dieux</name> vous gard doulce <rhyme>bergere</rhyme>
+<lb n="PAST.224d:17"/>Et je honteuse et <rhyme>tremblant</rhyme>
+<lb n="PAST.224d:18"/>Me lieve à couart <rhyme>semblant</rhyme>
+<lb n="PAST.224d:19"/>Sicom je sos leur <rhyme>rendi</rhyme>
+<lb n="PAST.224d:20"/>Leur salu plus <rhyme>n'attendi</rhyme>
+<lb n="PAST.224d:21"/>Mais loings fus plus d'une <rhyme>toise</rhyme>
+<lb n="PAST.224d:22"/>¶ En celle route <rhyme>courtoise</rhyme>
+<lb n="PAST.224d:23"/>Ot un si fait <rhyme>chevalier</rhyme> 
+<lb n="PAST.224d:24"/>Que s'ilz fussent un <rhyme>miller</rhyme>
+<lb n="PAST.224d:25"/>Si passast il com moy <rhyme>semble</rhyme>
+<lb n="PAST.224d:26"/>Trestous les autres <rhyme>ensemble</rhyme>
+<lb n="PAST.224d:27"/>De valour de sens de <rhyme>pris</rhyme>
+<lb n="PAST.224d:28"/>Et de quanque bien <rhyme>appris</rhyme>
+<lb n="PAST.224d:29"/>Doit avoir en tous <rhyme>endrois</rhyme>
+<lb n="PAST.224d:30"/>beaulx et gens jolis et <rhyme>drois</rhyme>
+<lb n="PAST.224d:31"/>Fu dessus les autres <rhyme>tous</rhyme>
+<lb n="PAST.224d:32"/>Et me semble que <rhyme>trestous</rhyme>
+<lb n="PAST.224d:33"/>l'appelloient mon <rhyme>seigneur</rhyme>
+<lb n="PAST.224d:34"/>Dont vi qu'il ert le <rhyme>greigneur</rhyme>
+<lb n="PAST.224d:35"/>Et le plus <rhyme>auctorisié</rhyme>
+<lb n="PAST.224d:36"/>Là / un chevalier <rhyme>prisié</rhyme>
+<lb n="PAST.224d:37"/>S'avance &amp; me prist à <rhyme>dire</rhyme>
+<pb n="225" ed="r"/>
+<lb n="PAST.225r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95; <note>colonnette</note></hi>
+<cb n="a"/>
+<!-- 36 lines -->
+<lb n="PAST.225a:01"/>Patoure <note>sic</note> paour <note>monosyllable</note> n'ayés <note>point sur 'y'</note> <rhyme>n'ire</rhyme>
+<lb n="PAST.225a:02"/>Car vous n'arés se bien <rhyme>non</rhyme>
+<lb n="PAST.225a:03"/>Par nous / lors nomma par <rhyme>nom</rhyme>
+<lb n="PAST.225a:04"/>Cil qui les autres <rhyme>passoit</rhyme>
+<lb n="PAST.225a:05"/>Et dit / par cy <rhyme>trespassoit</rhyme>
+<lb n="PAST.225a:06"/>Mon seigneur que voyez <rhyme>cy</rhyme>
+<lb n="PAST.225a:07"/>Et sa compaignie <rhyme>aussi</rhyme>
+<lb n="PAST.225a:08"/>Si chantiés ce m'est <rhyme>advis</rhyme>
+<lb n="PAST.225a:09"/>bel et bien à droit <rhyme>devis</rhyme>
+<lb n="PAST.225a:10"/>De haulte <note>trait vertical au-dessus du 'u' ; préparation correction ?</note> voix <rhyme>delïée</rhyme>
+<lb n="PAST.225a:11"/>Pour ce / vostre chere <rhyme>liée</rhyme>
+<lb n="PAST.225a:12"/>Moult desira à <rhyme>vëoir</rhyme>
+<lb n="PAST.225a:13"/>Et decoste vous <rhyme>sëoir</rhyme>
+<lb n="PAST.225a:14"/>Pour vostre doulx chant <rhyme>oÿr</rhyme>
+<lb n="PAST.225a:15"/>Si ne nous pouez <rhyme>fouÿr</rhyme>
+<lb n="PAST.225a:16"/>Chanter il vous <rhyme>couvendra</rhyme>
+<lb n="PAST.225a:17"/>Dont ja mal ne vous <rhyme>vendra</rhyme>
+<lb n="PAST.225a:18"/>¶ Adont vers / cellui me <rhyme>maine</rhyme>
+<lb n="PAST.225a:19"/>Qui <name ref="God"><c>d</c>ieu</name> doi<abbr type="n"/>t / joyeuse <note>correction sur grattage ; encre plus pâle</note> <rhyme>sepmaine</rhyme>
+<lb n="PAST.225a:20"/>Et je humblement <rhyme>m'encline</rhyme>
+<lb n="PAST.225a:21"/>Devant lui la chere <rhyme>cline</rhyme>
+<lb n="PAST.225a:22"/>Si le salüay tout <rhyme>bas</rhyme>
+<lb n="PAST.225a:23"/>Mais cellui fist un grant <rhyme>pas</rhyme>
+<lb n="PAST.225a:24"/>Et tost salüer me <rhyme>vint</rhyme>
+<lb n="PAST.225a:25"/>Un doulx ris qui lui <rhyme>advint</rhyme>
+<lb n="PAST.225a:26"/>Gita moult <rhyme>joyeusement</rhyme>
+<lb n="PAST.225a:27"/>Et dist <rhyme>gracïeusement</rhyme>
+<lb n="PAST.225a:28"/>Et par <name ref="Saint+Sauveur+d'Eture">saint <c>s</c>auveur <rhyme>d'<c>e</c>ture</rhyme></name>
+<lb n="PAST.225a:29"/>Voy cy joyeuse <rhyme>aventure</rhyme>
+<lb n="PAST.225a:30"/>Adont sus l'erbe / <rhyme>menue</rhyme>
+<lb n="PAST.225a:31"/>S'assist / et par la main <rhyme>nue</rhyme>
+<lb n="PAST.225a:32"/>Me prist / et decoste <rhyme>lui</rhyme>
+<lb n="PAST.225a:33"/>M'assist / si n'y ot <rhyme>cellui</rhyme>
+<lb n="PAST.225a:34"/>Qui ne se soit tost <rhyme>assis</rhyme>
+<lb n="PAST.225a:35"/>Adont des fois plus de <rhyme>&#x95; vi &#x95;</rhyme>
+<lb n="PAST.225a:36"/>Me prïa que je <rhyme>chantasse</rhyme>
+<cb n="b"/>
+<!-- 36 lines -->
+<lb n="PAST.225b:01"/>Hault et cler / riens ne <rhyme>doubtasse</rhyme>
+<lb n="PAST.225b:02"/>Mais longuement <rhyme>m'excusay</rhyme>
+<lb n="PAST.225b:03"/>De chanter / car je <rhyme>n'osay</rhyme>
+<lb n="PAST.225b:04"/>Cil dist doulce <rhyme>pastourelle</rhyme>
+<lb n="PAST.225b:05"/>N'escondissez / la <rhyme>querelle</rhyme>
+<lb n="PAST.225b:06"/>Que vous fois ainçois <rhyme>chantez</rhyme>
+<lb n="PAST.225b:07"/>La chançon que plus <rhyme>hantez</rhyme>
+<lb n="PAST.225b:08"/>¶ Quant vi la grant <rhyme>courtoisie</rhyme>
+<lb n="PAST.225b:09"/>De ceulx / auques <rhyme>accoisie</rhyme>
+<lb n="PAST.225b:10"/>Fu / la päour que eue <rhyme>avoye</rhyme>
+<lb n="PAST.225b:11"/>Si m'asseuray <rhyme>toutevoye</rhyme>
+<lb n="PAST.225b:12"/>Et dis à cil qui <rhyme>rïoit</rhyme>
+<lb n="PAST.225b:13"/>Doulcement / et me <rhyme>prïoit</rhyme>
+<lb n="PAST.225b:14"/>Que par son <rhyme>commandement</rhyme>
+<lb n="PAST.225b:15"/>Chanteroye <rhyme>isnellement</rhyme>
+<lb n="PAST.225b:16"/>Mais en gré le voulsist <rhyme>prendre</rhyme>
+<lb n="PAST.225b:17"/>Car moult y ot à <rhyme>reprendre</rhyme>
+<lb n="PAST.225b:18"/>Lors à chanter <rhyme>commençay</rhyme>
+<lb n="PAST.225b:19"/>La chançon que je <rhyme>pensay</rhyme>
+<lb n="PAST.225b:20"/>Qui la plus nouvelle <rhyme>estoit</rhyme>
+<lb n="PAST.225b:21"/>Et qui le mieulx me <rhyme>goustoit</rhyme>
+<lb n="PAST.225b:22"/>Si vous diray la <rhyme>chançon</rhyme>
+<lb n="PAST.225b:23"/>Dont ouÿrent du chant /<note> ?</note> <rhyme>son</rhyme>
+<lb n="PAST.225b:24"/>Bergerete <note>centred</note>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.225b:26"/><hi rend="cap2">I</hi>l <note>présence de la lettre d'attente</note> n'est si jolis <rhyme>mestier</rhyme>
+<lb n="PAST.225b:27"/>Com de mener en <rhyme>pasture</rhyme>
+<lb n="PAST.225b:28"/>Ses agneaulx sus la <note>'e' corrigé en 'a'</note> <rhyme>verdure</rhyme>
+<lb n="PAST.225b:29"/>Jamais faire <note>'f' encre foncée, épatée</note> autre ne <rhyme>quier</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.225b:31"/>Qui verroit ces <rhyme>bergerettes</rhyme> <note>lettres grattées à la fin du vers</note>
+<lb n="PAST.225b:32"/>Et ces jolis <rhyme>pastouriaulx</rhyme>
+<lb n="PAST.225b:33"/>Entramer par <rhyme>amourettes</rhyme>
+<lb n="PAST.225b:34"/>Et faire de flours <rhyme>chappiaulx</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.225b:36"/>Il diroit qu'il n'est <rhyme>sentier</rhyme>
+<pb n="225" ed="v"/>
+<lb n="PAST.225v:01"/><hi rend="red">Le <note>space</note> livre <note>space</note> de la <note>centré sur la 1re colonne</note></hi>
+<cb n="c"/>
+<!-- 38 lines -->
+<lb n="PAST.225c:01"/>Ne voye qui soit si <rhyme>pure</rhyme>
+<lb n="PAST.225c:02"/>Jamais d'autre n'aroit <rhyme>cure</rhyme>
+<lb n="PAST.225c:03"/>Si s'en vouldroit <rhyme>accointier</rhyme>
+<lb n="PAST.225c:04"/>Il n'est &amp;c <note>centred</note>
+<lb n="PAST.225c:05"/>Ces pastours o leurs <rhyme>chevretes</rhyme>
+<lb n="PAST.225c:06"/>Au jolis chant des <rhyme>oysiaulx</rhyme>
+<lb n="PAST.225c:07"/>Vous dïent ces <rhyme>bergerettes</rhyme>
+<lb n="PAST.225c:08"/>Et ces beaulx mottès <rhyme>nouviaulx</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.225c:10"/>Et aiment de cuer <rhyme>entier</rhyme>
+<lb n="PAST.225c:11"/>Au son de leur <rhyme>turelure</rhyme>
+<lb n="PAST.225c:12"/>Dançant tant com esté <rhyme>dure</rhyme>
+<lb n="PAST.225c:13"/>D'autre joye n'ont <rhyme>mestier</rhyme>
+<lb n="PAST.225c:14"/>il n'est &amp;c <note>centred ; plus petit module</note>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.225c:16"/>a <note>lettre d'attente reliée au 'A' majuscule ; oubli d'exécution ? de la lettrine ? regarder la jointure des deux lettres</note> Ainsi ma chançon <rhyme>finay</rhyme>
+<lb n="PAST.225c:17"/>Et devant cil <rhyme>m'enclinay</rhyme>
+<lb n="PAST.225c:18"/>Qui de chanter m'ot <rhyme>requise</rhyme>
+<lb n="PAST.225c:19"/>Mon chant loua de grant <rhyme>guise</rhyme>
+<lb n="PAST.225c:20"/>De son bien et de sa <rhyme>grace</rhyme>
+<lb n="PAST.225c:21"/>Si m'en sot et gré et <rhyme>grace</rhyme>
+<lb n="PAST.225c:22"/>Et bien me <rhyme>regracïa</rhyme>
+<lb n="PAST.225c:23"/>Et dist pastoure <rhyme>cy a</rhyme>
+<lb n="PAST.225c:24"/>Maint gentil homme <rhyme>vaillant</rhyme>
+<lb n="PAST.225c:25"/>Si ne soiés <rhyme>deffaillant</rhyme>
+<lb n="PAST.225c:26"/>D'encore une à leur <rhyme>requeste</rhyme>
+<lb n="PAST.225c:27"/>Chanter vous l'arés tost <rhyme>preste</rhyme>
+<lb n="PAST.225c:28"/>S'il vous plaist en petit <rhyme>d'oure</rhyme> <note>'deure' devient 'doure'</note>
+<lb n="PAST.225c:29"/>Or chantez doulce <rhyme>pastoure</rhyme>
+<lb n="PAST.225c:30"/>Adont pour leur vueil <rhyme>parfaire</rhyme>
+<lb n="PAST.225c:31"/>Plus <note>'l' encre plus noire et tache</note> prïer ne me volz <rhyme>faire</rhyme>
+<lb n="PAST.225c:32"/>Si chantay <rhyme>jolïement</rhyme>
+<lb n="PAST.225c:33"/>Ceste chançon <rhyme>lïement</rhyme>
+<lb n="PAST.225c:34"/>bergerette <note>centred</note>
+<lb n="PAST.225c:35"/><hi rend="cap2">A</hi>u <note>présence de la lettre d'attente 'a' avec jambage supplémentaire</note> jolis <rhyme>boquet</rhyme>
+<lb n="PAST.225c:36"/>Vont ces <rhyme>pastourelles</rhyme>
+<lb n="PAST.225c:37"/>Cueillir du <rhyme>muguet</rhyme>
+<!-- 1 blank line(s) here -->
+<cb n="d"/>
+<!-- 38 lines -->
+<lb n="PAST.225d:01"/>Chappellés de <rhyme>flours</rhyme>
+<lb n="PAST.225d:02"/>font à leurs <rhyme>amis</rhyme>
+<lb n="PAST.225d:03"/>Par fines <rhyme>amours</rhyme>
+<lb n="PAST.225d:04"/>Oû chef leur ont <rhyme>mis</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.225d:06"/>Là font maint <rhyme>hoquet</rhyme>
+<lb n="PAST.225d:07"/>O leurs <note>agglutinated</note> <rhyme>chalemelles</rhyme>
+<lb n="PAST.225d:08"/><name ref="Perrot+shepherd"><c>p</c>errot</name> et <rhyme><name ref="Huguet"><c>h</c>uguet</name></rhyme>
+<lb n="PAST.225d:09"/>au jolis &amp;c <note>centred</note> <note>module plus petit, au-dessus de la LR</note>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.225d:11"/><hi rend="cap2">A</hi>près <note>présence de la lettre d'attente 'a'</note> ma chançon <rhyme>finée</rhyme>
+<lb n="PAST.225d:12"/>Joye et bonne <rhyme>destinée</rhyme>
+<lb n="PAST.225d:13"/>Ilz m'ont trestuit <rhyme>äouré<del rend="expunctuated">e</del></rhyme>
+<lb n="PAST.225d:14"/>Mais ja orent <rhyme>demouré</rhyme>
+<lb n="PAST.225d:15"/>Longuement et la <rhyme>vesprée</rhyme>
+<lb n="PAST.225d:16"/>Fu ja bien pres <rhyme>qu'avesprée</rhyme> <note>sens ?</note>
+<lb n="PAST.225d:17"/>Comme à souleil <rhyme>reconçant</rhyme>
+<lb n="PAST.225d:18"/>Mes brebis que oû bois <rhyme>paissant</rhyme>
+<lb n="PAST.225d:19"/>Aloient fu temps de <rhyme>traire</rhyme>
+<lb n="PAST.225d:20"/>En leur toit et moy <rhyme>retraire</rhyme>
+<lb n="PAST.225d:21"/>Si <note>présence des deux traits parallèles pour l'exécution d'un ¶ face à ce vers dans la marge</note> dis lors <note>'s' avec boucle extérieure</note> à voix <rhyme>rassise</rhyme>
+<lb n="PAST.225d:22"/>À cil lez qui fus <rhyme>assise</rhyme>
+<lb n="PAST.225d:23"/>Mon seigneur trop tardé <rhyme>g'é</rhyme> <note>sur grattage ; volute d'un 'y' encore visible, pour 'ay'</note>
+<lb n="PAST.225d:24"/>S'il vous plaist prendray <rhyme>congé</rhyme>
+<lb n="PAST.225d:25"/>Que je ne soie <rhyme>blasmée</rhyme>
+<lb n="PAST.225d:26"/>Tart est pres de nuit <rhyme>fermée</rhyme>
+<lb n="PAST.225d:27"/>Temps est de mes brebis <rhyme>mettre</rhyme>
+<lb n="PAST.225d:28"/>En toit / et de <rhyme>m'entremettre</rhyme>
+<lb n="PAST.225d:29"/>D'affourrer mes <rhyme>agnellés</rhyme>
+<lb n="PAST.225d:30"/>En noz petis <rhyme>hostellés</rhyme>
+<lb n="PAST.225d:31"/>Lors en piez me suis <rhyme>levée</rhyme>
+<lb n="PAST.225d:32"/>Et cil le congié ne <rhyme>vée</rhyme>
+<lb n="PAST.225d:33"/>Ains de bon cuer <rhyme>l'ottroya</rhyme>
+<lb n="PAST.225d:34"/>Hors du bois me <rhyme>convoya</rhyme>
+<lb n="PAST.225d:35"/>Ne point ne m'ot en <rhyme>despris</rhyme>
+<lb n="PAST.225d:36"/>Pour tant s'atrïer <note>agglutination</note> me <rhyme>pris</rhyme>
+<lb n="PAST.225d:37"/>Mes bestes à mon <rhyme>appel</rhyme>
+<!-- 1 blank line(s) here -->
+<pb n="226" ed="r"/>
+<lb n="PAST.226r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95;</hi> <note>centred</note>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.226a:01"/>Ainçois ayda au <rhyme>troppel</rhyme>
+<lb n="PAST.226a:02"/>Assembler dont pris à <rhyme>rire</rhyme>
+<lb n="PAST.226a:03"/>Et en soubzrïant lui <rhyme>dire</rhyme>
+<lb n="PAST.226a:04"/>Mon seigneur par <name ref="Saint+Leger">saint <rhyme><c>l</c>eger</rhyme></name>
+<lb n="PAST.226a:05"/>Bien vous siet estre <rhyme>berger</rhyme>
+<lb n="PAST.226a:06"/>Oncques si jolis <rhyme>pastour</rhyme>
+<lb n="PAST.226a:07"/>Ne reppaira cy <rhyme>entour</rhyme>
+<lb n="PAST.226a:08"/>À rire s'en <rhyme>commença</rhyme>
+<lb n="PAST.226a:09"/>Congié prins il me <rhyme>laissa</rhyme>
+<lb n="PAST.226a:10"/>Mais ainçois à moy <rhyme>s'offri</rhyme>
+<lb n="PAST.226a:11"/>Ne <note>sur grattage ; élément plus long auparavant 'Neis' ?</note> oncques il ne <rhyme>souffri</rhyme>
+<lb n="PAST.226a:12"/>Que genoul je meisse à <rhyme>terre</rhyme>
+<lb n="PAST.226a:13"/>N'au congié n'a don <rhyme>requerre</rhyme>
+<lb n="PAST.226a:14"/>Tous me toucherent la <rhyme>main</rhyme>
+<lb n="PAST.226a:15"/>En disant et soir et <rhyme>main</rhyme>
+<lb n="PAST.226a:16"/><name ref="God">Dieux</name> vous doint / <note>tout ce segment écrit sur grattage ; marque dans la marge ?</note> doulce <rhyme>bergiere</rhyme>
+<lb n="PAST.226a:17"/>La riens que plus ariés <rhyme>chiere</rhyme>
+<lb n="PAST.226a:18"/>¶ Ainsi adont se <rhyme>partirent</rhyme>
+<lb n="PAST.226a:19"/>Ceulx de moy et congié <rhyme>prirent</rhyme>
+<lb n="PAST.226a:20"/>Et où terminoit li <rhyme>vaulx</rhyme>
+<lb n="PAST.226a:21"/>On leur mena leur <rhyme>chevaulx</rhyme>
+<lb n="PAST.226a:22"/>Si s'en vont dessus <rhyme>ridant</rhyme>
+<lb n="PAST.226a:23"/>Jouant rïant et <rhyme>chantant</rhyme>
+<lb n="PAST.226a:24"/>Et je à l'ostel m'en <rhyme>tourne</rhyme>
+<lb n="PAST.226a:25"/>mais tart m'est que je <rhyme>retourne</rhyme>
+<lb n="PAST.226a:26"/>Si mis mes brebis en <rhyme>toit</rhyme>
+<lb n="PAST.226a:27"/>Car la nuit ja me <rhyme>hastoit</rhyme>
+<lb n="PAST.226a:28"/>Et les prins à <rhyme>affourrer</rhyme>
+<lb n="PAST.226a:29"/>Besoing n'oz de <rhyme>demourer</rhyme>
+<lb n="PAST.226a:30"/>¶ Ainsi celle nuit <rhyme>passay</rhyme>
+<lb n="PAST.226a:31"/>Mais sachés que moult <rhyme>pensay</rhyme>
+<lb n="PAST.226a:32"/>À ceulx qui sus la <rhyme>fontaine</rhyme>
+<lb n="PAST.226a:33"/>Me trouverent à grant <rhyme>peine</rhyme>
+<lb n="PAST.226a:34"/>Sur tous d'un me <rhyme>souvenoit</rhyme>
+<lb n="PAST.226a:35"/>Et au devant me <rhyme>venoit</rhyme>
+<lb n="PAST.226a:36"/>Son biau corps gent et <rhyme>faitis</rhyme>
+<lb n="PAST.226a:37"/>Et son doulx maintien <rhyme>gentilz</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.226b:01"/>Son parler son regart <rhyme>doulx</rhyme>
+<lb n="PAST.226b:02"/>Qui plaire el me fist sur <rhyme>tous</rhyme>
+<lb n="PAST.226b:03"/>Au <note>présence des deux traits parallèles pour l'exécution d'un ¶ face à ce vers dans la marge</note> matin quant vacher <rhyme>corne</rhyme>
+<lb n="PAST.226b:04"/>Que toutes bestes à <rhyme>corne</rhyme>
+<lb n="PAST.226b:05"/>On maine aux / <note>separator ?</note> champs pour <rhyme>repaistre</rhyme>
+<lb n="PAST.226b:06"/>Mis mes brebis en <rhyme>champestre</rhyme>
+<lb n="PAST.226b:07"/>Et vers le bois me <rhyme>tournay</rhyme>
+<lb n="PAST.226b:08"/>Mais ainçois bien <rhyme>m'atournay</rhyme>
+<lb n="PAST.226b:09"/>D'estroitte cotte de <rhyme>vert</rhyme>
+<lb n="PAST.226b:10"/>Mon peliçon fu <rhyme>couvert</rhyme>
+<lb n="PAST.226b:11"/>D'un beau ridé chainse <rhyme>blanc</rhyme>
+<lb n="PAST.226b:12"/>Et çainte par mi le <rhyme>flanc</rhyme>
+<lb n="PAST.226b:13"/>Fus de çainture <rhyme>ferrée</rhyme>
+<lb n="PAST.226b:14"/>Reluisant com fust <rhyme>dorée</rhyme>
+<lb n="PAST.226b:15"/>Là où pendoit la <rhyme>boursette</rhyme>
+<lb n="PAST.226b:16"/>De soie fine <rhyme>doulcete</rhyme>
+<lb n="PAST.226b:17"/>Et le faitis <rhyme>eguller</rhyme>
+<lb n="PAST.226b:18"/>Lés le coutel à <rhyme>tailler</rhyme>
+<lb n="PAST.226b:19"/>Là alay où je <rhyme>souloie</rhyme>
+<lb n="PAST.226b:20"/>Et ainsi comme <rhyme>j'aloie</rhyme>
+<lb n="PAST.226b:21"/>Mes compaignettes <rhyme>encontre</rhyme>
+<lb n="PAST.226b:22"/>En alant en leur <rhyme>encontre</rhyme>
+<lb n="PAST.226b:23"/>De loings me pristrent à <rhyme>Rire</rhyme>
+<lb n="PAST.226b:24"/>Et commencierent à <rhyme>dire</rhyme>
+<lb n="PAST.226b:25"/>Dont me vient / <note> ?</note> ce / <rhyme><name ref="Marotelle +shepherdess"><c>m</c>arotelle</name></rhyme>
+<lb n="PAST.226b:26"/>Qu'adès ta belle <rhyme>cotelle</rhyme>
+<lb n="PAST.226b:27"/>Tu as vestue et es <rhyme>çainte</rhyme>
+<lb n="PAST.226b:28"/>De ta jolie <rhyme>sursainte</rhyme>
+<lb n="PAST.226b:29"/>T'a ton pere <rhyme>fïancée</rhyme>
+<lb n="PAST.226b:30"/>Ou s'as nouvelle <rhyme>pensée</rhyme>
+<lb n="PAST.226b:31"/>Oncques ne te veismes <rhyme>hier</rhyme>
+<lb n="PAST.226b:32"/>Où alas tu <rhyme>ombroyer</rhyme>
+<lb n="PAST.226b:33"/>Si fus tu bien <rhyme>demandée</rhyme>
+<lb n="PAST.226b:34"/>Or le demandée à <rhyme><name ref="Houdée+shepherd"><c>h</c>oudée</name></rhyme> <note>8 syllables</note>
+<lb n="PAST.226b:35"/>En l'aunoy fumes en <rhyme>l'ombre</rhyme>
+<lb n="PAST.226b:36"/>De pastours y ot grant <rhyme>nombre</rhyme>
+<lb n="PAST.226b:37"/>Atout flajolz et <rhyme>bedons</rhyme>
+<pb n="226" ed="v"/>
+<lb n="PAST.226v:01"/><hi rend="red">Le <note>space</note> livre <note>wide space</note> de <note>1re colonne</note> la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.226c:01"/>Qui apporterent mains <rhyme>dons</rhyme>
+<lb n="PAST.226c:02"/>Aux pastourelles qui <rhyme>tindrent</rhyme>
+<lb n="PAST.226c:03"/>La feste et bien s'i <rhyme>maintindrent</rhyme>
+<lb n="PAST.226c:04"/><name ref="Perrot+shepherd">Perrot</name> à la joe <rhyme>enflée</rhyme>
+<lb n="PAST.226c:05"/>Apporta de <rhyme>girofflée</rhyme>
+<lb n="PAST.226c:06"/>Trestout fin plain son <rhyme>giron</rhyme>
+<lb n="PAST.226c:07"/>À <name ref="Belote+du+Firon+shepherd"><c>b</c>elote du <rhyme><c>f</c>iron</rhyme></name>
+<lb n="PAST.226c:08"/>De soussie plain <rhyme>chappel</rhyme>
+<lb n="PAST.226c:09"/>Apporta <name ref="Robin+Chappel+shepherd">Robin <rhyme><c>h</c>appel</rhyme></name>
+<lb n="PAST.226c:10"/>À <name ref="Marion+la+Gautiere+shepherdess"><c>m</c>arïon la <rhyme><c>g</c>autiere</rhyme></name>
+<lb n="PAST.226c:11"/>Une tartre toute <rhyme>entiere</rhyme>
+<lb n="PAST.226c:12"/>Et un beau gros grant <rhyme>gatel</rhyme>
+<lb n="PAST.226c:13"/>Apporta soubz son <rhyme>mantel</rhyme>
+<lb n="PAST.226c:14"/><name ref="Colin+Gautre+de+la+Broce+shepherd">Colin <c>g</c>autre de la <rhyme><c>b</c>roce</rhyme></name>
+<lb n="PAST.226c:15"/><name ref="Jehannot+shepherdess">Jehannot</name> pendant à sa <rhyme>croce</rhyme>
+<lb n="PAST.226c:16"/>Apporta tout un <rhyme>jambon</rhyme>
+<lb n="PAST.226c:17"/>Oncques je ne vi si <rhyme>bon</rhyme>
+<lb n="PAST.226c:18"/>Et la meilleure <rhyme>despense</rhyme>
+<lb n="PAST.226c:19"/>Qui oncques entrast en <rhyme>panse</rhyme> <note>tache/transparence sur le parchemin sur 4 lignes; cf. plus foncé et encre plus noire sur le recto</note>
+<lb n="PAST.226c:20"/>&#x95; ii &#x95; bouteilles toutes <rhyme>plaines</rhyme>
+<lb n="PAST.226c:21"/>Si dançasmes en ces <rhyme>plaines</rhyme>
+<lb n="PAST.226c:22"/>Où ot moult belle <rhyme>assemblée</rhyme>
+<lb n="PAST.226c:23"/>De joye et baudour <rhyme>comblée</rhyme>
+<lb n="PAST.226c:24"/>N'y a pastoure oû <rhyme>paÿs</rhyme>
+<lb n="PAST.226c:25"/>Jusqu'en ces larris <note>'s' sur grattage ? 'larris' changement d'encre?</note> <rhyme>Laÿs</rhyme>
+<lb n="PAST.226c:26"/>Qui ne venist à la <rhyme>feste</rhyme>
+<lb n="PAST.226c:27"/>De dancer et chanter <rhyme>preste</rhyme>
+<lb n="PAST.226c:28"/>Si n'y ot en ceste <rhyme>année</rhyme>
+<lb n="PAST.226c:29"/>Plus grant feste et mieulx <rhyme>menée</rhyme>
+<lb n="PAST.226c:30"/><name ref="Giroult+shepherd">Giroult</name> te demanda <rhyme>moult</rhyme>
+<lb n="PAST.226c:31"/>Në oncques dancer ne <rhyme>voult</rhyme> <note>hiatus</note>
+<lb n="PAST.226c:32"/>Pour ce que pas n'y <rhyme>estoies</rhyme>
+<lb n="PAST.226c:33"/>Et où fus tu <rhyme>toutevoies</rhyme>
+<lb n="PAST.226c:34"/>Quant avecques nous ne <rhyme>vins</rhyme> <note>tache plus claire ; transparence du parchemin ; réparation ?; sur 2 lignes</note>
+<lb n="PAST.226c:35"/>Or nous dis que tu <rhyme>devins</rhyme>
+<lb n="PAST.226c:36"/>¶ <note>traits parallèles partiellement visibles</note> Adont <name ref="Lorette"><c>l</c>orette</name> <rhyme>appellay</rhyme>
+<lb n="PAST.226c:37"/>Et tout bas à lui <rhyme>parlay</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.226d:01"/>Car celle fu plus <rhyme>m'amie</rhyme>
+<lb n="PAST.226d:02"/>Et dis ne m'esgaray <rhyme>mie</rhyme>
+<lb n="PAST.226d:03"/>Ains compaignie <rhyme>plaisant</rhyme>
+<lb n="PAST.226d:04"/>Plus que vous vi et <rhyme>faisant</rhyme>
+<lb n="PAST.226d:05"/>Chere bonne et <rhyme>doulcereuse</rhyme>
+<lb n="PAST.226d:06"/>Dont je suis toute <rhyme>amoureuse</rhyme>
+<lb n="PAST.226d:07"/>Si n'y avoit pas <rhyme>pastours</rhyme>
+<lb n="PAST.226d:08"/>Mais ceulx qui scevent les <rhyme>tours</rhyme>
+<lb n="PAST.226d:09"/>De courtoisie et <rhyme>d'onneur</rhyme>
+<lb n="PAST.226d:10"/>Car n'y avoit nul <rhyme>meneur</rhyme>
+<lb n="PAST.226d:11"/>De chevalier ou <rhyme>gentil</rhyme>
+<lb n="PAST.226d:12"/>Escuyer de baron <rhyme>fil</rhyme>
+<lb n="PAST.226d:13"/>Sus la fontaine en ce <rhyme>bois</rhyme>
+<lb n="PAST.226d:14"/>Où souvent seulette <rhyme>vois</rhyme>
+<lb n="PAST.226d:15"/>Me trouverent où <rhyme>chantoye</rhyme>
+<lb n="PAST.226d:16"/>Et mon entente <rhyme>mettoye</rhyme>
+<lb n="PAST.226d:17"/>À ces flourettes <rhyme>cueillir</rhyme>
+<lb n="PAST.226d:18"/>Là me vindrent <rhyme>accueillir</rhyme>
+<lb n="PAST.226d:19"/>Ainsi mon chant me <rhyme>traÿ</rhyme>
+<lb n="PAST.226d:20"/>Quant je les vi <rhyme>m'esbaÿ</rhyme>
+<lb n="PAST.226d:21"/>Car cuiday estre <rhyme>honnie</rhyme>
+<lb n="PAST.226d:22"/>Et de toute honneur <rhyme>banie</rhyme>
+<lb n="PAST.226d:23"/>Mais de ce / garde <rhyme>n'avoye</rhyme>
+<lb n="PAST.226d:24"/>Car oncques se <name ref="God"><c>d</c>ieu</name> me <rhyme>voye</rhyme>
+<lb n="PAST.226d:25"/>Je ne vi gent si <rhyme>courtoise</rhyme>
+<lb n="PAST.226d:26"/>Doulcement sans mener <rhyme>noise</rhyme>
+<lb n="PAST.226d:27"/>Gracïeux salu me <rhyme>dirent</rhyme>
+<lb n="PAST.226d:28"/>Puis des chevaulx <rhyme>descendire<abbr type="n"/>t</rhyme>
+<lb n="PAST.226d:29"/>Et s'assirent coste <rhyme>mi</rhyme>
+<lb n="PAST.226d:30"/>Mais sur tous par <name ref="Saint+Rémy">saint <rhyme><c>r</c>emi</rhyme></name>
+<lb n="PAST.226d:31"/>Y ot un qu'ilz <rhyme>appelloient</rhyme>
+<lb n="PAST.226d:32"/>Mon seigneur quant <rhyme>l'appelloie<abbr type="n"/>t</rhyme>
+<lb n="PAST.226d:33"/>Qui estoit doulx et <rhyme>plaisant</rhyme>
+<lb n="PAST.226d:34"/>Et bonne chere <rhyme>faisant</rhyme>
+<lb n="PAST.226d:35"/>Qui de chanter me <rhyme>requist</rhyme>
+<lb n="PAST.226d:36"/>Et moult doulcement <rhyme>m'enquist</rhyme>
+<lb n="PAST.226d:37"/>De mon estre et que <rhyme>faisoie</rhyme>
+<pb n="227" ed="r"/>
+<lb n="PAST.227r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95; <note>colonnette</note> </hi> <note>centred</note>
+<cb n="a"/>
+<!-- 38 lines -->
+<lb n="PAST.227a:01"/>En ce bois où <rhyme>m'esbatoie</rhyme>
+<lb n="PAST.227a:02"/>Et tant fist que je <rhyme>chantay</rhyme>
+<lb n="PAST.227a:03"/>Quant plus riens je ne <rhyme>doubtay</rhyme>
+<lb n="PAST.227a:04"/>Une chançonnette ou &#x95; <rhyme>deux</rhyme> <note>toutes lettres, plutôt que le chiffre romain prévu</note>
+<lb n="PAST.227a:05"/>Et certes je fus bien <rhyme>d'eulx</rhyme>
+<lb n="PAST.227a:06"/>Mercïée et cher <rhyme>tenue</rhyme>
+<lb n="PAST.227a:07"/>Et ja estoit nuit <rhyme>venue</rhyme>
+<lb n="PAST.227a:08"/>Quant d'eulx je me <rhyme>depparty</rhyme>
+<lb n="PAST.227a:09"/>¶ Or t'ay dit en quel <rhyme>parti</rhyme>
+<lb n="PAST.227a:10"/>Je fus yer là <rhyme>remontée</rhyme>
+<lb n="PAST.227a:11"/>Mais en pensée <rhyme>boutée</rhyme>
+<lb n="PAST.227a:12"/>Nouvellette <note>tache orange sur le mot</note> suis sans <rhyme>doubte</rhyme>
+<lb n="PAST.227a:13"/>Tant me plaist ycelle <rhyme>route</rhyme>
+<lb n="PAST.227a:14"/>De gens doulx et <rhyme>avenans</rhyme>
+<lb n="PAST.227a:15"/>Et adès suis <rhyme>souvenans</rhyme>
+<lb n="PAST.227a:16"/>De cil qui le mieulx me <rhyme>plait</rhyme>
+<lb n="PAST.227a:17"/>Qui me dist sans trop lonc <rhyme>plait</rhyme>
+<lb n="PAST.227a:18"/>Qu'il me revendroit <rhyme>vëoir</rhyme>
+<lb n="PAST.227a:19"/>Et decoste moy <rhyme>sëoir</rhyme>
+<lb n="PAST.227a:20"/>Si me tarde qu'il y <rhyme>viengne</rhyme>
+<lb n="PAST.227a:21"/><name ref="God">Dieux</name> doint <note>sur rustine ?</note> qu'il lui en <rhyme>souviengne</rhyme>
+<lb n="PAST.227a:22"/>Et que sans penser <rhyme>villain</rhyme>
+<lb n="PAST.227a:23"/>Me vueille <note>'v' repassé à l'encre noire</note> amer com je <rhyme>l'aim</rhyme>
+<lb n="PAST.227a:24"/>Sanz <note>'s' repassé à l'encre noire ; sur grattage ?</note> villenie <rhyme>me faire</rhyme>
+<lb n="PAST.227a:25"/>Car ne pense à me <rhyme>meffaire</rhyme>
+<lb n="PAST.227a:26"/>Pour homme qui soit <rhyme>en</rhyme> vie
+<lb n="PAST.227a:27"/>Ne d'autre riens n'ay <rhyme>envie</rhyme>
+<lb n="PAST.227a:28"/>Fors que nous chantions <rhyme>ensemble</rhyme>
+<lb n="PAST.227a:29"/>Il n'y pense / ce / me <rhyme>semble</rhyme>
+<lb n="PAST.227a:30"/>Autre mal et non fois <rhyme>jé</rhyme>
+<lb n="PAST.227a:31"/>¶ Ha <name ref="God"><c>d</c>ieux</name> que c'est bien <rhyme>songié</rhyme>
+<lb n="PAST.227a:32"/><name ref="Lorette">Lorette</name> adont <rhyme>respondi</rhyme>
+<lb n="PAST.227a:33"/>Par le <name ref="God"><c>d</c>ieu</name> qu'en croix <rhyme>pendi</rhyme>
+<lb n="PAST.227a:34"/>Or te voye en male <rhyme>colle</rhyme>
+<lb n="PAST.227a:35"/>Qui veulx laissier n<abbr type="ost"/>re <rhyme>escole</rhyme>
+<lb n="PAST.227a:36"/>Et renoncier au <rhyme>mestier</rhyme>
+<lb n="PAST.227a:37"/>Pour de tel gent <rhyme>t'accointier</rhyme>
+<lb n="PAST.227a:38"/>Laisse en paix tout <rhyme>soterelle</rhyme>
+<cb n="b"/>
+<!-- 38 lines -->
+<lb n="PAST.227b:01"/>Est ce estat de <rhyme>pastourelle</rhyme>
+<lb n="PAST.227b:02"/>Qui bestes a à <rhyme>garder</rhyme>
+<lb n="PAST.227b:03"/>Il te couvient <rhyme>regarder</rhyme>
+<lb n="PAST.227b:04"/>À ton honneur ou sanz <rhyme>doubte</rhyme>
+<lb n="PAST.227b:05"/>Tost la perderoies <rhyme>toute</rhyme>
+<lb n="PAST.227b:06"/>Mieulx te vauldroit estre <rhyme>morte</rhyme>
+<lb n="PAST.227b:07"/>Sont tele gent de ta <rhyme>sorte</rhyme>
+<lb n="PAST.227b:08"/>Ilz t'aroient tost <rhyme>honnie</rhyme>
+<lb n="PAST.227b:09"/>De toy faire <rhyme>villenie</rhyme>
+<lb n="PAST.227b:10"/>Certes pou tendroient <rhyme>compte</rhyme>
+<lb n="PAST.227b:11"/>Te fault il un filz de <rhyme>compte</rhyme>
+<lb n="PAST.227b:12"/>Se d'amours te veulx <rhyme>tramettre</rhyme>
+<lb n="PAST.227b:13"/>Certes chacun son cuer <rhyme>mettre</rhyme>
+<lb n="PAST.227b:14"/>Doit / se jouÿr veult à <rhyme>droit</rhyme>
+<lb n="PAST.227b:15"/>D'amours selon son <rhyme>endroit</rhyme>
+<lb n="PAST.227b:16"/>Il est tant de <rhyme>valettons</rhyme> <note>tache d'encre noire</note>
+<lb n="PAST.227b:17"/>Si beaulx qui gardent <rhyme>moutons</rhyme>
+<lb n="PAST.227b:18"/>Et pour t'amour se <rhyme>deffrisent</rhyme>
+<lb n="PAST.227b:19"/>Et te servent et te <rhyme>prisent</rhyme>
+<lb n="PAST.227b:20"/>Choisis un se veulx <rhyme>amer</rhyme>
+<lb n="PAST.227b:21"/>Et ne te fais pas <rhyme>blasmer</rhyme>
+<lb n="PAST.227b:22"/>De ceulx qui d'amour <rhyme>legiere</rhyme>
+<lb n="PAST.227b:23"/>Ameroient toy <rhyme>bergiere</rhyme>
+<lb n="PAST.227b:24"/>¶ Adont respons certes <rhyme>seur</rhyme>
+<lb n="PAST.227b:25"/>Amer ne vueil à nul <rhyme>feur</rhyme>
+<lb n="PAST.227b:26"/>Par amours ce n'est pas <rhyme>fable</rhyme>
+<lb n="PAST.227b:27"/>Qui qu'il soit / mais <rhyme>s'agréable</rhyme>
+<lb n="PAST.227b:28"/>M'est un seul plus qu'aultre <rhyme>mille</rhyme>
+<lb n="PAST.227b:29"/>Pour son corps gent et <rhyme>abile</rhyme>
+<lb n="PAST.227b:30"/>Pour tant n'ay je pas <rhyme>envie</rhyme>
+<lb n="PAST.227b:31"/>D'emprendre amoureuse <rhyme>vie</rhyme>
+<lb n="PAST.227b:32"/>Ja <name ref="God"><c>d</c>ieux</name> ne m'i doint <rhyme>embatre</rhyme>
+<lb n="PAST.227b:33"/>Mais je m'i vueil bien <rhyme>esbatre</rhyme>
+<lb n="PAST.227b:34"/>Et jouer sanz <rhyme>villenie</rhyme>
+<lb n="PAST.227b:35"/>Ne fault ja que je le <rhyme>nie</rhyme>
+<lb n="PAST.227b:36"/>La veue Riens ne me <rhyme>couste</rhyme>
+<lb n="PAST.227b:37"/>De cil qui me plaist &amp; <rhyme>gouste</rhyme>
+<lb n="PAST.227b:38"/>Si ne m'en faut ja <rhyme>blasmer</rhyme>
+<pb n="227" ed="v"/>
+<lb n="PAST.227v:01"/><hi rend="red">Le <note>space</note> livre <note>space</note> de la</hi> <note>centré sur 1re colonne</note>
+<cb n="c"/>
+<!-- 38 lines -->
+<lb n="PAST.227c:01"/>Car sans mal le vueil <rhyme>amer</rhyme>
+<lb n="PAST.227c:02"/>Pour le bien qui en lui <rhyme>maint</rhyme> <note>'maint' sur grattage ?</note>
+<lb n="PAST.227c:03"/>Et ainsi sont amé <rhyme>maint</rhyme>
+<lb n="PAST.227c:04"/>Vaillans pour leur grant <rhyme>bonté</rhyme>
+<lb n="PAST.227c:05"/>Si com l'en m'a <rhyme>raconté</rhyme>
+<lb n="PAST.227c:06"/>¶ <name ref="Lorette">Lorette</name> adont me <rhyme>respont</rhyme>
+<lb n="PAST.227c:07"/>Voir <note>'s' suscrit ?</note> est sicom lievre <rhyme>pont</rhyme>
+<lb n="PAST.227c:08"/>Qu'à ton vueil à droit <rhyme>compas</rhyme>
+<lb n="PAST.227c:09"/>Ameras n'i fauldras <rhyme>pas</rhyme>
+<lb n="PAST.227c:10"/>Cuides tu faire à ta <rhyme>guise</rhyme>
+<lb n="PAST.227c:11"/>D'<name ref="God"><c>a</c>mours</name> qui les cuers <rhyme>desguise</rhyme>
+<lb n="PAST.227c:12"/>Estrangement et scet <rhyme>prendre</rhyme>
+<lb n="PAST.227c:13"/>Et ja le peus tu <rhyme>apprendre</rhyme>
+<lb n="PAST.227c:14"/>Quant elle te fait tant <rhyme>plaire</rhyme>
+<lb n="PAST.227c:15"/>Homs de nature <rhyme>contraire</rhyme>
+<lb n="PAST.227c:16"/>Au mestier de <rhyme>bergerie</rhyme>
+<lb n="PAST.227c:17"/>Par <name ref="God"><c>d</c>ieu</name> c'est grant <rhyme>resverie</rhyme>
+<lb n="PAST.227c:18"/>Comment ton cuer y peut <rhyme>tendre</rhyme>
+<lb n="PAST.227c:19"/>Et si <add place="supralinear" type="scribe" evidence="caret, paler ink">te</add> peus bien <rhyme>attendre</rhyme>
+<lb n="PAST.227c:20"/>Tant te vueil bien ores <rhyme>dire</rhyme>
+<lb n="PAST.227c:21"/>Puis que le tien cuer y <rhyme>tire</rhyme>
+<lb n="PAST.227c:22"/>Se souvent as la <rhyme>hantise</rhyme>
+<lb n="PAST.227c:23"/>Qu'<name ref="Love"><c>a</c>mours</name> qui les cuers <rhyme>atise</rhyme>
+<lb n="PAST.227c:24"/>Ne te laira pas <rhyme>durer</rhyme>
+<lb n="PAST.227c:25"/>Sans de lui t'en <rhyme>amourer</rhyme>
+<lb n="PAST.227c:26"/>Së il est tel qu'il te <rhyme>face</rhyme> <note>hiatus</note>
+<lb n="PAST.227c:27"/>Semblant ne d'ueil ne de <rhyme>face</rhyme>
+<lb n="PAST.227c:28"/>Mais je te pri <rhyme>toutevoyes</rhyme>
+<lb n="PAST.227c:29"/>S'il te plaist que je le <rhyme>voye</rhyme>
+<lb n="PAST.227c:30"/>Et que le secret tout <rhyme>sache</rhyme>
+<lb n="PAST.227c:31"/>Car en soy maint mal <rhyme>ensache</rhyme>
+<lb n="PAST.227c:32"/>Cuer / qui aime ou veult <rhyme>haÿr</rhyme>
+<lb n="PAST.227c:33"/>Sans à nul le <rhyme>regehir</rhyme>
+<lb n="PAST.227c:34"/>¶ Lors dis qu'il me plaisoit <rhyme>bien</rhyme>
+<lb n="PAST.227c:35"/>Car je la savoie <rhyme>bien</rhyme>
+<lb n="PAST.227c:36"/>Secrete et o moy <rhyme>vendroit</rhyme>
+<lb n="PAST.227c:37"/>Oû bois où i'aloye <rhyme>droit</rhyme>
+<lb n="PAST.227c:38"/>Si seroie mieulx que <rhyme>seule</rhyme>
+<cb n="d"/>
+<!-- 38 lines -->
+<lb n="PAST.227d:01"/>Mais ja n'issist de sa <rhyme>gueule</rhyme>
+<lb n="PAST.227d:02"/>Chose qui à celer <rhyme>feist</rhyme>
+<lb n="PAST.227d:03"/>Gardast / <note>correction sur grattage ? dernier segment du mot ? 'st/' ; trait vertical devant le vers</note> que tant ne <rhyme>meffeist</rhyme>
+<lb n="PAST.227d:04"/>Et celle le me <rhyme>jura</rhyme>
+<lb n="PAST.227d:05"/>Par serment le me <rhyme>asseura</rhyme>
+<lb n="PAST.227d:06"/>¶ Ainsi noz brebis <rhyme>chaçant</rhyme>
+<lb n="PAST.227d:07"/>Qui devant nous vont <rhyme>paissant</rhyme> <note>'b' /'v'</note>
+<lb n="PAST.227d:08"/>Entre nous ii &#x95; <rhyme>seulement</rhyme>
+<lb n="PAST.227d:09"/>De ce / parlant <rhyme>bellement</rhyme>
+<lb n="PAST.227d:10"/>Vers le bois <note>vois ?</note> nous sommes <rhyme>traictes</rhyme> <note>'b' /'v'</note>
+<lb n="PAST.227d:11"/>Et loins des autres <rhyme>retraittes</rhyme>
+<lb n="PAST.227d:12"/>Tant qu'à la <note>sur grattage ?</note> fontaine <rhyme>veimes</rhyme>
+<lb n="PAST.227d:13"/>Et sus l'erbe <note>'lerb' retranscrit sur grattage</note> nous <rhyme>seïmes</rhyme>
+<lb n="PAST.227d:14"/>Là fumes la <rhyme>matinée</rhyme>
+<lb n="PAST.227d:15"/>Reveimes à la <rhyme>disnée</rhyme>
+<lb n="PAST.227d:16"/>À ressie <rhyme>retournasmes</rhyme>
+<lb n="PAST.227d:17"/>Oû bois ou d'amours <rhyme>parlames</rhyme>
+<lb n="PAST.227d:18"/>¶ Ainsi &#x95; iii &#x95; ou &#x95; iiii &#x95; <rhyme>jours</rhyme>
+<lb n="PAST.227d:19"/>En ce bois alions tous <rhyme>jours</rhyme>
+<lb n="PAST.227d:20"/>Qu'onques nul vers nous ne <rhyme>vint</rhyme>
+<lb n="PAST.227d:21"/>Mais tost après cil <rhyme>revint</rhyme>
+<lb n="PAST.227d:22"/>Dont m'anuyoit la <rhyme>demeure</rhyme>
+<lb n="PAST.227d:23"/>Les chevaulx senti en <rhyme>l'eure</rhyme>
+<lb n="PAST.227d:24"/>Car l'oreille ailleurs <rhyme>n'avoye</rhyme>
+<lb n="PAST.227d:25"/>Si sailli tost en la <rhyme>voye</rhyme>
+<lb n="PAST.227d:26"/>Pour savoir se cil <rhyme>estoit</rhyme>
+<lb n="PAST.227d:27"/>Que le cuer <rhyme>m'amonnestoit</rhyme>
+<lb n="PAST.227d:28"/>¶ Quant de loings le vi <rhyme>venir</rhyme>
+<lb n="PAST.227d:29"/><name ref="Love">Amours</name> me fist <rhyme>devenir</rhyme>
+<lb n="PAST.227d:30"/>Vermeille oû vis et <rhyme>couleur</rhyme>
+<lb n="PAST.227d:31"/>Müay sans sentir <rhyme>douleur</rhyme>
+<lb n="PAST.227d:32"/>De loings je le <rhyme>regardoie</rhyme>
+<lb n="PAST.227d:33"/>À l'entrée <rhyme>l'attendoie</rhyme>
+<lb n="PAST.227d:34"/>Du bois dont il <rhyme>approchoit</rhyme>
+<lb n="PAST.227d:35"/>Lui &#x95; iii &#x95; e <rhyme>chevauchoit</rhyme>
+<lb n="PAST.227d:36"/>Sans plus li beaulx et li <rhyme>gens</rhyme>
+<lb n="PAST.227d:37"/>N'ot pas mené tant de <rhyme>gens</rhyme>
+<lb n="PAST.227d:38"/>Comme à l'autre foiz <rhyme>avoit</rhyme>
+<pb n="228" ed="r"/>
+<lb n="PAST.228r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95; <note>colonnette</note></hi> <note>centred</note>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.228a:01"/>Ma compaigne qui le <rhyme>voit</rhyme>
+<lb n="PAST.228a:02"/>De päour print à <rhyme>trembler</rhyme>
+<lb n="PAST.228a:03"/>Et oû vis morte <rhyme>sembler</rhyme>
+<lb n="PAST.228a:04"/>Si me dist par grant <rhyme>fréour</rhyme>
+<lb n="PAST.228a:05"/>Je mourray cy de <rhyme>päour</rhyme>
+<lb n="PAST.228a:06"/>Nous serons ja tost <rhyme>honnies</rhyme>
+<lb n="PAST.228a:07"/>De folie <rhyme>t'ensonnies</rhyme>
+<lb n="PAST.228a:08"/>De tel seigneur <rhyme>t'acointier</rhyme>
+<lb n="PAST.228a:09"/>Yssons hors de ce <rhyme>sentier</rhyme>
+<lb n="PAST.228a:10"/>Il <note>cadelure au bas du 'I'</note> nous en vault mieulx <rhyme>fouïr</rhyme>
+<lb n="PAST.228a:11"/>Et nous aler <rhyme>enfouïr</rhyme>
+<lb n="PAST.228a:12"/>Soubz ces fueilles en ce <rhyme>bois</rhyme>
+<lb n="PAST.228a:13"/>Viens se tu veulx je m'en <rhyme>vois</rhyme> <note>'V' / 'B'</note>
+<lb n="PAST.228a:14"/>Mieulx voulsisse estre <rhyme>grevée</rhyme>
+<lb n="PAST.228a:15"/>D'un bras / que t'avoir <rhyme>trouvée</rhyme>
+<lb n="PAST.228a:16"/>Anuit n'ycy <rhyme>convoyée</rhyme>
+<lb n="PAST.228a:17"/>¶ <name ref="God">Dieux</name> que tu es <rhyme>effroyée</rhyme>
+<lb n="PAST.228a:18"/><name ref="Lorette">Lorette</name> dis je <rhyme>regarde</rhyme>
+<lb n="PAST.228a:19"/>Comme il rit tu n'aras <rhyme>garde</rhyme>
+<lb n="PAST.228a:20"/>Il n'est pas tel qu'il nous <rhyme>face</rhyme>
+<lb n="PAST.228a:21"/>Villenie ne <rhyme>m'efface</rhyme> <note>'mefface' ?</note>
+<lb n="PAST.228a:22"/>¶ Cellui ainsi <rhyme>chevaucha</rhyme>
+<lb n="PAST.228a:23"/>Tant que de nous <rhyme>approcha</rhyme>
+<lb n="PAST.228a:24"/>Et je contre lui <rhyme>m'aval</rhyme>
+<lb n="PAST.228a:25"/>Il dessent de son <rhyme>cheval</rhyme>
+<lb n="PAST.228a:26"/>Je m'encline et le <rhyme>salue</rhyme>
+<lb n="PAST.228a:27"/>Comme affiert à sa <rhyme>value</rhyme>
+<lb n="PAST.228a:28"/>Mais tost me vint <rhyme>relever</rhyme>
+<lb n="PAST.228a:29"/>Et dist <name ref="God"><c>d</c>ieu</name> vueille <rhyme>sauver</rhyme>
+<lb n="PAST.228a:30"/>Ceste bergerette <rhyme>gente</rhyme>
+<lb n="PAST.228a:31"/>D'aigneaulx garder <rhyme>diligente</rhyme>
+<lb n="PAST.228a:32"/>Lors me prent par mi la <rhyme>main</rhyme>
+<lb n="PAST.228a:33"/>Et je oû vert bois le <rhyme>main</rhyme>
+<lb n="PAST.228a:34"/>Sëoir sus la <rhyme>fontenelle</rhyme>
+<lb n="PAST.228a:35"/>Doulcement dit <rhyme><name ref="Marotelle"><c>m</c>arotelle</name></rhyme>
+<lb n="PAST.228a:36"/>Vous vëoir moult <rhyme>desiroie</rhyme>
+<lb n="PAST.228a:37"/>N'à autre riens ne <rhyme>tiroye</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.228b:01"/>Qu'à cy retourner <rhyme>arriere</rhyme>
+<lb n="PAST.228b:02"/>Car oncques ne vi <rhyme>bergere</rhyme>
+<lb n="PAST.228b:03"/>Dont je soie <rhyme>souvenant</rhyme>
+<lb n="PAST.228b:04"/>À mon gré si <rhyme>avenant</rhyme>
+<lb n="PAST.228b:05"/>Ne dont le chant tant me <rhyme>pleust</rhyme>
+<lb n="PAST.228b:06"/>Tant autre bien chanter <rhyme>sceust</rhyme>
+<lb n="PAST.228b:07"/>Or vous pri je doulce <rhyme>amie</rhyme>
+<lb n="PAST.228b:08"/>Que ne m'escondissez <rhyme>mie</rhyme>
+<lb n="PAST.228b:09"/>De chanter sans plus lonc <rhyme>plait</rhyme>
+<lb n="PAST.228b:10"/>Car vostre chant moult me <rhyme>plait</rhyme>
+<lb n="PAST.228b:11"/>Mais dites doulce <rhyme>maignete</rhyme>
+<lb n="PAST.228b:12"/>Est ce vostre <rhyme>compaignette</rhyme>
+<lb n="PAST.228b:13"/>Que je voy /<note> ?</note> là / toute <rhyme>seule</rhyme>
+<lb n="PAST.228b:14"/>Assise sus celle <rhyme>esteule</rhyme>
+<lb n="PAST.228b:15"/>¶ Lors à respondre me <rhyme>pris</rhyme>
+<lb n="PAST.228b:16"/>Au chevalier que tant <rhyme>pris</rhyme>
+<lb n="PAST.228b:17"/>Bassement sans <rhyme>arrestance</rhyme>
+<lb n="PAST.228b:18"/>Et de mesprendre en <rhyme>doubta<abbr type="n"/>ce</rhyme>
+<lb n="PAST.228b:19"/>Dis mon seigneur grant <rhyme>mercy</rhyme>
+<lb n="PAST.228b:20"/>Dont tout mon fait vous plaist <rhyme>si</rhyme>
+<lb n="PAST.228b:21"/>C'est de vostre bien sans <rhyme>faille</rhyme>
+<lb n="PAST.228b:22"/>Non mie que je le <rhyme>vaille</rhyme>
+<lb n="PAST.228b:23"/>Si suis de bonne heure <rhyme>née</rhyme>
+<lb n="PAST.228b:24"/>Quant <name ref="God"><c>d</c>ieu</name> m'a ad ce <rhyme>menée</rhyme>
+<lb n="PAST.228b:25"/>Qu'à tel chevalier je <rhyme>plais</rhyme>
+<lb n="PAST.228b:26"/>Dont tout li mondes tient <rhyme>plais</rhyme>
+<lb n="PAST.228b:27"/>Du grant renom et <rhyme>vaillance</rhyme>
+<lb n="PAST.228b:28"/>Si vueil du tout sans <rhyme>faillance</rhyme>
+<lb n="PAST.228b:29"/>Estre vostre en tout <rhyme>honneur</rhyme>
+<lb n="PAST.228b:30"/>Car bien sçay que <rhyme>deshonneur</rhyme>
+<lb n="PAST.228b:31"/>Jamais ne <rhyme>pourchaceriés</rhyme>
+<lb n="PAST.228b:32"/>Vers moy vous ne <rhyme>daigneriés</rhyme>
+<lb n="PAST.228b:33"/>Si commandez à vo <rhyme>guise</rhyme>
+<lb n="PAST.228b:34"/>Soit chant ou autre <rhyme>devise</rhyme>
+<lb n="PAST.228b:35"/>Ja ne vous <rhyme>contrediray</rhyme>
+<lb n="PAST.228b:36"/>Mais du tout <rhyme>obeïray</rhyme>
+<lb n="PAST.228b:37"/>Sanz que nulle riens <rhyme>remaigne</rhyme>
+<pb n="228" ed="v"/>
+<lb n="PAST.228v:01"/><hi rend="red">Le livre de <note>sur 1re colonne</note> la <note>sur entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 38 lines -->
+<lb n="PAST.228c:01"/>Mon seigneur mais ma <rhyme>compaigne</rhyme>
+<lb n="PAST.228c:02"/>Que veez là seure n'est <rhyme>mie</rhyme>
+<lb n="PAST.228c:03"/>Lors dit venez çà m' <rhyme>amie</rhyme>
+<lb n="PAST.228c:04"/>N'ayés ja de moy <rhyme>doubtance</rhyme>
+<lb n="PAST.228c:05"/>Car à vous faire ne <rhyme>pense</rhyme>
+<lb n="PAST.228c:06"/>Chose qui vous <rhyme>desagrée</rhyme>
+<lb n="PAST.228c:07"/>C'est ma compaigne <rhyme>secrée</rhyme>
+<lb n="PAST.228c:08"/>Mon seigneur faites lui <rhyme>chere</rhyme>
+<lb n="PAST.228c:09"/>Ce dis je / <note>separator ?</note> l'aim et tiens <rhyme>chiere</rhyme>
+<lb n="PAST.228c:10"/>Lors celle c'est <note>'c' sur grattage de 's'</note> <rhyme>approchée</rhyme> <note>'s'est' transformé en 'c'est'</note>
+<lb n="PAST.228c:11"/>Qui tint la chere <rhyme>embrunchée</rhyme>
+<lb n="PAST.228c:12"/>Et de contenance <rhyme>simple</rhyme>
+<lb n="PAST.228c:13"/>Le chapperon que ot sans <rhyme>guimple</rhyme>
+<lb n="PAST.228c:14"/>Affublé de son chef <rhyme>oste</rhyme>
+<lb n="PAST.228c:15"/>Et s'agenoullia <rhyme>decoste</rhyme>
+<lb n="PAST.228c:16"/>Cellui qui lui tend la <rhyme>main</rhyme>
+<lb n="PAST.228c:17"/>Et dit <name ref="God"><c>d</c>ieu</name> vous doint bon <rhyme>main</rhyme>
+<lb n="PAST.228c:18"/>Bergerette <rhyme>savoureuse</rhyme>
+<lb n="PAST.228c:19"/>Ne soiez pas <rhyme>päoureuse</rhyme>
+<lb n="PAST.228c:20"/>De moy qui suis vostre <rhyme>ami</rhyme> <note>qualité poreuse du parchemin ; donne impression de grattage sur les lignes qui suivent</note>
+<lb n="PAST.228c:21"/>Mais vous séez coste <rhyme>mi</rhyme>
+<lb n="PAST.228c:22"/>Et dites de voz <rhyme>nouvelles</rhyme>
+<lb n="PAST.228c:23"/>Entre vous &#x95; ii &#x95; <rhyme>pastourelles</rhyme>
+<lb n="PAST.228c:24"/>Car pastouriaulx aussi <rhyme>sommes</rhyme>
+<lb n="PAST.228c:25"/>Voz chers amis et voz <note>lettre suscrite 'i' ?</note> <rhyme>hommes</rhyme>
+<lb n="PAST.228c:26"/>¶ En sa compaignie <rhyme>avoit</rhyme>
+<lb n="PAST.228c:27"/>&#x95; ii &#x95; chevaliers qu'il <rhyme>savoit</rhyme>
+<lb n="PAST.228c:28"/>Secrès sages sans <rhyme>murmure</rhyme>
+<lb n="PAST.228c:29"/>Car d'autres gens n'ot il <rhyme>cure</rhyme>
+<lb n="PAST.228c:30"/>Qui furent jolis et <rhyme>cointes</rhyme>
+<lb n="PAST.228c:31"/>N'orent pas gonnelle <note>'a' gratté en début du mot</note> à <rhyme>pointes</rhyme>
+<lb n="PAST.228c:32"/>Mais haincelins agrans <note>agglutinated</note> <rhyme>manches</rhyme>
+<lb n="PAST.228c:33"/>Estrois serrez sus les <rhyme>hanches</rhyme>
+<lb n="PAST.228c:34"/>De velous vert <rhyme>decoppez</rhyme>
+<lb n="PAST.228c:35"/>Brodez d'or entour <rhyme>frappez</rhyme>
+<lb n="PAST.228c:36"/>Et coliers <rhyme>d'orfaverie</rhyme>
+<lb n="PAST.228c:37"/>Moult riches à <rhyme>pierrerie</rhyme>
+<lb n="PAST.228c:38"/>Si n'a de cy en <rhyme><name ref="Artois"><c>a</c>rtois</name></rhyme>
+<cb n="d"/>
+<!-- 38 lines -->
+<lb n="PAST.228d:01"/>Nul chevalier plus <rhyme>courtois</rhyme>
+<lb n="PAST.228d:02"/>En fait en dit en <rhyme>lengage</rhyme>
+<lb n="PAST.228d:03"/>Et en maintien doulz et <rhyme>sage</rhyme>
+<lb n="PAST.228d:04"/>Cellui où le plus <rhyme>pensoie</rhyme>
+<lb n="PAST.228d:05"/>Lors n'estoit vestu de <rhyme>soie</rhyme>
+<lb n="PAST.228d:06"/>Mais d'une grant <rhyme>houppellande</rhyme>
+<lb n="PAST.228d:07"/>Longue et ot une <rhyme>guerlande</rhyme>
+<lb n="PAST.228d:08"/>En son chef o un <rhyme>fermail</rhyme>
+<lb n="PAST.228d:09"/>De pierrerie et <rhyme>d'esmail</rhyme>
+<lb n="PAST.228d:10"/>Un riche colier <rhyme>luisant</rhyme>
+<lb n="PAST.228d:11"/>Qui moult lui fu <rhyme>aduisant</rhyme>
+<lb n="PAST.228d:12"/>De dÿamans tout <rhyme>semé</rhyme>
+<lb n="PAST.228d:13"/>Et de perles <rhyme>assesmé</rhyme>
+<lb n="PAST.228d:14"/>Mais de ce ne fois je <rhyme>compte</rhyme>
+<lb n="PAST.228d:15"/>Combien qu'adès vous en <rhyme>compte</rhyme>
+<lb n="PAST.228d:16"/>Car ses condicïons <rhyme>faites</rhyme>
+<lb n="PAST.228d:17"/>À souhait toutes <rhyme>parfaites</rhyme>
+<lb n="PAST.228d:18"/>Furent à mon gré par <rhyme>m'ame</rhyme>
+<lb n="PAST.228d:19"/>Telles qu'en ce monde <rhyme>dame</rhyme>
+<lb n="PAST.228d:20"/>N'a / que on la deüst <rhyme>blasmer</rhyme>
+<lb n="PAST.228d:21"/>D'un tel chevalier <rhyme>amer</rhyme>
+<lb n="PAST.228d:22"/>Et ce plus <rhyme>l'embelissoit</rhyme>
+<lb n="PAST.228d:23"/>Que le fin or qui <rhyme>luisoit</rhyme>
+<lb n="PAST.228d:24"/>Ne la pierrerie <rhyme>aussi</rhyme>
+<lb n="PAST.228d:25"/>¶ Longuement fumes <rhyme>ycy</rhyme>
+<lb n="PAST.228d:26"/>Où mainte raison ot <rhyme>dicte</rhyme>
+<lb n="PAST.228d:27"/>Que je n'ay pas cy <rhyme>escripte</rhyme>
+<lb n="PAST.228d:28"/>Pour le conte qui <rhyme>seroit</rhyme>
+<lb n="PAST.228d:29"/>Si lonc qu'anuyer <rhyme>pourroit</rhyme>
+<lb n="PAST.228d:30"/>Plusieurs chançons y <rhyme>chantay</rhyme> <note>trait vertical devant ce vers</note>
+<lb n="PAST.228d:31"/>Et cil chanter <rhyme>escoutay</rhyme>
+<lb n="PAST.228d:32"/>De qui le chant me <rhyme>plaisoit</rhyme>
+<lb n="PAST.228d:33"/>Et trestout quanque il <rhyme>faisoit</rhyme>
+<lb n="PAST.228d:34"/>Là devisasmes sans <rhyme>compte</rhyme>
+<lb n="PAST.228d:35"/>D'amours maint gracïeux <rhyme>compte</rhyme>
+<lb n="PAST.228d:36"/>Et à mainte / <note>separator</note> belle en <rhyme>queste</rhyme>
+<lb n="PAST.228d:37"/>Respondi à sa <rhyme>requeste</rhyme>
+<lb n="PAST.228d:38"/>Maint doulx Ris maint doulx <rhyme>regart</rhyme>
+<pb n="229" ed="r"/>
+<lb n="PAST.229r:01"/><hi rend="red">pastoure <note>dans l'entrecolonne</note> xx <note>colonnette</note></hi>
+<cb n="a"/>
+<!-- 38 lines -->
+<lb n="PAST.229a:01"/>Fu gité se <name ref="God"><c>d</c>ieux</name> me <rhyme>gard</rhyme>
+<lb n="PAST.229a:02"/>Celle part où fist bel <rhyme>estre</rhyme>
+<lb n="PAST.229a:03"/>Et tout soit il bien grant <rhyme>maistre</rhyme>
+<lb n="PAST.229a:04"/>En son fait n'en son <rhyme>accueil</rhyme>
+<lb n="PAST.229a:05"/>N'ot ne mauvaistié <rhyme>n'orgueil</rhyme>
+<lb n="PAST.229a:06"/>Dont forment <rhyme>m'esbahissoie</rhyme>
+<lb n="PAST.229a:07"/>Quant a sa valour <rhyme>pensoie</rhyme>
+<lb n="PAST.229a:08"/>Et le vëoie sur <rhyme>tous</rhyme>
+<lb n="PAST.229a:09"/>Humble gracïeux et <rhyme>doulx</rhyme>
+<lb n="PAST.229a:10"/>Et ce yert ce qui cy <rhyme>plaisoit</rhyme> <note>sens ?</note>
+<lb n="PAST.229a:11"/>Mon cuer à qui il <rhyme>plaisoit</rhyme>
+<lb n="PAST.229a:12"/>¶ Longuement oû lieu nous <rhyme>seimes</rhyme>
+<lb n="PAST.229a:13"/>Où maint plaisant compte <rhyme>deismes</rhyme>
+<lb n="PAST.229a:14"/>Qui à compter bien <rhyme>séoit</rhyme>
+<lb n="PAST.229a:15"/>Mais pas ne nous <rhyme>desséoit</rhyme>
+<lb n="PAST.229a:16"/>Tant y fussions grant <rhyme>espace</rhyme>
+<lb n="PAST.229a:17"/>¶ Car legierement temps <rhyme>passe</rhyme>
+<lb n="PAST.229a:18"/>Cuer qui en aise <rhyme>demeure</rhyme>
+<lb n="PAST.229a:19"/>Un jour ne lui est une <rhyme>heure</rhyme>
+<lb n="PAST.229a:20"/>Ja d'avesprir <rhyme>s'apprestoit</rhyme>
+<lb n="PAST.229a:21"/>Un chevalier qui <rhyme>estoit</rhyme> <note>'U' / 'B'</note>
+<lb n="PAST.229a:22"/>En la place avoit ja <rhyme>dit</rhyme>
+<lb n="PAST.229a:23"/>Maintefois dont fu <rhyme>maudit</rhyme>
+<lb n="PAST.229a:24"/>De moy à basse <rhyme>murmure</rhyme>
+<lb n="PAST.229a:25"/>Sire le temps pou vous <rhyme>dure</rhyme>
+<lb n="PAST.229a:26"/>Ja est tart le jour nous <rhyme>fault</rhyme>
+<lb n="PAST.229a:27"/>Souviengne vous qu'il vous <rhyme>fault</rhyme>
+<lb n="PAST.229a:28"/>Devers noz seigneurs <rhyme>aler</rhyme>
+<lb n="PAST.229a:29"/>À qui avez à <rhyme>parler</rhyme>
+<lb n="PAST.229a:30"/>Lors disoit cil je m'en <rhyme>vois</rhyme>
+<lb n="PAST.229a:31"/>Puis se rassëoit oû <rhyme>bois</rhyme>
+<lb n="PAST.229a:32"/>Et ne s'en pouoit <rhyme>partir</rhyme>
+<lb n="PAST.229a:33"/>Et moy aussi sans <rhyme>mentir</rhyme>
+<lb n="PAST.229a:34"/>Voulsisse bien qu'à tous <rhyme>jours</rhyme>
+<lb n="PAST.229a:35"/>Pres de lui fust mes <rhyme>sejours</rhyme>
+<lb n="PAST.229a:36"/>Mais partir nous <rhyme>couvenoit</rhyme>
+<lb n="PAST.229a:37"/>Pour la nuit qui ja <rhyme>venoit</rhyme>
+<lb n="PAST.229a:38"/>De moy se parti <rhyme>atant</rhyme> <note>'a tant' ?</note>
+<cb n="b"/>
+<!-- 38 lines -->
+<lb n="PAST.229b:01"/>Le bel et bon que i'aim <rhyme>tant</rhyme>
+<lb n="PAST.229b:02"/>Au deppartir <rhyme>m'accolla</rhyme>
+<lb n="PAST.229b:03"/>Je m'encline il s'en <rhyme>ala</rhyme>
+<lb n="PAST.229b:04"/>Esperonnant son <rhyme>cheval</rhyme>
+<lb n="PAST.229b:05"/>Et je m'en viens <note>agglutinated</note> contre <rhyme>val</rhyme>
+<lb n="PAST.229b:06"/>La prée atout vert <rhyme>chappel</rhyme>
+<lb n="PAST.229b:07"/>Oû chief / menant mon <rhyme>troppel</rhyme>
+<lb n="PAST.229b:08"/>Devisant à ma <rhyme>compaigne</rhyme>
+<lb n="PAST.229b:09"/>Et ainsi par la <rhyme>champaigne</rhyme>
+<lb n="PAST.229b:10"/>Venimes en noz <rhyme>maisons</rhyme>
+<lb n="PAST.229b:11"/>De heberger fu <rhyme>saisons</rhyme>
+<lb n="PAST.229b:12"/>Si failli no <rhyme>parlement</rhyme>
+<lb n="PAST.229b:13"/>Atant mais tout <rhyme>bellement</rhyme>
+<lb n="PAST.229b:14"/>Avons l'une à l'autre oû <rhyme>bois</rhyme>
+<lb n="PAST.229b:15"/>Mis journée à basse <rhyme>voix</rhyme>
+<lb n="PAST.229b:16"/>Deismes lieue toy par <rhyme>main</rhyme>
+<lb n="PAST.229b:17"/>À <name ref="God"><c>d</c>ieu</name> jusques à <rhyme>demain</rhyme>
+<lb n="PAST.229b:18"/>Celle nuit ainssi <rhyme>passa</rhyme>
+<lb n="PAST.229b:19"/>C'onques mon cuer ne <rhyme>pensa</rhyme>
+<lb n="PAST.229b:20"/>Fors à cil sans qui <rhyme>n'avoie</rhyme>
+<lb n="PAST.229b:21"/>Nul bien se ne le <rhyme>vëoie</rhyme>
+<lb n="PAST.229b:22"/>Si n'y ay gueres <rhyme>dormi</rhyme>
+<lb n="PAST.229b:23"/>Mais en pensant à par <rhyme>mi</rhyme>
+<lb n="PAST.229b:24"/>Disoie ces moz <rhyme>ycy</rhyme>
+<lb n="PAST.229b:25"/>Comme ouÿr les pouez <rhyme>cy</rhyme> <note>'les po' repassés à l'encre plus foncée ? grattage du premier segment ?</note>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.229b:27"/>&#x95; bergerecte &#x95; – <note>centred ; grattage sur la fin du mot ?</note>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.229b:29"/><hi rend="cap2">D</hi>ont <note>lettre d'attente 'd' partiellement visible</note> me vient telle <rhyme>aventure</rhyme> <note>grattage ? ou segment repassé à l'encre plus foncée ? cf. transparence du 'e' de 'telle' troublante !</note>
+<lb n="PAST.229b:30"/>Qu'amer me fault maugré <rhyme>mien</rhyme> <note>phrase repassée à l'encre</note>
+<lb n="PAST.229b:31"/>Je ne cuidasse pour <rhyme>rien</rhyme>
+<lb n="PAST.229b:32"/>Qu'amours fust de tel <rhyme>nature</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.229b:34"/>Simple sans amer <rhyme>estoie</rhyme>
+<lb n="PAST.229b:35"/>Ne pensée <rhyme>soucïeuse</rhyme>
+<lb n="PAST.229b:36"/>Je me jouoye et <rhyme>chantoye</rhyme>
+<lb n="PAST.229b:37"/>De plus n'estoie <rhyme>envïeuse</rhyme>
+<lb n="PAST.229b:38"/>Or n'ay de penser <rhyme>cure</rhyme>
+<pb n="229" ed="v"/>
+<lb n="PAST.229v:01"/><hi rend="red">Le <note>wide space</note> livre <note>wide space</note> de <note>1re colonne</note> la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 38 lines -->
+<lb n="PAST.229c:01"/>Ne je n'ay <note>point sur le 'y</note> nul autre <rhyme>bien</rhyme>
+<lb n="PAST.229c:02"/>Fors vëoir cil qui tout <rhyme>sien</rhyme>
+<lb n="PAST.229c:03"/>A mon cuer je le lui <rhyme>jure</rhyme>
+<lb n="PAST.229c:04"/>dont &amp;c <note>centred ; '&amp;c' plus petit module</note>
+<lb n="PAST.229c:05"/>Son gent corps où que je <rhyme>soie</rhyme>
+<lb n="PAST.229c:06"/>Et sa chere <rhyme>gracïeuse</rhyme>
+<lb n="PAST.229c:07"/>Adès m'est vis que je <rhyme>voie</rhyme>
+<lb n="PAST.229c:08"/>De plus ne suis <rhyme>curïeuse</rhyme>
+<lb n="PAST.229c:09"/>helas je sens la <rhyme>pointure</rhyme>
+<lb n="PAST.229c:10"/>D'<name ref="Love"><c>a</c>mours</name> qui me tient si <rhyme>bien</rhyme>
+<lb n="PAST.229c:11"/>Que je n'ay sens ne <rhyme>maintien</rhyme>
+<lb n="PAST.229c:12"/>Tant mes en amer ma <rhyme>cure</rhyme> <note>'mes' de 'mettre'</note>
+<lb n="PAST.229c:13"/>dont &amp;c <note>centred; '&amp;c' plus petit module</note>
+<lb n="PAST.229c:14"/><hi rend="cap2">A</hi>u <note>lettre d'attente 'a' visible</note> matin quant le jour <rhyme>crieve</rhyme>
+<lb n="PAST.229c:15"/>Pensant à amours me <rhyme>lieve</rhyme>
+<lb n="PAST.229c:16"/>À souleil levant m'en <rhyme>vois</rhyme> <note>'v' repassé</note>
+<lb n="PAST.229c:17"/>O mes brebis vers le <rhyme>bois</rhyme>
+<lb n="PAST.229c:18"/>Ma compaigne d'assez <rhyme>pres</rhyme>
+<lb n="PAST.229c:19"/>Me suivoit si vint <rhyme>après</rhyme>
+<lb n="PAST.229c:20"/>Dont je fus moult <rhyme>resjouÿe</rhyme>
+<lb n="PAST.229c:21"/>Si tost que je l'oz <rhyme>ouÿe</rhyme>
+<lb n="PAST.229c:22"/>De loings le chef me <rhyme>hancha</rhyme>
+<lb n="PAST.229c:23"/>Puis quant elle <rhyme>s'approcha</rhyme>
+<lb n="PAST.229c:24"/>Sus la fontaine en <rhyme>alons</rhyme>
+<lb n="PAST.229c:25"/>Sëoir ne fu mie <rhyme>loncs</rhyme>
+<lb n="PAST.229c:26"/>Li chemins lors <rhyme>commençay</rhyme>
+<lb n="PAST.229c:27"/>Com celle qui plus – <rhyme>pensay</rhyme> <note>réparation du parchemin</note>
+<lb n="PAST.229c:28"/>¶ Dis <name ref="Lorette"><c>l</c>orette</name>  – <note>tildes</note> doulce <rhyme>amie</rhyme> <note>réparation du parchemin</note>
+<lb n="PAST.229c:29"/>Et ne te mentois je <rhyme>mie</rhyme> <note>réparation du parchemin, cf. aspect passé</note>
+<lb n="PAST.229c:30"/>Est il bel le <rhyme>chevalier</rhyme> <note>trait vertical dans la marge devant le vers ?</note>
+<lb n="PAST.229c:31"/>Par ta foy que tu vis <rhyme>yer</rhyme>
+<lb n="PAST.229c:32"/>N'est il gracïeux et <rhyme>gent</rhyme>
+<lb n="PAST.229c:33"/>Et plaisant à toute <rhyme>gent</rhyme>
+<lb n="PAST.229c:34"/>Sont pastouriaulx de tel <rhyme>sorte</rhyme>
+<lb n="PAST.229c:35"/>Bien aroit pensée <rhyme>torte</rhyme>
+<lb n="PAST.229c:36"/>Ou avugle les &#x95; ii &#x95; <note>espace</note> <rhyme>yeulx</rhyme>
+<lb n="PAST.229c:37"/>À qui il ne plairoit <rhyme>mieulx</rhyme>
+<lb n="PAST.229c:38"/>Q'un berger tant fust <rhyme>appris</rhyme>
+<cb n="d"/>
+<!-- 38 lines -->
+<lb n="PAST.229d:01"/>De quoy ay je dont <rhyme>mespris</rhyme> <note>Dessin dans la marge supérieure</note>
+<lb n="PAST.229d:02"/>S'il me plaist sans mal <rhyme>penser</rhyme>
+<lb n="PAST.229d:03"/>Et sans nullui <rhyme>offenser</rhyme>
+<lb n="PAST.229d:04"/>¶ <name ref="Lorette">Lorette</name> respont <rhyme>atant</rhyme>
+<lb n="PAST.229d:05"/>Bel et gracïeux est <rhyme>tant</rhyme>
+<lb n="PAST.229d:06"/>Voirement que riens n'y <rhyme>fault</rhyme>
+<lb n="PAST.229d:07"/>Ne je n'y voy nul <rhyme>deffault</rhyme>
+<lb n="PAST.229d:08"/>Et bien voy que <rhyme>l'ameras</rhyme> <note>lettre grattée entre le 'r' et le 's' ; espace; correction, 'a', présente dans l'entrecolonne</note>
+<lb n="PAST.229d:09"/>Dont ancor te <rhyme>blasmeras</rhyme>
+<lb n="PAST.229d:10"/>Mais s'il / les autres <rhyme>surmonte</rhyme>
+<lb n="PAST.229d:11"/>À toy ce que vault et <rhyme>monte</rhyme>
+<lb n="PAST.229d:12"/>Qui pastourelle <rhyme>remains</rhyme>
+<lb n="PAST.229d:13"/>De tant t'amera il <rhyme>mains</rhyme>
+<lb n="PAST.229d:14"/>Comme / <note>separator</note> en lui a plus <rhyme>valour</rhyme>
+<lb n="PAST.229d:15"/>Bien tendroit à grant <rhyme>folour</rhyme>
+<lb n="PAST.229d:16"/>D'en toy mettre s'amour <rhyme>toute</rhyme>
+<lb n="PAST.229d:17"/>Quelque dame aime sans <rhyme>doubte</rhyme>
+<lb n="PAST.229d:18"/>Belle et de grant <rhyme>renommée</rhyme>
+<lb n="PAST.229d:19"/>Cuideroies tu <rhyme>amée</rhyme>
+<lb n="PAST.229d:20"/>Estre de lui fole <rhyme>nisse</rhyme>
+<lb n="PAST.229d:21"/>Gardes qu'il ne te <rhyme>honnisse</rhyme>
+<lb n="PAST.229d:22"/>Car s'amour n'aras tu <rhyme>pas</rhyme>
+<lb n="PAST.229d:23"/>Et ne te fie en ses <rhyme>pas</rhyme>
+<lb n="PAST.229d:24"/>N'en son regart doulx et <rhyme>simple</rhyme>
+<lb n="PAST.229d:25"/>Chacun te tendroit à <rhyme>simple</rhyme>
+<lb n="PAST.229d:26"/>De toy attendre <note>tache sur le mot, cire ?</note> à <rhyme>s'amour</rhyme>
+<lb n="PAST.229d:27"/>Mais me croy et sans <rhyme>demour</rhyme>
+<lb n="PAST.229d:28"/>Eslongne ce bois <rhyme>ramage</rhyme>
+<lb n="PAST.229d:29"/>Ains que plus ayes <rhyme>dommage</rhyme>
+<lb n="PAST.229d:30"/>Et gart qu'il plus ne t'i <rhyme>treuve</rhyme>
+<lb n="PAST.229d:31"/>Ains que fole amour te <rhyme>meuve</rhyme>
+<lb n="PAST.229d:32"/>À faire plus grant <rhyme>folie</rhyme>
+<lb n="PAST.229d:33"/>Car à grant sens cil <rhyme>s'alie</rhyme>
+<lb n="PAST.229d:34"/>Qui eslongne le <rhyme>meschief</rhyme>
+<lb n="PAST.229d:35"/>Ains qu'il en viengne à mal <rhyme>chef</rhyme>
+<lb n="PAST.229d:36"/>Mais pour bien je le <rhyme>t'anonce</rhyme>
+<lb n="PAST.229d:37"/>Car tu n'aras ja une <rhyme>once</rhyme>
+<lb n="PAST.229d:38"/>De s'amour ne pou ne <rhyme>grain</rhyme>
+<pb n="230" ed="r"/>
+<lb n="PAST.230r:01"/><hi rend="red">pastoure xx</hi> <note>centred sur l'entrecolonne</note>
+<cb n="a"/>
+<!-- 38 lines -->
+<lb n="PAST.230a:01"/>Tel espy n'est pas sans <rhyme>grain</rhyme>
+<lb n="PAST.230a:02"/>Cuides tu qu'à <rhyme>pourvëoir</rhyme>
+<lb n="PAST.230a:03"/>Soit adès / bon à <rhyme>vëoir</rhyme>
+<lb n="PAST.230a:04"/>Est au regart <rhyme>savoureux</rhyme>
+<lb n="PAST.230a:05"/>Qu'il a le cuer <rhyme>amoureux</rhyme>
+<lb n="PAST.230a:06"/>Mais pour passer temps peut <rhyme>estre</rhyme>
+<lb n="PAST.230a:07"/>Tout soit il noble et grant <rhyme>maistre</rhyme>
+<lb n="PAST.230a:08"/>Bien vouldroit trouver <rhyme>aucune</rhyme>
+<lb n="PAST.230a:09"/>Car pou sont <note>mots soudés</note> qui n'aiment <rhyme>q'une</rhyme>
+<lb n="PAST.230a:10"/>À qui se peüst <rhyme>esbatre</rhyme>
+<lb n="PAST.230a:11"/>S'à ce se pouoit <rhyme>embatre</rhyme>
+<lb n="PAST.230a:12"/>Mais c'est trop grevable <rhyme>peine</rhyme>
+<lb n="PAST.230a:13"/>À cuer qui d'amour <rhyme>certaine</rhyme>
+<lb n="PAST.230a:14"/>Aime entierement <rhyme>partie</rhyme>
+<lb n="PAST.230a:15"/>Qui en &#x95; ii &#x95; lieux est <rhyme>partie</rhyme>
+<lb n="PAST.230a:16"/>Ou en plusieurs et scet <rhyme>bien</rhyme>
+<lb n="PAST.230a:17"/>Qu'il n'en a pas tout le <rhyme>bien</rhyme>
+<lb n="PAST.230a:18"/>Et mieulx vauldroit n'est pas <rhyme>gas</rhyme>
+<lb n="PAST.230a:19"/>Amer en un lieu plus <rhyme>bas</rhyme>
+<lb n="PAST.230a:20"/>Qu'en si hault n'en si grant <rhyme>pris</rhyme>
+<lb n="PAST.230a:21"/>Qu'on soit tenu en <rhyme>despris</rhyme>
+<lb n="PAST.230a:22"/><hi rend="cap2">N</hi>e <note>lettre d'attente 'n' partiellement visible</note> te souvient il <rhyme><name ref="Marote"><c>m</c>arote</name></rhyme>
+<lb n="PAST.230a:23"/><c>q</c>ue ton pere <name ref="Jean+Burote">Jehan <rhyme><c>b</c>urote</rhyme></name>
+<lb n="PAST.230a:24"/>Qui est sage homme entre <rhyme>mille</rhyme>
+<lb n="PAST.230a:25"/>N'a pareil en n<abbr type="ost"/>re <rhyme>ville</rhyme>
+<lb n="PAST.230a:26"/>A de biaulx rommans <rhyme>assez</rhyme>
+<lb n="PAST.230a:27"/>Qui parlent des temps <rhyme>passez</rhyme>
+<lb n="PAST.230a:28"/>L'autrier en un dessoubz <rhyme>l'orme</rhyme>
+<lb n="PAST.230a:29"/>Lisoit séant sus sa <rhyme>fourme</rhyme>
+<lb n="PAST.230a:30"/>¶ Au propos de tieulx <rhyme>amans</rhyme>
+<lb n="PAST.230a:31"/>Raconte cellui <rhyme>rommans</rhyme>
+<lb n="PAST.230a:32"/>Ainsi com je me <rhyme>recorde</rhyme>
+<lb n="PAST.230a:33"/>Il me semble qu'il <rhyme>recorde</rhyme>
+<lb n="PAST.230a:34"/>D'un filz de roy et m'est <rhyme>vis</rhyme>
+<lb n="PAST.230a:35"/>Comme il compte en son <rhyme>devis</rhyme>
+<lb n="PAST.230a:36"/>Qu'on appelloit <name ref="King+of+Troy">roy de <rhyme><c>t</c>roye</rhyme></name>
+<lb n="PAST.230a:37"/>Le pere / avint toute <rhyme>voye</rhyme>
+<lb n="PAST.230a:38"/>Que la <c>R</c>oÿne un fier <rhyme>songe</rhyme>
+<cb n="b"/>
+<!-- 38 lines -->
+<lb n="PAST.230b:01"/>Songia nel tint à <rhyme>mençonge</rhyme>
+<lb n="PAST.230b:02"/>Quant de ce filz grosse <rhyme>estoit</rhyme>
+<lb n="PAST.230b:03"/>Avis lui fu qu'elle <rhyme>avoit</rhyme>
+<lb n="PAST.230b:04"/>Enfanté un grant <rhyme>tison</rhyme>
+<lb n="PAST.230b:05"/>Ardent qui la <rhyme>bastison</rhyme>
+<lb n="PAST.230b:06"/>De la ville toute <rhyme>ardoit</rhyme>
+<lb n="PAST.230b:07"/>La cité toute <rhyme>perdoit</rhyme>
+<lb n="PAST.230b:08"/>Le paÿs et le <rhyme>regné</rhyme>
+<lb n="PAST.230b:09"/>Le roy quant l'enfant fu <rhyme>né</rhyme>
+<lb n="PAST.230b:10"/>Occire le <rhyme>commanda</rhyme>
+<lb n="PAST.230b:11"/>Mais la roÿne <rhyme>manda</rhyme>
+<lb n="PAST.230b:12"/>Qu'à son pastour fust <rhyme>baillé</rhyme>
+<lb n="PAST.230b:13"/>Et non de coutiaulx <rhyme>taillé</rhyme>
+<lb n="PAST.230b:14"/>Car trop ert bel <rhyme>enfançon</rhyme>
+<lb n="PAST.230b:15"/>Si fu nourri <rhyme>enfançon</rhyme>
+<lb n="PAST.230b:16"/>De filz de bergier oû <rhyme>bois</rhyme>
+<lb n="PAST.230b:17"/>Et quant grant fu / atout <note>'a tout' ?</note> <rhyme>ois</rhyme>
+<lb n="PAST.230b:18"/>Cuidoit au pastour filz <rhyme>estre</rhyme>
+<lb n="PAST.230b:19"/>Nez / en village <rhyme>champestre</rhyme>
+<lb n="PAST.230b:20"/>Si fu bel gentil et <rhyme>gent</rhyme>
+<lb n="PAST.230b:21"/>Et plaisant à toute <rhyme>gent</rhyme>
+<lb n="PAST.230b:22"/>Sur toute autre <rhyme>crëature</rhyme>
+<lb n="PAST.230b:23"/>Bien retrait à sa <rhyme>nature</rhyme>
+<lb n="PAST.230b:24"/>Car tout gardast il <rhyme>brebis</rhyme>
+<lb n="PAST.230b:25"/>Et mengiast lait et pain <rhyme>bis</rhyme>
+<lb n="PAST.230b:26"/>Courtois fu et <rhyme>avenant</rhyme>
+<lb n="PAST.230b:27"/>Abille et bien <rhyme>souvenant</rhyme> <note>'b' / 'v'</note>
+<lb n="PAST.230b:28"/>En lui ot gentil <rhyme>berger</rhyme> <note>'b' / 'v'</note>
+<lb n="PAST.230b:29"/>En maint bois en maint <rhyme>verger</rhyme> <note>'b' / 'v'</note>
+<lb n="PAST.230b:30"/>Reppairoit brebis <rhyme>paissant</rhyme>
+<lb n="PAST.230b:31"/>¶ Une pucelle en <rhyme>passant</rhyme>
+<lb n="PAST.230b:32"/>Vit le gentilz homs <rhyme>naÿs</rhyme>
+<lb n="PAST.230b:33"/>La plus belle du <rhyme>paÿs</rhyme>
+<lb n="PAST.230b:34"/>Menant brebis en <rhyme>pasture</rhyme>
+<lb n="PAST.230b:35"/>Gent corps et belle <rhyme>faitture</rhyme> <note>ou 'ct' ?</note>
+<lb n="PAST.230b:36"/>Ot la pucelle au cler <rhyme>vis</rhyme>
+<lb n="PAST.230b:37"/>Et nommée à mon <rhyme>avis</rhyme>
+<lb n="PAST.230b:38"/>Fu par droit nom <rhyme><name ref="Senoné">Senoné</name></rhyme>
+<pb n="230" ed="v"/>
+<lb n="PAST.230v:01"/><hi rend="red">Le livre de <note>1re colonne</note> la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 38 lines -->
+<lb n="PAST.230c:01"/>Si lui à son cuer <rhyme>donné</rhyme>
+<lb n="PAST.230c:02"/>Car trop lui plot son doulz <rhyme>ris</rhyme>
+<lb n="PAST.230c:03"/><name ref="Paris">Le bergier nommé <rhyme><c>p</c>aris</rhyme></name>
+<lb n="PAST.230c:04"/>Fu puis comme on fait <rhyme>entendre</rhyme> <note>vers encre plus claire</note>
+<lb n="PAST.230c:05"/>Mès lors nommé <rhyme><name ref="Alexander"><c>a</c>lixandre</name></rhyme>
+<lb n="PAST.230c:06"/>Estoit cil gentil <rhyme>pastour</rhyme>
+<lb n="PAST.230c:07"/>Si n'y avoit là <rhyme>entour</rhyme>
+<lb n="PAST.230c:08"/>Pastourel à lui <rhyme>semblable</rhyme>
+<lb n="PAST.230c:09"/>Tant fu doulx et <rhyme>amïable</rhyme>
+<lb n="PAST.230c:10"/>Que <name ref="Senoné">Senoné</name> moult <rhyme>l'ama</rhyme>
+<lb n="PAST.230c:11"/>Et doulx ami le <rhyme>clama</rhyme>
+<lb n="PAST.230c:12"/>Si orent sicom <rhyme>j'entens</rhyme>
+<lb n="PAST.230c:13"/>Les &#x95; ii &#x95; amans moult bon <rhyme>temps</rhyme>
+<lb n="PAST.230c:14"/>Un tandis et lit <rhyme>faisoient</rhyme>
+<lb n="PAST.230c:15"/>De fueilles vers où <rhyme>gisoient</rhyme>
+<lb n="PAST.230c:16"/>Bras à bras sans <rhyme>couverture</rhyme>
+<lb n="PAST.230c:17"/>Fors de branches et <rhyme>verdure</rhyme>
+<lb n="PAST.230c:18"/>N'autre ne voulsissent / <note>separator</note> <rhyme>mie</rhyme>
+<lb n="PAST.230c:19"/><name ref="Paris">Paris</name> promist à <rhyme>s'amie</rhyme>
+<lb n="PAST.230c:20"/>Qu'à tous jours mais <rhyme>l'ameroit</rhyme>
+<lb n="PAST.230c:21"/>Ne jamais ne la <rhyme>lairoit</rhyme>
+<lb n="PAST.230c:22"/>Ainçois une grant <rhyme>riviere</rhyme>
+<lb n="PAST.230c:23"/>Tourneroit son cours <rhyme>arriere</rhyme>
+<lb n="PAST.230c:24"/>Que son cuer fust <rhyme>depposé</rhyme>
+<lb n="PAST.230c:25"/>D'elle amer ne <rhyme>reposé</rhyme>
+<lb n="PAST.230c:26"/>Si fist ceste <rhyme>couvenance</rhyme>
+<lb n="PAST.230c:27"/>En un arbre en <rhyme>souvenance</rhyme>
+<lb n="PAST.230c:28"/>L'escript atout le <rhyme>coutel</rhyme>
+<lb n="PAST.230c:29"/>Dont il tailloit maint <rhyme>fretel</rhyme>
+<lb n="PAST.230c:30"/>Et dist que cel abre et <rhyme>fust</rhyme>
+<lb n="PAST.230c:31"/>Tesmoing du couvenant <rhyme>fust</rhyme>
+<lb n="PAST.230c:32"/>Mais puis autrement <rhyme>advint</rhyme>
+<lb n="PAST.230c:33"/>Car dit lui fu dont il <rhyme>vint</rhyme>
+<lb n="PAST.230c:34"/>Et de quel gent estoit <rhyme>né</rhyme>
+<lb n="PAST.230c:35"/>Dont desplut à <rhyme><name ref="Senoné">Senoné</name></rhyme>
+<lb n="PAST.230c:36"/>Car aussi tost s'en <rhyme>ala</rhyme>
+<lb n="PAST.230c:37"/>Plus brebis ne garda <rhyme>là</rhyme>
+<lb n="PAST.230c:38"/>Ains s'en retourna à <rhyme><name ref=""><c>t</c>roye</name></rhyme>
+<cb n="d"/>
+<!-- 38 lines -->
+<lb n="PAST.230d:01"/>Dont ses parens orent <rhyme>joye</rhyme>
+<lb n="PAST.230d:02"/>Sa povre amie <rhyme>oublïa</rhyme>
+<lb n="PAST.230d:03"/>Qui moult s'en <rhyme>contralïa</rhyme>
+<lb n="PAST.230d:04"/>Puis ama <c>R</c>oÿne <name ref="Helen"><rhyme><c>h</c>ele<add place="supralinear" type="scribe" evidence="caret">i</add>ne</rhyme></name>
+<lb n="PAST.230d:05"/>Dont il ot douleur et <rhyme>peine</rhyme>
+<lb n="PAST.230d:06"/>¶ Doncques peus tu bien <rhyme>vëoir</rhyme>
+<lb n="PAST.230d:07"/>Que chacun veult <rhyme>assëoir</rhyme>
+<lb n="PAST.230d:08"/>Son cuer selon son <rhyme>degré</rhyme>
+<lb n="PAST.230d:09"/>Car <name ref="Senoné">Senoné</name> plus <rhyme>agré</rhyme> <note>agglutinated?</note>
+<lb n="PAST.230d:10"/>Ne vint à cil par nul <rhyme>tour</rhyme>
+<lb n="PAST.230d:11"/>Quant sceut qu'il n'estoit <rhyme>pastour</rhyme>
+<lb n="PAST.230d:12"/>Ains yert de <c>R</c>oyal <rhyme>orine</rhyme>
+<lb n="PAST.230d:13"/>Pour ce amer une <rhyme>roÿne</rhyme>
+<lb n="PAST.230d:14"/>Voult / dont mal lui <rhyme>ensuivi</rhyme>
+<lb n="PAST.230d:15"/>Et ainsi je te <rhyme>plevy</rhyme>
+<lb n="PAST.230d:16"/>Peus tu vëoir et <rhyme>apprendre</rhyme>
+<lb n="PAST.230d:17"/>Qu'on se doit à son per <rhyme>prendre</rhyme>
+<lb n="PAST.230d:18"/>Qui veult jouÿr à son <rhyme>vueil</rhyme>
+<lb n="PAST.230d:19"/>D'amours &amp; <note>sur grattage ; '&amp; dans l'entrecolonne</note> avoir maint <rhyme>dueil</rhyme>
+<lb n="PAST.230d:20"/>¶ Or t'ay conseillé moy <rhyme>semble</rhyme>
+<lb n="PAST.230d:21"/>Loyaument car puis <rhyme>qu'ensemble</rhyme>
+<lb n="PAST.230d:22"/>Loyales compaignes <rhyme>sommes</rhyme>
+<lb n="PAST.230d:23"/>Ne devons pour nulles <rhyme>sommes</rhyme>
+<lb n="PAST.230d:24"/>Souffrir l'une l'autre <rhyme>traire</rhyme>
+<lb n="PAST.230d:25"/>À Riens qui lui soit <rhyme>contraire</rhyme>
+<lb n="PAST.230d:26"/>S'estre y peut remede <rhyme>mis</rhyme>
+<lb n="PAST.230d:27"/>Par nous ou par noz <rhyme>amis</rhyme>
+<lb n="PAST.230d:28"/>¶ Adont à celle <rhyme>respons</rhyme>
+<lb n="PAST.230d:29"/>Qui m'ot tel sermon <rhyme>expons</rhyme>
+<lb n="PAST.230d:30"/><name ref="Lorette">Lorette</name> tu dis <rhyme>merveilles</rhyme>
+<lb n="PAST.230d:31"/>Qui l'amer me <rhyme>desconseilles</rhyme>
+<lb n="PAST.230d:32"/>Pour ce que pastoure <rhyme>simple</rhyme>
+<lb n="PAST.230d:33"/>Suis sanz atour et sans <rhyme>guimple</rhyme>
+<lb n="PAST.230d:34"/>Et dis qu'en moy à nul <rhyme>feur</rhyme>
+<lb n="PAST.230d:35"/>Cellui ne mettroit son <rhyme>cuer</rhyme>
+<lb n="PAST.230d:36"/>Pour ce que d'estat <rhyme>pareil</rhyme>
+<lb n="PAST.230d:37"/>Ne sommes ne <rhyme>d'apareil</rhyme>
+<lb n="PAST.230d:38"/>Et à <name ref="Senoné">Senoné</name> te <rhyme>semble</rhyme>
+<pb n="231" ed="r"/>
+<lb n="PAST.231r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95; <note>colonnette</note></hi>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.231a:01"/>Bien devriés pendre <rhyme>exemple</rhyme> <note>trait vertical devant le vers dans la M/g</note>
+<lb n="PAST.231a:02"/>Que <name ref="Paris"><c>p</c>aris</name> tost <rhyme>oublïa</rhyme>
+<lb n="PAST.231a:03"/>Tu dis voir / mais il y <rhyme>a</rhyme>
+<lb n="PAST.231a:04"/>Autre livre il m'en <rhyme>recorde</rhyme>
+<lb n="PAST.231a:05"/>Qui d'<name ref="Hercules"><c>e</c>rculés</name> nous <rhyme>recorde</rhyme>
+<lb n="PAST.231a:06"/>Qui fu si <rhyme>chevalereux</rhyme>
+<lb n="PAST.231a:07"/>Et en armes tant <rhyme>eureux</rhyme>
+<lb n="PAST.231a:08"/>Qu'onques nul ne le <rhyme>passa</rhyme>
+<lb n="PAST.231a:09"/>Tant en armes <rhyme>s'avança</rhyme>
+<lb n="PAST.231a:10"/>Et si ert roy <rhyme>couronné</rhyme>
+<lb n="PAST.231a:11"/>De grant terre et de <rhyme>regné</rhyme>
+<lb n="PAST.231a:12"/>Mais <name ref="Love"><c>a</c>mours</name> si le <rhyme>lïa</rhyme> <note>présence des deux traits parallèles pour l'exécution du ¶ dans M/g ?</note>
+<lb n="PAST.231a:13"/>Et si fort <rhyme>l'umilïa</rhyme>
+<lb n="PAST.231a:14"/>Qu'il ne lui desplaisoit <rhyme>mie</rhyme>
+<lb n="PAST.231a:15"/>Charpir laine avec <rhyme>s'amie</rhyme> <note>trait de liaison</note>
+<lb n="PAST.231a:16"/>Et lui qui <note>'q' repassé sur un 'e' ou un 'c' ?</note> de tel <rhyme>pris</rhyme>
+<lb n="PAST.231a:17"/>Que les lÿons rendoit <rhyme>pris</rhyme>
+<lb n="PAST.231a:18"/>Fu subgèt à une <rhyme>femme</rhyme>
+<lb n="PAST.231a:19"/>Qu'il servoit comme sa <rhyme>dame</rhyme>
+<lb n="PAST.231a:20"/>Si n'y a nulle <rhyme>grandeur</rhyme> <note>'no<abbr type="ta"/>' dans la M/g devant ce vers</note>
+<lb n="PAST.231a:21"/>En amours quant grant <rhyme>ardeur</rhyme>
+<lb n="PAST.231a:22"/>Fait par plaisance <rhyme>soubmettre</rhyme>
+<lb n="PAST.231a:23"/>Le cuer où il se veult <rhyme>mettre</rhyme>
+<lb n="PAST.231a:24"/>¶ Ainsi respondis a <rhyme>tant</rhyme>
+<lb n="PAST.231a:25"/>À <name ref="Lorete"><c>l</c>orette</name> mais pour <rhyme>tant</rhyme>
+<lb n="PAST.231a:26"/>Lui dis que ja ne <note>3 mots agglutinés ?</note> <rhyme>doubtast</rhyme>
+<lb n="PAST.231a:27"/>Et son penser en <rhyme>otast</rhyme>
+<lb n="PAST.231a:28"/>Que ja mon cuer si <rhyme>volage</rhyme>
+<lb n="PAST.231a:29"/>Ne seroit qu'il eust <rhyme>folage</rhyme>
+<lb n="PAST.231a:30"/>En l'amour où <rhyme>m'embatoie</rhyme>
+<lb n="PAST.231a:31"/>Mais amer bien le <rhyme>sentoye</rhyme>
+<lb n="PAST.231a:32"/>Le me couvendroit sans <rhyme>faille</rhyme>
+<lb n="PAST.231a:33"/>Quel mal que souffrir m'en <rhyme>faille</rhyme>
+<lb n="PAST.231a:34"/>Car mon cuer s'i <rhyme>adonnoit</rhyme>
+<lb n="PAST.231a:35"/>Et du tout à lui <rhyme>donnoit</rhyme>
+<lb n="PAST.231a:36"/>Voulsisse ou non et ne <rhyme>peusse</rhyme>
+<lb n="PAST.231a:37"/>Pour poissance que g'i <rhyme>eusse</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.231b:01"/>M'en oster ja tant <rhyme>l'amoye</rhyme> <note>point sur le 'y'</note>
+<lb n="PAST.231b:02"/>Et que trop mieulx l'amour <rhyme>moye</rhyme>
+<lb n="PAST.231b:03"/>Me plaisoit à lui <rhyme>donner</rhyme>
+<lb n="PAST.231b:04"/>Et mon cuer <rhyme>abandonner</rhyme>
+<lb n="PAST.231b:05"/>Qu'à nul autre posé <rhyme>ore</rhyme>
+<lb n="PAST.231b:06"/>Que <note>début/amorce d'une autre lettre tracée sous le 'q' ?</note> tant ne m'amast <rhyme>ancore</rhyme>
+<lb n="PAST.231b:07"/>Comme un autre <rhyme>m'ameroit</rhyme>
+<lb n="PAST.231b:08"/>Qui dame me <rhyme>clameroit</rhyme>
+<lb n="PAST.231b:09"/>Souveraine et <rhyme>redoubtée</rhyme>
+<lb n="PAST.231b:10"/>Tant <note>grattage sous le 'n' ?</note> y os m'amour <rhyme>boutée</rhyme>
+<lb n="PAST.231b:11"/>Si ne m'en blamast <rhyme>jamais</rhyme>
+<lb n="PAST.231b:12"/>Car trop tart ert dès <rhyme>ormais</rhyme>
+<lb n="PAST.231b:13"/>Et celle me dist qu'a <rhyme>tant</rhyme>
+<lb n="PAST.231b:14"/>S'en deporteroit et <rhyme>tant</rhyme>
+<lb n="PAST.231b:15"/>Comme elle pourroit au <rhyme>fort</rhyme>
+<lb n="PAST.231b:16"/>M'en donroit bon <rhyme>reconfort</rhyme>
+<lb n="PAST.231b:17"/>Car puis q'une riens fault <rhyme>estre</rhyme>
+<lb n="PAST.231b:18"/>N'y a lieu sermon ne <rhyme>maistre</rhyme>
+<lb n="PAST.231b:19"/><hi rend="cap2">E</hi>n <note>lettre d'attente 'e' visible</note> tel devis tout le <rhyme>jour</rhyme>
+<lb n="PAST.231b:20"/>Nous fumes et sans <rhyme>sejour</rhyme>
+<lb n="PAST.231b:21"/>Ne parlions d'autre <rhyme>matiere</rhyme>
+<lb n="PAST.231b:22"/>Ensemble et se toute <rhyme>entiere</rhyme>
+<lb n="PAST.231b:23"/>Une sepmaine en <rhyme>parlasse</rhyme>
+<lb n="PAST.231b:24"/>Ne me sembloit pas <rhyme>l'espace</rhyme>
+<lb n="PAST.231b:25"/>D'une heure tant me <rhyme>plaisoit</rhyme>
+<lb n="PAST.231b:26"/>En parler si me <rhyme>faisoit</rhyme>
+<lb n="PAST.231b:27"/>Resjouïr la <rhyme>souvenance</rhyme>
+<lb n="PAST.231b:28"/>De sa doulce <rhyme>contenance</rhyme>
+<lb n="PAST.231b:29"/>¶ Là tous les jours <rhyme>assemblions</rhyme>
+<lb n="PAST.231b:30"/>Et des aut<abbr type="re"/>s nous <rhyme>amblions</rhyme>
+<lb n="PAST.231b:31"/>Entre nous &#x95; ii &#x95; <rhyme>bergerettes</rhyme>
+<lb n="PAST.231b:32"/>Parlant de noz <rhyme>amourettes</rhyme>
+<lb n="PAST.231b:33"/>Si repairions là <rhyme>souvent</rhyme>
+<lb n="PAST.231b:34"/>Ou fust par pluye ou par <rhyme>vent</rhyme>
+<lb n="PAST.231b:35"/>Nul mal ne nous estoit <rhyme>grief</rhyme>
+<lb n="PAST.231b:36"/>Mais pour compter plus en <rhyme>brief</rhyme>
+<lb n="PAST.231b:37"/>Sans tous les jours <rhyme>Raconter</rhyme>
+<pb n="231" ed="v"/>
+<lb n="PAST.231v:01"/><hi rend="red">Le livre <note>'d' gratté entre les deux mots</note> de <note>sur 1re colonne</note> la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.231c:01"/>Qu'<name ref="Love"><c>a</c>mours</name> nous <s>y</s> fist <rhyme>hanter</rhyme>
+<lb n="PAST.231c:02"/>Nous y fumes celle <rhyme>année</rhyme>
+<lb n="PAST.231c:03"/>Mainte heure et mainte <rhyme>journée</rhyme>
+<lb n="PAST.231c:04"/>Et cil souvent y <rhyme>venoit</rhyme>
+<lb n="PAST.231c:05"/>À qui bien en <rhyme>souvenoit</rhyme>
+<lb n="PAST.231c:06"/>Si me plut tant sa <rhyme>hantise</rhyme>
+<lb n="PAST.231c:07"/>Que je l'amay de tel <rhyme>guise</rhyme>
+<lb n="PAST.231c:08"/>Que tout mon aage y <rhyme>perra</rhyme>
+<lb n="PAST.231c:09"/>¶ Ainsi oû bois <rhyme>repaira</rhyme>
+<lb n="PAST.231c:10"/>Cellui <note>'ui' sur grattage d'un 'e'</note> / <note>separator</note> qui si / <note>separator</note> s'i <rhyme>maintint</rhyme>
+<lb n="PAST.231c:11"/>Qu'entre ses las bien me <rhyme>tint</rhyme>
+<lb n="PAST.231c:12"/>Combien que peine <rhyme>mettoie</rhyme>
+<lb n="PAST.231c:13"/>À moins l'amer et <rhyme>doubtoie</rhyme>
+<lb n="PAST.231c:14"/>Que mal m'en peust <rhyme>venir</rhyme>
+<lb n="PAST.231c:15"/>Et se m'en peusse <rhyme>tenir</rhyme>
+<lb n="PAST.231c:16"/>Voulentiers trop moins <rhyme>l'amasse</rhyme>
+<lb n="PAST.231c:17"/>Pour n'en souffrir si grant <rhyme>masse</rhyme>
+<lb n="PAST.231c:18"/>De doulour pour sienne <rhyme>amour</rhyme>
+<lb n="PAST.231c:19"/>Dont i'estoie en grant <rhyme>cremour</rhyme>
+<lb n="PAST.231c:20"/>Pour ce contre <name ref="Love"><c>a</c>mours</name> <rhyme>disoie</rhyme>
+<lb n="PAST.231c:21"/>Ainsi quant je <rhyme>m'avisoie</rhyme>
+<lb n="PAST.231c:22"/>Et m'iert vis qu'en mes <rhyme>clamours</rhyme>
+<lb n="PAST.231c:23"/>Ainsi respondoit <rhyme><name ref="Love"><c>a</c>mours</name></rhyme>
+<lb n="PAST.231c:24"/>balade à responces <note>centred</note>
+<lb n="PAST.231c:25"/><name ref="Love"><hi rend="cap2">A</hi>mours</name> <note>lettre d'attente 'a' visible</note> escoute ma <rhyme>complainte</rhyme>
+<lb n="PAST.231c:26"/>or dis qu'as tu de quoy te <rhyme>plains</rhyme>
+<lb n="PAST.231c:27"/>De toy / par qui je suis <rhyme>estrainte</rhyme>
+<lb n="PAST.231c:28"/>Tort as quant de ce te <rhyme>complains</rhyme>
+<lb n="PAST.231c:29"/>Non ay voir / car ma joye <rhyme>estains</rhyme>
+<lb n="PAST.231c:30"/>Joye en aras / s'en toy ne <rhyme>tient</rhyme>
+<lb n="PAST.231c:31"/>Trop crain le grant mal qui en <rhyme>vient</rhyme>
+<lb n="PAST.231c:32"/>Pense au bien non pas au <rhyme>dommage</rhyme>
+<lb n="PAST.231c:33"/>Vueille ou non d'un seul me <rhyme>souvient</rhyme>
+<lb n="PAST.231c:34"/>Aimes lay si feras que <note>dernière lettre repassée</note> <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.231c:36"/>Veulx tu que i'aime est ce <rhyme>contrainte</rhyme>
+<lb n="PAST.231c:37"/>C'est droit quant ton cuer est <rhyme>attains</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.231d:01"/>Sera ce cil qui m'a <rhyme>estrainte</rhyme>
+<lb n="PAST.231d:02"/>Oÿl car de tout bien est <rhyme>plains</rhyme>
+<lb n="PAST.231d:03"/>Je n'ay dont pas tort se je <rhyme>l'aims</rhyme>
+<lb n="PAST.231d:04"/>Non / car chacun à bon le <rhyme>tient</rhyme>
+<lb n="PAST.231d:05"/>Et se mon honneur ne <rhyme>soustient</rhyme>
+<lb n="PAST.231d:06"/>Si fera voir c'est son <rhyme>usage</rhyme>
+<lb n="PAST.231d:07"/>Or me di qu'en faire <rhyme>appartient</rhyme>
+<lb n="PAST.231d:08"/>Aimes lay / si feras que <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.231d:10"/><name ref="Reason">Raison</name> me met en trop grant <rhyme>crainte</rhyme>
+<lb n="PAST.231d:11"/>Ne la crois joye tolt à <rhyme>mains</rhyme>
+<lb n="PAST.231d:12"/>Tu m'as vers elle en guerre <rhyme>empainte</rhyme>
+<lb n="PAST.231d:13"/>Desconfis la / joing moy les <rhyme>mains</rhyme>
+<lb n="PAST.231d:14"/><name ref="Honour">Honneur</name> dit qu'en vauldroie <rhyme>mains</rhyme>
+<lb n="PAST.231d:15"/>Il ment chacun bon en <rhyme>devient</rhyme>
+<lb n="PAST.231d:16"/>Fait / et dont amer me <rhyme>couvient</rhyme>
+<lb n="PAST.231d:17"/>Ce te sera grant <rhyme>avantage</rhyme>
+<lb n="PAST.231d:18"/>Qu'en feray dont se cil <rhyme>revient</rhyme>
+<lb n="PAST.231d:19"/>Aimes lay si feras que <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.231d:21"/>Princes gentilz <name ref="Love"><c>a</c>mours</name> me <rhyme>tient</rhyme>
+<lb n="PAST.231d:22"/>Il appartient bien à ton <rhyme>aage</rhyme>
+<lb n="PAST.231d:23"/>Un seul ami mon cuer <rhyme>retient</rhyme>
+<lb n="PAST.231d:24"/>Aimes lay &amp;c
+<!-- 1 blank line(s) here -->
+<lb n="PAST.231d:26"/>¶ Ainsi je me <rhyme>debatoie</rhyme>
+<lb n="PAST.231d:27"/>À par moy et <rhyme>combatoie</rhyme>
+<lb n="PAST.231d:28"/>Pensant à son doulx <rhyme>maintien</rhyme>
+<lb n="PAST.231d:29"/>Si très plaisant que je <rhyme>tien</rhyme>
+<lb n="PAST.231d:30"/>Qu'onques plus parfaict en <rhyme>somme</rhyme>
+<lb n="PAST.231d:31"/>Ne l'ut <note>sic</note> autre mondain <rhyme>homme</rhyme>
+<lb n="PAST.231d:32"/>Et à ce mon cuer <rhyme>pensoit</rhyme>
+<lb n="PAST.231d:33"/>Tout temps et ne <rhyme>reposoit</rhyme>
+<lb n="PAST.231d:34"/>¶ Mais quant là ensemble <rhyme>estions</rhyme>
+<lb n="PAST.231d:35"/>Toute l'entente <rhyme>mettions</rhyme>
+<lb n="PAST.231d:36"/>À nous entre <rhyme>regarder</rhyme>
+<lb n="PAST.231d:37"/>Ne saroie <rhyme>recorder</rhyme>
+<pb n="232" ed="r"/>
+<lb n="PAST.232r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95; <note>colonnette</note></hi>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.232a:01"/>Les regars les doulx <rhyme>parlers</rhyme>
+<lb n="PAST.232a:02"/>Les venirs et les <rhyme>alers</rhyme>
+<lb n="PAST.232a:03"/>Les doulx ris les <rhyme>contenances</rhyme>
+<lb n="PAST.232a:04"/>Les très plaisans <rhyme>ordenances</rhyme>
+<lb n="PAST.232a:05"/>Amoureuses tout <rhyme>n'aroie</rhyme>
+<lb n="PAST.232a:06"/>Jamais dit je ne <rhyme>pourroie</rhyme>
+<lb n="PAST.232a:07"/>¶ Là se sëoit coste <rhyme>mi</rhyme>
+<lb n="PAST.232a:08"/>Mon très savoureux <rhyme>ami</rhyme>
+<lb n="PAST.232a:09"/>Que i'ay maint jour <rhyme>attendu</rhyme>
+<lb n="PAST.232a:10"/>Se <note>sur grattage</note> gisoit tout <rhyme>estendu</rhyme>
+<lb n="PAST.232a:11"/>Sus l'erbete qui <rhyme>venoit</rhyme>
+<lb n="PAST.232a:12"/>Et en mon giron <rhyme>tenoit</rhyme>
+<lb n="PAST.232a:13"/>Sa teste et <rhyme>j'aplanïoye</rhyme>
+<lb n="PAST.232a:14"/>Son chief et <rhyme>aönnïoye</rhyme>
+<lb n="PAST.232a:15"/>Puis je lui mettoie au <rhyme>col</rhyme>
+<lb n="PAST.232a:16"/>Les &#x95; ii &#x95; bras dont je <rhyme>l'acol</rhyme>
+<lb n="PAST.232a:17"/>¶ Or pensez se là <rhyme>avoit</rhyme>
+<lb n="PAST.232a:18"/>Plaisir et s'il y <rhyme>devoit</rhyme>
+<lb n="PAST.232a:19"/>Avoir maint doulx mot <rhyme>compté</rhyme>
+<lb n="PAST.232a:20"/>Tout ne soit cy <rhyme>racompté</rhyme>
+<lb n="PAST.232a:21"/>Et sachés <rhyme>certainement</rhyme>
+<lb n="PAST.232a:22"/>Qu'ainsi dura <rhyme>longuem<abbr type="en"/>t</rhyme>
+<lb n="PAST.232a:23"/>Sanz que m'amour me <rhyme>requeist</rhyme>
+<lb n="PAST.232a:24"/>Mais ne failloit qu'il <rhyme>enqueist</rhyme>
+<lb n="PAST.232a:25"/>Së il la pourroit <rhyme>avoir</rhyme>
+<lb n="PAST.232a:26"/>Car savoir pouoit de <rhyme>voir</rhyme>
+<lb n="PAST.232a:27"/>Que toute entiere <rhyme>l'avoit</rhyme>
+<lb n="PAST.232a:28"/>Appercevoir le <rhyme>pouoit</rhyme> <note>'u' avec tracé de 'n' ; comparer avec 'avoit' et aussi avec 'Appercen/v/oir' ; cf 'du/n/re', 'ardu/n/re; à discuter</note>
+<lb n="PAST.232a:29"/>Mais comme soit chose <rhyme>dure</rhyme>
+<lb n="PAST.232a:30"/>À souffrir la grant <rhyme>ardure</rhyme>
+<lb n="PAST.232a:31"/>Dont <name ref="Love"><c>a</c>mours</name> les cuers <rhyme>destraint</rhyme>
+<lb n="PAST.232a:32"/>Il me dit comme <rhyme>contraint</rhyme>
+<lb n="PAST.232a:33"/>Une fois que vers moy <rhyme>vint</rhyme>
+<lb n="PAST.232a:34"/>Et oû mois de may <rhyme>advint</rhyme>
+<lb n="PAST.232a:35"/>Qu'il m'amoit de cuer <rhyme>entier</rhyme>
+<lb n="PAST.232a:36"/>Et que ja n'estoit <rhyme>mestier</rhyme>
+<lb n="PAST.232a:37"/>De ce lonc sermon en <rhyme>faire</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.232b:01"/>Car aviser son <rhyme>affaire</rhyme>
+<lb n="PAST.232b:02"/>Je pouoie bien de <rhyme>fait</rhyme>
+<lb n="PAST.232b:03"/>Et com de vouloir <rhyme>parfait</rhyme>
+<lb n="PAST.232b:04"/>Il m'amoit et que <rhyme>l'amasse</rhyme>
+<lb n="PAST.232b:05"/>Seurement et ne <rhyme>doubtasse</rhyme>
+<lb n="PAST.232b:06"/>Que mon / <note>separator ?</note> honneur <rhyme>garderoit</rhyme>
+<lb n="PAST.232b:07"/>Et moult bien se <rhyme>garderoit</rhyme>
+<lb n="PAST.232b:08"/>De faire chose <rhyme>nesune</rhyme>
+<lb n="PAST.232b:09"/>Dont i'eusse pesance <rhyme>aucune</rhyme>
+<lb n="PAST.232b:10"/>¶ Ainsi cellui me <rhyme>prïa</rhyme>
+<lb n="PAST.232b:11"/>Que mon cuer sur tous <rhyme>trïa</rhyme>
+<lb n="PAST.232b:12"/>Si fus adont <rhyme>esperdue</rhyme>
+<lb n="PAST.232b:13"/>Car doubtay qu'en guise <rhyme>deue</rhyme>
+<lb n="PAST.232b:14"/>Respondre ne lui <rhyme>sceüsse</rhyme>
+<lb n="PAST.232b:15"/>Ainsi comme je <rhyme>deüsse</rhyme>
+<lb n="PAST.232b:16"/>Car ne le peusse <rhyme>escondire</rhyme>
+<lb n="PAST.232b:17"/>N'aussi ne vouloie <rhyme>dire</rhyme>
+<lb n="PAST.232b:18"/>L'amour que je lui <rhyme>portoie</rhyme>
+<lb n="PAST.232b:19"/>Aussi en mon cuer <rhyme>sentoie</rhyme>
+<lb n="PAST.232b:20"/>Que pour riens chose ne <rhyme>feisse</rhyme>
+<lb n="PAST.232b:21"/>Dont nullement <rhyme>meffeïsse</rhyme>
+<lb n="PAST.232b:22"/>Si doubtoie à <rhyme>ottroier</rhyme>
+<lb n="PAST.232b:23"/>Chose dont mauvais <rhyme>loier</rhyme>
+<lb n="PAST.232b:24"/>Me venist et cuer <rhyme>dolent</rhyme>
+<lb n="PAST.232b:25"/>Et ne savoie el <rhyme>talent</rhyme>
+<lb n="PAST.232b:26"/>Qui l'ot meu à me <rhyme>prïer</rhyme>
+<lb n="PAST.232b:27"/>Et cellui sans <rhyme>detrïer</rhyme>
+<lb n="PAST.232b:28"/>Me prie que je le <rhyme>croye</rhyme>
+<lb n="PAST.232b:29"/>Et que m'amour lui <rhyme>ottroye</rhyme>
+<lb n="PAST.232b:30"/>Et mon vouloir lui <rhyme>responde</rhyme>
+<lb n="PAST.232b:31"/>¶ Lors de pensée <rhyme>parfonde</rhyme>
+<lb n="PAST.232b:32"/>Souspiray sanz avoir <rhyme>yre</rhyme>
+<lb n="PAST.232b:33"/>Et lui commençay à <rhyme>dire</rhyme>
+<lb n="PAST.232b:34"/>Craintivement <note>module plus petit ?</note> en <rhyme>tremblant</rhyme>
+<lb n="PAST.232b:35"/>Mon seigneur par mon <rhyme>semblant</rhyme>
+<lb n="PAST.232b:36"/>La moye amour se <rhyme>de<add place="inline" type="scribe" evidence="cramped insertion">s</add>celle</rhyme>
+<lb n="PAST.232b:37"/>Ne fault ja que je le <rhyme>celle</rhyme>
+<pb n="232" ed="v"/>
+<lb n="PAST.232v:01"/><hi rend="red">Le livre de <note>1re colonne</note> la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.232c:01"/>Bien sçay <note>point exubérant sur le 'y'</note> que <rhyme>l'appercevez</rhyme>
+<lb n="PAST.232c:02"/>Appercevoir le <rhyme>devez</rhyme>
+<lb n="PAST.232c:03"/>Car <name ref="Love"><c>a</c>mours</name> si le <rhyme>demonstre</rhyme>
+<lb n="PAST.232c:04"/>Mais pour tant se je le <rhyme>monstre</rhyme>
+<lb n="PAST.232c:05"/>Vueille ou non ne croy je <rhyme>mie</rhyme>
+<lb n="PAST.232c:06"/>Que n'ayés dame et <rhyme>amie</rhyme>
+<lb n="PAST.232c:07"/>Autre part qui vous <rhyme>adresce</rhyme>
+<lb n="PAST.232c:08"/>Et de moy plus grant <rhyme>maistresse</rhyme>
+<lb n="PAST.232c:09"/>Si ne devez <rhyme>requerir</rhyme>
+<lb n="PAST.232c:10"/>Autre amour n'ailleurs <rhyme>querir</rhyme>
+<lb n="PAST.232c:11"/>Se loyal estre <rhyme>voulez</rhyme>
+<lb n="PAST.232c:12"/>Et mon cuer trop <rhyme>adoulez</rhyme>
+<lb n="PAST.232c:13"/>Seroit quel que povre <rhyme>femme</rhyme>
+<lb n="PAST.232c:14"/>Que je soie s'autre <rhyme>dame</rhyme>
+<lb n="PAST.232c:15"/>Avoit la joye de <rhyme>vous</rhyme>
+<lb n="PAST.232c:16"/>Et i'en eusse le <rhyme>courroux</rhyme>
+<lb n="PAST.232c:17"/>Si nous en passons <rhyme>ainsi</rhyme>
+<lb n="PAST.232c:18"/>Car sachés que vous aim <rhyme>si</rhyme>
+<lb n="PAST.232c:19"/>Qu'autre je ne vueil <rhyme>amer</rhyme>
+<lb n="PAST.232c:20"/>En aye doulx ou <rhyme>amer</rhyme>
+<lb n="PAST.232c:21"/>Mais de vous je ne vueil <rhyme>voir</rhyme>
+<lb n="PAST.232c:22"/>Nul autre promesse <rhyme>avoir</rhyme>
+<lb n="PAST.232c:23"/>Ne qu'aultrement je me <rhyme>loye</rhyme>
+<lb n="PAST.232c:24"/>Il me souffit que vous <rhyme>voye</rhyme>
+<lb n="PAST.232c:25"/>Et que vous ayme à par <rhyme>mi</rhyme>
+<lb n="PAST.232c:26"/>Car à autre estes <rhyme>ami</rhyme>
+<lb n="PAST.232c:27"/>Et aussi je vous di <rhyme>bien</rhyme>
+<lb n="PAST.232c:28"/>Que pour mourir ne pour <rhyme>rien</rhyme>
+<lb n="PAST.232c:29"/>Je ne <rhyme>m'abandonneroie</rhyme>
+<lb n="PAST.232c:30"/>À folie Ainçois <rhyme>mourroie</rhyme>
+<lb n="PAST.232c:31"/>Je ne sçay se vostre <rhyme>entente</rhyme>
+<lb n="PAST.232c:32"/>Seroit à si faicte <rhyme>attente</rhyme>
+<lb n="PAST.232c:33"/>Mais pour voir sur sains vous <rhyme>jure</rhyme>
+<lb n="PAST.232c:34"/>Que jamais si faicte <rhyme>injure</rhyme>
+<lb n="PAST.232c:35"/>Ne feray à mon <rhyme>honneur</rhyme>
+<lb n="PAST.232c:36"/>Soit pour grant ou pour <rhyme>meneur</rhyme>
+<lb n="PAST.232c:37"/>Adont cil respont a <rhyme>tant</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.232d:01"/>Et qui / <note>separator</note> vous en requiert <rhyme>tant</rhyme>
+<lb n="PAST.232d:02"/>Ne m'en fault ja <rhyme>escondire</rhyme>
+<lb n="PAST.232d:03"/>Car pourchacier faire ou <rhyme>dire</rhyme>
+<lb n="PAST.232d:04"/>Je ne pense par mon <rhyme>ame</rhyme>
+<lb n="PAST.232d:05"/>Chose dont vous ayés <rhyme>blasme</rhyme>
+<lb n="PAST.232d:06"/>Ne dont vostre honneur <rhyme>descroisce</rhyme>
+<lb n="PAST.232d:07"/>Ains desir que je <rhyme>l'accroisce</rhyme>
+<lb n="PAST.232d:08"/>Ne ja ne le <rhyme>requerray</rhyme>
+<lb n="PAST.232d:09"/>De vous avoir ne <rhyme>querray</rhyme>
+<lb n="PAST.232d:10"/>Fors l'amour en bonne <rhyme>foy</rhyme>
+<lb n="PAST.232d:11"/>Et le doulx baisier par <rhyme>foy</rhyme>
+<lb n="PAST.232d:12"/>Nulle n'est qui <rhyme>excuser</rhyme>
+<lb n="PAST.232d:13"/>S'en doie ne <rhyme>refuser</rhyme>
+<lb n="PAST.232d:14"/>Cë <note>'C' sur grattage ; 'Se' transformé en 'Ce' ?</note> / <note>separator</note> à son ami par <rhyme>m'ame</rhyme> <note>hiatus</note>
+<lb n="PAST.232d:15"/>Ce n'est pas trop belle <rhyme>dame</rhyme>
+<lb n="PAST.232d:16"/>Autre chose ne <rhyme>demand</rhyme>
+<lb n="PAST.232d:17"/>Est ce oultrage à un <rhyme>amant</rhyme>
+<lb n="PAST.232d:18"/>Quant de plus feray <rhyme>requeste</rhyme>
+<lb n="PAST.232d:19"/>Je vueil qu'on m'oste la <rhyme>teste</rhyme>
+<lb n="PAST.232d:20"/>Lors m'en ris et prins à <rhyme>dire</rhyme>
+<lb n="PAST.232d:21"/>Qui vous pourroit <rhyme>escondire</rhyme>
+<lb n="PAST.232d:22"/>Requeste si très <rhyme>courtoise</rhyme>
+<lb n="PAST.232d:23"/>Je l'ottroy comment qu'il <rhyme>voise</rhyme>
+<lb n="PAST.232d:24"/>Car mon cuer sens par mi <rhyme>fendre</rhyme>
+<lb n="PAST.232d:25"/>Si ne le puis plus <rhyme>deffendre</rhyme>
+<lb n="PAST.232d:26"/>¶ Lors cil m'embrace et me <rhyme>baise</rhyme>
+<lb n="PAST.232d:27"/>Doulcement souspirant <rhyme>d'aise</rhyme>
+<lb n="PAST.232d:28"/>Et puis m'en <rhyme>regracïa</rhyme>
+<lb n="PAST.232d:29"/>Humblement et <rhyme>mercïa</rhyme>
+<lb n="PAST.232d:30"/>Mais ce / baisier me <rhyme>traÿ</rhyme>
+<lb n="PAST.232d:31"/>Maintes fois l'ay prins <rhyme>haÿ</rhyme>
+<lb n="PAST.232d:32"/>Car mon cuer vint du tout <rhyme>prendre</rhyme>
+<lb n="PAST.232d:33"/>Et d'amoureux dart <rhyme>esprendre</rhyme>
+<lb n="PAST.232d:34"/>Si en fumes puis si <rhyme>duit</rhyme>
+<lb n="PAST.232d:35"/>Que c'estoit tout no <rhyme>deduit</rhyme>
+<lb n="PAST.232d:36"/>Très plaisant sanz nous <rhyme>lasser</rhyme>
+<lb n="PAST.232d:37"/>Et noz bras entre <rhyme>lasser</rhyme>
+<pb n="233" ed="r"/>
+<lb n="PAST.233r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx</hi> <note>colonnette</note>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.233a:01"/>En baisant à longue <rhyme>aleine</rhyme>
+<lb n="PAST.233a:02"/>Sans pensée autre <rhyme>villaine</rhyme>
+<lb n="PAST.233a:03"/>¶ Ainsi en ce bois <rhyme>ramé</rhyme>
+<lb n="PAST.233a:04"/>J'acointay mon bien <rhyme>amé</rhyme>
+<lb n="PAST.233a:05"/>Si devins toute <rhyme>changée</rhyme>
+<lb n="PAST.233a:06"/>Et des pastours <rhyme>estrangée</rhyme>
+<lb n="PAST.233a:07"/>Où je souloie <rhyme>hanter</rhyme>
+<lb n="PAST.233a:08"/>Autres chançons à <rhyme>chanter</rhyme>
+<lb n="PAST.233a:09"/>Que celles que ains oz <rhyme>appris</rhyme>
+<lb n="PAST.233a:10"/>Et ceste balade <rhyme>appris</rhyme>
+<lb n="PAST.233a:11"/>Que cy deviser <rhyme>propos</rhyme>
+<lb n="PAST.233a:12"/>Qui fu selon mon <rhyme>propos</rhyme>
+<lb n="PAST.233a:13"/>Où je souloie <rhyme>hanter</rhyme> <note>these four words cancelled in red</note>
+<lb n="PAST.233a:14"/>Autres chançons à <rhyme>chanter</rhyme> <note>line cancelled in red by three oblique lines; trait sousjacent à l'encre brune sous le deuxième trait oblique</note>
+<lb n="PAST.233a:15"/>Que celles que / <note>separator</note> ains oz <rhyme>appris</rhyme> <note>line cancelled in red by three oblique lines; trait sousjacent à l'encre brune sous le deuxième trait oblique</note>
+<lb n="PAST.233a:16"/>Et ceste balade <rhyme>appris</rhyme> <note>line cancelled in red by three oblique lines; trait sousjacent à l'encre brune sous le deuxième trait oblique</note>
+<lb n="PAST.233a:17"/>Que ci deviser <rhyme>propos</rhyme> <note>line cancelled in red by three oblique lines; trait sousjacent à l'encre brune sous le deuxième trait oblique</note>
+<lb n="PAST.233a:18"/>Qui fu selon mon <rhyme>propos</rhyme> <note>these five words cancelled in red</note>
+<lb n="PAST.233a:19"/>balade <note>centred</note>
+<lb n="PAST.233a:20"/><hi rend="cap2">H</hi>a le plus doulx / qui jamais soit <rhyme>formé</rhyme>
+<lb n="PAST.233a:21"/>Le plus plaisant / que oncq<abbr type="ue"/>s nulle <rhyme>acoi<abbr type="n"/>tast</rhyme> <note>rising 's'</note>
+<lb n="PAST.233a:22"/>Le plus parfaict / pour estre bon <rhyme>clamé</rhyme>
+<lb n="PAST.233a:23"/>Le mieulx amé / que oncq<abbr type="ue"/>s <add place="supralinear" type="" evidence="">mais</add> <note>encre brune plus claire ; caret interlinéaire</note> / fe<abbr type="m"/>me <rhyme>amast</rhyme>
+<lb n="PAST.233a:24"/>De mon vray cuer le savoureux <rhyme>repast</rhyme>
+<lb n="PAST.233a:25"/>Tout quanque i'aim / <note> ?</note> mon savoureux <rhyme>desir</rhyme>
+<lb n="PAST.233a:26"/>Mon seul amé mon paradis en <rhyme>terre</rhyme>
+<lb n="PAST.233a:27"/>Et de mes yeulx / le très p<abbr type="ar"/>faict <rhyme>plaisir</rhyme>
+<lb n="PAST.233a:28"/>Vostre doulceur me meine dure <rhyme>guerre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.233a:30"/>Vostre doulceur / voirement <rhyme>entamé</rhyme>
+<lb n="PAST.233a:31"/>A le mien cuer <note>'r' corrigé ?</note> / qui jamais ne <rhyme>pensast</rhyme>
+<lb n="PAST.233a:32"/>Estre en ce point / mais si l'a <rhyme>enflamé</rhyme>
+<lb n="PAST.233a:33"/><name ref="Ardent+Désir">Ardent <c>d</c>esir</name> / qu'envie <note>'a' transformé en 'v' ?</note> ne <rhyme>durast</rhyme>
+<lb n="PAST.233a:34"/>Se <name ref="Doulx+Penser"><c>d</c>oulx <c>p</c>enser</name> / ne le <rhyme>reconfortast</rhyme>
+<lb n="PAST.233a:35"/>Mais <name ref="Souvenir"><c>s</c>ouvenir</name> / vient avec lui <rhyme>gesir</rhyme>
+<lb n="PAST.233a:36"/>Lors en pensant / vous embrace &amp; vo<abbr type="us"/> <rhyme>serre</rhyme>
+<lb n="PAST.233a:37"/>Mais quant ne puis le doulx baisier <rhyme>saisir</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.233b:01"/>Vostre doulceur / me meine dure <rhyme>guerre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.233b:03"/>Mon doulx ami de tout mon cuer <rhyme>amé</rhyme>
+<lb n="PAST.233b:04"/>Il n'est penser / qui de mon cuer <rhyme>gitast</rhyme>
+<lb n="PAST.233b:05"/>Le doulx regart / que voz yeulx / <rhyme>enfermé</rhyme>
+<lb n="PAST.233b:06"/>Ont dedens lui / rien n'est qui l'en <rhyme>otast</rhyme>
+<lb n="PAST.233b:07"/>Ne le parler / et le gracïeux <rhyme>tast</rhyme>
+<lb n="PAST.233b:08"/>Des doulces mains / qui sans lait <rhyme>desplaisir</rhyme>
+<lb n="PAST.233b:09"/>Veulent par tout / encercher et <rhyme>enquerre</rhyme>
+<lb n="PAST.233b:10"/>Mais quant ne puis de mes yeulx vo<abbr type="us"/> <rhyme>choisir</rhyme>
+<lb n="PAST.233b:11"/>Vostre doulceur
+<!-- 1 blank line(s) here -->
+<lb n="PAST.233b:13"/>Tresbel et <note>remplissage d'un blanc par un bout-de-ligne nu fait de x entrelacés ; réparation parchemin</note> bon / qui mon cuer vie<abbr type="n"/>t <rhyme>saisir</rhyme>
+<lb n="PAST.233b:14"/>Ne m'oublïez ce vous vueil je <rhyme>requerre</rhyme>
+<lb n="PAST.233b:15"/>Car quant vëoir ne vo<abbr type="us"/> puis à <rhyme>loisir</rhyme>
+<lb n="PAST.233b:16"/>Vostre doulceur &amp;c
+<!-- 1 blank line(s) here -->
+<lb n="PAST.233b:18"/><hi rend="cap2">P</hi>our ce qu'en ce point <rhyme>estoye</rhyme>
+<lb n="PAST.233b:19"/>A mon povoir je <rhyme>mettoye</rhyme>
+<lb n="PAST.233b:20"/>Peine à me tenir <rhyme>jolie</rhyme>
+<lb n="PAST.233b:21"/>Une heure triste autre <rhyme>lie</rhyme>
+<lb n="PAST.233b:22"/>Selon les divers <rhyme>assaulx</rhyme>
+<lb n="PAST.233b:23"/>Qu'<name ref="Love"><c>a</c>mours</name> livre à ses <rhyme>vassaulx</rhyme>
+<lb n="PAST.233b:24"/>Or plouroie ores <rhyme>chantoie</rhyme>
+<lb n="PAST.233b:25"/>Mes compaignes pou <rhyme>hantoye</rhyme>
+<lb n="PAST.233b:26"/>Fors <name ref="Lorette"><c>l</c>orette</name> qui <rhyme>savoit</rhyme>
+<lb n="PAST.233b:27"/>Tout quanque mon cuer <rhyme>avoit</rhyme> <note>variation d'encre ; tache ? cire ? parchemin réparé ?; module plus important ?</note>
+<lb n="PAST.233b:28"/>Si n'est rien qui ne soit <rhyme>sceu</rhyme> <note>variation d'encre sur 'soit' ; tache ? cire ? parchemin réparé ?</note>
+<lb n="PAST.233b:29"/>Au derrain et <rhyme>apperceu</rhyme>
+<lb n="PAST.233b:30"/>Et à peine quoy que on <rhyme>die</rhyme>
+<lb n="PAST.233b:31"/>Muce amant sa <rhyme>maladie</rhyme>
+<lb n="PAST.233b:32"/>S'il est fort d'amer <rhyme>ataint</rhyme>
+<lb n="PAST.233b:33"/>Fort est qu'il ne pere au <rhyme>taint</rhyme>
+<lb n="PAST.233b:34"/>¶ Si commença grant <rhyme>murmure</rhyme>
+<lb n="PAST.233b:35"/>Du fait qui ancores <rhyme>dure</rhyme>
+<lb n="PAST.233b:36"/>Aussi tost qu'à <rhyme>estranger</rhyme>
+<lb n="PAST.233b:37"/>Je pris bergiere et <rhyme>berger</rhyme>
+<pb n="233" ed="v"/>
+<lb n="PAST.233v:01"/><hi rend="red">Le<note>space</note> livre <note>1re colonne</note> de la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.233c:01"/>Et je me tins <rhyme>solitaire</rhyme>
+<lb n="PAST.233c:02"/>Les gens ne s'en porent <rhyme>taire</rhyme>
+<lb n="PAST.233c:03"/>Si y mirent avant <rhyme>garde</rhyme>
+<lb n="PAST.233c:04"/>Li pastour et par leur <rhyme>garde</rhyme>
+<lb n="PAST.233c:05"/>Sçorent comment cil <rhyme>venoit</rhyme>
+<lb n="PAST.233c:06"/>Oû bois et pres se <rhyme>tenoit</rhyme>
+<lb n="PAST.233c:07"/>De moy dont furent <rhyme>dolent</rhyme>
+<lb n="PAST.233c:08"/>Tous et toutes et <rhyme>parlant</rhyme>
+<lb n="PAST.233c:09"/>En aloient entre eulx <rhyme>bas</rhyme>
+<lb n="PAST.233c:10"/>Car hault n'oserent ilz <rhyme>pas</rhyme> <note>trait au-dessus du mot ? correction ?</note>
+<lb n="PAST.233c:11"/>Et comme amans <rhyme>envïeux</rhyme>
+<lb n="PAST.233c:12"/>Disoient jeunes et <rhyme>vieulx</rhyme>
+<lb n="PAST.233c:13"/>Plus n'a la doulce <rhyme>bergere</rhyme>
+<lb n="PAST.233c:14"/>N<abbr type="ost"/>re compaignie <note>rustine ?</note> <rhyme>chiere</rhyme>
+<lb n="PAST.233c:15"/>Helas la bien <rhyme>enseignée</rhyme>
+<lb n="PAST.233c:16"/>Bien a du tout <rhyme>eslongnée</rhyme>
+<lb n="PAST.233c:17"/>Nostre assemblée si <rhyme>belle</rhyme>
+<lb n="PAST.233c:18"/>Plus ne sera <rhyme>pastourelle</rhyme>
+<lb n="PAST.233c:19"/>Ains par un autre <rhyme>accointier</rhyme>
+<lb n="PAST.233c:20"/>Renoncera au <rhyme>mestier</rhyme>
+<lb n="PAST.233c:21"/>C'est dommage par <name ref="Saint+Pere">saint <rhyme><c>p</c>ere</rhyme></name>
+<lb n="PAST.233c:22"/>Qui le deïst à son <rhyme>pere</rhyme>
+<lb n="PAST.233c:23"/>Peut estre l'en <rhyme>garderoit</rhyme>
+<lb n="PAST.233c:24"/>Mais comparer le <rhyme>pourroit</rhyme>
+<lb n="PAST.233c:25"/>Cil qui diroit tieulx <rhyme>nouvelles</rhyme>
+<lb n="PAST.233c:26"/>Hé entre vous <rhyme>pastourelles</rhyme>
+<lb n="PAST.233c:27"/>Mettez peine à la <rhyme>retraire</rhyme>
+<lb n="PAST.233c:28"/>Du bois qui <name ref="God"><c>d</c>ieux</name> doi<abbr type="n"/>t <rhyme>contraire</rhyme>
+<lb n="PAST.233c:29"/>Et vers nous la <rhyme>ramenez</rhyme>
+<lb n="PAST.233c:30"/>Nous sommes bien <rhyme>fortunez</rhyme>
+<lb n="PAST.233c:31"/>D'avoir perdu tel <rhyme>pastoure</rhyme>
+<lb n="PAST.233c:32"/>Ce fu bien en la male <rhyme>houre</rhyme>
+<lb n="PAST.233c:33"/>Que cil oncques <rhyme>l'acointa</rhyme>
+<lb n="PAST.233c:34"/>Qui si nous en <rhyme>despointa</rhyme>
+<lb n="PAST.233c:35"/>Et dont lui peut ce <rhyme>venir</rhyme>
+<lb n="PAST.233c:36"/>Oncques ne vi <rhyme>avenir</rhyme>
+<lb n="PAST.233c:37"/>Que d'amours estre <rhyme>surprise</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.233d:01"/>Peüst mais or en est <rhyme>prise</rhyme>
+<lb n="PAST.233d:02"/>Durement et bien y <rhyme>pert</rhyme>
+<lb n="PAST.233d:03"/>Helas son honneur se <rhyme>pert</rhyme>
+<lb n="PAST.233d:04"/>Ou perdra ce n'est pas <rhyme>doubte</rhyme>
+<lb n="PAST.233d:05"/>Puis qu'en tele amour se <rhyme>boute</rhyme>
+<lb n="PAST.233d:06"/>Qui petit la <rhyme>prisera</rhyme>
+<lb n="PAST.233d:07"/>Hé <name ref="God"><c>d</c>ieux</name> qui <rhyme>l'avisera</rhyme>
+<lb n="PAST.233d:08"/>De s'en retraire bon <rhyme>erre</rhyme>
+<lb n="PAST.233d:09"/><name ref="Lorette">Lorette</name> fault mander <rhyme>querre</rhyme>
+<lb n="PAST.233d:10"/>Qui est sa chere <rhyme>compaigne</rhyme>
+<lb n="PAST.233d:11"/>Nulle autre ne <rhyme>l'acompaigne</rhyme>
+<lb n="PAST.233d:12"/>À celle dirons le <note>'l' sur grattage de 'd'</note> <rhyme>fait</rhyme>
+<lb n="PAST.233d:13"/>Qu'elle l'ennorte du <rhyme>fait</rhyme>
+<lb n="PAST.233d:14"/>Si l'en retraye <rhyme>briefment</rhyme>
+<lb n="PAST.233d:15"/>¶ Ainsi li pastour <rhyme>griefment</rhyme>
+<lb n="PAST.233d:16"/>Se complaignoient de <rhyme>mi</rhyme>
+<lb n="PAST.233d:17"/>Qui oz fait nouvel <rhyme>ami</rhyme>
+<lb n="PAST.233d:18"/>Ma compaigne estoit <rhyme>mandée</rhyme>
+<lb n="PAST.233d:19"/>Et lui estoit <rhyme>demandée</rhyme>
+<lb n="PAST.233d:20"/>La cause pour quoy <rhyme>guerpis</rhyme>
+<lb n="PAST.233d:21"/>Les avoie dont trop <rhyme>pis</rhyme>
+<lb n="PAST.233d:22"/>M'en pourroit venir sans <rhyme>faille</rhyme>
+<lb n="PAST.233d:23"/>Si le me die et n'y <rhyme>faille</rhyme>
+<lb n="PAST.233d:24"/>Et celle m'en <rhyme>excusoit</rhyme>
+<lb n="PAST.233d:25"/>Disant que point ne <rhyme>musoit</rhyme>
+<lb n="PAST.233d:26"/>Mon cuer à nullui <rhyme>amer</rhyme>
+<lb n="PAST.233d:27"/>Ne desservi que <rhyme>blasmer</rhyme>
+<lb n="PAST.233d:28"/>On me deust pour tant <rhyme>n'avoie</rhyme>
+<lb n="PAST.233d:29"/>S'u bois souvent <rhyme>m'ombroioye</rhyme>
+<lb n="PAST.233d:30"/>Pour estre plus <rhyme>solitaire</rhyme>
+<lb n="PAST.233d:31"/>Si se voulsissent tuit <rhyme>traire</rhyme>
+<lb n="PAST.233d:32"/>Du fait dont mon cuer ert <rhyme>sains</rhyme>
+<lb n="PAST.233d:33"/>De ce leur juroit sur <rhyme>sains</rhyme>
+<lb n="PAST.233d:34"/>Et du chevalier <rhyme>disoit</rhyme>
+<lb n="PAST.233d:35"/>Que pour tant ne <rhyme>me</rhyme> nuisoit
+<lb n="PAST.233d:36"/>En riens s'en ce bois <rhyme>chaçoit</rhyme>
+<lb n="PAST.233d:37"/>Et repairier y <rhyme>pouoit</rhyme> <note>rajouté ?</note>
+<pb n="234" ed="r"/>
+<lb n="PAST.234r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95; <note>colonnette</note></hi>
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="PAST.234a:01"/>Un chacun si leur <rhyme>louoit</rhyme>
+<lb n="PAST.234a:02"/>Qu'ilz s'en teussent sans plus <rhyme>dire</rhyme>
+<lb n="PAST.234a:03"/>Car mal venoit de <rhyme>mesdire</rhyme>
+<lb n="PAST.234a:04"/><hi rend="cap2">O</hi>r <note>lettre attente 'o' visible</note> avez vous <rhyme>entendu</rhyme>
+<lb n="PAST.234a:05"/>Comment i'avoie <rhyme>attendu</rhyme>
+<lb n="PAST.234a:06"/>Longuement sans <rhyme>m'entremettre</rhyme>
+<lb n="PAST.234a:07"/>D'amer n'en nul mon cuer <rhyme>mettre</rhyme>
+<lb n="PAST.234a:08"/>Et comment depuis fu <rhyme>pris</rhyme>
+<lb n="PAST.234a:09"/>Si diray qu'il m'en est <rhyme>pris</rhyme>
+<lb n="PAST.234a:10"/>Depuis et com m'en va <rhyme>ore</rhyme>
+<lb n="PAST.234a:11"/>Car faillie n'est <rhyme>ancore</rhyme>
+<lb n="PAST.234a:12"/>Celle amour ne <rhyme>deffauldra</rhyme>
+<lb n="PAST.234a:13"/>Jusques vie me <rhyme>fauldra</rhyme>
+<lb n="PAST.234a:14"/>¶ En joye au <rhyme>commencement</rhyme>
+<lb n="PAST.234a:15"/>Je fus non pas <rhyme>longuement</rhyme>
+<lb n="PAST.234a:16"/>Ci après diray pour <rhyme>quoy</rhyme>
+<lb n="PAST.234a:17"/>Mais lors souvent en <rhyme>requoy</rhyme>
+<lb n="PAST.234a:18"/>Mon très doulx ami <rhyme>vëoye</rhyme>
+<lb n="PAST.234a:19"/>Vers moy bien savoit la <rhyme>voye</rhyme>
+<lb n="PAST.234a:20"/>Et son devoir en <rhyme>faisoit</rhyme>
+<lb n="PAST.234a:21"/>Si bien qu'il me <rhyme>souffisoit</rhyme>
+<lb n="PAST.234a:22"/>Doulçour paix et bonne <rhyme>amour</rhyme>
+<lb n="PAST.234a:23"/>G'i trouvay et sans <rhyme>demour</rhyme>
+<lb n="PAST.234a:24"/>Tout plaisir qu'il pouoit <rhyme>faire</rhyme>
+<lb n="PAST.234a:25"/>Me faisoit en tout <rhyme>affaire</rhyme>
+<lb n="PAST.234a:26"/>Tant que n'y sceusse <rhyme>amender</rhyme>
+<lb n="PAST.234a:27"/>Ne riens plus lui <rhyme>demander</rhyme>
+<lb n="PAST.234a:28"/>Bien est voir se dire <rhyme>l'ose</rhyme>
+<lb n="PAST.234a:29"/>Que i'en fus un pou <rhyme>jalouse</rhyme>
+<lb n="PAST.234a:30"/>Un t<abbr type="em"/>ps <note>bout-de-ligne nu sur couture comblant un trou</note> et me fu <rhyme>avis</rhyme>
+<lb n="PAST.234a:31"/>Que un petit changié le <rhyme>vis</rhyme>
+<lb n="PAST.234a:32"/>Ne sçay s'essaier <rhyme>vouloit</rhyme>
+<lb n="PAST.234a:33"/>Combien de lui me <rhyme>chailloit</rhyme>
+<lb n="PAST.234a:34"/>Ou peut estre sanz <rhyme>raison</rhyme>
+<lb n="PAST.234a:35"/>Y avoie <rhyme>souspeçon</rhyme>
+<lb n="PAST.234a:36"/>Car le cuer d'amours <rhyme>estraint</rhyme>
+<lb n="PAST.234a:37"/>Ce qu'il aime à perdre <rhyme>craint</rhyme>
+<cb n="b"/>
+<!-- 38 lines -->
+<lb n="PAST.234b:01"/>la balade guiote <note>module d'écriture plus petit sur LR externe du cadre de réglure ; encre brune pâle</note>
+<lb n="PAST.234b:02"/>Et com de ce mal <rhyme>malade</rhyme>
+<lb n="PAST.234b:03"/>Disoie ceste <rhyme>balade</rhyme>
+<lb n="PAST.234b:04"/>balade <note>centred</note>
+<lb n="PAST.234b:05"/><hi rend="cap2">J</hi>a ne vueille <note>'u' sur grattage ?</note> <rhyme>consentir</rhyme>
+<lb n="PAST.234b:06"/>vostre très noble <rhyme>courage</rhyme>
+<lb n="PAST.234b:07"/>Que mon cuer en dueil <rhyme>partir</rhyme>
+<lb n="PAST.234b:08"/>Faciés plain de tele <rhyme>rage</rhyme>
+<lb n="PAST.234b:09"/>Com d'appercevoir <rhyme>mestrait</rhyme>
+<lb n="PAST.234b:10"/>En vous qui l'avez <rhyme>attrait</rhyme>
+<lb n="PAST.234b:11"/>Si qu'il s'est tout <rhyme>ordené</rhyme>
+<lb n="PAST.234b:12"/>À vous et <rhyme>abandonné</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.234b:14"/>Mais je me doubt sans <rhyme>mentir</rhyme>
+<lb n="PAST.234b:15"/>Qu'ainsi que maint ont <rhyme>usage</rhyme>
+<lb n="PAST.234b:16"/>D'en plusieurs lieux <rhyme>departir</rhyme>
+<lb n="PAST.234b:17"/>Leurs cuers de penser <rhyme>volage</rhyme>
+<lb n="PAST.234b:18"/>Que ainsi ja se soit <rhyme>fortrait</rhyme>
+<lb n="PAST.234b:19"/>De moy qui vous ay <rhyme>pourtrait</rhyme>
+<lb n="PAST.234b:20"/>Oû mien qu'ay tout <rhyme>assené</rhyme>
+<lb n="PAST.234b:21"/>À vous et <rhyme>abandonné</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.234b:23"/>Tart vendroie au <rhyme>repentir</rhyme>
+<lb n="PAST.234b:24"/>Mais oncques perte ou <rhyme>dommage</rhyme>
+<lb n="PAST.234b:25"/>Ne <note>point après le 'N' ?</note> me fist tel dueil <rhyme>sentir</rhyme>
+<lb n="PAST.234b:26"/>Com i'aray trestout mon <rhyme>aage</rhyme>
+<lb n="PAST.234b:27"/>Se do moy vous voy <note>ces deux mots sur grattage</note> <rhyme>retrait</rhyme>
+<lb n="PAST.234b:28"/>Et que m'ayez fait tel <rhyme>trait</rhyme>
+<lb n="PAST.234b:29"/>Pour tant se je me <rhyme>donné</rhyme>
+<lb n="PAST.234b:30"/>À vous et <rhyme>abandonné</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.234b:32"/>Si prie vostre doulx <rhyme>attrait</rhyme>
+<lb n="PAST.234b:33"/>Qu'il lui souviengne du <rhyme>trait</rhyme>
+<lb n="PAST.234b:34"/>Qui mon cuer a / <rhyme>adonné</rhyme>
+<lb n="PAST.234b:35"/>À vous <note>deux mots sur grattage</note> &amp; <rhyme>abandonne</rhyme> <note>encre plus pâle</note>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.234b:37"/>¶ Mais quant ma douleur <rhyme>perceut</rhyme>
+<lb n="PAST.234b:38"/>Et mon tresamer pleur <rhyme>sceut</rhyme>
+<pb n="234" ed="v"/>
+<lb n="PAST.234v:01"/><hi rend="red">Le livre de <note>1re colonne</note> la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.234c:01"/><hi rend="red">Le livre de <note>1re colonne</note> la <note>entrecolonne</note></hi>
+<lb n="PAST.234c:02"/>Il m'apaisa <rhyme>doulcement</rhyme>
+<lb n="PAST.234c:03"/>Et me jura <rhyme>fermement</rhyme>
+<lb n="PAST.234c:04"/>Qu'aultre que moy il <rhyme>n'amoit</rhyme>
+<lb n="PAST.234c:05"/>Pour certain le <rhyme>m'affermoit</rhyme>
+<lb n="PAST.234c:06"/>¶ Aussi une fois <rhyme>advint</rhyme>
+<lb n="PAST.234c:07"/>Que partir il lui <rhyme>couvint</rhyme>
+<lb n="PAST.234c:08"/>Bien en haste et n'ot <rhyme>espace</rhyme>
+<lb n="PAST.234c:09"/>De dire à <name ref="God"><c>d</c>ieu</name> / dont grant <rhyme>masse</rhyme>
+<lb n="PAST.234c:10"/>De dueil oz mais il <rhyme>revint</rhyme>
+<lb n="PAST.234c:11"/>Tost / et excuser se <rhyme>vint</rhyme>
+<lb n="PAST.234c:12"/>Si dis quant il fu <rhyme>parti</rhyme>
+<lb n="PAST.234c:13"/>Ces moz cy / en dur <rhyme>parti</rhyme>
+<lb n="PAST.234c:14"/>Rondel &#x95; <note>centred</note>
+<lb n="PAST.234c:15"/><hi rend="cap2">P</hi>our quoy m'avez vous ce <rhyme>fait</rhyme>
+<lb n="PAST.234c:16"/>très bel où n'a que <rhyme>redire</rhyme>
+<lb n="PAST.234c:17"/>Et si savez mon <rhyme>martire</rhyme>
+<lb n="PAST.234c:18"/>N'oncques ne vous fis <rhyme>meffait</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.234c:20"/>Et parti estes de <rhyme>fait</rhyme>
+<lb n="PAST.234c:21"/>Sanz moy daigner à <name ref="God"><c>d</c>ieu</name> <rhyme>dire</rhyme>
+<lb n="PAST.234c:22"/><c>p</c>our quoy <note>centred</note>
+<lb n="PAST.234c:23"/>Au <name ref="Love">dieu d'<c>a</c>mours</name> du tort <rhyme>fait</rhyme>
+<lb n="PAST.234c:24"/>Me plaindray disant <name ref="Love"><c>d</c>ieu</name> <rhyme>sire</rhyme>
+<lb n="PAST.234c:25"/>Ami <note>'s' gratté</note> m'avez fait <rhyme>eslire</rhyme>
+<lb n="PAST.234c:26"/>Dont me vient si dur <rhyme>effait</rhyme>
+<lb n="PAST.234c:27"/><c>p</c>our quoy <note>centred</note>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.234c:29"/>¶ Mais je vous diray la <rhyme>dure</rhyme>
+<lb n="PAST.234c:30"/>Pesance qu'encor me <rhyme>dure</rhyme>
+<lb n="PAST.234c:31"/>Tous les jours et plus <add place="supralinear" type="scribe" evidence="caret">me</add> <rhyme>grieve</rhyme>
+<lb n="PAST.234c:32"/>Le tourment qu'encor me <rhyme>grieve</rhyme>
+<lb n="PAST.234c:33"/>¶ Cil où toute valour <rhyme>maint</rhyme>
+<lb n="PAST.234c:34"/>Ce scevent maintes et <rhyme>maint</rhyme>
+<lb n="PAST.234c:35"/>N'ot pas appris qu'à <rhyme>sejour</rhyme>
+<lb n="PAST.234c:36"/>Demourast / ains sans <rhyme>sejour</rhyme>
+<lb n="PAST.234c:37"/>Aloit et va par la <rhyme>terre</rhyme>
+<lb n="PAST.234c:38"/>En maint paÿs <note>point sur le 'y'</note> honneur <rhyme>querre</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.234d:01"/>Si n'estoit pas tous jours <rhyme>pres</rhyme>
+<lb n="PAST.234d:02"/>De <note>lettre grattée dans la colonnette</note> moy cellui que i'aim <rhyme>très</rhyme>
+<lb n="PAST.234d:03"/>Ains souvent s'en <rhyme>departoit</rhyme>
+<lb n="PAST.234d:04"/>Dont à pou que ne <rhyme>partoit</rhyme>
+<lb n="PAST.234d:05"/>Mon cuer pour sa <rhyme>departie</rhyme>
+<lb n="PAST.234d:06"/>Lors toute estoit <rhyme>convertie</rhyme>
+<lb n="PAST.234d:07"/>Ma joye en pesant <rhyme>douleur</rhyme>
+<lb n="PAST.234d:08"/>Triste et à palle <rhyme>couleur</rhyme>
+<lb n="PAST.234d:09"/>Demouroie et <rhyme>esplourée</rhyme>
+<lb n="PAST.234d:10"/>Ha mainte larme ay <rhyme>plourée</rhyme>
+<lb n="PAST.234d:11"/>Pour s'amour et maint <rhyme>souspir</rhyme>
+<lb n="PAST.234d:12"/>Gité ancor en <rhyme>souspir</rhyme>
+<lb n="PAST.234d:13"/>Au departir me <rhyme>pasmoye</rhyme>
+<lb n="PAST.234d:14"/>Quant à cellui que <rhyme>j'amoie</rhyme>
+<lb n="PAST.234d:15"/>Disoie à <name ref="God"><c>d</c>ieu</name> lors mi <rhyme>oeil</rhyme>
+<lb n="PAST.234d:16"/>Demonstroient mon grief <rhyme>dueil</rhyme>
+<lb n="PAST.234d:17"/>Dont griefment à lui <rhyme>pesoit</rhyme>
+<lb n="PAST.234d:18"/>Si me baisoit et <rhyme>disoit</rhyme>
+<lb n="PAST.234d:19"/>Qu'il revendroit en brief <rhyme>temps</rhyme>
+<lb n="PAST.234d:20"/>De ce ne fusse <rhyme>doubtans</rhyme>
+<lb n="PAST.234d:21"/>Ainsi demouroie <rhyme>lasse</rhyme>
+<lb n="PAST.234d:22"/>De plourer non jamais <rhyme>lasse</rhyme>
+<lb n="PAST.234d:23"/>Et jusqu'au retour nul <rhyme>bien</rhyme>
+<lb n="PAST.234d:24"/>N'avoie je vous di <rhyme>bien</rhyme>
+<lb n="PAST.234d:25"/>Dont toute en plours me <rhyme>baignoye</rhyme>
+<lb n="PAST.234d:26"/>Et ainsi me <rhyme>complaignoye</rhyme>
+<lb n="PAST.234d:27"/>Balade <note>centred</note>
+<lb n="PAST.234d:28"/>Quant <note>'O' initial; lettre d'attente 'q' visible</note> je voy ces amoureux <note>grattage sous le 'a' ?</note>
+<lb n="PAST.234d:29"/>tant de si doulx sembla<abbr type="n"/>s <rhyme>faire</rhyme> <note>'as' et 'faire' transcrits difficilement cf. couture dans parchemin</note>
+<lb n="PAST.234d:30"/>L'un à l'autre / et <rhyme>savoureux</rhyme> <note>deux traits entre 'u' et 'r' pour combler espace de la couture</note>
+<lb n="PAST.234d:31"/>Et doulx regars entre <rhyme>traire</rhyme>
+<lb n="PAST.234d:32"/>Lïement rire et eulx <rhyme>traire</rhyme>
+<lb n="PAST.234d:33"/>À part / et les tours qu'ilz <rhyme>font</rhyme>
+<lb n="PAST.234d:34"/>À pou que mon cuer ne <rhyme>font</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.234d:36"/>Car lors me souvient pour <rhyme>eulx</rhyme>
+<lb n="PAST.234d:37"/>De cil dont ne puis <rhyme>retraire</rhyme>
+<pb n="235" ed="r"/>
+<lb n="PAST.235r:01"/><hi rend="red">pastoure <note>entrecolonne</note> xx &#x95; <note>colonnette</note></hi>
+<cb n="a"/>
+<!-- 38 lines -->
+<lb n="PAST.235a:01"/>Mon cuer qui est <rhyme>desireux</rhyme>
+<lb n="PAST.235a:02"/>Que ainsi le peusse <rhyme>attraire</rhyme>
+<lb n="PAST.235a:03"/>Mais le doulx et <rhyme>debonnaire</rhyme>
+<lb n="PAST.235a:04"/>Est loing dont en dueil <rhyme>parfont</rhyme>
+<lb n="PAST.235a:05"/>À pou que mon cuer ne <rhyme>font</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.235a:07"/>Ainsi sera <rhyme>lengoureux</rhyme>
+<lb n="PAST.235a:08"/>Mon cuer en ce grief <rhyme>contraire</rhyme>
+<lb n="PAST.235a:09"/>Plain de souspirs <rhyme>doulereux</rhyme>
+<lb n="PAST.235a:10"/>Jusques par de ça <rhyme>repaire</rhyme>
+<lb n="PAST.235a:11"/>Cil qu'<name ref="Love"><c>a</c>mours</name> me fait tant <rhyme>plaire</rhyme>
+<lb n="PAST.235a:12"/>Mais du mal qui me <rhyme>confont</rhyme>
+<lb n="PAST.235a:13"/>A pou que mon cuer ne <rhyme>font</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.235a:15"/>Princes je ne me puis <rhyme>taire</rhyme>
+<lb n="PAST.235a:16"/>Quant je voy gent paire à <rhyme>paire</rhyme>
+<lb n="PAST.235a:17"/>Qui en joye se <rhyme>refont</rhyme>
+<lb n="PAST.235a:18"/>À pou que &amp;c
+<!-- 1 blank line(s) here -->
+<lb n="PAST.235a:20"/>Mais quant le terme <rhyme>passoit</rhyme>
+<lb n="PAST.235a:21"/>Que mis m'avoit / ne <rhyme>pensoit</rhyme>
+<lb n="PAST.235a:22"/>Mon cuer qu'à toute <rhyme>douleur</rhyme>
+<lb n="PAST.235a:23"/>Ou fust sens ou fust <rhyme>folour</rhyme>
+<lb n="PAST.235a:24"/>J'enqueroie à toutes <rhyme>gens</rhyme>
+<lb n="PAST.235a:25"/>S'on savoit où li très <rhyme>gens</rhyme>
+<lb n="PAST.235a:26"/>Jolis chevalier <rhyme>estoit</rhyme>
+<lb n="PAST.235a:27"/>Qu'<name ref="Love"><c>a</c>mours</name> si <rhyme>m'admonnestoit</rhyme> <note>'mad' correction sur grattage ; module plus serré</note>
+<lb n="PAST.235a:28"/>Si en ouoye <rhyme>souvent</rhyme>
+<lb n="PAST.235a:29"/>Tieulx nouvelles dont <rhyme>griefm<abbr type="en"/>t</rhyme>
+<lb n="PAST.235a:30"/>M'anuyoit quant dire <rhyme>ouoye</rhyme>
+<lb n="PAST.235a:31"/>Qu'il feroit moult longue <rhyme>voye</rhyme>
+<lb n="PAST.235a:32"/>Ains qu'il retournast <note>tracé du 'r' suscrit sur un 'm' ?</note> <rhyme>arriere</rhyme>
+<lb n="PAST.235a:33"/>Ancore plus dure <rhyme>m'iere</rhyme>
+<lb n="PAST.235a:34"/>La päour que son corps <rhyme>gent</rhyme>
+<lb n="PAST.235a:35"/>D'acquerre honneur <rhyme>diligent</rhyme>
+<lb n="PAST.235a:36"/>Ne fust quelque foiz mal <rhyme>mis</rhyme>
+<lb n="PAST.235a:37"/>En guerre ou par <rhyme>ennemis</rhyme>
+<lb n="PAST.235a:38"/>Si prïoye sains et <rhyme>saintes</rhyme>
+<cb n="b"/>
+<!-- 38 lines -->
+<lb n="PAST.235b:01"/>Et veus et promesses <rhyme>maintes</rhyme>
+<lb n="PAST.235b:02"/>Pleurant seullette en <rhyme>destour</rhyme>
+<lb n="PAST.235b:03"/>Faisoie pour son <rhyme>retour</rhyme>
+<lb n="PAST.235b:04"/>¶ <name ref="Lorette">Lorette</name> avoit les <rhyme>reclaims</rhyme>
+<lb n="PAST.235b:05"/>À lui disoie mes <rhyme>plains</rhyme>
+<lb n="PAST.235b:06"/>Souvent à moullée <rhyme>face</rhyme>
+<lb n="PAST.235b:07"/>Ha je ne sçay que je <rhyme>face</rhyme>
+<lb n="PAST.235b:08"/>Doulce compaigne et <rhyme>amie</rhyme>
+<lb n="PAST.235b:09"/>Bien n'ay heure ne <rhyme>demie</rhyme>
+<lb n="PAST.235b:10"/>Quant cil que i'aim tant <rhyme>demeure</rhyme>
+<lb n="PAST.235b:11"/>Le cuer ay plus noir que <rhyme>meure</rhyme>
+<lb n="PAST.235b:12"/>Je ne puis avoir <rhyme>repos</rhyme>
+<lb n="PAST.235b:13"/>N'oncques puis dormir ne <rhyme>pos</rhyme>
+<lb n="PAST.235b:14"/>Qu'il parti et s'il ne <rhyme>vient</rhyme>
+<lb n="PAST.235b:15"/>bien sçay mourir me <rhyme>couvient</rhyme>
+<lb n="PAST.235b:16"/>¶ helas <name ref="Lorette"><c>l</c>orette</name> <rhyme>m'amie</rhyme>
+<lb n="PAST.235b:17"/>Et ne te souvient il <rhyme>mie</rhyme>
+<lb n="PAST.235b:18"/>Comment il est <rhyme>gracïeux</rhyme>
+<lb n="PAST.235b:19"/>Est il homme soubz les <rhyme>cieulx</rhyme>
+<lb n="PAST.235b:20"/>Plus parfaict en toute <rhyme>grace</rhyme>
+<lb n="PAST.235b:21"/>Beauté bonté sens et <rhyme>grace</rhyme>
+<lb n="PAST.235b:22"/>Sont en lui <rhyme>entierement</rhyme>
+<lb n="PAST.235b:23"/>Ha je te pri <rhyme>chierement</rhyme>
+<lb n="PAST.235b:24"/>Ne te remembre il des <rhyme>fais</rhyme>
+<lb n="PAST.235b:25"/>De lui en doulceur <rhyme>parfais</rhyme>
+<lb n="PAST.235b:26"/>Et comment à toy <rhyme>parloit</rhyme>
+<lb n="PAST.235b:27"/>Doulcement et <rhyme>t'appelloit</rhyme>
+<lb n="PAST.235b:28"/>Quant loing de nous tu <rhyme>estoies</rhyme>
+<lb n="PAST.235b:29"/>Et quant flours lui <rhyme>apportoies</rhyme>
+<lb n="PAST.235b:30"/>Ou chose qu'il lui <rhyme>plaisoit</rhyme> <note>impression que les lettres ont été repassées ; variation d'intensité de l'encre sur les lettres : parchemin ? matériau d'écriture ? ou relecture d'un 'vieux' cahier, se rencontre ailleurs dans le ms.</note>
+<lb n="PAST.235b:31"/>Quel grant chere il en <rhyme>faisoit</rhyme>
+<lb n="PAST.235b:32"/>Son venir et son <rhyme>aler</rhyme>
+<lb n="PAST.235b:33"/>Et son gracïeux <rhyme>parler</rhyme>
+<lb n="PAST.235b:34"/>Adès m'est vis que je <rhyme>voie</rhyme>
+<lb n="PAST.235b:35"/>Et qu'il vient par celle <rhyme>voye</rhyme>
+<lb n="PAST.235b:36"/>Par où venir il <rhyme>souloit</rhyme>
+<lb n="PAST.235b:37"/>Et comment il <rhyme>m'appelloit</rhyme> <note>'e' plus noir</note>
+<lb n="PAST.235b:38"/>Quant devant lui <rhyme>m'enclinoye</rhyme>
+<pb n="235" ed="v"/>
+<lb n="PAST.235v:01"/><hi rend="red">Le livre de <note>1re colonne</note> la <note>entrecolonne</note></hi>
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="PAST.235c:01"/>Tout le cuer en plours me <rhyme>noye</rhyme> <note>point sur 'y'</note>
+<lb n="PAST.235c:02"/>Et me deffaillent li <rhyme>membre</rhyme>
+<lb n="PAST.235c:03"/>Quant tous ses fais je <rhyme>remembre</rhyme>
+<lb n="PAST.235c:04"/>Et il est de moy si <rhyme>loins</rhyme>
+<lb n="PAST.235c:05"/>Helas mais mes très durs <rhyme>soings</rhyme>
+<lb n="PAST.235c:06"/>Ma très <note>agglutinated</note> doulche chere <rhyme>amie</rhyme>
+<lb n="PAST.235c:07"/>Sont plus griefs / car je <rhyme>fremie</rhyme>
+<lb n="PAST.235c:08"/>De päour d'estre <rhyme>oublïée</rhyme>
+<lb n="PAST.235c:09"/>De lui qui me tient <rhyme>lïée</rhyme>
+<lb n="PAST.235c:10"/>Laquel<del rend="erasure plus dash">le</del> chose la mort <rhyme>viengne</rhyme>
+<lb n="PAST.235c:11"/>Ainçois que le cas <rhyme>m'aviengne</rhyme>
+<lb n="PAST.235c:12"/>Mais la grant valour <rhyme>haultaine</rhyme>
+<lb n="PAST.235c:13"/>Qui en maint paÿs le <rhyme>meine</rhyme>
+<lb n="PAST.235c:14"/>Lui donne bien dire <rhyme>l'oz</rhyme>
+<lb n="PAST.235c:15"/>Honneur grace pris et <rhyme>loz</rhyme>
+<lb n="PAST.235c:16"/>Pour quoy plusieurs grans <rhyme>maistresses</rhyme>
+<lb n="PAST.235c:17"/>Voyans les belles <rhyme>adreces</rhyme>
+<lb n="PAST.235c:18"/>De sa grant <rhyme>chevalerie</rhyme>
+<lb n="PAST.235c:19"/>L'ameroit Ainsi <rhyme>perie</rhyme>
+<lb n="PAST.235c:20"/>Pourra estre l'amour <rhyme>doulce</rhyme>
+<lb n="PAST.235c:21"/>Dont cellui m'amoit / <note>separator</note> et <rhyme>pour se</rhyme> <note>'se' c'est-à-dire 'ce'</note>
+<lb n="PAST.235c:22"/>Vif en soucy n'est <rhyme>merveille</rhyme>
+<lb n="PAST.235c:23"/>Mais quiconque amer le <rhyme>vueille</rhyme>
+<lb n="PAST.235c:24"/>Sçay je bien <rhyme>certainement</rhyme>
+<lb n="PAST.235c:25"/>Que jamais plus <rhyme>fermement</rhyme>
+<lb n="PAST.235c:26"/>Ne plus loyaument <rhyme>amé</rhyme>
+<lb n="PAST.235c:27"/>Ne sera n'ami <rhyme>clamé</rhyme>
+<lb n="PAST.235c:28"/>De nulle qui plus de <rhyme>bien</rhyme>
+<lb n="PAST.235c:29"/>Lui vueille je le sçay <rhyme>bien</rhyme>
+<lb n="PAST.235c:30"/><name ref="God"><c>d</c>ieux</name> mais trop est loing de <rhyme>my</rhyme>
+<lb n="PAST.235c:31"/>Ha mon très loyal <rhyme>ami</rhyme>
+<lb n="PAST.235c:32"/>Quant verray je la <rhyme>journée</rhyme>
+<lb n="PAST.235c:33"/>Que voye la <rhyme>retournée</rhyme>
+<lb n="PAST.235c:34"/>De vous que je tant <rhyme>desir</rhyme>
+<lb n="PAST.235c:35"/>Et sans qui je n'ay <rhyme>plaisir</rhyme>
+<lb n="PAST.235c:36"/>¶ Tieulx parolles et plus <rhyme>maintes</rhyme>
+<lb n="PAST.235c:37"/>Je disoye en mes <rhyme>complaintes</rhyme>
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="PAST.235d:01"/>Oû plour où mon cuer <rhyme>fondoit</rhyme>
+<lb n="PAST.235d:02"/>Et celle me / <note>separator</note> <rhyme>confortoit</rhyme>
+<lb n="PAST.235d:03"/>À son povoir par <rhyme>pitié</rhyme>
+<lb n="PAST.235d:04"/>Plouroit pour mon <rhyme>amistié</rhyme>
+<lb n="PAST.235d:05"/><hi rend="cap2">M</hi>ais quant cellui <rhyme>revenoit</rhyme>
+<lb n="PAST.235d:06"/>De qui tant me <rhyme>souvenoit</rhyme>
+<lb n="PAST.235d:07"/>Lors n'estoie pas <rhyme>troublée</rhyme>
+<lb n="PAST.235d:08"/>Ains joye m'iert <rhyme>redoublée</rhyme>
+<lb n="PAST.235d:09"/>A cent doubles quant vers <rhyme>my</rhyme>
+<lb n="PAST.235d:10"/>Retournoit mon doulx <rhyme>ami</rhyme>
+<lb n="PAST.235d:11"/>Qui en desir <rhyme>attendu</rhyme>
+<lb n="PAST.235d:12"/>Ert de moy / lors <rhyme>estendu</rhyme>
+<lb n="PAST.235d:13"/>Bras vers lui m'en <rhyme>accouroye</rhyme>
+<lb n="PAST.235d:14"/>Et de grant joye <rhyme>plouroye</rhyme>
+<lb n="PAST.235d:15"/>Sans dire mot / <note>separator</note> mais le <rhyme>doulx</rhyme>
+<lb n="PAST.235d:16"/>Me disoit et qu'avez <rhyme>vous</rhyme>
+<lb n="PAST.235d:17"/>Ma belle amour <rhyme>gracïeuse</rhyme>
+<lb n="PAST.235d:18"/>N'estes vous pas bien <rhyme>joyeuse</rhyme>
+<lb n="PAST.235d:19"/>Du Retour <note>'du ret' sur grattage</note> de vostre <rhyme>ami</rhyme>
+<lb n="PAST.235d:20"/>Or nous sëons cy en <rhyme>my</rhyme>
+<lb n="PAST.235d:21"/>Ceste herbete et bonne <rhyme>chere</rhyme> <note>tache de cire sous le mot ?</note>
+<lb n="PAST.235d:22"/>Me faites doulce amour / <rhyme>chere</rhyme>
+<lb n="PAST.235d:23"/>Qu'à vëoir tant <rhyme>desiroye</rhyme>
+<lb n="PAST.235d:24"/>Adont dire ne <rhyme>pourroye</rhyme>
+<lb n="PAST.235d:25"/>La joye que nous <rhyme>menions</rhyme>
+<lb n="PAST.235d:26"/>Bras à bras entre <rhyme>tenions</rhyme>
+<lb n="PAST.235d:27"/>L'un l'autre si très <rhyme>estrains</rhyme>
+<lb n="PAST.235d:28"/>Qu'onques <name ref="Tristan"><c>t</c>ristan</name> qui <rhyme>destrains</rhyme>
+<lb n="PAST.235d:29"/>D'amours fu oultre <rhyme>mesure</rhyme>
+<lb n="PAST.235d:30"/><name ref="Iseut">Yseult</name> par qui ot mort <rhyme>dure</rhyme>
+<lb n="PAST.235d:31"/>Gaires plus fort <rhyme>n'estraigni</rhyme>
+<lb n="PAST.235d:32"/>Quant à mort la <rhyme>contreigni</rhyme>
+<lb n="PAST.235d:33"/>De baiser disant <rhyme>helas</rhyme>
+<lb n="PAST.235d:34"/>Doulcement n'estions pas <rhyme>las</rhyme>
+<lb n="PAST.235d:35"/>Car lasser ne nous <rhyme>peussions</rhyme>
+<lb n="PAST.235d:36"/>Se sanz cesser y <rhyme>fussions</rhyme>
+<lb n="PAST.235d:37"/>Lonc ne nous fust le <rhyme>demour</rhyme>
+<pb n="236" ed="r"/>
+<lb n="PAST.236r:01"/><hi rend="red">pastoure xx &#x95; <note>entrecolonne</note></hi>
+<cb n="a"/>
+<!-- 38 lines -->
+<lb n="PAST.236a:01"/>Ne oncques en celle <rhyme>amour</rhyme>
+<lb n="PAST.236a:02"/>Qui en &#x95; ii &#x95; cuers fu <rhyme>unie</rhyme>
+<lb n="PAST.236a:03"/>Il n'ot mal ne <rhyme>villenie</rhyme>
+<lb n="PAST.236a:04"/>Ne n'ara jamais sans <rhyme>faille</rhyme>
+<lb n="PAST.236a:05"/>Si ne crois je qu'elle <rhyme>faille</rhyme>
+<lb n="PAST.236a:06"/>Nul temps / car noz <rhyme>esperis</rhyme>
+<lb n="PAST.236a:07"/>Quant mors seront et <rhyme>peris</rhyme>
+<lb n="PAST.236a:08"/>Les corps qu'il <note>barré et exponctué</note> croy qu'il <rhyme>s'ameront</rhyme>
+<lb n="PAST.236a:09"/>Et ensemble <rhyme>demourront</rhyme>
+<lb n="PAST.236a:10"/>Ainsi duroit ma <rhyme>plaisance</rhyme>
+<lb n="PAST.236a:11"/>Tant que i'avoie <rhyme>l'aisance</rhyme> <note>tache de cire sur 'ce' ?</note>
+<lb n="PAST.236a:12"/>D'estre pres du doulx et <rhyme>cointe</rhyme>
+<lb n="PAST.236a:13"/>Qu'<name ref="Love"><c>a</c>mours</name> fist si mon <rhyme>accointe</rhyme>
+<lb n="PAST.236a:14"/>Et certes pres de lui <rhyme>estre</rhyme>
+<lb n="PAST.236a:15"/>M'estoit paradis <rhyme>terrestre</rhyme>
+<lb n="PAST.236a:16"/>N'autre nul ne <rhyme>demandasse</rhyme>
+<lb n="PAST.236a:17"/>Mais pou duroit cel <rhyme>espace</rhyme>
+<lb n="PAST.236a:18"/>Car petit ert sa <rhyme>demeure</rhyme> <note>manque d'accord ?</note>
+<lb n="PAST.236a:19"/>Oû paÿs dont noir com <rhyme>meure</rhyme>
+<lb n="PAST.236a:20"/>Mon povre cuer <rhyme>devenoit</rhyme>
+<lb n="PAST.236a:21"/>Aussi tost qu'il <rhyme>avenoit</rhyme>
+<lb n="PAST.236a:22"/>Que cil me disoit <rhyme>m'amour</rhyme>
+<lb n="PAST.236a:23"/>Partir me fault sans <rhyme>demour</rhyme>
+<lb n="PAST.236a:24"/>Pour aler en tel <rhyme>voyage</rhyme>
+<lb n="PAST.236a:25"/>¶ Ha <name ref="God"><c>d</c>ieux</name> com piteux <rhyme>visage</rhyme>
+<lb n="PAST.236a:26"/>Lassette adont je <rhyme>faisoie</rhyme>
+<lb n="PAST.236a:27"/>Et par grant douleur <rhyme>disoie</rhyme>
+<lb n="PAST.236a:28"/>Or me voulez vous <rhyme>occire</rhyme>
+<lb n="PAST.236a:29"/>Ma doulce amour mon doulx <rhyme>sire</rhyme>
+<lb n="PAST.236a:30"/>Qui <note>correction sur grattage ?</note> ja vous voulez <rhyme>partir</rhyme>
+<lb n="PAST.236a:31"/>Morte <note>correction sur grattage ; 'e' avec boucle pour combler espace</note> une fois sans <rhyme>mentir</rhyme>
+<lb n="PAST.236a:32"/>Me trouverés au <rhyme>retour</rhyme>
+<lb n="PAST.236a:33"/>Car je ne puis par nul <rhyme>tour</rhyme>
+<lb n="PAST.236a:34"/>Souffrir longuement tel <rhyme>peine</rhyme>
+<lb n="PAST.236a:35"/>Et cil qui me vëoit <rhyme>vaine</rhyme>
+<lb n="PAST.236a:36"/>Et lasse adont <rhyme>m'appaisoit</rhyme>
+<lb n="PAST.236a:37"/>Doulcement et me <rhyme>baisoit</rhyme>
+<lb n="PAST.236a:38"/>Disant ma belle <rhyme>maistresse</rhyme>
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="PAST.236b:01"/>Pour <name ref="God"><c>d</c>ieu</name> ceste grant <rhyme>destresse</rhyme> <note>fin du mot légèrement effacée</note>
+<lb n="PAST.236b:02"/>Ostez / car trop il m'en <rhyme>pose</rhyme>
+<lb n="PAST.236b:03"/>Il couvient que je m'en <rhyme>voise</rhyme>
+<lb n="PAST.236b:04"/>Mais je revendray <rhyme>briefment</rhyme>
+<lb n="PAST.236b:05"/>Ainsi à <name ref="God"><c>d</c>ieu</name> vous <rhyme>command</rhyme>
+<lb n="PAST.236b:06"/>Me disoit cil que <rhyme>baisoie</rhyme>
+<lb n="PAST.236b:07"/>Cent fois / et grant dueil <rhyme>faisoie</rhyme>
+<lb n="PAST.236b:08"/>Au deppartir et toute <rhyme>heure</rhyme>
+<lb n="PAST.236b:09"/>Tant com duroit la <rhyme>demeure</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PAST.236b:11"/><hi rend="cap2">O</hi>r <note>lettre d'attente partiellement visible, lettre d'attente barrée dans le ligne précédente</note> diray comme or me <rhyme>va</rhyme>
+<lb n="PAST.236b:12"/>De cil qui ja me <rhyme>trouva</rhyme>
+<lb n="PAST.236b:13"/>Oû bois seule / et qui en <rhyme>may</rhyme>
+<lb n="PAST.236b:14"/>Me prïa et je <rhyme>l'amay</rhyme>
+<lb n="PAST.236b:15"/>Helas il parti de <rhyme>moy</rhyme>
+<lb n="PAST.236b:16"/>Et prist congié en <rhyme>l'ormoy</rhyme>
+<lb n="PAST.236b:17"/>Dont de dueil cuiday <rhyme>partir</rhyme>
+<lb n="PAST.236b:18"/>Quant je le vi <rhyme>departir</rhyme>
+<lb n="PAST.236b:19"/>Il a ja un an <rhyme>passé</rhyme>
+<lb n="PAST.236b:20"/>N'oncques puis mon cuer <rhyme>lassé</rhyme>
+<lb n="PAST.236b:21"/>Ne fu de mener tel <rhyme>dueil</rhyme>
+<lb n="PAST.236b:22"/>N'autre deduit je ne <rhyme>vueil</rhyme>
+<lb n="PAST.236b:23"/>Fors guermenter et <rhyme>plourer</rhyme>
+<lb n="PAST.236b:24"/>Et <name ref="God"><c>d</c>ieu</name> et sains <rhyme>äourer</rhyme>
+<lb n="PAST.236b:25"/>Et prïer qu'il tourne à <rhyme>joye</rhyme>
+<lb n="PAST.236b:26"/>De la longue et griefve <rhyme>voye</rhyme>
+<lb n="PAST.236b:27"/>Qu'il a par valeur <rhyme>emprise</rhyme>
+<lb n="PAST.236b:28"/>Dont chacun le loe et <rhyme>prise</rhyme>
+<lb n="PAST.236b:29"/>Mais mon cuer n'est pas <rhyme>asseur</rhyme>
+<lb n="PAST.236b:30"/>Pour doubtance de <rhyme>meseur</rhyme>
+<lb n="PAST.236b:31"/>Qui moult souvent aux bons <rhyme>griefve</rhyme>
+<lb n="PAST.236b:32"/><name ref="God"><c>d</c>ieux</name> L'en <note>'L' corrigé sur grattage de 'm'</note> gart qui la mort <rhyme>briefve</rhyme>
+<lb n="PAST.236b:33"/>Me doint ainçois qu'il <rhyme>aviengne</rhyme>
+<lb n="PAST.236b:34"/>Ne que mal n'anuy lui <rhyme>viengne</rhyme>
+<lb n="PAST.236b:35"/>¶ Desir aussi d'autre <rhyme>part</rhyme>
+<lb n="PAST.236b:36"/>Assez de mal me <rhyme>deppart</rhyme>
+<lb n="PAST.236b:37"/>Dont souvent je me <rhyme>demante</rhyme> <note>fin du mot gratté ? tache ?</note>
+<lb n="PAST.236b:38"/>À vraye amour et <rhyme>guermente</rhyme> <note>fin du mot, tache ? 't' final repassé à l'encre noire ? rustine ; indication de correction ?</note>
+<pb n="236" ed="v"/>
+<lb n="PAST.236v:01"/><hi rend="red">Le livre de <note>1re colonne</note> la <note>entrecolonne</note> pastoure xx &#x95; <note>2e colonne</note></hi>
+<cb n="c"/>
+<!-- 38 lines -->
+<lb n="PAST.236c:01"/>Qui me fist <rhyme>enamourer</rhyme>
+<lb n="PAST.236c:02"/>D'un tel / que son <rhyme>demourer</rhyme>
+<lb n="PAST.236c:03"/>Me fait livrer à <rhyme>martire</rhyme>
+<lb n="PAST.236c:04"/><add place="left margin" type="text hand" evidence="plus signs, paler ink, pointer">Et destruire tire à <rhyme>tire</rhyme></add>
+<lb n="PAST.236c:05"/>Cuer et corps et <rhyme>esperit</rhyme>
+<lb n="PAST.236c:06"/>Et ainsi amours <rhyme>merit</rhyme>
+<lb n="PAST.236c:07"/>Ceulx et celles qui le <rhyme>servent</rhyme>
+<lb n="PAST.236c:08"/>Mal ont et ne le <rhyme>desservent</rhyme>
+<lb n="PAST.236c:09"/>C'est bien diverse <rhyme>aventure</rhyme>
+<lb n="PAST.236c:10"/>Mieulx me vaulsist en <rhyme>pasture</rhyme>
+<lb n="PAST.236c:11"/>Ancor mes agneaulx <rhyme>garder</rhyme>
+<lb n="PAST.236c:12"/>Et d'amours bien <add place="supralinear" type="" evidence="">me</add> <note>encre plus pâle</note> <rhyme>garder</rhyme>
+<lb n="PAST.236c:13"/>Que d'amer un tel sans <rhyme>faille</rhyme>
+<lb n="PAST.236c:14"/>Combien qu'il mieulx <note>correction sur grattage lettres 'ieu'</note> de moy <rhyme>vaille</rhyme>
+<lb n="PAST.236c:15"/>Qu'en souffrir si faite <rhyme>peine</rhyme> <note>dernier jambage du 'n' repassé ?</note>
+<lb n="PAST.236c:16"/>Que se <name ref="God"><c>d</c>ieu</name> tost ne la <rhyme>maine</rhyme> <note>'ine' repassés</note>
+<lb n="PAST.236c:17"/>Il en est pic de ma <rhyme>vie</rhyme>
+<lb n="PAST.236c:18"/>Car sans lui je n'ay <rhyme>envie</rhyme>
+<lb n="PAST.236c:19"/>De vivre il est la <rhyme>pasture</rhyme>
+<lb n="PAST.236c:20"/>Sans qui de vivre n'ay <rhyme>cure</rhyme>
+<lb n="PAST.236c:21"/>Si prie <name ref="God"><c>d</c>ieu</name> qu'il le <rhyme>ramaint</rhyme> <note>'int' repassés ?</note>
+<lb n="PAST.236c:22"/>Et me doint grace qu'il <rhyme>m'aint</rhyme>
+<lb n="PAST.236c:23"/>Toudis ainsi com je <rhyme>l'aim</rhyme>
+<lb n="PAST.236c:24"/>Car ses doulx yeulx pris à <rhyme>l'aim</rhyme>
+<lb n="PAST.236c:25"/>Ont mon cuer c'est sans <rhyme>partir</rhyme>
+<lb n="PAST.236c:26"/>Mieulx vouldroit en &#x95; ii &#x95; <rhyme>partir</rhyme>
+<lb n="PAST.236c:27"/>Si vous suppli tous et <rhyme>toutes</rhyme>
+<lb n="PAST.236c:28"/>À nuds genoulx et à <rhyme>coutes</rhyme>
+<lb n="PAST.236c:29"/>Fins amans prïez pour <rhyme>lui</rhyme>
+<lb n="PAST.236c:30"/>Car je vous jur que <rhyme>cellui</rhyme>
+<lb n="PAST.236c:31"/>Entre les bons est <rhyme>clamé</rhyme>
+<lb n="PAST.236c:32"/>Vaillant et des preux <rhyme>amé</rhyme>
+<!-- 2 blank line(s) here -->
+<lb n="PAST.236c:35"/>Explicit le dit de la <note>centred</note>
+<lb n="PAST.236c:36"/>pastoure <note>centred</note> <note>'st' repassés à l'encre noire</note>
+<!-- 2 blank line(s) here -->
+<lb n="PAST.236c:39"/>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

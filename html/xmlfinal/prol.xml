@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact James.Laidlaw at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2009</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<ref type="prolfm.html"/>
+<div1 n="Prologue" type="Item">
+<pb n="003" ed="r"/>
+<figure  place="23" ref="003ab"></figure>
+<cb n="a"/>
+<!-- 15  lines -->
+<pb ed="r" n="003"/><layout rend="blank" ruledLines="no"/>
+<cb n="a"/>
+<layout ruledLines="15"/>
+<group n=" 1"/><div2 n="1" length="12" metre="8"  rhyme="ff" type="douzain" stanza="aabaabbbabba"><lb n="PROL.003a:01 "/><hi rend="cap5">T</hi>rès excellent de grant <g en="highness" fr="altesse" lemma="hautesse"><rhyme>haultesse</rhyme></g>
+<lb n="PROL.003a:02 "/>Couronnée, poissant <rhyme>princesse</rhyme>,
+<lb n="PROL.003a:03 "/><name ref="Isabeau">Tresnoble <g en="queen" fr="reine" lemma="reine"><c>R</c>oÿne</g> de <rhyme><c>f</c>rance</rhyme></name>,
+<lb n="PROL.003a:04 "/><g en="humbly bowing low" fr="faisant une humble révérence" lemma="enclin1">Le corps enclin</g>, vers vous <rhyme>m'adresce</rhyme><l n=" 4"/>
+<lb n="PROL.003a:05 "/>En salüant par grant <g en="humility" fr="humilité" lemma="humblesse"><rhyme>hu<abbr type="m"/>blece</rhyme></g>.
+<lb n="PROL.003a:06 "/>Pry <name ref="God"><c>d</c>ieu</name> qu'il vous tiengne <g en="tranquil, not in DMF" fr="en paix" lemma="souffrance">en <rhyme>souffrance</rhyme></g>
+<lb n="PROL.003a:07 "/>Lonc temps vive, / et après <rhyme>l'<g en="last extremity" fr="dernière extrémité" lemma="outrance">oultrance</g></rhyme>
+<lb n="PROL.003a:08 "/>De la mort / vous <g en="give, grant" fr="donne" lemma="donner" type="pr. subj. 3">doint</g> la <rhyme><c>R</c>ichece</rhyme><l n=" 8"/>
+<lb n="PROL.003a:09 "/>De <name ref="Paradise">paradis</name> qui point ne <rhyme>cesse</rhyme>,
+<lb n="PROL.003a:10 "/>Et au monde <g en="uninterrupted, without end" fr="ininterrompu, continu" lemma="dessevrance">sanz <rhyme>decevrance</rhyme></g>
+<lb n="PROL.003a:11 "/>Paix, joye et toute <g en="recovery" fr="reprise" lemma="recouvrance"><rhyme>recouvrance</rhyme></g>
+<lb n="PROL.003a:12 "/>De <g en="all that" fr="tout ce qui" lemma="quanque">quanqu</g>'il <g en="be fitting" fr="convenir" lemma="afferir" type="pres. ind. 3">affiert</g> à <g en="gladness, joy" fr="liesse, joie" lemma="liesse"><rhyme>léece</rhyme></g>.<l n="12"/></div2>
+
+<group n=" 2"/><div2 n="2" length="12" metre="8"  rhyme="mf" type="douzain" stanza="ccdccdddcddc"><lb n="PROL.003a:13 "/>Haulte dame, en qui sont tous <rhyme>biens,</rhyme>
+<lb n="PROL.003a:14 "/>Et ma <choice><sic>tressouverainne</sic><corr reason="hypermetric" resp="JCL" source="">tressouvrainne</corr></choice>,<note>'Souverain' is the predominant spelling in the Queen's MS, but there are also many examples of 'souvrain', especially in the works in verse.</note> je <rhyme>viens</rhyme>
+<lb n="PROL.003a:15 "/>Vers vous comme vo <rhyme>créature</rhyme>,<cb n="b"/><layout ruledLines="15"/>
+<lb n="PROL.003b:01 "/>Pour ce livre cy que je <rhyme>tiens</rhyme><l n="16"/>
+<lb n="PROL.003b:02 "/>Vous presenter, où il n'a <rhyme>riens</rhyme>
+<lb n="PROL.003b:03 "/>En <g en="miniature" fr="miniature" lemma="histoire">histoire</g> n'en <rhyme>escripture</rhyme>
+<lb n="PROL.003b:04 "/>Que n'aye en ma pensée <rhyme>pure</rhyme>
+<lb n="PROL.003b:05 "/>Pris oû stile que je <g en="to possess" fr="posséder" lemma="détenir"><rhyme>detiens</rhyme></g><l n="20"/>
+<lb n="PROL.003b:06 "/>Du<del rend="erased">n</del> seul <g en="inspiration, feeling" fr="inspiration, sentiments" lemma="sentement">sentement</g> que <rhyme>retiens</rhyme>
+<lb n="PROL.003b:07 "/>Des dons de <name ref="God"><c>d</c>ieu</name> et de <name ref="Nature"><rhyme><c>n</c>ature</rhyme></name>,
+<lb n="PROL.003b:08 "/>Quoy que mainte aultre <rhyme>créature</rhyme>
+<lb n="PROL.003b:09 "/>En ait plus en fait et <g en="conduct, behaviour" fr="conduite, comportement" lemma="maintien"><rhyme>maintiens</rhyme></g>.<l n="24"/></div2>
+
+<group n=" 3"/><div2 n="3" length="12" metre="8"  rhyme="mf" type="douzain" stanza="eefeefffeffe"><lb n="PROL.003b:10"/>Et sont oû volume <rhyme>compris</rhyme>
+<lb n="PROL.003b:11 "/><g en="many" fr="maint" lemma="plusieurs">Plusieurs</g> livres <g en="in which" fr="dans lesquels" lemma="quel">èsquieulx</g> <g en="to begin" fr="commencer à" lemma="prendre"><c>J</c>'a<s>y</s> <rhyme>pris</rhyme></g>
+<lb n="PROL.003b:12 "/>À parler en maintes <rhyme>manieres</rhyme>
+<lb n="PROL.003b:13 "/>Differens, et pour ce l'<g en="to undertake" fr="entrependre" lemma="emprendre1"><rhyme>empris</rhyme></g><l n="28"/>
+<lb n="PROL.003b:14 "/>Quë on en devient plus <g en="skilled, able" fr="habile, instruit" lemma="apprendre" type="Part. passé en empl. adj."><rhyme>appris</rhyme></g>
+<lb n="PROL.003b:15 "/>D'<g en="hear" fr="entendre" lemma="ouïr">o<s>ÿ</s>r</g> de diverses <rhyme>matieres</rhyme>,<pb ed="v" n="003"/><layout rend="blank" ruledLines="no"/><cb n="c"/><layout ruledLines="38"/>
+<lb n="PROL.003c:01 "/><s>U</s>nes pesans, aultres <rhyme>legieres</rhyme>,
+<lb n="PROL.003c:02 "/>À qui <g en="take delight" fr="prendre plaisir" lemma="déliter">se delitte</g> oû <g en="garden, domain" fr="jardin, domaine" lemma="pourpris"><rhyme>pourpris</rhyme></g><l n="32"/>
+<lb n="PROL.003c:03 "/>Des livres qui maint ont e<add evidence="erasure" place="inline" type="scribe">n</add> <g en="worth, reputation" fr="valeur, réputation" lemma="prix"><rhyme>pris</rhyme></g> 
+<lb n="PROL.003c:04 "/>Fait monter / et prendre <rhyme>manieres</rhyme>
+<lb n="PROL.003c:05 "/><s>B</s>elles. <c>s</c>i doit on avoir <rhyme>chieres</rhyme>
+<lb n="PROL.003c:06 "/>Escriptures, non en <g en="contempt" fr="mépris" lemma="dépris1"><rhyme>despris</rhyme></g><l n="36"/></div2>
+
+<group n=" 4"/><div2 n="4" length="12" metre="8"  rhyme="fm" type="douzain" stanza="gghgghhhghhg"><lb n="PROL.003c:07 "/>¶ Car, <g en="just as, not in DMF" fr="comme" lemma="si2">si que</g> les sages <rhyme>tesmoignent</rhyme>
+<lb n="PROL.003c:08 "/>En leurs escrips, les gens qui <rhyme><g en="to attach importance to" fr="se préoccuper de" lemma="soigner">songne<abbr type="n"/>t</g></rhyme>
+<lb n="PROL.003c:09 "/>De lire en livres <rhyme>voulentiers</rhyme>,
+<lb n="PROL.003c:10 "/>Ne peut qu'aucunement <rhyme>n'eslongnent</rhyme><note>'They must to some degree dispel Ignorance'. Literally, 'it cannot be that they do not...'</note><l n="40"/>
+<lb n="PROL.003c:11 "/><name ref="Ygnorence">Ygnorence</name> que ceulx <rhyme><g en="fear" fr="craignent" lemma="ressoigner">ressongnent</g></rhyme>
+<lb n="PROL.003c:12 "/>Qui de <name ref="Sens"><c>s</c>ens</name> suivent les <rhyme>sentiers</rhyme>.
+<lb n="PROL.003c:13 "/>Si en valent mieulx ceulx le <rhyme>tiers</rhyme>,
+<lb n="PROL.003c:14 "/>Voire plus, qui <g en="apply themselves to" fr="s'en occupent" lemma="embesogner">s'en <rhyme>embesongnent</rhyme></g><l n="44"/>
+<lb n="PROL.003c:15 "/>Et qui la peine ne <rhyme>ressongnent</rhyme>
+<lb n="PROL.003c:16 "/>D'apprendre. Il n'est si beaulx <rhyme>mestiers</rhyme>
+<lb n="PROL.003c:17 "/>Ne qui face gens si <g en="sincere, true" fr="sincère, vrai" lemma="entier"><rhyme>entiers</rhyme></g>,
+<lb n="PROL.003c:18 "/>Quoy que les folz, peut estre, en <rhyme>grongne<abbr type="n"/>t</rhyme>.<l n="48"/></div2>
+
+<group n=" 5"/><div2 n="5" length="12" metre="8"  rhyme="mm" type="douzain" stanza="iijiijjjijji"><lb n="PROL.003c:19 "/>¶ Si l'ay fait, ma dame, \<g en="order, prepare" fr="arranger, préparer" lemma="ordonner"><rhyme>ordener</rhyme></g>
+<lb n="PROL.003c:20 "/>Depuis que je sceus que <g en="present" fr="attribuer, destiner" lemma="assener"><rhyme>assener</rhyme></g>
+<lb n="PROL.003c:21 "/>Le devoye à vous, si que ay <rhyme>sceu</rhyme>
+<lb n="PROL.003c:22 "/>Tout au mieulx, et le <g en="to finish, complete" fr="terminer, achever" lemma="parfiner"><rhyme>parfiner</rhyme></g><l n="52"/>
+<lb n="PROL.003c:23 "/>D'escripre et bien <rhyme>enluminer</rhyme>,
+<lb n="PROL.003c:24 "/>Dès que vo <g en="command, order" fr="commandement, ordre" lemma="command">command</g> en <rhyme><c>R</c>eceu</rhyme>
+<lb n="PROL.003c:25 "/>Selons qu'en mon cuer j'ay <rhyme>conceu</rhyme>
+<lb n="PROL.003c:26 "/>Qu'il faloit des choses <rhyme><g en="finish, complete" fr="terminer, achever" lemma="finer">finer</g></rhyme><l n="56"/>
+<lb n="PROL.003c:27 "/>Pour bien richement <rhyme>l'<g en="perfect, complete" fr="rendre parfait, achever" lemma="affiner1">affiner</g></rhyme>,
+<lb n="PROL.003c:28 "/>Affin que fust <rhyme>apperceü</rhyme>
+<lb n="PROL.003c:29 "/>Que je mets povoir force et <rhyme><g en="knowledge" fr="connaissances" lemma="su">sceu</g></rhyme>
+<lb n="PROL.003c:30 "/>Pour vo bon <g en="wish, desire" fr="désir, volonté" lemma="veuil">vueil</g> <g en="fulfil" fr="satisfaire, accomplir" lemma="entériner"><rhyme>enteriner</rhyme></g>.<l n="60"/></div2>
+
+<group n=" 6"/><div2 n="6" length="12" metre="8"  rhyme="ff" type="douzain" stanza="kklkklllkllk"><lb n="PROL.003c:31 "/>¶ Do<abbr type="n"/>t vous plaise, <name ref="Isabeau">très haulte et <rhyme>digne</rhyme></name>,
+<lb n="PROL.003c:32 "/>Le <g en="receive with favour" fr="accueillir favorablement" lemma="gré1">prendre en gré</g>, tout soye <rhyme>indigne</rhyme>
+<lb n="PROL.003c:33 "/>Que mon euvre estre <rhyme>presentée</rhyme>
+<lb n="PROL.003c:34 "/>Vous doye, mais vostre <rhyme>benigne</rhyme><l n="64"/>
+<lb n="PROL.003c:35 "/><g en="character, behaviour" fr="nature, façon de se conduire" lemma="condition">Condicïon</g> qui ne <rhyme><g en="shun" fr="repousse" lemma="décliner">decline</g></rhyme>
+<lb n="PROL.003c:36 "/>D'umilité, / <name ref="Isabeau"><rhyme>tresredoubtée</rhyme>
+<lb n="PROL.003c:37 "/>Dame</name>, / <g en="although, not in DMF?" fr="bien que" lemma="tout" type="conj. subjonctif">tout</g> soiez <add evidence="erasure" place="inline" type="scribe">ha</add>u<add evidence="erasure" place="inline" type="scribe">l</add>t  <rhyme>montée</rhyme>,
+<lb n="PROL.003c:38 "/>Ne vous <g en="permit, allow" fr="permettre" lemma="souffrir">seuffre</g> en fait në en <rhyme>si<s>g</s>ne</rhyme><l n="68"/><cb n="d"/><layout ruledLines="38"/>
+<lb n="PROL.003d:01 "/>Que ne so<s>y</s>ez comme <name ref="Isabeau"><rhyme><s><c>R</c></s>o<s>ÿ</s>ne</rhyme></name>
+<lb n="PROL.003d:02 "/>Doit estre, humaine et <g en="firm, resolute" fr="résolue, ferme" lemma="arrêter"><rhyme>arrestée</rhyme></g>.
+<lb n="PROL.003d:03 "/>Et pour ce ne me suis <rhyme>doubtée</rhyme>
+<lb n="PROL.003d:04 "/>Que vous l'ayés à ce <rhyme>termine</rhyme>.<l n="72"/></div2>
+
+<group n=" 7"/><div2 n="7" length="12" metre="8"  rhyme="mf" type="douzain" stanza="mmnmmnnnmnnm"><lb n="PROL.003d:05 "/>¶ <s>D</s>e mon labour et lonc <rhyme>travail</rhyme>
+<lb n="PROL.003d:06 "/>Du livre que mès<note>Present indicative 1, from 'mettre'. In line 59  the spelling is 'mets'.</note> en <g en="your" fr="votre" lemma="votre">vo</g> <abbr type=" "/><g en="possession" fr="possession" lemma="bail1"><rhyme>bail</rhyme></g>,
+<lb n="PROL.003d:07 "/>Qui contient grant euvre et <rhyme>penible</rhyme>,
+<lb n="PROL.003d:08 "/><g en="although, not in DMF" fr="bien que" lemma="combien" type="indicatif">Combien que</g>, peut estre, g'y <g en="to fail" fr="ne pas réussir" lemma="faillir"><rhyme>fail</rhyme></g><l n="76"/>
+<lb n="PROL.003d:09 "/>En maint lieux par ce que je <g en="to merit" fr="valoir" lemma="valoir" type="prés. ind. 1"><rhyme>vail</rhyme></g>
+<lb n="PROL.003d:10 "/>Trop pou en sens, bien est <rhyme>possible</rhyme>.
+<lb n="PROL.003d:11 "/>Ne vueillez pas, <name ref="Isabeau">dame <g en="intelligent, reasonable" fr="intelligent, raisonnable" lemma="sensible"><rhyme>sensible</rhyme></g></name>,
+<lb n="PROL.003d:12 "/>Pour tant prendre garde au <g en="defects, deficiency" fr="défauts, not in DMF" lemma="défaillir"><rhyme>deffail</rhyme></g><note>The unusual word-order has been chosen for rhetorical effect. The sense becomes clear, if one reads 'Ne vueillez pas prendre garde au deffail de mon labour et lonc travail du livre, ... mais à ce que...'</note><l n="80"/>  
+<lb n="PROL.003d:13 "/>Mais à ce que je <g en="to strive" fr="s'efforcer" lemma="travailler">me <rhyme>travail</rhyme></g>
+<lb n="PROL.003d:14 "/><c>v</c>oulentiers de ce que <rhyme>possible</rhyme>
+<lb n="PROL.003d:15 "/>M'est à faire en chose <g en="acceptable" fr="acceptable" lemma="loisible"><rhyme>loisible</rhyme></g>
+<lb n="PROL.003d:16 "/>Qu'à haulte gent <g en=" with pleasure" fr=" avec plaisir" lemma="volontiers">voulentiers</g> <g en="to give" fr="donner" lemma="bailler"><rhyme>bail</rhyme></g>.<l n="84"/></div2>
+
+<group n=" 8"/><div2 n="8" length="12" metre="8"  rhyme="mf" type="douzain" stanza="oopoopppoppo"><lb n="PROL.003d:17 "/>¶ <s>S</s>i suppli en <rhyme>conclusïon</rhyme>,
+<lb n="PROL.003d:18 "/><name ref="Isabeau">Haulte dame <rhyme>d'<g en="lineage" fr="race" lemma="attraction">atractïon</g></rhyme>
+<lb n="PROL.003d:19 "/>D'empereurs</name> de digne <rhyme>memoire</rhyme>,
+<lb n="PROL.003d:20 "/>Qu'en benigne <rhyme>devocïon</rhyme><l n="88"/>
+<lb n="PROL.003d:21 "/>Vous plaise mon <g en="intention" fr="intention" lemma="entention"><rhyme>entencïon</rhyme></g>
+<lb n="PROL.003d:22 "/>Prendre en gré, qui loyale et <g en="true, sincere" fr="vraie, sincère" lemma="voir2"><rhyme>voire</rhyme></g>
+<lb n="PROL.003d:23 "/>Est et sera. <c>e</c>t si <rhyme>notoire</rhyme>
+<lb n="PROL.003d:24 "/>Ceste mienne <rhyme>posicïon</rhyme><l n="92"/>
+<lb n="PROL.003d:25 "/>Vous soit qu'à tousjours <rhyme>mencïon</rhyme>
+<lb n="PROL.003d:26 "/>Soit de moy en v<abbr type="ost"/>re <rhyme>memoire</rhyme>,
+<lb n="PROL.003d:27 "/>Si que vo<abbr type="st"/>re grace <rhyme>m'<g en="to affirm" fr="affirmer" lemma="avérer">avoire</g></rhyme>
+<lb n="PROL.003d:28 "/>Qu'a<s>y</s>és à mo<s>y</s> <rhyme>affectïon</rhyme>.<l n="96"/>
+</div2>
+<!-- 10 blank lines -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

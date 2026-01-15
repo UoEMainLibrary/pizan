@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+ <div1 n="Virelais" type="Item">
+<cb n="b"/>
+<lb n="VIRL.021b:13"/><fw type="rubric" place="inline" rend="inset">Ci commencent virela<s>y</s>s <hi rend="red">&#x95;iii&#x95;</hi></fw>
+<!-- 2 blank lines -->
+<lb n="VIRL.021b:16"/><group n=" 1"/><div2 satfno=" 1" n="1" type="Virelai quatrain" metre="7" length="28" refrain="abba" stanza="cdcd" rhyme="fm mm"><hi rend="cap2">J</hi>e chante par <rhyme>couverture</rhyme>,
+<lb n="VIRL.021b:17"/><c>m</c>ais mieulx plourassent my <rhyme>oeil</rhyme>,
+<lb n="VIRL.021b:18"/>Ne nul ne scet le <rhyme>traveil</rhyme>
+<lb n="VIRL.021b:19"/>Que mon povre cuer <rhyme>endure</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.021b:21"/>Pour ce muce ma <rhyme><subst>doul<del rend="overwritten">e</del><add evidence="darker ink" place="inline" type="overwritten">o</add>ur</subst></rhyme>
+<lb n="VIRL.021b:22"/>Qu'en nul je ne voy <rhyme>pitié</rhyme>;
+<lb n="VIRL.021b:23"/>Plus a l'en cause de <rhyme>plour</rhyme>
+<lb n="VIRL.021b:24"/>Mains treuve l'en <rhyme>d'amistié</rhyme>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.021b:26"/>Pour ce plainte ne <rhyme>murmure</rhyme>
+<lb n="VIRL.021b:27"/>Ne fais de mon piteux <rhyme>dueil</rhyme>,
+<lb n="VIRL.021b:28"/>Ainçois ry quant plourer <rhyme>vueil</rhyme>
+<lb n="VIRL.021b:29"/>Et sans rime <choice><orig>&amp;</orig><reg>et</reg></choice> sans <rhyme>mesure</rhyme><l n="12"/>
+<lb n="VIRL.021b:30"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Je chante </fw></emph>
+<lb n="VIRL.021b:31"/>Petit porte de <rhyme>valour</rhyme>
+<lb n="VIRL.021b:32"/>De soy monstrer <rhyme>dehaitié</rhyme>:
+<lb n="VIRL.021b:33"/>Ne le tiennent qu'à <rhyme>folour</rhyme><l n="16"/>
+<lb n="VIRL.021b:34"/>Ceulx qui ont le cuer <rhyme>haitié</rhyme>,
+<!-- 1 blank line -->
+<lb n="VIRL.021b:36"/>Si n'ay de demonstrer <rhyme>cure</rhyme>
+<lb n="VIRL.021b:37"/>L'entencïon de mon <rhyme>vueil</rhyme>, 
+<lb n="VIRL.021b:38"/>Ains tout ainsi com je <rhyme>sueil</rhyme><l n="20"/>
+<lb n="VIRL.021b:39"/>Pour celer ma peine <rhyme>obscure</rhyme>
+<lb n="VIRL.021b:40"/><emph rend="italic"><fw type="refrain" place="outside ruled space" rend="centred, smaller point">Je chante</fw></emph></div2>
+<pb n="021" ed="r" l="VIRL.021bom:1"/><fw type="signature" place="bottom, tabbed" rend="plummet">a ii</fw><pb n="021" ed="v" l="VIRL.021v:01"/><layout  ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c" rend="tabbed from left"><hi rend="red"><c>v</c>ire</hi></fw><note>The running title was initially written in three parts: 'vire   lays  &#x95;v&#x95;'; the last two parts have been erased.</note></hi><cb n="c"/><layout ruledLines="39"/>
+<lb n="VIRL.021c:01"/><group n=" 2"/><div2 satfno=" 2" n="2" type="Virelai quatrain" metre="7" length="28" refrain="abba" stanza="cdcd" rhyme="ffmm"><hi rend="cap2">A</hi>mis, je ne sçay que <rhyme>dire</rhyme>
+<lb n="VIRL.021c:02"/>De vous, car vostre <rhyme>maniere</rhyme>
+<lb n="VIRL.021c:03"/>Monstre que d'amour <rhyme>legiere</rhyme>
+<lb n="VIRL.021c:03"/>M'amez, dont j'ay trop grant <rhyme>yre</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.021c:06"/>Je ne sçay se vous <rhyme>rusez</rhyme>
+<lb n="VIRL.021c:07"/>Mais à vous ne puis <rhyme>parler</rhyme>,
+<lb n="VIRL.021c:08"/>Et toudis vous <rhyme>excusez</rhyme>
+<lb n="VIRL.021c:09"/>Qu'il vous fault ailleurs <rhyme>aler</rhyme>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.021c:11"/><s>B</s>ien vo<s>y</s> que vo cuer ne <rhyme>tire</rhyme>
+<lb n="VIRL.021c:12"/>Qu'en sus de moy traire <rhyme>arriere</rhyme>,
+<lb n="VIRL.021c:13"/>Et pour vostre morne <rhyme>chiere</rhyme>
+<lb n="VIRL.021c:14"/>Qui toudis vers moy <rhyme>empire</rhyme>.<l n="12"/>
+<lb n="VIRL.021c:15"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>a</c>mis, je ne sçay</fw></emph>
+<lb n="VIRL.021c:16"/>De maint estes <rhyme>encusez</rhyme>,
+<lb n="VIRL.021c:17"/>Si ne le pouez <rhyme>celer</rhyme>
+<lb n="VIRL.021c:18"/>Qu'en un lieu souvent <rhyme>musez</rhyme><l n="16"/>
+<lb n="VIRL.021c:19"/>Où l'en vous fait <rhyme>engeler</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.021c:21"/><s>P</s>our attendre. <c>e</c>t je <rhyme>souspire</rhyme>
+<lb n="VIRL.021c:22"/>Quant l'en me dit que <rhyme>j'enquiere</rhyme>
+<lb n="VIRL.021c:23"/>De vous combien qu'il <rhyme>n'affiere</rhyme>,<l n="20"/>
+<lb n="VIRL.021c:24"/>Mais pour ce qu'oy tant <rhyme>mesdire</rhyme>,
+<lb n="VIRL.021c:25"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>a</c>mis, je ne sçay</fw></emph></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.021c:27"/><group n=" 3"/><div2 satfno=" 3" n="3" type="Virelai cinquain" metre="8" length="37" refrain="aabba" stanza="ccdccd" rhyme="mm mm"><hi rend="cap2">P</hi>our le grant bien qui en vo<abbr type="us"/> <rhyme>maint</rhyme>
+<lb n="VIRL.021c:28"/><c>b</c>el et bon, où mon cuer <rhyme>remaint</rhyme>,
+<lb n="VIRL.021c:29"/>Je vueil vivre <rhyme>joyeusement</rhyme>,
+<lb n="VIRL.021c:30"/>Car vous me donnez <rhyme>sentement</rhyme><l n=" 4"/>
+<lb n="VIRL.021c:31"/>De très grans plaisirs avoir <rhyme>maint</rhyme>,
+<!-- 1 blank line -->
+<lb n="VIRL.021c:33"/>Car quant j'oy dire que l'en <rhyme>tient</rhyme>
+<lb n="VIRL.021c:34"/>Que vostre gent corps se <rhyme>contient</rhyme>
+<lb n="VIRL.021c:35"/>Si haultement en toute <rhyme>honneur</rhyme><l n=" 8"/>
+<lb n="VIRL.021c:36"/>Que grace et loz vous <rhyme>appartie<abbr type="n"/>t</rhyme>
+<lb n="VIRL.021c:37"/>Sur tous autres, bien le <rhyme>retie<abbr type="n"/>t</rhyme>
+<lb n="VIRL.021c:38"/>Mon cuer qui ne pourroit <rhyme>greigneur</rhyme>
+<!-- 1 blank line --><cb n="d"/><layout ruledLines="39" writtenLines="41"/>
+<lb n="VIRL.021d:01"/><s>J</s>o<s>y</s>e avoir, et quant il <rhyme>attaint</rhyme><l n="12"/>
+<lb n="VIRL.021d:02"/>À vostre amour qui l'a <rhyme>attaint</rhyme>,
+<lb n="VIRL.021d:03"/>C'est moult grant <rhyme>resjouïsseme<abbr type="n"/>t</rhyme>.
+<lb n="VIRL.021d:04"/>Et pour ce vit très <rhyme>lïement</rhyme>
+<lb n="VIRL.021d:05"/>Mon cuer qui d'amer ne se <rhyme>faint</rhyme>.<l n="16"/>
+<lb n="VIRL.021d:06"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Pour <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.021d:07"/>Et quant je pense et me <rhyme>souvient</rhyme>
+<lb n="VIRL.021d:08"/>Du très grant plaisir qui me <rhyme>vient</rhyme>
+<lb n="VIRL.021d:09"/>De vous, <c>a</c>mis, de tous la <rhyme>flour</rhyme>,<l n="20"/>
+<lb n="VIRL.021d:10"/>J'ay tel joye, souvent <rhyme>avient</rhyme>,
+<lb n="VIRL.021d:11"/>Que ne sçay que mon cuer <rhyme>devient</rhyme>,
+<lb n="VIRL.021d:12"/>Tant suis prise de gra<abbr type="n"/>t <rhyme>doulçour</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.021d:14"/>En ce penser gette un doulx <rhyme>plaint</rhyme><l n="24"/>
+<lb n="VIRL.021d:15"/>Mon cuer qui à vous se <rhyme>complaint</rhyme>,
+<lb n="VIRL.021d:16"/>Quant vous estes trop <rhyme>longuement</rhyme>
+<lb n="VIRL.021d:17"/>Sans moy vëoir, car <rhyme>seuleme<abbr type="n"/>t</rhyme>
+<lb n="VIRL.021d:18"/>L'amour de vous le mien cuer <rhyme>vaint</rhyme>.<l n="28"/>
+<lb n="VIRL.021d:19"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Pour <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.021d:21"/><group n=" 4"/><div2 satfno=" 4" n="4" type="Virelai cinquain" metre="7 &amp; 3" length="38" refrain="aabbaa" stanza="cdcd" rhyme="ffff"><hi rend="cap2">C</hi>omme autrefois me suis <rhyme>plainte</rhyme>
+<lb n="VIRL.021d:22"/>Et <rhyme>complainte</rhyme>
+<lb n="VIRL.021d:23"/>De toy, <name ref="Fortune">desloial <rhyme><c>f</c>ortune</rhyme></name>
+<lb n="VIRL.021d:24"/>Qui <rhyme>commune</rhyme><l n=" 4"/>
+<lb n="VIRL.021d:25"/>Es à tous, en guise <rhyme>mainte</rhyme>
+<lb n="VIRL.021d:26"/>Et moult <rhyme>fainte</rhyme>,
+<!-- 1 blank line -->
+<lb n="VIRL.021d:28"/>Si n'es pas ancore <rhyme>lasse</rhyme>
+<lb n="VIRL.021d:29"/>De moy <rhyme>nuire</rhyme>,<l n=" 8"/>
+<lb n="VIRL.021d:30"/>Ainçois ta faulse <rhyme>fallace</rhyme>
+<lb n="VIRL.021d:31"/>Me fait <rhyme>cuire</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.021d:33"/>Le cuer, dont j'ay couleur <rhyme>tainte</rhyme>,
+<lb n="VIRL.021d:34"/>Car <rhyme>attainte</rhyme><l n="12"/>
+<lb n="VIRL.021d:35"/>Suis de doulour et <rhyme>rancune</rhyme>,
+<lb n="VIRL.021d:36"/><fw type="insertion" place="intercolumn" rend=" between superscript 'a', '+' and '+'"><c>n</c>on pas <rhyme>une</rhyme></fw>
+<lb n="VIRL.021d:37"/><fw type="insertion" place="interlign, indented" rend="preceded by superscript 'b', '+'">Seule,\ mais de <choice><sic>nulle</sic><corr reason="sense" resp="JCL" source="">mille</corr></choice> <rhyme>attainte</rhyme></fw>
+<lb n="VIRL.021d:38"/>Et <rhyme>estrainte</rhyme>.<l n="16"/>
+<lb n="VIRL.021d:39"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>omme aut<abbr type="re"/>foiz</fw></emph>
+<lb n="VIRL.021d:40"/>Mais il n'est riens qui ne <rhyme>passe</rhyme>,
+<lb n="VIRL.021d:41"/>Pour ce <rhyme><c>C</c>uire</rhyme>
+<pb n="022" ed="r" l="VIRL.022r:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="intercolumn, above ruled space" rend="left aligned"><hi rend="red">Lays &#x95; </hi></fw><fw type="header2" place="column b, above ruled space" rend="tabbed"><hi rend="red">iii  &#x95;</hi></fw></hi><cb n="a"/><layout ruledLines="38"/>
+<lb n="VIRL.022a:01"/>Me couvient en celle <rhyme>masse</rhyme><l n="20"/>
+<lb n="VIRL.022a:02"/>Pour moy <rhyme>duire</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.022a:04"/>En tes tours qui m'ont <rhyme>destrainte</rhyme>
+<lb n="VIRL.022a:05"/>Et <rhyme>contrainte</rhyme>
+<lb n="VIRL.022a:06"/>Si que n'ay joye nez <rhyme>une</rhyme>.<l n="24"/>
+<lb n="VIRL.022a:07"/>O\ <rhyme>enfrune</rhyme>,
+<lb n="VIRL.022a:08"/>Desloyal, tu m'as <rhyme>empainte</rhyme>
+<lb n="VIRL.022a:09"/>En grant <rhyme>crainte</rhyme>.
+<lb n="VIRL.022a:10"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Comme autrefois</fw></emph><l n="28"/></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.022a:12"/><group n=" 5"/><div2 satfno=" 5" n="5" type="Virelai septain" metre="7 &amp; 3" length="40" refrain="aabbaab" stanza="ccbccb" rhyme="fmm"><hi rend="cap2">B</hi>elle, où il n'a que <rhyme>redire</rhyme>,
+<lb n="VIRL.022a:13"/>De qui l'en ne peut <rhyme>mesdire</rhyme>
+<lb n="VIRL.022a:14"/>Sanz <rhyme>mentir</rhyme>,
+<lb n="VIRL.022a:15"/>Or vous vueillés <rhyme>consentir</rhyme><l n=" 4"/>
+<lb n="VIRL.022a:16"/>À estre de mes maulx <rhyme>mire</rhyme>,
+<lb n="VIRL.022a:17"/>Car <name ref="Love"><c>a</c>mours</name> m'a fait <rhyme>eslire</rhyme>
+<lb n="VIRL.022a:18"/>Vous que j'aim sans <rhyme>alentir</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.022a:20"/>Regardez ma <rhyme>voulenté</rhyme><l n=" 8"/>
+<lb n="VIRL.022a:21"/>Et comment <rhyme>entalenté</rhyme>
+<lb n="VIRL.022a:22"/>Suis par <del rend="struckthrough in red and black">vostre</del> <rhyme>desir</rhyme>
+<lb n="VIRL.022a:23"/>D'obeïr à vo <rhyme>bonté</rhyme>,
+<lb n="VIRL.022a:24"/>Car vous avez <rhyme>surmonté</rhyme><l n="12"/>
+<lb n="VIRL.022a:25"/>À vo <rhyme>plaisir</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.022a:27"/>Mon cuer qui ne peut <rhyme>desdire</rhyme>
+<lb n="VIRL.022a:28"/>Vo vueil, mais trop grief <rhyme>martire</rhyme>
+<lb n="VIRL.022a:29"/>Fault <rhyme>sentir</rhyme><l n="16"/>
+<lb n="VIRL.022a:30"/>À moy qui n'en vueil <rhyme>partir</rhyme>
+<lb n="VIRL.022a:31"/>Pour riens,\ car je ne <rhyme>desire</rhyme>
+<lb n="VIRL.022a:32"/>Fors<note>The small blot under 'F' has been disregarded.</note> vous, sans y <rhyme>contredire</rhyme>,
+<lb n="VIRL.022a:33"/>Que j'aim sans ja <rhyme>repentir</rhyme>.<l n="20"/>
+<lb n="VIRL.022a:34"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Belle <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.022a:35"/>À vous qui m'avez <rhyme>dompté</rhyme>
+<lb n="VIRL.022a:36"/>Je me suis tant <rhyme>guermenté</rhyme>
+<lb n="VIRL.022a:37"/>À lonc <rhyme>loisir</rhyme>,<l n="24"/>
+<lb n="VIRL.022a:38"/>Si doy bien estre <rhyme>renté</rhyme><cb n="b"/>
+<!-- 38 lines -->
+<lb n="VIRL.022b:01"/>Des biens dont avez <rhyme>planté</rhyme>.
+<lb n="VIRL.022b:02"/>Doncques <rhyme>choisir</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.022b:04"/>Vueillez moy, si que <rhyme>souffire</rhyme><l n="28"/>
+<lb n="VIRL.022b:05"/>Vous daigne sans <rhyme>escondire</rhyme>,
+<lb n="VIRL.022b:06"/>Car <rhyme>partir</rhyme>
+<lb n="VIRL.022b:07"/>Feriés mon cuer com <rhyme>martir</rhyme>
+<lb n="VIRL.022b:08"/>Si que le mal qui <rhyme>m'empire</rhyme><l n="32"/>
+<lb n="VIRL.022b:09"/>Ostez, car trop me <rhyme>martire</rhyme>.
+<lb n="VIRL.022b:10"/>Or vous vueilliés <rhyme>convertir</rhyme>
+<lb n="VIRL.022b:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Belle <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph><l n="35"/></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.022b:13"/><group n=" 6"/><div2 satfno=" 6" n="6" type="Virelai septain" metre="7 &amp; 3" length="47" refrain="aabaabb" stanza="bbabba" rhyme="mm"><hi rend="cap2">M</hi>on gracïeux <rhyme>reconfort</rhyme>,
+<lb n="VIRL.022b:14"/>Mon <rhyme>ressort</rhyme>,
+<lb n="VIRL.022b:15"/>Mon ami loyal et <rhyme>vray</rhyme>,
+<lb n="VIRL.022b:16"/>De ma joye le droit <rhyme>port</rhyme><l n=" 4"/>
+<lb n="VIRL.022b:17"/>Et le <rhyme>port</rhyme>
+<lb n="VIRL.022b:18"/>Qu<subst><del rend="overwritten">i</del><add evidence="darker ink" place="inline" type="reshaped">e</add></subst>  toudis tant com <rhyme>vivray</rhyme>
+<lb n="VIRL.022b:19"/><rhyme>Poursuivray</rhyme>,
+<!-- 1 blank line -->
+<lb n="VIRL.022b:21"/>En vous, dont je me <rhyme>navray</rhyme>,<l n=" 8"/>
+<lb n="VIRL.022b:22"/>Mon vivre <rhyme>ay</rhyme>
+<lb n="VIRL.022b:23"/>Mis, et jusques à la <rhyme>mort</rhyme>
+<lb n="VIRL.022b:24"/>Jamais autre amy <rhyme>n'aray</rhyme>.
+<lb n="VIRL.022b:25"/>Ce <choice><sic>me</sic><corr reason="hypermetric" resp="JCL" source="rhyme-scheme"></corr></choice> <rhyme>devray</rhyme><l n="12"/>
+<lb n="VIRL.022b:26"/>Faire, et j'en ay doulx <rhyme>ennort</rhyme>,
+<lb n="VIRL.022b:27"/>Car par vo gracïeux <rhyme>port</rhyme>,
+<lb n="VIRL.022b:28"/>Que je <rhyme>port</rhyme>
+<lb n="VIRL.022b:29"/>En mon cuer, ,je <rhyme>recevray</rhyme><l n="16"/>
+<lb n="VIRL.022b:30"/>Joye, plaisir et <rhyme>confort</rhyme>
+<lb n="VIRL.022b:31"/>Ne de <rhyme>fort</rhyme>
+<lb n="VIRL.022b:32"/>Amer ne vous <rhyme>decevray</rhyme>,
+<lb n="VIRL.022b:33"/>Si <rhyme>auray</rhyme><l n="20"/>
+<lb n="VIRL.022b:34"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>m</c>on gracïeux <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.022b:35"/>Në ja ne <rhyme>desseveray</rhyme>
+<lb n="VIRL.022b:36"/>Ne <rhyme>sev<add place="supralinear" type="scribe" evidence="broad caret"><choice><sic>e</sic><corr reason="hypermetric" resp="JCL" source="rhyme-scheme"></corr></choice></add>ray</rhyme>
+<lb n="VIRL.022b:37"/>Mon cuer de loyal <rhyme>accort</rhyme><l n="24"/>
+<lb n="VIRL.022b:38"/>Et toudis sicom <rhyme>sauray</rhyme>
+<pb n="022" ed="v" l="VIRL.022v:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c, above ruled space" rend="centred"><hi rend="red">Vire</hi></fw>  <fw type="header2" place="intercolumn, above ruled space" rend="left aligned"><hi rend="red"><c>L</c>ays</hi></fw><fw type="header3" place="column d, above ruled space" rend="centred"><hi rend="red"> &#x95; iii </hi></fw></hi><cb n="c"/><layout ruledLines="38"/>
+<lb n="VIRL.022c:01"/><rhyme><subst><del rend="overwritten">N</del><add evidence="awkwardly reshaped" place="inline" type="scribe">M</add></subst>'esmouvray</rhyme>
+<lb n="VIRL.022c:02"/>À vivre en ce doulx <rhyme>recort</rhyme>
+<lb n="VIRL.022c:03"/>Car tant me vient <subst><del rend="erasure"></del><add place="inline"  type="over erasure" evidence="one blank letter space after 'bon'; 'bon' is interlinear, right aligned cursive insertion">bon</add></subst> <rhyme><c>R</c>apport</rhyme><note>The Duke's MS reads 'doulz' not 'bon'.</note><l n="28"/> 
+<lb n="VIRL.022c:04"/>Sans nul <rhyme>tort</rhyme>
+<lb n="VIRL.022c:05"/>De vous que <rhyme>j'appercevray</rhyme>
+<lb n="VIRL.022c:06"/>Que vivre sans <rhyme>desconfort</rhyme>
+<lb n="VIRL.022c:07"/>Doy au <rhyme>fort</rhyme>,<l n="32"/>
+<lb n="VIRL.022c:08"/>Et pour ce joye <rhyme>ensuivray</rhyme>
+<lb n="VIRL.022c:09"/>Et <rhyme>suivray</rhyme>.
+<lb n="VIRL.022c:10"/><emph rend="italic"><fw type="refrain"  place="inline" rend="centred"><c>m</c>on gracïeux</fw></emph><l n="35"/></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.022c:12"/><group n=" 7"/><div2 satfno=" 7" n="7" type="Virelai cinquain" metre="7" length="33" refrain="aabba" stanza="cdcd" rhyme="fmmm"><hi rend="cap2">L</hi>a grant douleur que je <rhyme>porte</rhyme>
+<lb n="VIRL.022c:13"/><c>e</c>st si aspre et si très <rhyme>forte</rhyme>
+<lb n="VIRL.022c:14"/>Qu'il n'est riens qui <rhyme>conforter</rhyme>
+<lb n="VIRL.022c:15"/>Me peüst në <rhyme>apporter</rhyme><l n=" 4"/>
+<lb n="VIRL.022c:16"/>Joye, ains vouldroye estre <rhyme>morte</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.022c:18"/>Puis que je pers mes <rhyme>amours</rhyme>,
+<lb n="VIRL.022c:19"/>Mon ami, mon <rhyme>esperance</rhyme>,
+<lb n="VIRL.022c:20"/>Qui s'en va dedens briefs <rhyme>jours</rhyme><l n=" 8"/>
+<lb n="VIRL.022c:21"/>Hors du <name ref="France">royaume de <rhyme><c>f</c>rance</rhyme></name>
+<lb n="VIRL.022c:22"/><subst><del rend="erasure"></del><add type="over erasure" place="inline" evidence="darker ink">D</add></subst>emourer. <c>l</c>asse, il <rhyme>emporte</rhyme>
+<lb n="VIRL.022c:23"/><del rend="overstrike" type="red">Demourer lasse il emporte</del>
+<lb n="VIRL.022c:24"/>Mon cuer qui se <rhyme>desconforte</rhyme>.<l n="12"/>
+<lb n="VIRL.022c:25"/>Bien se doit <rhyme>desconforter</rhyme>,
+<lb n="VIRL.022c:26"/>Car jamais joye <rhyme>enorter</rhyme>
+<lb n="VIRL.022c:27"/>Ne me peut <subst><del rend="erasure"></del><add place="inline" type="scribe" evidence="spacing, 'd' overwritten in darker ink,'o' in darker ink">do</add></subst>nt se <rhyme>depporte</rhyme>.
+<lb n="VIRL.022c:28"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">La grant douleur <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.022c:29"/>Si n'aray <subst><del rend="erasure"></del><add place="inline" type="scribe" evidence="spacing">plus de</add></subst><note>The Duke's MS reads 'jamais', not 'plus de'.</note> <rhyme>secours</rhyme><l n="16"/>
+<lb n="VIRL.022c:30"/>Du mal qui met à <rhyme>oultrance</rhyme>
+<lb n="VIRL.022c:31"/>Mon las cuer qui noye en <rhyme>plours</rhyme>
+<lb n="VIRL.022c:32"/>Pour la dure <rhyme>departance</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.022c:34"/>De cil qui euvre la <rhyme>porte</rhyme><l n="20"/>
+<lb n="VIRL.022c:35"/>De ma mort et qui <rhyme>m'ennorte</rhyme>
+<lb n="VIRL.022c:36"/>Desespoir qui <rhyme>rapporter</rhyme>
+<lb n="VIRL.022c:37"/>Me vient dueil et <rhyme>emporter</rhyme>
+<lb n="VIRL.022c:38"/>Ma jo<s>y</s>e <choice><orig>&amp;</orig><reg>et</reg></choice> dueil me <rhyme>rapporte</rhyme>.<l n="24"/><cb n="d"/><layout ruledLines="38"/>
+<lb n="VIRL.022d:01"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">La grant doulour <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.022d:03"/><group n=" 8"/><div2 satfno="  8" n="8" type="Virelai cinquain" metre="7" length="33" refrain="aabba" stanza="cdcd" rhyme="fmfm"><hi rend="cap2">P</hi>uis que vous\ estes <rhyme>parjure</rhyme>
+<lb n="VIRL.022d:04"/>Vers moy, dont c'est gra<abbr type="n"/>t <rhyme>laidure</rhyme>
+<lb n="VIRL.022d:05"/>À vous qui m'aviés <rhyme>promis</rhyme>
+<lb n="VIRL.022d:06"/>Moy estre loyaulx <rhyme>amis</rhyme>,<l n=" 4"/>
+<lb n="VIRL.022d:07"/>Vostre loyauté pou <rhyme>dure</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.022d:09"/>Je vous avoye <rhyme>donnée</rhyme>
+<lb n="VIRL.022d:10"/>M'amour toute <rhyme>entierement</rhyme>,
+<lb n="VIRL.022d:11"/>Cui<subst><del rend="partial erasure"></del><add place="inline" type="overwritten" evidence="darker ink">den</add></subst>t<note>'Cuident', i.e. 'Cuidant'.</note> l'avoir <rhyme>assenée</rhyme><l n=" 8"/>
+<lb n="VIRL.022d:12"/>En vous bien et <rhyme>haultem<abbr type="en"/>t</rhyme>,
+<!-- 1 blank line -->
+<lb n="VIRL.022d:14"/>Car vous aviés mis gra<abbr type="n"/>t <rhyme>cure</rhyme>
+<lb n="VIRL.022d:15"/>À l'avoir, mais je vo<abbr type="us"/> <rhyme>jure</rhyme>
+<lb n="VIRL.022d:16"/>Et promez, puis <rhyme>qu'entremis</rhyme><l n="12"/>
+<lb n="VIRL.022d:17"/>C'est<note>i.e. 'S'est'</note> <subst><del rend="erasure"></del><add place="inline" type="overwritten" evidence="two letter space following 'vo', filled by curved dash.">vo</add></subst> cuer d'estre <rhyme>remis</rhyme>,
+<lb n="VIRL.022d:18"/>Que de vostre amour n'ay <rhyme>cure</rhyme>
+<lb n="VIRL.022d:19"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Puis que vo<abbr type="us"/> <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.022d:20"/>Tost est ceste amour <rhyme>finée</rhyme><l n="16"/>
+<lb n="VIRL.022d:21"/>Dont me desplait <rhyme>grandement</rhyme>,
+<lb n="VIRL.022d:22"/>Car ja ne fusse <rhyme>tanée</rhyme>
+<lb n="VIRL.022d:23"/>De vous amer <rhyme>loyaument</rhyme>,
+<!-- 1 blank line -->
+<lb n="VIRL.022d:25"/>Mais n'est pas droit que <rhyme>j'endure</rhyme><l n="20"/>
+<lb n="VIRL.022d:26"/>Vostre grant faulceté <rhyme>pure</rhyme>.
+<lb n="VIRL.022d:27"/>Ce poyse moy\ quant g'y <rhyme>mis</rhyme>
+<lb n="VIRL.022d:28"/>Mon cuer s'i<subst><del rend="overwritten">t</del><add type="overwritten" place="inline" evidence="darker ink">l</add></subst> en est <rhyme>desmis</rhyme>.
+<lb n="VIRL.022d:29"/>Point ne vous feray <rhyme>d'injure</rhyme><l n="24"/>
+<lb n="VIRL.022d:30"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Puis q<abbr type="ue"/> vo<abbr type="us"/> <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph> </div2>
+<!-- 1 blank line -->
+<lb n="VIRL.022d:32"/><group n=" 9"/><div2 satfno=" 9" n="9" type="Virelai cinquain" metre="8" length="33" refrain="aabba" stanza="cdcd" rhyme="fmmm"><hi rend="cap2">J</hi>e suis de tout dueil <rhyme>assaillie</rhyme>
+<lb n="VIRL.022d:33"/>Et plus qu'onq<abbr type="ue"/>s mais <rhyme>maubaillie</rhyme>,
+<lb n="VIRL.022d:34"/>Quant cellui se veult <rhyme>marïer</rhyme>
+<lb n="VIRL.022d:35"/>Que j'amoye sans <rhyme>varïer</rhyme>,<l n=" 4"/>
+<lb n="VIRL.022d:36"/>Si suis de joye en dueil <rhyme>saillie</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.022d:38"/>Helas, il m'avoit <rhyme>promis</rhyme><pb n="023" ed="r" l="VIRL.023r:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="intercolumn, high in ruled space" rend="left"><hi rend="red">Lays  &#x95; iii &#x95;</hi></fw></hi><cb n="a"/><layout ruledLines="38"/>
+<lb n="VIRL.023a:01"/>Que ja ne se <rhyme>marïeroit</rhyme>,
+<lb n="VIRL.023a:02"/>Quant tout mon cuer en lui <rhyme>mis</rhyme>,<l n=" 8"/>
+<lb n="VIRL.023a:03"/>Et qu'à tous jours tout mien <rhyme>seroit</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.023a:05"/>Mal eschange m'en a <rhyme>baillie</rhyme>,
+<lb n="VIRL.023a:06"/>Car hors c'est<note>i.e. 's'est'.</note> mis de ma <rhyme>baillie</rhyme>.
+<lb n="VIRL.023a:07"/><choice><sic>Un</sic><corr reason="sense" resp="JCL" source="context">Une</corr></choice> autre veult <rhyme>apparïer</rhyme><l n="12"/>
+<lb n="VIRL.023a:08"/>Et encontre moy <rhyme>guerrïer</rhyme>,
+<lb n="VIRL.023a:09"/>Car puis que s'amour m'est <rhyme>faillie</rhyme>,
+<lb n="VIRL.023a:10"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Je suis de tout <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.023a:11"/>Cellui devient mes <rhyme>ennemis</rhyme>,<l n="16"/>
+<lb n="VIRL.023a:12"/>Qui jadis vers moy se <rhyme>tiroit</rhyme>
+<lb n="VIRL.023a:13"/>Comme mes vrays loyaulx <rhyme>amis</rhyme>,
+<lb n="VIRL.023a:14"/>En moy regardant <rhyme>souspiroit</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.023a:16"/>Or est celle amour <rhyme>tressaillie</rhyme><l n="20"/>
+<lb n="VIRL.023a:17"/>En autre et vers moy <rhyme>deffaillie</rhyme>,
+<lb n="VIRL.023a:18"/>Car ne lui puis pour <rhyme>tarïer</rhyme>
+<lb n="VIRL.023a:19"/>Sa voulenté <rhyme>contrarïer</rhyme>,
+<lb n="VIRL.023a:20"/>Dont d'en mourir je suis <rhyme>taillie</rhyme>.<l n="24"/>
+<lb n="VIRL.023a:21"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Je suis de tout <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.023a:23"/><group n="10"/><div2 satfno="10" n="10" type="Virelai quatrain" metre="8" length="28" refrain="abab" stanza="cdcd" rhyme="fmmf"><hi rend="cap2">T</hi>rès doulx ami, or t'en <rhyme>souviengne</rhyme>
+<lb n="VIRL.023a:24"/><c>q</c>ue au jour d'uy je te <rhyme>retien</rhyme>
+<lb n="VIRL.023a:25"/>Pour mon amy,\ et aussi <rhyme>mien</rhyme>
+<lb n="VIRL.023a:26"/>Vueil je que tout ton cuer <rhyme>deviengne</rhyme>,<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023a:28"/>Car c'est la guise - et bien <rhyme>l'entens</rhyme> -
+<lb n="VIRL.023a:29"/>Entre les amans <rhyme>ordonnée</rhyme>
+<lb n="VIRL.023a:30"/>Que le premier jour du prin <rhyme>temps</rhyme><note>Here and elsewhere in the Queen's MS, 'prin temps' is written in two words.</note>
+<lb n="VIRL.023a:31"/>On retiengne ami pour <rhyme>l'année</rhyme>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023a:33"/>À celle fin que l'amour <rhyme>tiengne</rhyme>
+<lb n="VIRL.023a:34"/>Un chappellet vert fait très <rhyme>bien</rhyme>
+<lb n="VIRL.023a:35"/>On doit donner chacun le <rhyme>sien</rhyme>
+<lb n="VIRL.023a:36"/>Tant que l'autre année <rhyme>reviengne</rhyme>.<l n="12"/>
+<lb n="VIRL.023a:37"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Très doulx ami</fw></emph>
+<lb n="VIRL.023a:38"/><subst><del rend="overwritten">Si</del><add type="overwritten" place="inline" evidence="">Or</add></subst><note>'Si', not 'Or', is the reading in the Duke's MS.</note> t'ay choisy et bien <rhyme>attens</rhyme><cb n="b"/><layout ruledLines="38"/>
+<lb n="VIRL.023b:01"/>Car m'amour te sera <rhyme>donnée</rhyme>.
+<lb n="VIRL.023b:02"/>Grant peine as souffert,\ mais par <rhyme>temps</rhyme><l n="16"/>
+<lb n="VIRL.023b:03"/>Te sera bien <rhyme>guerredonnée</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.023b:05"/>Affin que la guise <rhyme>maintiengne</rhyme>
+<lb n="VIRL.023b:06"/>Le <name ref="Saint+Valentine's+Day">jour saint Valentin</name>, or <rhyme>tien</rhyme>
+<lb n="VIRL.023b:07"/>Mon chappellet. <c>m</c>et ça le <rhyme>tien</rhyme>;<l n="20"/>
+<lb n="VIRL.023b:08"/>Je t'ameray quoy qu'il <rhyme>aviengne</rhyme>.
+<lb n="VIRL.023b:09"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>t</c>rès doulx ami</fw></emph></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.023b:11"/><group n="11"/><div2 satfno="11" n="11" type="Virelai septain" metre="7 &amp; 4" length="47" refrain="aabbaab" stanza="bbabba" rhyme="mm"><hi rend="cap2">E</hi>n ce prin temps <rhyme>gracïeux</rhyme>,
+<lb n="VIRL.023b:12"/><c>d</c>'estre gay sui <rhyme>envïeux</rhyme>,
+<lb n="VIRL.023b:13"/>Tout à <rhyme>l'onnour</rhyme>
+<lb n="VIRL.023b:14"/>De ma dame qui <rhyme>vigour</rhyme><l n=" 4"/>
+<lb n="VIRL.023b:15"/>De ses doulx <rhyme>yeux</rhyme>
+<lb n="VIRL.023b:16"/>Me donne, dont par les <rhyme>quieulx</rhyme>
+<lb n="VIRL.023b:17"/>Vif en <rhyme>baudour</rhyme>.
+<!-- 1 blank line -->
+<lb n="VIRL.023b:19"/>Toute riens fait son <rhyme>atour</rhyme><l n=" 8"/>
+<lb n="VIRL.023b:20"/>De mener joye à son <rhyme>tour</rhyme>,
+<lb n="VIRL.023b:21"/>Bois et prez <rhyme>tieulx</rhyme>
+<lb n="VIRL.023b:22"/>Sont qu'ilz semblent de <rhyme>verdour</rhyme>
+<lb n="VIRL.023b:23"/>Estre vestus et de <rhyme>flour</rhyme>,<l n="12"/>
+<lb n="VIRL.023b:24"/>Et qui mieulx <rhyme>mieulx</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.023b:26"/>Oysiaulx chantent en maint <rhyme>lieux</rhyme>.
+<lb n="VIRL.023b:27"/>Pour le temps <rhyme>delicïeux</rhyme>
+<lb n="VIRL.023b:28"/>Et plain <rhyme>d'odour</rhyme><l n="16"/>
+<lb n="VIRL.023b:29"/>Se mettent hors de <rhyme>tristour</rhyme>
+<lb n="VIRL.023b:30"/>Jeunes et <rhyme>vieulx</rhyme>;
+<lb n="VIRL.023b:31"/>Tous mainent et ris <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>gieux</rhyme>
+<lb n="VIRL.023b:32"/>Ou temps <rhyme>pascour</rhyme>.<l n="20"/>
+<lb n="VIRL.023b:33"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>e</c>n ce prin temps</fw></emph>
+<lb n="VIRL.023b:34"/>Et moy, n'ay je bien <rhyme>coulour</rhyme>
+<lb n="VIRL.023b:35"/>D'estre gay, quant la <rhyme>meillour</rhyme>
+<lb n="VIRL.023b:36"/>Aim,\ se m'ayst <name ref="God"><rhyme><c>d</c>ieux</rhyme></name>,<l n="24"/>
+<lb n="VIRL.023b:37"/>Qui soit,\ et sers sans <rhyme>errour</rhyme>?
+<lb n="VIRL.023b:38"/>N'à autre je n'ay <rhyme>favour</rhyme>,
+<pb n="023" ed="v" l="VIRL.023v:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column c, above ruled space" rend="tabbed "><hi rend="red"><c>v</c>ire</hi></fw>  <fw type="header2" place="column d, above ruled space" rend="left"><hi rend="red">lays</hi></fw></hi><cb n="c"/><layout ruledLines="38"/>
+<lb n="VIRL.023c:01"/>Car soubz les <rhyme>cieulx</rhyme>
+<lb n="VIRL.023c:02"/>N'a dame où biens soient <rhyme>tieulx</rhyme>.<l n="28"/>
+<lb n="VIRL.023c:03"/>Si doy estre <rhyme>curïeux</rhyme>
+<lb n="VIRL.023c:04"/>Pour sa <rhyme>valour</rhyme>
+<lb n="VIRL.023c:05"/>D'elle servir sans <rhyme>sejour</rhyme>,
+<lb n="VIRL.023c:06"/>Car <rhyme>anïeux</rhyme><l n="32"/>
+<lb n="VIRL.023c:07"/>Ne pourroit estre homs <rhyme>mortieulx</rhyme>
+<lb n="VIRL.023c:08"/>De tel <rhyme>doulçour</rhyme>
+<lb n="VIRL.023c:09"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">En ce prin temps <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph><l n="35"/></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.023c:11"/><group n="12"/><div2 satfno="12" n="12" type="Virelai quatrain" metre="10" length="28" refrain="abba" stanza="cdcd" rhyme="mmmf"><hi rend="cap2">S</hi>e pris et loz estoit à <rhyme>departir</rhyme>
+<lb n="VIRL.023c:12"/>Et à donner selon mon <rhyme>jugem<abbr type="en"/>t</rhyme>,
+<lb n="VIRL.023c:13"/><s>J</s>'en sçay aucuns qui bien <rhyme>petiteme<abbr type="n"/>t</rhyme>
+<lb n="VIRL.023c:14"/>Y devroient à mon avis <rhyme>partir</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023c:16"/>Et non obstant qu'ilz cuident b<abbr type="ie"/>n <rhyme>avoir</rhyme>
+<lb n="VIRL.023c:17"/>Assez beauté gentillece et <rhyme>proëce</rhyme>,
+<lb n="VIRL.023c:18"/>Et que chacun cuide un prince <rhyme>valoir</rhyme>,
+<lb n="VIRL.023c:19"/>À leur beaulx fais appert leur gra<abbr type="n"/>t <rhyme>noblece</rhyme>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023c:21"/>Mais puis que on voit, qui qu'il soit, <rhyme>co<abbr type="n"/>sentir</rhyme>
+<lb n="VIRL.023c:22"/>À villains fais et parler <rhyme>laidement</rhyme>,
+<lb n="VIRL.023c:23"/>Pas nobles n'est; ains deut on <rhyme>rudem<abbr type="en"/>t</rhyme>
+<lb n="VIRL.023c:24"/>D'entre les bons si faite gent <rhyme>sortir</rhyme>.<l n="12"/>
+<lb n="VIRL.023c:25"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>s</c>e pris <choice><orig>&amp;</orig><reg>et</reg></choice> los</fw></emph>
+<lb n="VIRL.023c:26"/>Në en leurs dis il n'a nul mot de <rhyme>voir</rhyme>;
+<lb n="VIRL.023c:27"/>Grans vanteurs sont, n'il n'est si g<abbr type="ra"/>nt <rhyme>maist<abbr type="re"/>sse</rhyme>
+<lb n="VIRL.023c:28"/>Qu'ilz n'osent bien dire\ q<abbr type="ue"/> leur <rhyme>vouloir</rhyme><l n="16"/>
+<lb n="VIRL.023c:29"/>En\ ont tout fait.\ <c>h</c>é\ <name ref="God"><c>d</c>ieux</name>, q<abbr type="ue"/>l <rhyme>gentillece</rhyme>!
+<!-- 1 blank line -->
+<lb n="VIRL.023c:31"/>Comme il siet mal à noble ho<abbr type="m"/>me à <rhyme>me<abbr type="n"/>tir</rhyme>
+<lb n="VIRL.023c:32"/>Et mesdire de femme, et <rhyme>vrayeme<abbr type="n"/>t</rhyme>
+<lb n="VIRL.023c:33"/>Telle gent sont drois vilains <rhyme>purem<abbr type="en"/>t</rhyme><l n="20"/>
+<lb n="VIRL.023c:34"/>Et devroit\ on leur renom <rhyme>amortir</rhyme>
+<lb n="VIRL.023c:35"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>s</c>e pris <choice><orig>&amp;</orig><reg>et</reg></choice> los</fw></emph></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.023c:37"/><group n="13"/><div2 satfno="13" n="13" type="Virelai quatrain" metre="8" length="28" refrain="abba" stanza="cdcd" rhyme="fffm"><name ref="God"><hi rend="cap2">D</hi>ieux</name>, que j'ay esté deceüe
+<lb n="VIRL.023c:38"/><c>d</c>e cellui que je b<abbr type="ie"/>n <rhyme>cuidoye</rhyme>
+<cb n="d"/><layout ruledLines="38"/>
+<lb n="VIRL.023d:01"/>Qu'entierem<abbr type="en"/>t s'amour fust <rhyme>moye</rhyme>!
+<lb n="VIRL.023d:02"/>À tart me suis <rhyme>apperceüe</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023d:04"/>Or sçay je toute <rhyme>l'encloeüre</rhyme>
+<lb n="VIRL.023d:05"/>Et comment il se <rhyme>gouvernoit</rhyme>.
+<lb n="VIRL.023d:06"/>Un autre amoit, j'en suis <rhyme>seüre</rhyme>,
+<lb n="VIRL.023d:07"/>Et si beau semblant me <rhyme>monstroit</rhyme><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023d:09"/>Que j'ay ferme créance <rhyme>eüe</rhyme>
+<lb n="VIRL.023d:10"/>Qu'il ne desirast autre <rhyme>joye</rhyme>
+<lb n="VIRL.023d:11"/>Fors moy, mais temps est que je <rhyme>voye</rhyme>
+<lb n="VIRL.023d:12"/>La traÿson qu'il m'a <rhyme>teüe</rhyme>.<l n="12"/>
+<lb n="VIRL.023d:13"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><name ref="God">Dieux</name> que j'ay</fw></emph>
+<lb n="VIRL.023d:14"/>Mais d'une chose <rhyme>l'asseüre</rhyme>,
+<lb n="VIRL.023d:15"/>Puis que je voy qu'il me <rhyme>deçoit</rhyme>,
+<lb n="VIRL.023d:16"/>Que jamais sa <rhyme>regardeüre</rhyme><l n="16"/>
+<lb n="VIRL.023d:17"/>Ne le semblant qu'il me <rhyme>monstroit</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.023d:19"/>Ne les bourdes dont m'a <rhyme>peüe</rhyme>
+<lb n="VIRL.023d:20"/>Ne feront tant que je le <rhyme>croye</rhyme>,
+<lb n="VIRL.023d:21"/>Car oncques mais, se <name ref="God"><c>d</c>ieu</name> me <rhyme>voie</rhyme>,<l n="20"/>
+<lb n="VIRL.023d:22"/>Ne fu tel trahison <rhyme>veüe</rhyme>.
+<lb n="VIRL.023d:23"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><name ref="God">Dieux</name> que j'ay <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph> </div2>
+<!-- 1 blank line -->
+<lb n="VIRL.023d:25"/><group n="14"/><div2 satfno="14" n="14" type="Virelai quatrain" metre="7" length="28" refrain="abba" stanza="cdcd" rhyme="mfmf"><hi rend="cap2">T</hi>restout me vient<note>The punctus after 'vient' and the marks above it have no obvious sense.</note> à <rhyme>rebours</rhyme>,
+<lb n="VIRL.023d:26"/>Mal à point et au <rhyme>contraire</rhyme>
+<lb n="VIRL.023d:27"/>En tous cas, en mon <rhyme>affaire</rhyme>;
+<lb n="VIRL.023d:28"/>Je pers en vain mes <rhyme>labours</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023d:30"/>Ce n'est pas de <rhyme>maintenant</rhyme>
+<lb n="VIRL.023d:31"/>Qu'ainsi je suis <rhyme>demenée</rhyme>,
+<lb n="VIRL.023d:32"/>Car &#x95; x &#x95; ans en un <rhyme>tenant</rhyme>
+<lb n="VIRL.023d:33"/>J'ay esté <rhyme>infortunée</rhyme>.<l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.023d:35"/>Mal me prent de co<abbr type="m"/>mun <rhyme>cours</rhyme>
+<lb n="VIRL.023d:36"/>De tout quanq<abbr type="ue"/> je vueil <rhyme>faire</rhyme>,
+<lb n="VIRL.023d:37"/>Et ce qui me devroit <rhyme>plaire</rhyme>
+<lb n="VIRL.023d:38"/>Me destruit, <choice><orig>&amp;</orig><reg>et</reg></choice> à tous <rhyme>tours</rhyme><l n="12"/><pb n="024" ed="r" l="VIRL.024r:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="left"><hi rend="red">Virelays</hi></fw><fw type="header2" place="column a, above ruled space" rend="centred"><hi rend="red"> &#x95; iii &#x95;</hi></fw>    <fw type="header3" place="column b, along top line of ruled space" rend="left"><hi rend="red">Balades de plusieurs façons &#x95; iiii &#x95;</hi></fw></hi><cb n="a"/><layout ruledLines="39"/>
+<lb n="VIRL.024a:01"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Trestout me vient <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.024a:02"/>Pour riens me vais <rhyme>soustena<abbr type="n"/>t</rhyme>,
+<lb n="VIRL.024a:03"/>Puis que <name ref="Fortune"><c>f</c>ortune</name> <rhyme>encharnée</rhyme>
+<lb n="VIRL.024a:04"/>Est sur moy, qui <rhyme>demenant</rhyme><l n="16"/>
+<lb n="VIRL.024a:05"/>Par mainte très dure <rhyme>année</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.024a:07"/>Me va, et <name ref="God"><c>d</c>ieu</name> est si <rhyme>sours</rhyme>
+<lb n="VIRL.024a:08"/>Qu'il ne daigne vers moy <rhyme>traire</rhyme>
+<lb n="VIRL.024a:09"/>Son oreille <rhyme>debonnaire</rhyme>.<l n="20"/>
+<lb n="VIRL.024a:10"/>Pour ce plus tost que le <rhyme>cours</rhyme>
+<lb n="VIRL.024a:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Trestout me vient <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph></div2>
+<!-- 1 blank line -->
+<lb n="VIRL.024a:13"/><group n="15"/><div2 satfno="15" n="15" type="Virelai quatrain" metre="7" length="28" refrain="abba" stanza="cdcd" rhyme="fmmm"><hi rend="cap2">D</hi>e meschief, d'ennuy, de <rhyme>peine</rhyme>
+<lb n="VIRL.024a:14"/><c>j</c>e fais dis <rhyme>communement</rhyme>,
+<lb n="VIRL.024a:15"/>Car selon mon <rhyme>sentement</rhyme>
+<lb n="VIRL.024a:16"/>Sont et de chose <rhyme>certaine</rhyme>;<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.024a:18"/>Mais quant d'autrui <rhyme>voulenté</rhyme>
+<lb n="VIRL.024a:19"/>Faire dis me vueil <rhyme>chargier</rhyme>,
+<lb n="VIRL.024a:20"/><subst><del rend="overwritten"></del><add type="overwritten" place="inline" evidence="darker ink, dot in margin">D</add></subst>e cuer mal <rhyme>entalenté</rhyme>,
+<lb n="VIRL.024a:21"/>Les me f<subst><del rend="erasure"></del><add type="over erasure" place="inline"     evidence="compressed">ault</add></subst> loings <rhyme>cercher</rhyme><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.024a:23"/>Et de pensée <rhyme>foraine</rhyme>.
+<lb n="VIRL.024a:24"/>Pour ce y me<subst><del rend="erasure"></del><add type="overwritten" place="inline" evidence="darker ink">ts</add></subst> je <rhyme>longuem<abbr type="en"/>t</rhyme>.<note>A sewn repair, spanned by dashes, cuts through this line and the next three lines.</note>
+<lb n="VIRL.024a:25"/>C'est un droit <rhyme>controuveme<abbr type="n"/>t</rhyme>,
+<lb n="VIRL.024a:26"/>Car à toute heure suis <rhyme>plaine</rhyme><l n="12"/>
+<lb n="VIRL.024a:27"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred" ><c>d</c>e meschief <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.024a:28"/>Et se le cuer dolent <rhyme>é</rhyme>,
+<lb n="VIRL.024a:29"/>Il ne m'est mie <rhyme>legier</rhyme>
+<lb n="VIRL.024a:30"/>Joyeux dis faire à <rhyme>planté</rhyme>,<l n="16"/>
+<lb n="VIRL.024a:31"/>Mais pour un pou <rhyme>allegier</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.024a:33"/>La douleur qui m'est <rhyme>prochaine</rhyme>,
+<lb n="VIRL.024a:34"/>Je les fais <rhyme>communement</rhyme>,
+<lb n="VIRL.024a:35"/>Joyeux trestout <rhyme>ensement</rhyme>,<l n="20"/>
+<lb n="VIRL.024a:36"/>Comme se je fusse <rhyme>saine</rhyme>.
+<lb n="VIRL.024a:37"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>d</c>e meschief </fw></emph></div2>
+<!-- 2 blank line(s) --><cb n="b"/><layout ruledLines="39"/>
+<lb n="VIRL.024b:01"/><group n="16"/><div2 satfno="16" n="16" type="Virelai quatrain" metre="10" length="28" refrain="abba" stanza="cdcd" rhyme="ffmm"><hi rend="cap2">O</hi>n doit croire ce que <s>l</s>a <s>l</s>o<s>y</s>y <rhyme>commande</rhyme>;
+<lb n="VIRL.024b:02"/>Il est trop folz qui encontre <rhyme>s'opose</rhyme>.
+<lb n="VIRL.024b:03"/>Et s'elle fait à croire, je <rhyme>suppose</rhyme>
+<lb n="VIRL.024b:04"/>Que maint devront envers <name ref="God"><c>d</c>ieu</name> g<abbr type="ra"/>nt <rhyme>ame<abbr type="n"/>de</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="VIRL.024b:06"/>Il est bien voir que <rhyme>naturellement</rhyme>
+<lb n="VIRL.024b:07"/>Nous sommes tous enclins et <rhyme>entechés</rhyme>
+<lb n="VIRL.024b:08"/>À tost pecher,\ mais plus\ <rhyme>orribleme<abbr type="n"/>t</rhyme>
+<lb n="VIRL.024b:09"/>Chéent aucuns en trop plus grans <rhyme>pechez</rhyme><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="VIRL.024b:11"/>Qu'aultres ne font, et se l'en me <rhyme>dema<abbr type="n"/>de</rhyme>
+<lb n="VIRL.024b:12"/>Quieulx gens ce sont, verité dire <rhyme>n'ose</rhyme>
+<lb n="VIRL.024b:13"/>Pour leur grandeur, mais <name ref="God"><c>d</c>ieu</name> scet toute <rhyme>chose</rhyme>,
+<lb n="VIRL.024b:14"/>Et s'il est voir qu'en <name ref="Hell">enfer</name> on <rhyme>descende</rhyme>,<l n="12"/>
+<lb n="VIRL.024b:15"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>o</c>n doit croire <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph>
+<lb n="VIRL.024b:16"/>Merveilles n'est s'on voit <rhyme>co<abbr type="m"/>muneme<abbr type="n"/>t</rhyme>
+<lb n="VIRL.024b:17"/>Au monde moult avenir de <rhyme>meschiefs</rhyme>,
+<lb n="VIRL.024b:18"/>Car trop de maulx sont fais <rhyme>couverteme<abbr type="n"/>t</rhyme><l n="16"/>
+<lb n="VIRL.024b:19"/>De maint meismes qui sont docteurs <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>chiefs</rhyme>
+<!-- 1 blank line -->
+<lb n="VIRL.024b:21"/>De doctriner le monde qu'il <rhyme>s'amende</rhyme>,
+<lb n="VIRL.024b:22"/>Mais <name ref="God"><c>d</c>ieu</name> scet bien quelle pensée <rhyme>enclose</rhyme>
+<lb n="VIRL.024b:23"/>Est en leurs cuers,\ combien que on les <rhyme>alose</rhyme><l n="20"/>
+<lb n="VIRL.024b:24"/>Pour leurs estas mais, à quoy que l'en <rhyme>tende</rhyme>,
+<lb n="VIRL.024b:25"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>o</c>n doit croire <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph></div2>
+<!-- 2 blank lines -->
+ </div1>    
+</p>
+</body>
+</text>
+</TEI>

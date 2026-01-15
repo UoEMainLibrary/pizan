@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact Charlie.Mansfield@ ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Lay léonime (Lay1)" type="Item">
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="LAY1.025b:01"/><hi rend="red">Ci s'ensuit une assemblée de plusieurs
+<lb n="LAY1.025b:02"/><c>R</c>imes auques toutes léonimes en façon
+<lb n="LAY1.025b:03"/>de lay pour apprendre à rimer léonimeme<abbr type="n"/>t
+<lb n="LAY1.025b:04"/><fw type="item number" place="tabbed" rend="tabbed">&#x95; v &#x95;</fw></hi>
+<!-- 1 blank line here -->
+<lb n="LAY1.025b:06"/><hi rend="cap2">A</hi>mours plaisant <rhyme>nourriture</rhyme>
+<lb n="LAY1.025b:07"/>Très sade et doulce <rhyme>pasture</rhyme>
+<lb n="LAY1.025b:08"/>Plaine de bonne <rhyme>aventure</rhyme>
+<lb n="LAY1.025b:09"/>Et vie très <rhyme>beneureuse</rhyme><l n="  4"/>
+<lb n="LAY1.025b:10"/>Du vray cuer loyal <rhyme>l'ointure</rhyme>
+<lb n="LAY1.025b:11"/>Qui entour lui fait<note>erasure 'fais' corrected to 'fait'</note> <rhyme>çainture</rhyme>
+<lb n="LAY1.025b:12"/>De joye c'est ta <rhyme>droiture</rhyme>
+<lb n="LAY1.025b:13"/>Doulce esperance <rhyme>amoureuse</rhyme><l n="  8"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.025b:15"/>Et qui toute <rhyme>créature</rhyme>
+<lb n="LAY1.025b:16"/>Esjouÿs de ta <rhyme>nature</rhyme>
+<lb n="LAY1.025b:17"/>Peine fais par <rhyme>aventure</rhyme>
+<lb n="LAY1.025b:18"/>Mais elle est si <rhyme>doulcereuse</rhyme><l n=" 12"/>
+<lb n="LAY1.025b:19"/>C'on te suit tout à <rhyme>esture</rhyme>
+<lb n="LAY1.025b:20"/>N'il n'est ponce ne <rhyme>rasture</rhyme>
+<lb n="LAY1.025b:21"/>Qui effaçast ta <rhyme>pointure</rhyme>
+<lb n="LAY1.025b:22"/>Tant est au cuer <rhyme>savoureuse</rhyme><l n=" 16"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.025b:24"/>¶ Tant plaist ta vie à <rhyme>maintenir</rhyme>
+<lb n="LAY1.025b:25"/>À qui loyal se veult <rhyme>tenir</rhyme>
+<lb n="LAY1.025b:26"/>En ton très doulx plaisant <rhyme>dongier</rhyme><note>red blot above 'gie'</note>
+<lb n="LAY1.025b:27"/>Pour le bien qu'on peut <rhyme>retenir</rhyme><l n=" 20"/>
+<lb n="LAY1.025b:28"/>De toy servir quant <rhyme>retenir</rhyme>
+<lb n="LAY1.025b:29"/>Daignes l'amant sans <rhyme>estrangier</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.025b:31"/>De toy si lui fais <rhyme>soustenir</rhyme>
+<lb n="LAY1.025b:32"/>Sa peine en gré \ et <rhyme>s'astenir</rhyme><l n=" 24"/>
+<lb n="LAY1.025b:33"/>Se veult de jamais ne <rhyme>changier</rhyme>
+<lb n="LAY1.025b:34"/>Du<note>heavy 'D'</note> bien lui fais grant part <rhyme>tenir</rhyme>
+<lb n="LAY1.025b:35"/>Qui à lui doit <rhyme>appartenir</rhyme>
+<lb n="LAY1.025b:36"/>Mais qu'il se tiengne sans <rhyme>bougier</rhyme><l n=" 28"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.025b:38"/>¶ Et s'il est aucun qui <rhyme>soustiengne</rhyme>
+<lb n="LAY1.025b:39"/>Que de toy <rhyme>viengne</rhyme>
+<lb n="LAY1.025b:40"/>Plus mal que bien vers moy <rhyme>viengne</rhyme>
+<lb n="LAY1.025b:41"/>Et <rhyme>retiengne</rhyme><l n=" 32"/>
+<pb n="025" ed="v"/>
+<lb n="LAY1.025v:01"/><fw type="header1" place="intercolumn, in ruled space" rend="left aligned"><hi rend="red">Lay</hi></fw>  <fw type="header2" place="column d, in ruled space" rend="centred"><hi rend="red">&#x95; v &#x95;</hi></fw>
+<cb n="c"/><layout ruledLines="39"/>
+<lb n="LAY1.025c:01"/>Prouver lui vueil que <rhyme>nulleme<abbr type="n"/>t</rhyme><note>four long 'l's</note>
+<lb n="LAY1.025c:02"/>N'en vient mal \ mais qu'on s'i <rhyme>contiengne</rhyme>
+<lb n="LAY1.025c:03"/>Et <rhyme>maintiengne</rhyme>
+<lb n="LAY1.025c:04"/>Si bien que par droit <rhyme>appartiengne</rhyme><l n=" 36"/>
+<lb n="LAY1.025c:05"/>Que chacun <rhyme>tiengne</rhyme>
+<lb n="LAY1.025c:06"/>Que servi soyés <rhyme>loyaument</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.025c:08"/>Mais qui fault mal lui en <rhyme>couviengne</rhyme>
+<lb n="LAY1.025c:09"/>Quoy qu'il <rhyme>aviengne</rhyme><l n=" 40"/>
+<lb n="LAY1.025c:10"/>Ne qui que loyauté te <rhyme>tiengne</rhyme>
+<lb n="LAY1.025c:11"/>Croy qu'il <rhyme>soustiengne</rhyme>
+<lb n="LAY1.025c:12"/>Joye et doulceur plus que <rhyme>tourment</rhyme>
+<lb n="LAY1.025c:13"/>Mais drois est qu'à l'amant <rhyme>souviengne</rhyme><l n=" 44"/>
+<lb n="LAY1.025c:14"/>Que gay se <rhyme>tiengne</rhyme>
+<lb n="LAY1.025c:15"/>N'en lui faulceté ne <rhyme>retiengne</rhyme>
+<lb n="LAY1.025c:16"/>Sanz plus <rhyme>detiengne</rhyme>
+<lb n="LAY1.025c:17"/>Une amour vraye <rhyme>seulem<abbr type="en"/>t</rhyme><l n=" 48"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.025c:19"/>¶ Tant y a <rhyme>compris</rhyme>
+<lb n="LAY1.025c:20"/>De bien en ton <rhyme>pris</rhyme>
+<lb n="LAY1.025c:21"/>C'on ne pourroit <rhyme>extimer</rhyme>
+<lb n="LAY1.025c:22"/>Le bien que <rhyme>lappris</rhyme><l n=" 52"/>
+<lb n="LAY1.025c:23"/>En ton doulx <rhyme>pourpris</rhyme>
+<lb n="LAY1.025c:24"/>À par loyaument <rhyme>amer</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.025c:26"/>Ne par droit <rhyme>repris</rhyme>
+<lb n="LAY1.025c:27"/>Cuer de toy <rhyme>espris</rhyme><l n=" 56"/>
+<lb n="LAY1.025c:28"/>Ne doit estre ne <rhyme>blamer</rhyme>
+<lb n="LAY1.025c:29"/>On ne peut <rhyme>lapris</rhyme>
+<lb n="LAY1.025c:30"/>De toy car <rhyme>appris</rhyme>
+<lb n="LAY1.025c:31"/>Il a vie sans <rhyme>amer</rhyme><l n=" 60"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.025c:33"/>¶ Tu peus <rhyme>mander</rhyme>
+<lb n="LAY1.025c:34"/>Et <rhyme>commander</rhyme>
+<lb n="LAY1.025c:35"/>Sans <rhyme>amender</rhyme>
+<lb n="LAY1.025c:36"/>De mal <rhyme>garder</rhyme><l n=" 64"/>
+<lb n="LAY1.025c:37"/>Dueil <rhyme>retarder</rhyme>
+<lb n="LAY1.025c:38"/>Un cuer <rhyme>bourder</rhyme>
+<lb n="LAY1.025c:39"/>D'amour <rhyme>bauder</rhyme>
+
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="LAY1.025d:01"/>À toy <rhyme>soulder</rhyme><l n="  68"/>
+<lb n="LAY1.025d:02"/>Poindre et <rhyme>larder</rhyme>
+<lb n="LAY1.025d:03"/>Et <rhyme>posseder</rhyme>
+<lb n="LAY1.025d:04"/>Sans nul <rhyme>frauder</rhyme>
+<lb n="LAY1.025d:05"/>Faire <rhyme>tarder</rhyme><l n=" 72"/>
+<lb n="LAY1.025d:06"/>De <rhyme>demander</rhyme>
+<lb n="LAY1.025d:07"/>Pour foy <rhyme>garder</rhyme>
+<lb n="LAY1.025d:08"/>De mal <rhyme>monder</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.025d:10"/>Peine <rhyme>esmonder</rhyme><l n=" 76"/>
+<lb n="LAY1.025d:11"/>Joye <rhyme>abonder</rhyme>
+<lb n="LAY1.025d:12"/>Tout <rhyme>marchander</rhyme>
+<lb n="LAY1.025d:13"/>Et <rhyme>posseder</rhyme>
+<lb n="LAY1.025d:14"/>Bas <rhyme>affonder</rhyme><l n=" 80"/>
+<lb n="LAY1.025d:15"/>Et <rhyme>reffonder</rhyme>
+<lb n="LAY1.025d:16"/>Bel <rhyme>regarder</rhyme>
+<lb n="LAY1.025d:17"/>Voir <rhyme>recorder</rhyme>
+<lb n="LAY1.025d:18"/>Sans point <rhyme>bourder</rhyme><l n=" 84"/>
+<lb n="LAY1.025d:19"/>Pais <rhyme>accorder</rhyme>
+<lb n="LAY1.025d:20"/>Non <rhyme>descorder</rhyme>
+<lb n="LAY1.025d:21"/>Droit<note>heavy 'D'</note> <rhyme>recorder</rhyme>
+<lb n="LAY1.025d:22"/>Pour <rhyme>amender</rhyme><l n=" 88"/>
+<lb n="LAY1.025d:23"/>En sens <rhyme>fonder</rhyme>
+<lb n="LAY1.025d:24"/>Et <rhyme>parfonder</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.025d:26"/>¶ Et s'aucuns n'ont de ta <rhyme>vie</rhyme>
+<lb n="LAY1.025d:27"/>Nulle <rhyme>envie</rhyme><l n=" 92"/>
+<lb n="LAY1.025d:28"/>Ains la veulent <rhyme>maisprisier</rhyme>
+<lb n="LAY1.025d:29"/>Gentillece est d'eulx <rhyme>ravie</rhyme>
+<lb n="LAY1.025d:30"/>Car <rhyme>pleuvie</rhyme>
+<lb n="LAY1.025d:31"/>L'ont les bons pour eulx <rhyme>aysier</rhyme><l n=" 96"/>
+<lb n="LAY1.025d:32"/>Et <rhyme>plaisier</rhyme>
+<lb n="LAY1.025d:33"/>Fait les cuers où <rhyme>poursuivie</rhyme>
+<lb n="LAY1.025d:34"/>Et <rhyme>suivie</rhyme>
+<lb n="LAY1.025d:35"/>Joye est sans point <rhyme>delaissier</rhyme><l n="100"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.025d:37"/><rhyme>N'abaissier</rhyme>
+<lb n="LAY1.025d:38"/>Par toy est dame <rhyme>servie</rhyme>
+<lb n="LAY1.025d:39"/><rhyme>Assouvie</rhyme>
+
+
+<pb n="026" ed="r"/>
+<lb n="LAY1.026r:01"/><fw type="header1" place="intercolumn, along top of ruled space" rend="left aligned"><hi rend="red">Lay</hi></fw><fw type="header2" place="column b, high in rled space" rend="tabbed"><hi rend="red"> &#x95; v &#x95;</hi></fw>
+
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="LAY1.026a:01"/>De baudour qui <rhyme>rabaissier</rhyme><l n="104"/>
+<lb n="LAY1.026a:02"/>Et <rhyme>froissier</rhyme>
+<lb n="LAY1.026a:03"/>Fait doulour qui gent <rhyme>devye</rhyme>
+<lb n="LAY1.026a:04"/><rhyme>Assouvie</rhyme>
+<lb n="LAY1.026a:05"/>Joye est qui la peut <rhyme>puisier</rhyme><l n="108"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.026a:07"/>¶ Mais on fait maint mauvais <rhyme>rapport</rhyme>
+<lb n="LAY1.026a:08"/>De ton fait en disant qu'au <rhyme>port</rhyme><note>all in darker ink</note>
+<lb n="LAY1.026a:09"/>De toy a doulereux <rhyme>apport</rhyme>
+<lb n="LAY1.026a:10"/>Et dont plusieurs se <rhyme>deulent</rhyme><l n="112"/>
+<lb n="LAY1.026a:11"/>Et que moult pou y a <rhyme>deport</rhyme><note>next seven lines in different, less brown ink</note>
+<lb n="LAY1.026a:12"/>Cil qui aime s'il n'a le <rhyme>port</rhyme>
+<lb n="LAY1.026a:13"/>De toy et d'espoir qui le <rhyme>port</rhyme>
+<lb n="LAY1.026a:14"/>Dont mains amans mieulx <rhyme>veule<abbr type="n"/>t</rhyme><l n="116"/>
+<lb n="LAY1.026a:15"/>Que la mort briefment les <rhyme>emport</rhyme>
+<lb n="LAY1.026a:16"/>Que le mal qu'il fault que l'en <rhyme>port</rhyme>
+<lb n="LAY1.026a:17"/>Par toy et qui n'ont que <rhyme>raport</rhyme><note>correction ?</note>
+<lb n="LAY1.026a:18"/>De douleur tous ceulx qui te <rhyme>veule<abbr type="n"/>t</rhyme><l n="120"/><note>irregular ?</note>
+<!-- 1 blank line here -->
+<lb n="LAY1.026a:20"/>¶ Si est trop mau <rhyme>dit</rhyme>
+<lb n="LAY1.026a:21"/>Car pour voir je <rhyme>tien</rhyme>
+<lb n="LAY1.026a:22"/>Que sans <rhyme>contredit</rhyme>
+<lb n="LAY1.026a:23"/>Quant l'en devient <rhyme>tien</rhyme><l n="124"/>
+<lb n="LAY1.026a:24"/>On se <rhyme>desrudit</rhyme>
+<lb n="LAY1.026a:25"/>Qui ton doulx <rhyme>maintien</rhyme>
+<lb n="LAY1.026a:26"/>Poursuit \ <rhyme>n'escondit</rhyme>
+<lb n="LAY1.026a:27"/>Sicom je <rhyme>maintien</rhyme><l n="128"/>
+<lb n="LAY1.026a:28"/>N'yert ja ne <rhyme>desdit</rhyme>
+<lb n="LAY1.026a:29"/><del rend="overstrike" evidence="scored out in brown and red ink">Gayement et qu'en gré le <rhyme>port</rhyme></del>
+<lb n="LAY1.026a:30"/><del rend="overstrike" evidence="scored out in brown and red ink">Cellui ou ceulx qui te <rhyme>veule<abbr type="n"/>t</rhyme></del>
+<!-- 1 blank line here -->
+<lb n="LAY1.026a:32"/><del rend="overstrike" evidence="scored out in brown and red ink, dot in gutter margin">Et que mieulx vault que on le <rhyme>deport</rhyme></del>
+<lb n="LAY1.026a:33"/>L'amant qui du <rhyme>tien</rhyme>
+<lb n="LAY1.026a:34"/>Enrichis <rhyme>mesdit</rhyme>
+<lb n="LAY1.026a:35"/>Het pour ce <rhyme>soustien</rhyme><l n="132"/>
+<lb n="LAY1.026a:36"/>Que qui te <rhyme>laidit</rhyme>
+<lb n="LAY1.026a:37"/>Son meffait <rhyme>retien</rhyme>
+<lb n="LAY1.026a:38"/>Et fais un <rhyme>edit</rhyme>
+<lb n="LAY1.026a:39"/>Où pour fol le <rhyme>tien</rhyme><l n="136"/>
+
+<cb n="b"/><layout ruledLines="39"/>
+<!-- spiral pen-trial in top margin -->
+<lb n="LAY1.026b:01"/>De toy soit <rhyme>maudit</rhyme>
+<lb n="LAY1.026b:02"/>Et son preu <rhyme>detien</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.026b:04"/>¶ Soit <rhyme>party</rhyme>
+<lb n="LAY1.026b:05"/><rhyme>Ressorty</rhyme><l n="140"/>
+<lb n="LAY1.026b:06"/><rhyme>Parverti</rhyme>
+<lb n="LAY1.026b:07"/>De ton doulx <rhyme>soulas</rhyme>
+<lb n="LAY1.026b:08"/>Hors <rhyme>sorti</rhyme>
+<lb n="LAY1.026b:09"/><rhyme>Converti</rhyme><l n="144"/>
+<lb n="LAY1.026b:10"/><rhyme>Emparti</rhyme>
+<lb n="LAY1.026b:11"/>Dur <rhyme>parti</rhyme>
+<lb n="LAY1.026b:12"/>Qui mesdit de tes <rhyme>las</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.026b:14"/>Dire <rhyme>helas</rhyme><l n="148"/>
+<lb n="LAY1.026b:15"/>Vain et <rhyme>las</rhyme>
+<lb n="LAY1.026b:16"/>Comme <rhyme>las</rhyme>
+<lb n="LAY1.026b:17"/>Lui fait sans dire gard <rhyme>t'y</rhyme>
+<lb n="LAY1.026b:18"/>S'ainsi <rhyme>l'as</rhyme><l n="152"/>
+<lb n="LAY1.026b:19"/>Se <rhyme>follas</rhyme>
+<lb n="LAY1.026b:20"/>Ne <rhyme>meslas</rhyme>
+<lb n="LAY1.026b:21"/><rhyme>N'affollas</rhyme>
+<lb n="LAY1.026b:22"/>Ont<note>'t' corrected over erasure ?</note> nul cil soit <rhyme>amorty</rhyme><l n="156"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.026b:24"/>¶ Si debat son <rhyme>chief</rhyme>
+<lb n="LAY1.026b:25"/>En vain qui <rhyme>destruire</rhyme>
+<lb n="LAY1.026b:26"/>Cuide par nul <rhyme>chief</rhyme>
+<lb n="LAY1.026b:27"/>Ton fait ne toy <rhyme>nuire</rhyme><l n="160"/>
+<lb n="LAY1.026b:28"/>Que l'en voit sur tous <rhyme>reluire</rhyme>
+<lb n="LAY1.026b:29"/>Et qui est tant <rhyme>fort</rhyme>
+<lb n="LAY1.026b:30"/>Que où monde n'a tel <rhyme>effort</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.026b:32"/>Et c'est grant <rhyme>meschief</rhyme><l n="164"/>
+<lb n="LAY1.026b:33"/>De tel gent qui <rhyme>duire</rhyme>
+<lb n="LAY1.026b:34"/>Cuident de <rhyme>rechief</rhyme>
+<lb n="LAY1.026b:35"/>Le monde et <rhyme>recuire</rhyme>
+<lb n="LAY1.026b:36"/>En nouvel sain et <rhyme>reduire</rhyme><l n="168"/>
+<lb n="LAY1.026b:37"/>Veult sans le <rhyme>confort</rhyme>
+<lb n="LAY1.026b:38"/>De toy mais tu vains au <rhyme>fort</rhyme>
+<!-- 1 blank line here -->
+<pb n="026" ed="v"/>
+<lb n="LAY1.026v:01"/><fw type="header1" place="intercolumn, in ruled space" rend="left aligned"><hi rend="red">Lay</hi></fw> <fw type="header2" place="column d, in ruled space" rend="left aligned"><hi rend="red"> &#x95; v &#x95;</hi></fw>
+<cb n="c"/><layout ruledLines="39"/>
+<lb n="LAY1.026c:01"/><name ref="">Amours</name> sans <rhyme>chalenge</rhyme>
+<lb n="LAY1.026c:02"/>Honneur et <rhyme>louange</rhyme><l n="172"/>
+<lb n="LAY1.026c:03"/>T'appartient et <rhyme>menge</rhyme>
+<lb n="LAY1.026c:04"/>Quant fus par <rhyme>l'archange</rhyme>
+<lb n="LAY1.026c:05"/>En ce monde <rhyme>estrange</rhyme>
+<lb n="LAY1.026c:06"/>Envoyé en <rhyme>change</rhyme><l n="176"/>
+<lb n="LAY1.026c:07"/>De la male <rhyme>arrenge</rhyme>
+<lb n="LAY1.026c:08"/>Qui nous mist en <rhyme>fange</rhyme>
+<lb n="LAY1.026c:09"/>Et par toy en <rhyme>range</rhyme>
+<lb n="LAY1.026c:10"/>Où ciel semes<note>sic</note> <rhyme>d'ange</rhyme><l n="180"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.026c:12"/>Ce fu noble <rhyme>eschange</rhyme>
+<lb n="LAY1.026c:13"/>Et un doulx <rhyme>meslange</rhyme>
+<lb n="LAY1.026c:14"/>Dont se te <rhyme>revenge</rhyme>
+<lb n="LAY1.026c:15"/>Nul ne m'en <rhyme>ledange</rhyme><l n="184"/>
+<lb n="LAY1.026c:16"/>Car ne se<note>over erasure</note> <rhyme>desrange</rhyme>
+<lb n="LAY1.026c:17"/>De loyal <rhyme>losange</rhyme>
+<lb n="LAY1.026c:18"/>Mon cuer qui <rhyme>s'essange</rhyme><note>initial 's' slipped in, in second, lighter hand</note>
+<lb n="LAY1.026c:19"/>Quant bien il te <rhyme>venge</rhyme><l n="188"/>
+<lb n="LAY1.026c:20"/>Et du tout <rhyme>estrange</rhyme>
+<lb n="LAY1.026c:21"/>Haÿneuse <rhyme>grange</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.026c:23"/>¶ Dont <rhyme>blamée</rhyme>
+<lb n="LAY1.026c:24"/>Ne <rhyme>clamée</rhyme><l n="192"/>
+<lb n="LAY1.026c:25"/><rhyme>Diffamée</rhyme>
+<lb n="LAY1.026c:26"/>Ne <rhyme>nommée</rhyme>
+<lb n="LAY1.026c:27"/>Mau<note>'au' over erasure, then 2-letter space with slash</note> <rhyme>renommée</rhyme>
+<lb n="LAY1.026c:28"/>Ne <rhyme>fumée</rhyme><l n="196"/>
+<lb n="LAY1.026c:29"/>Ne dois estre mais <rhyme>amée</rhyme>
+<lb n="LAY1.026c:30"/>Et prisée plus qu'aut<abbr type="re"/> <rhyme>Rien</rhyme><note>in darker ink, over erasure ?</note><note>8 syllables, irregular ?</note>
+<!-- 1 blank line here -->
+<lb n="LAY1.026c:32"/>Car <rhyme>armée</rhyme>
+<lb n="LAY1.026c:33"/><rhyme>Enarmée</rhyme><l n="200"/>
+<lb n="LAY1.026c:34"/><rhyme>Affermée</rhyme>
+<lb n="LAY1.026c:35"/><rhyme>Confermée</rhyme>
+<lb n="LAY1.026c:36"/>T'es &amp; <rhyme>formée</rhyme>
+<lb n="LAY1.026c:37"/>Bien <rhyme>fermée</rhyme><l n="204"/>
+<lb n="LAY1.026c:38"/>Pour nous c'est chose <rhyme>informée</rhyme>
+<lb n="LAY1.026c:39"/>Ne le nÿer n'y vault <rhyme>rien</rhyme>
+
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="LAY1.026d:01"/><rhyme>Exprimée</rhyme>
+<lb n="LAY1.026d:02"/>Ne <rhyme>primée</rhyme><l n="208"/>
+<lb n="LAY1.026d:03"/>Point <rhyme>fermée</rhyme>
+<lb n="LAY1.026d:04"/><rhyme>N'extimée</rhyme>
+<lb n="LAY1.026d:05"/>De hors <rhyme>limée</rhyme><note>'lumée' corrected to 'limée', one minim erased, gap left</note>
+<lb n="LAY1.026d:06"/>Trop <rhyme>semée</rhyme><l n="212"/>
+<lb n="LAY1.026d:07"/>Ne peus estre <rhyme>n'enflamée</rhyme>
+<lb n="LAY1.026d:08"/>En ce monde <rhyme>terrïen</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.026d:10"/>¶ Ains est <rhyme>dommage</rhyme>
+<lb n="LAY1.026d:11"/>Qu'en ton <rhyme>hommage</rhyme><l n="216"/>
+<lb n="LAY1.026d:12"/>Et fol et <rhyme>sage</rhyme>
+<lb n="LAY1.026d:13"/>Par droit <rhyme>usage</rhyme>
+<lb n="LAY1.026d:14"/>N'est car <rhyme>l'oultrage</rhyme>
+<lb n="LAY1.026d:15"/>Qui fait la <rhyme>rage</rhyme><l n="220"/>
+<lb n="LAY1.026d:16"/>Où monde <rhyme>umbrage</rhyme>
+<lb n="LAY1.026d:17"/>Par male et faulse <rhyme>couvoitise</rhyme>
+<!-- No BL, horizontal line between 'Pa' and 'Se' -->
+<lb n="LAY1.026d:18"/>Seroit en <rhyme>cage</rhyme>
+<lb n="LAY1.026d:19"/>Et hors <rhyme>d'usage</rhyme><l n="224"/>
+<lb n="LAY1.026d:20"/>Ne tel <rhyme>lengage</rhyme>
+<lb n="LAY1.026d:21"/>Comme on <rhyme>l'engage</rhyme>
+<lb n="LAY1.026d:22"/>Par le <rhyme>haultage</rhyme>
+<lb n="LAY1.026d:23"/>D'orgueil qui <rhyme>nage</rhyme><l n="228"/>
+<lb n="LAY1.026d:24"/>En maint <rhyme>rivage</rhyme>
+<lb n="LAY1.026d:25"/>N'yert où monde et ce qui <rhyme>l'atise</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.026d:27"/>C'est le <rhyme>beuvrage</rhyme>
+<lb n="LAY1.026d:28"/>Qu'<name ref="">envie</name> <rhyme>charge</rhyme><l n="232"/>
+<lb n="LAY1.026d:29"/>Qui <rhyme>n'assouage</rhyme>
+<lb n="LAY1.026d:30"/>De nul <rhyme>malage</rhyme><note>line inserted in lighter hand</note>
+<lb n="LAY1.026d:31"/>Ains <rhyme>deheberge</rhyme>
+<lb n="LAY1.026d:32"/>De son <rhyme>heberge</rhyme><l n="236"/>
+<lb n="LAY1.026d:33"/>Toy qui sans <rhyme>barge</rhyme>
+<lb n="LAY1.026d:34"/>Comme en mer <rhyme>large</rhyme>
+<lb n="LAY1.026d:35"/>Vas flotant par celle <rhyme>faintise</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.026d:37"/>Mais où <rhyme>passage</rhyme><l n="240"/>
+<lb n="LAY1.026d:38"/>Où le <rhyme>päage</rhyme>
+<lb n="LAY1.026d:39"/>De nous<note>'n' and 'u' overwritten</note> <rhyme>degage</rhyme>
+<lb n="LAY1.026d:40"/>En <rhyme>l'eritage</rhyme>
+<lb n="LAY1.026d:41"/>Du monde <rhyme>ombrage</rhyme><l n="244"/>
+&#x95; &#x00B7;
+
+<pb n="027" ed="r"/>
+<lb n="LAY1.027r:01"/><fw type="header1" place="column a, in ruled space" rend="centred"><hi rend="red"><c>u</c>ng</hi></fw> <fw type="header2" place="column a, in ruled space" rend="tabbed from left"><hi rend="red">aultre</hi></fw> <fw type="header3" place="intercolumn" rend="right aligned"><hi rend="red"><c>L</c>ay</hi></fw> <fw type="header4" place="column b, in ruled space" rend="centred"><hi rend="red">&#x95; vi &#x95; </hi></fw>
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="LAY1.027a:01"/>Y a <rhyme>ymage</rhyme>
+<lb n="LAY1.027a:02"/>De fainte <rhyme>targe</rhyme>
+<lb n="LAY1.027a:03"/>D'amour et faulse <rhyme>cointise</rhyme>
+<!-- 1 blank line here -->
+<lb n="LAY1.027a:05"/>Si conclus qu'en ta <rhyme>closture</rhyme><l n="248"/>
+<lb n="LAY1.027a:06"/>Vraye non pas <rhyme>couverture</rhyme>
+<lb n="LAY1.027a:07"/>On ne doit avoir <rhyme>routure</rhyme>
+<lb n="LAY1.027a:08"/>À vie très <rhyme>doulcereuse</rhyme>
+<lb n="LAY1.027a:09"/>Et qui en fait sa <rhyme>posture</rhyme><l n="252"/>
+<lb n="LAY1.027a:10"/>Jusque il soit en <rhyme>sepulture</rhyme>
+<lb n="LAY1.027a:11"/>Il peut bien la <rhyme>pourtraiture</rhyme>
+<lb n="LAY1.027a:12"/>Porter de paix <rhyme>l'eureuse</rhyme><note>last 2 words in lighter ink over erasure</note>
+<!-- 1 blank line here -->
+<lb n="LAY1.027a:14"/>Car avec lui par <rhyme>jointure</rhyme><l n="256"/>
+<lb n="LAY1.027a:15"/>L'a à très forte <rhyme>cousture</rhyme>
+<lb n="LAY1.027a:16"/>Cousue<note>'e' in lighter ink over erasure</note> par <rhyme>aventure</rhyme>
+<lb n="LAY1.027a:17"/>Si que peine <rhyme>doulereuse</rhyme>
+<lb n="LAY1.027a:18"/>N'ara en la <rhyme>deffritture</rhyme><l n="260"/>
+<lb n="LAY1.027a:19"/>Infernal qui par <rhyme>droitture</rhyme>
+<lb n="LAY1.027a:20"/>Pugnist humaine <rhyme>faitture</rhyme>
+<lb n="LAY1.027a:21"/>En l'orde vallée <rhyme>ombreuse</rhyme><l n="263"/>
+<!-- 1 blank line here -->
+<lb n="LAY1.027a:23"/>Explicit <c>l</c>ay <c>l</c>éonime.
+<!-- 1 blank line here -->
+<lb n="LAY1.027a:25"/>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

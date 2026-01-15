@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="harley.xsl" type="text/xsl"?>
+<!DOCTYPE tei5 SYSTEM "4431.dtd"><?xml-stylesheet type="text/xsl" href="harley.xsl"?><?xml-stylesheet type="text/css" href="classes.css"?>
+<tei5>
+<text>
+<!-- 1 blank line(s) here -->
+<lb n="CDAM.360d:04"/>Ci commence la table des rebriches
+<lb n="CDAM.360d:05"/>de la &#x95; iii &#x95;<num type="ordinal">e</num> partie de ce livre la quelle p<abbr expan="ar"/>-
+<lb n="CDAM.360d:06"/>le comment et par qui les haulx combles <note>rising 's' allongé</note>
+<lb n="CDAM.360d:07"/>des tours de la <name ref="">cité des dames</name> furent
+<lb n="CDAM.360d:08"/>parfais / et quelle nobles dames furent
+<lb n="CDAM.360d:09"/>eslittes pour demourer ès grans palais
+<lb n="CDAM.360d:10"/>et haulx dongions
+<!-- 1 blank line(s) here -->
+<lb n="CDAM.360d:12"/>¶ Le premier chapitre parle comment
+<lb n="CDAM.360d:13"/>justice amena <name ref="">la Royne du ciel</name> pour<abbr expan=" "/>a-
+<lb n="CDAM.360d:14"/>biter et seignourir en la <name ref="">cité des dames</name> <hi rend="">i</hi>
+<lb n="CDAM.360d:15"/>¶ Item des <name ref="">seurs n<abbr expan="ost"/>re dame</name> et de <name ref="">ma-
+<lb n="CDAM.360d:16"/>rie Magdelaine</name> <hi rend="">ii</hi> <note>'i' longs , les chiffres sont toujours à droite de la colonne</note>
+<lb n="CDAM.360d:17"/>¶ Item de <name ref="">sainte katherine</name> <hi rend="">iii</hi>
+<lb n="CDAM.360d:18"/>¶ Item de <name ref="">sainte marguerite</name> <hi rend="">iiii</hi>
+<lb n="CDAM.360d:19"/>¶ Item de <name ref="">sainte luce</name> <hi rend="">v</hi>
+<lb n="CDAM.360d:20"/>¶ Ite<abbr expan="m"/>de <name ref="">la benoite martine</name> vierge <hi rend="">vi</hi>
+<lb n="CDAM.360d:21"/>¶ Itel d'une <name ref="">autre sainte luce</name> et d'aut<abbr expan="re"/>s
+<lb n="CDAM.360d:22"/>vierges martires <hi rend="">vii</hi>
+<lb n="CDAM.360d:23"/>¶ Itel de <name ref="">sainte Justine</name> et d'autres vi-
+<lb n="CDAM.360d:24"/>erges <hi rend="">viii</hi>
+<lb n="CDAM.360d:25"/>¶ Item de <name ref="">la vierge theosodine</name> et de
+<lb n="CDAM.360d:26"/><name ref="">sainte barbre</name> et de <name ref="">sainte dorothée</name> <hi rend="">ix</hi>
+<lb n="CDAM.360d:27"/>¶ Item de <name ref="Saint+Christina">sainte <abbr expan="Crist"/>ine vierge</name> <hi rend="">x</hi>
+<lb n="CDAM.360d:28"/>¶ Ite<abbr expan="m"/>de <name ref="">la benoite euffrosine</name> <hi rend="">xi</hi>
+<lb n="CDAM.360d:29"/>¶ Item de <name ref="">la glorieuse Anastaise</name> et
+<lb n="CDAM.360d:30"/>de ses compaignes <hi rend="">xii</hi>
+<lb n="CDAM.360d:31"/>¶ Ite<abbr expan="m"/>de <name ref="">la benoite theodorie</name> <name ref="">xiii</name>
+<lb n="CDAM.360d:32"/>¶ Item de <name ref="">la noble athalie</name> <hi rend="">xiiii</hi>
+<lb n="CDAM.360d:33"/>¶ Item de <name ref="">sainte Affre</name> qui fu fole fem-
+<lb n="CDAM.360d:34"/>me convertie <hi rend="">&#x95; xv &#x95;</hi>
+<lb n="CDAM.360d:35"/>¶ Item dit <name ref="Justice">Justice</name> de plusieurs nobles
+<lb n="CDAM.360d:36"/>dames qui servirent et ostellere<abbr expan="n"/>t les <name ref="">ap-
+<lb n="CDAM.360d:37"/>postres</name> &amp; autres sains <hi rend="">xvi</hi>
+
+
+<pb n="361" side="r"/>
+<lb n="CDAM.361r:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames <note>offset</note> xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 36 lines -->
+<lb n="CDAM.361a:01"/>¶ Item la fin du livre <hi rend="">xvii</hi>
+<!-- 2 blank line(s) here -->
+<lb n="CDAM.361a:04"/>Explicit la table de la &#x95; iii &#x95;<num type="ordinal">e</num> partie de ce<abbr expan=" "/>livre &#x95;
+<figure place="19"></figure><!-- miniature extends 19 lines here -->
+<lb n="CDAM.361a:24"/><hi rend="">Ci commence la tierce partie du <name ref="">li-
+<lb n="CDAM.361a:25"/>vre de la Cité des dames</name> / la quelle
+<lb n="CDAM.361a:26"/>parle comment et par qui les haulx com-
+<lb n="CDAM.361a:27"/>bles des tours furent parfais et q<abbr expan="ue"/>l-
+<lb n="CDAM.361a:28"/>les nobles dames furent eslittes pour
+<lb n="CDAM.361a:29"/>demourer ès grans palais et ès haulz
+<lb n="CDAM.361a:30"/>dongions ¶ Le premier chapitre p<abbr expan="ar"/>-
+<lb n="CDAM.361a:31"/>le co<abbr expan="m"/>ment <name ref="Justice"><c>j</c>ustice</name> amena la <name ref="">royne du
+<lb n="CDAM.361a:32"/>ciel</name> pour abiter en la <name ref="City of Ladies">cité des dames</name> &#x95; i &#x95; <note>'i' à queue longue</note></hi>
+<lb n="CDAM.361a:33"/><hi rend="cap4">A</hi>tant se tira vers moy <name ref="Justice"><c>d</c>ame
+<lb n="CDAM.361a:34"/>Justice</name> à sa haulte maniere
+<lb n="CDAM.361a:35"/>et dist Ainsi &#x95; <name ref="Christine+de+Pizan"><abbr expan="Crist"/>ine</name> à droit
+<lb n="CDAM.361a:36"/>voir dire bien me semble
+
+<cb n="b"/>
+<!-- 36 lines -->
+<lb n="CDAM.361b:01"/>que selon ta possibilité à l'ayde de mes seurs
+<lb n="CDAM.361b:02"/>si que tu l'as sceu mettre en oeuvre bien et
+<lb n="CDAM.361b:03"/>bel as ouvré oû bastissement de la <name ref="City of Ladies">cité des
+<lb n="CDAM.361b:04"/>dames</name> et des or mais est temps que je m'en-
+<lb n="CDAM.361b:05"/>tremette du surplus si que je te promis /
+<lb n="CDAM.361b:06"/>C'est assavoir d'i amener et loger la <name ref="">roy-
+<lb n="CDAM.361b:07"/>ne très excellente beneurée entre les fem-
+<lb n="CDAM.361b:08"/>mes</name> avec sa très noble compaignie / si que
+<lb n="CDAM.361b:09"/>la cité puisse estre dominée et seigneurie
+<lb n="CDAM.361b:10"/>par elle et abitée de grant multitude de da-
+<lb n="CDAM.361b:11"/>mes nobles de sa court et de sa mesgnée /
+<lb n="CDAM.361b:12"/>Car je voy <note>'u' à l'italienne</note> les palais et les haultes man-
+<lb n="CDAM.361b:13"/>sions prestes et parées toutes les Rues cou-
+<lb n="CDAM.361b:14"/>vertes pour recevoir elle et sa très honorée
+<lb n="CDAM.361b:15"/>et excellente route et assemblée / Or vien-
+<lb n="CDAM.361b:16"/>gnent doncques princesses dames et tou-
+<lb n="CDAM.361b:17"/>tes femmes au devant recevoir à grant
+<lb n="CDAM.361b:18"/>honneur et reverence celle qui est non
+<lb n="CDAM.361b:19"/>pas seulement leur royne / mais qui ad-
+<lb n="CDAM.361b:20"/>ministracion et seigneurie sur toutes
+<lb n="CDAM.361b:21"/>puissances créés après un seul filz que el-
+<lb n="CDAM.361b:22"/>le porta et conceut du <name ref="">saint esperit</name> qui
+<lb n="CDAM.361b:23"/>est filz de <name ref="">dieu le pere</name> / mais c'est bien
+<lb n="CDAM.361b:24"/><c>R</c>aison que ceste très haulte excellent <note>barre longue, remplissage</note>
+<lb n="CDAM.361b:25"/>souveraine princesse soit supplïée par <note>'s' allongé</note> l'as-
+<lb n="CDAM.361b:26"/>semblée de toutes femmes que de son son
+<lb n="CDAM.361b:27"/>humilité lui plaise abiter ça embas en-
+<lb n="CDAM.361b:28"/>tre elles en leur cité et congregacion sa<abbr expan="n"/>z
+<lb n="CDAM.361b:29"/>l'avoir en desdaing ne despris pour le
+<lb n="CDAM.361b:30"/>regart de sa haultece envers leur peti-
+<lb n="CDAM.361b:31"/>tece / Mais ne fault point avoir de
+<lb n="CDAM.361b:32"/>doubte que son humilité qui toutes aut<abbr expan="re"/>s
+<lb n="CDAM.361b:33"/>passe et sa benignité plus que angeliq<abbr expan="ue"/>
+<lb n="CDAM.361b:34"/>ne lui souffrera faire reffus de demou-
+<lb n="CDAM.361b:35"/>rer et abiter en la <name ref="">cité des dames</name> voire
+<lb n="CDAM.361b:36"/>par dessus toutes oû palais que ma
+
+
+<pb n="361" side="v"/>
+<lb n="CDAM.361v:01"/><hi rend="">De la Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 36 lines -->
+<lb n="CDAM.361c:01"/><name ref="Equity">seur <c>d</c>roitture</name> lui a ja appareillié qui tout
+<lb n="CDAM.361c:02"/>est fait de gloire et de louange &#x95; Or vien-
+<lb n="CDAM.361c:03"/>gnent doncques avec moy toutes femmes
+<lb n="CDAM.361c:04"/>et lui disons ainsi / ¶ Nous te salüons
+<lb n="CDAM.361c:05"/><name ref="">Royne des cieulx</name> du salu que l'ange t'appor-
+<lb n="CDAM.361c:06"/>ta le quel tu as agréable <note>changed from 'aggreable', 1er 'g' rayé</note> sur tous salus
+<lb n="CDAM.361c:07"/>Te disant /  <name ref="">ave maria</name> &#x95; Supplie humble-
+<lb n="CDAM.361c:08"/>ment à toy tout le devot sexe des femmes
+<lb n="CDAM.361c:09"/>que en orreur ne te soit d'abiter entre elles
+<lb n="CDAM.361c:10"/>par grace et par pitié comme leur deffen-
+<lb n="CDAM.361c:11"/>derresse protectarresse et g<add place="" type="" evidence="">arde</add> <note>'contre' exponctué, corr&#x95; non effectuée</note> contre to<abbr expan="us"/>
+<lb n="CDAM.361c:12"/>assaulx d'ennemis et du monde / et que de
+<lb n="CDAM.361c:13"/>la fontaine de vertus qui de toy flue el-
+<lb n="CDAM.361c:14"/>les puissent boire et estre si rassadiées q<abbr expan="ue"/>
+<lb n="CDAM.361c:15"/>pechié et tout vice leur soit abhomina-
+<lb n="CDAM.361c:16"/>ble &#x95; Or viens doncques à nous <name ref="">royne
+<lb n="CDAM.361c:17"/>celeste temple de dieu cele et cloistre<abbr expan=" "/>du
+<lb n="CDAM.361c:18"/>saint esperit abitacle de la trinité joye
+<lb n="CDAM.361c:19"/>des anges estoille et radresse des desvo-
+<lb n="CDAM.361c:20"/>yez / esperance des vrays <note>'u' à l'italienne</note> créans</name> &#x95; O Da-
+<lb n="CDAM.361c:21"/>me qui est cellui tant oultrageux qui
+<lb n="CDAM.361c:22"/>jamais ose penser ne gitter hors de sa
+<lb n="CDAM.361c:23"/>bouche que le sexe femenin soit vil con-
+<lb n="CDAM.361c:24"/>siderée ta dignité car se tout le demou-
+<lb n="CDAM.361c:25"/>rant des femmes estoit mauvais si <note>'s' allongé</note> pas-
+<lb n="CDAM.361c:26"/>se et surmonte la lueur de ta bonté à
+<lb n="CDAM.361c:27"/>plus grant comble que autre <note>'s' allongé</note> mauvais-
+<lb n="CDAM.361c:28"/>stié <note>sic</note> ne pourroit estre / Et quant <name ref="">dieu</name>
+<lb n="CDAM.361c:29"/>voult en cestui sexe eslire son espouse
+<lb n="CDAM.361c:30"/>Dame très excellente pour l'onneur de
+<lb n="CDAM.361c:31"/>toy tous hommes se doivent garder no<abbr expan="n"/>
+<lb n="CDAM.361c:32"/>pas seulement de blasmer femmes maiz
+<lb n="CDAM.361c:33"/>aussi les avoir en grant reverence / 
+<lb n="CDAM.361c:34"/>¶ La responce de la <name ref="">vierge</name> est tele
+<lb n="CDAM.361c:35"/><name ref="Justice">Justice la très amée de mon filz</name> très vou-
+<lb n="CDAM.361c:36"/>lentiers je abiteray et demoureray ent<abbr expan="re"/>
+
+<cb n="d"/>
+<!-- 36 lines -->
+<lb n="CDAM.361d:01"/>mes seurs et amies les femmes et auecq<abbr expan="ue"/>s
+<lb n="CDAM.361d:02"/>elles / Car <name ref="Reason"><c>r</c>aison</name> <name ref="Equity"><c>d</c>roitture</name> toy et aussi
+<lb n="CDAM.361d:03"/><name ref="">nature</name> m'i encline elles me servent / loent
+<lb n="CDAM.361d:04"/>et honneurent sanz cesser / si suis et seray
+<lb n="CDAM.361d:05"/>à tous jours chief du sexe femenin / Car
+<lb n="CDAM.361d:06"/>ceste chose fu dès oncques en la pensée de
+<lb n="CDAM.361d:07"/><name ref="">dieu le pere</name> preparlée et ordenée oû con-
+<lb n="CDAM.361d:08"/>seil de la <name ref="">trinité</name> / adonc respondi <name ref="Justice"><c>j</c>ustice</name>
+<lb n="CDAM.361d:09"/>avec toutes femmes genoulx flechis &amp;
+<lb n="CDAM.361d:10"/>les chiefs enclins dame graces et louan-
+<lb n="CDAM.361d:11"/>ges te soient données par infinis siecles
+<lb n="CDAM.361d:12"/>Sauves nous dame et pour nous prie
+<lb n="CDAM.361d:13"/>ton <name ref="">filz</name> qui rien ne te refuse <hi rend="">Des <name ref="">seurs
+<lb n="CDAM.361d:14"/>n<abbr expan="ost"/>re dame</name> et de <name ref="">la magdelaine</name> &#x95; ii &#x95;</hi>
+<lb n="CDAM.361d:15"/><hi rend="cap2">O</hi>r est logée avecques nous l'empereris
+<lb n="CDAM.361d:16"/>non pareille vueillent <note>'u' à l'italienne</note> ou non les
+<lb n="CDAM.361d:17"/>mesdisans gengleurs / si doivent bien est<abbr expan="re"/>
+<lb n="CDAM.361d:18"/>mises avec elle les benoites seurs et <name ref="">ma-
+<lb n="CDAM.361d:19"/>rie magdelaine</name> qui compaignie lui fire<abbr expan="n"/>t
+<lb n="CDAM.361d:20"/>sanz delaissier à la passion de son <name ref="">filz</name> co-
+<lb n="CDAM.361d:21"/>ste la croix &#x95; O grant foy de femmes et
+<lb n="CDAM.361d:22"/>grant amour qui oncques le <name ref="">filz de di-
+<lb n="CDAM.361d:23"/>eu</name> qui de tous ses appostres avoit esté
+<lb n="CDAM.361d:24"/>abandonné et relenqui ne le laissierent
+<lb n="CDAM.361d:25"/>mort ne vif et parut bien que <name ref="">dieux</name> ne
+<lb n="CDAM.361d:26"/>reprouvoit mie tant amour de femme
+<lb n="CDAM.361d:27"/>si que se ce fust chose fraisle comme aucu<abbr expan="n"/>s
+<lb n="CDAM.361d:28"/>font et que ilz veulent dire / quant oû
+<lb n="CDAM.361d:29"/>cuer de <name ref="">la benoite magdelaine</name> et des
+<lb n="CDAM.361d:30"/>autres dames mist estincelle de si ferva<abbr expan="n"/>t
+<lb n="CDAM.361d:31"/>amour comme il y paru et que il tant
+<lb n="CDAM.361d:32"/>approuva <hi rend="">de <name ref="">sainte Katherine</name> &#x95; iii</hi>
+<lb n="CDAM.361d:33"/><hi rend="cap2">P</hi>our faire compaignie à <name ref="">la benoite
+<lb n="CDAM.361d:34"/>Royne du ciel empereris et prin-
+<lb n="CDAM.361d:35"/>cesse de la cité des dames</name> nous faut lo-
+<lb n="CDAM.361d:36"/>ger avec elle les benoites vierges et
+<!-- réclame cursive , 'saintes dames' -->
+
+
+<pb n="362" side="r"/>
+<lb n="CDAM.362r:01"/><hi rend="">de la cité <note>centred</note> des <note>centred</note> dames xxix</hi><note>centred</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.362a:01"/>saintes dames en demonstrant comment <name ref="">dieu</name>
+<lb n="CDAM.362a:02"/>a approuvé le sexe femenin par ce que sembla-
+<lb n="CDAM.362a:03"/>blement que aux hommes a donné à fe<abbr expan="m"/>mes
+<lb n="CDAM.362a:04"/>tendres et de jeune aage constance et force
+<lb n="CDAM.362a:05"/>de souffrir pour sa sainte loy orribles marti-
+<lb n="CDAM.362a:06"/>res et qui couronnées sont en gloire / Des q<abbr expan="ue"/>l-
+<lb n="CDAM.362a:07"/>les les belles vies sont à ouÿr de bon exemple
+<lb n="CDAM.362a:08"/>à toute femme sur toute autre sagece / et
+<lb n="CDAM.362a:09"/>pour ce ycestes seront les supperlatives de
+<lb n="CDAM.362a:10"/>n<abbr expan="ost"/>re cité ¶ Et premierement comme très
+<lb n="CDAM.362a:11"/>excellente <name ref="">la benoite katherine qui fu fille
+<lb n="CDAM.362a:12"/>du roy coste d'alexandrie</name> / ceste beneurée
+<lb n="CDAM.362a:13"/>pucelle estoit demourée heritiere de <note>crochet ouvert, sens ?</note> son pe-
+<lb n="CDAM.362a:14"/>re en l'aage de xviii &#x95; ans / et noblement
+<lb n="CDAM.362a:15"/>gouvernoit elle et son heritage / <name ref=""><abbr expan="crest"/>ianne</name>
+<lb n="CDAM.362a:16"/>estoit et toute donnée à <name ref="">dieu</name> refusante
+<lb n="CDAM.362a:17"/>tous autres mariages / Advint que en <name ref="">la
+<lb n="CDAM.362a:18"/>cité d'alexandrie</name> fu venu <name ref="">l'empereur ma-
+<lb n="CDAM.362a:19"/>xence</name> le quel à un jour d'une grant sollemp-
+<lb n="CDAM.362a:20"/>nité de leurs dieux avoit fait apprester
+<lb n="CDAM.362a:21"/>grant appareil pour faire sollempnel sa-
+<lb n="CDAM.362a:22"/>crefice &#x95; <name ref="">Katherine</name> estoit en son palais
+<lb n="CDAM.362a:23"/>si ouÿ la noise des bestes que on appareilloit
+<lb n="CDAM.362a:24"/>pour sacrifier et grant retentissement de
+<lb n="CDAM.362a:25"/>instrumens et comme elle eust envoyé
+<lb n="CDAM.362a:26"/>savoir que c'estoit et lui feust rapporté q<abbr expan="ue"/>
+<lb n="CDAM.362a:27"/>l'empereur estoit ja au temple pour faire
+<lb n="CDAM.362a:28"/>sacrefice / tantost y ala et l'empereur prist
+<lb n="CDAM.362a:29"/>à corriger de celle erreur par moult sages <note>rising 's' allongé , écrit après ?</note>
+<lb n="CDAM.362a:30"/>paroles comme grant clergece et apprise
+<lb n="CDAM.362a:31"/>ès sciences que elle estoit prist à prouver
+<lb n="CDAM.362a:32"/>par raisons philosophiques que il n'est q<abbr expan="ue"/>
+<lb n="CDAM.362a:33"/>un seul <name ref="">dieu</name> créateur de toutes choses
+<lb n="CDAM.362a:34"/>et que cellui doit estre äouré et non autre
+<lb n="CDAM.362a:35"/>Quant l'empereur ouÿ ceste pucelle qui
+<lb n="CDAM.362a:36"/>tant estoit belle noble et de grant aucto-
+<lb n="CDAM.362a:37"/>rité ainsi parler il fu tous esmerveillez
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.362b:01"/>et ne lui sceut que dire / mais moult entendoit
+<lb n="CDAM.362b:02"/>à la regarder / si envoya par tout querre les
+<lb n="CDAM.362b:03"/>plus sages philosophes que on sceust par <name ref="">la
+<lb n="CDAM.362b:04"/>terre d'egipte</name> qui de philosophie / Adont m<abbr expan="ou"/>lt
+<lb n="CDAM.362b:05"/>estoit renommée tant que vers lui furent
+<lb n="CDAM.362b:06"/>assemblez bien &#x95; l &#x95; qui se tindrent mal con-
+<lb n="CDAM.362b:07"/>temps / quant ilz sceurent la cause pour q<abbr expan="uo"/>y
+<lb n="CDAM.362b:08"/>mandez estoient et dirent que pou de
+<lb n="CDAM.362b:09"/>sens l'avoit meu de les traveiller de si lon-
+<lb n="CDAM.362b:10"/>taines terres pour desputer à une pucel-
+<lb n="CDAM.362b:11"/>le / À brief dire quant le jour de la despu-
+<lb n="CDAM.362b:12"/>toison fu venus <name ref="">la benoite Katherine</name> les
+<lb n="CDAM.362b:13"/>pourmena telement par argumens que
+<lb n="CDAM.362b:14"/>tous furent convaincus ne souldre ne sa-
+<lb n="CDAM.362b:15"/>voient ses questions / de la quelle chose
+<lb n="CDAM.362b:16"/>l'empereur forcenoit sur eulx / mais tout \ ce
+<lb n="CDAM.362b:17"/>ne valoit Riens / <note>chgt écriture ou module?</note> car par grace divine aux
+<lb n="CDAM.362b:18"/>saintes paroles de la vierge tous se convertire<abbr expan="n"/>t
+<lb n="CDAM.362b:19"/>et confesserent le nom de <name ref="">jhesucrist</name> pour le q<abbr expan="ue"/>l
+<lb n="CDAM.362b:20"/>despit l'empereur les fist ardoir / et la sainte
+<lb n="CDAM.362b:21"/>vierge les <note>'e' changed to 'l'</note> reconfortoit en leur martire / et <note>'s' allongé</note> as-
+<lb n="CDAM.362b:22"/>seuroit d'estre receus en la gloire pardurable
+<lb n="CDAM.362b:23"/>et <name ref="">dieu</name> prioit qu'il les tenist <note>Richards 'teinst'</note> en vraye <note>'u' à l'italienne</note> foy
+<lb n="CDAM.362b:24"/>et ainsi furent yceulx par elle mis <note>'mie' changed to 'mis' ?</note> oû nom-
+<lb n="CDAM.362b:25"/>bre des benois martirs / et tel miracle mon-
+<lb n="CDAM.362b:26"/>stra <name ref="">dieu</name> en eulx que oncques le feu ne cor-
+<lb n="CDAM.362b:27"/>rompi leurs corps ne leurs vestemens ai<abbr expan="n"/>s
+<lb n="CDAM.362b:28"/>demourerent après le feu tous entiers <note>rechgt ?</note>
+<lb n="CDAM.362b:29"/>sanz perdre poil et de tieulx chieres que
+<lb n="CDAM.362b:30"/>il sembloit que tous fussent en vie / <name ref="">Le
+<lb n="CDAM.362b:31"/>tirant maxence</name> qui moult couvoitoit <name ref="">la
+<lb n="CDAM.362b:32"/>benoite Katherine</name> pour sa beauté la
+<lb n="CDAM.362b:33"/>print moult à blandir affin que il la tour-
+<lb n="CDAM.362b:34"/>nast à sa voulenté / mais quant il vid q<abbr expan="ue"/>
+<lb n="CDAM.362b:35"/>riens ne \ lui valoit / il se tourna aux mena-
+<lb n="CDAM.362b:36"/>ces et puis aux tourmens / et la fist batre
+<lb n="CDAM.362b:37"/>moult durement / et puis mettre en chartre
+
+
+<pb n="362" side="v"/>
+<lb n="CDAM.362v:01"/><hi rend="">La Cité <note>centred</note> des <note>centred , 'd' exubérant</note> dames xxix</hi> <note>centred/ 'd' particulier</note>
+
+<cb n="c"/>
+<!-- 36 lines -->
+<lb n="CDAM.362c:01"/>sans estre de nul visetée par &#x95; xii &#x95; jours et la cui-
+<lb n="CDAM.362c:02"/>doit faire deffaillir de fain / mais les anges
+<lb n="CDAM.362c:03"/>de <name ref="">n<abbr expan="ost"/>re<abbr expan="seigneur"/></name> estoient avec elle qui la reconfortoie<abbr expan="n"/>t
+<lb n="CDAM.362c:04"/>et quant après les &#x95; xii &#x95; jours elle fu menée
+<lb n="CDAM.362c:05"/>devant l'empereur et il la vid plus freche et
+<lb n="CDAM.362c:06"/>plus saine que devant cuida que visetée eust
+<lb n="CDAM.362c:07"/>esté Si commanda estre tourmentées les
+<lb n="CDAM.362c:08"/>gardes de la chartre / mais <name ref="">katherine</name> qui en
+<lb n="CDAM.362c:09"/>ot pitié afferma<abbr expan=" "/>que n'avoit eu confort fors
+<lb n="CDAM.362c:10"/>du ciel / L'empereur ne savoit quieulx tour-
+<lb n="CDAM.362c:11"/>mens pour la tourmenter plus durs faire
+<lb n="CDAM.362c:12"/>si fist par le conseil de son prevost faire ro-
+<lb n="CDAM.362c:13"/>es plaines de rasouers qui tournoient l'u-
+<lb n="CDAM.362c:14"/>ne contre l'autre et quanque estoit oû mi-
+<lb n="CDAM.362c:15"/>lieu estoit detranchié / entre ces Roes fist
+<lb n="CDAM.362c:16"/>mettre toute nue <name ref="">Katherine</name> qui tous jo<abbr expan="ur"/>s
+<lb n="CDAM.362c:17"/>les mains jointes äouroit <name ref="">dieu</name> / Adont
+<lb n="CDAM.362c:18"/>descendirent les anges qui par si grant
+<lb n="CDAM.362c:19"/>force despecerent les roes que les tourmen-
+<lb n="CDAM.362c:20"/>teurs furent occis / Quant la femme de
+<lb n="CDAM.362c:21"/>l'empereur sceut les merveilles que <name ref="">dieu</name> fai-
+<lb n="CDAM.362c:22"/>soit pour<abbr expan=" "/><name ref="">Katherine</name> / elle fu convertie et <note>'s' allongé</note> blas-
+<lb n="CDAM.362c:23"/>ma l'empereur de ce que il faisoit / ala vise-
+<lb n="CDAM.362c:24"/>ter la sainte vierge en la chartre et lui req<abbr expan="ui"/>st
+<lb n="CDAM.362c:25"/>que <name ref="">dieu</name> priast pour elle pour la quelle cho-
+<lb n="CDAM.362c:26"/>se<abbr expan=" "/>l'empereur fist tourmenter sa femme et
+<lb n="CDAM.362c:27"/>lui traire les mamelles / et la vierge lui di-
+<lb n="CDAM.362c:28"/>soit ne doubtes point les tourmens très <note>'s' initial</note> no-
+<lb n="CDAM.362c:29"/>ble Royne / car au jour d'ui seras receue en
+<lb n="CDAM.362c:30"/>la joye sans fin / le tirant fist decoler sa
+<lb n="CDAM.362c:31"/>femme et grant multitude de gens <note>'se convertirent', corrigé en écrivant par dessus</note> qui con-
+<lb n="CDAM.362c:32"/>vertis se estoient / L'empereur requist <name ref="">Ka-
+<lb n="CDAM.362c:33"/>therine</name> que elle fust sa femme / et quant
+<lb n="CDAM.362c:34"/>il vid que elle estoit refusante à toutes
+<lb n="CDAM.362c:35"/>ses peticions à la parfin donna sa sente<abbr expan="n"/>ce
+<lb n="CDAM.362c:36"/>que elle fust decollée et elle fist son oroison
+
+<cb n="d"/>
+<!-- 36 lines -->
+<lb n="CDAM.362d:01"/>prïant pour tous ceulx qui aroient reme<abbr expan="m"/>-
+<lb n="CDAM.362d:02"/>brance de sa passion / et pour tous ceulx
+<lb n="CDAM.362d:03"/>qui son nom appelleroient en leurs tri-
+<lb n="CDAM.362d:04"/>bulacions et la voix vint du ciel qui dist
+<lb n="CDAM.362d:05"/>que sa priere estoit exaussiée / si parfist
+<lb n="CDAM.362d:06"/>son martire et de son corps decouroit lait
+<lb n="CDAM.362d:07"/>en lieu de sanc / et les anges prirent son
+<lb n="CDAM.362d:08"/>saint corps et le porterent oû <name ref="">mont de
+<lb n="CDAM.362d:09"/>Sinaÿ</name> <note>'y' à queue excessivement longue</note> qui est &#x95; xx &#x95; journées loings de
+<lb n="CDAM.362d:10"/>là et l'ensevelirent oû quel tumbel <name ref="">di-
+<lb n="CDAM.362d:11"/>eux</name> a fait moult de miracles que je <note>'s' allongé</note> lais-
+<lb n="CDAM.362d:12"/>se pour briefté et de celle tumbe decuert
+<lb n="CDAM.362d:13"/>huile qui garist de moult de maladies
+<lb n="CDAM.362d:14"/>et <name ref="">l'empereur maxence</name> <name ref="">dieux</name> puni or-
+<lb n="CDAM.362d:15"/>riblement <hi rend="">de <name ref="">sainte Marguerite</name> &#x95; iiii &#x95;</hi>
+<lb n="CDAM.362d:16"/><hi rend="cap2">N</hi>'oublierons <note>lettre de préparation, 'i' rayé après 'N' ?</note> pas aussi <name ref="">la benoite
+<lb n="CDAM.362d:17"/>vierge sainte marguerite</name> dont
+<lb n="CDAM.362d:18"/>la legende est assez sceue comment elle
+<lb n="CDAM.362d:19"/>née de <name ref="">Anthioche</name> de nobles parens fu
+<lb n="CDAM.362d:20"/>introduicte en la foy jeunette pucelle
+<lb n="CDAM.362d:21"/>par sa nourrice / de la quelle très hum-
+<lb n="CDAM.362d:22"/>blement elle aloit par chacun jour gar-
+<lb n="CDAM.362d:23"/>der les brebis / dont il avint que<abbr expan=" "/><name ref="">olibri<abbr expan="us"/>
+<lb n="CDAM.362d:24"/>qui estoit seneschal de l'empereur</name> la vid
+<lb n="CDAM.362d:25"/>en passant et la couvoita / si l'envoya
+<lb n="CDAM.362d:26"/>querre / et à brief dire pource que elle
+<lb n="CDAM.362d:27"/>ne se voult consentir à sa voulenté / et
+<lb n="CDAM.362d:28"/>que elle regehi que elle estoit <name ref=""><abbr expan="crest"/>ianne</name>
+<lb n="CDAM.362d:29"/>il la fist durement tourmenter batre
+<lb n="CDAM.362d:30"/>et enchartrer en la quelle chartre pour
+<lb n="CDAM.362d:31"/>ce que temptée se sentoit / elle requist
+<lb n="CDAM.362d:32"/><name ref="">dieu</name> que veoir peust visiblement cellui
+<lb n="CDAM.362d:33"/>qui tant de mal lui pourchaçoit / et ado<abbr expan="n"/>t
+<lb n="CDAM.362d:34"/>vint un serpent orrible qui durement
+<lb n="CDAM.362d:35"/>l'espovanta et la transglouti mais el-
+<lb n="CDAM.362d:36"/>le faisant le signe de la croix creua le
+
+
+<pb n="363" side="r"/>
+<lb n="CDAM.363r:01"/><hi rend="">de la cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.363a:01"/>serpent / Et après vit <note>'u' à l'italienne</note> à un cornet de la char-
+<lb n="CDAM.363a:02"/>tre une figure noire comme d'un <name ref="">ethiopien</name>
+<lb n="CDAM.363a:03"/>et adont <name ref="">marguerite</name> l'ala hardiement re-
+<lb n="CDAM.363a:04"/>querre et le coucha soubz elle / le pié lui
+<lb n="CDAM.363a:05"/>mist sus la gorge et il crioit à haulte voix
+<lb n="CDAM.363a:06"/>mercy / &#x95; La chartre remplie de clarté fu re-
+<lb n="CDAM.363a:07"/>confortée des anges / <name ref="">marguerite</name> si fu
+<lb n="CDAM.363a:08"/>de rechief ramenée devant le Juge <note>'J' exubérant</note> / Le-
+<lb n="CDAM.363a:09"/>quel quant il vit que ses admonicions ri-
+<lb n="CDAM.363a:10"/>ens ne lui valoient la fist plus que devant
+<lb n="CDAM.363a:11"/>tourmenter / mais <name ref="">l'ange de dieu</name> vint de-
+<lb n="CDAM.363a:12"/>rompre les tourmens et s'en sailli la vier-
+<lb n="CDAM.363a:13"/>ge toute saine et grant foison de peuple
+<lb n="CDAM.363a:14"/>fu converti / et quant le faulx tirant vid
+<lb n="CDAM.363a:15"/>ce il ordena que elle feust decolée / mais el-
+<lb n="CDAM.363a:16"/>le fist premierement son oroison / et pria
+<lb n="CDAM.363a:17"/>pour tous ceulx qui remembreroient sa
+<lb n="CDAM.363a:18"/>passion et qui la requerroient en leurs
+<lb n="CDAM.363a:19"/>tribulacions pour les femmes ençaintes
+<lb n="CDAM.363a:20"/>et pour leurs enfans / et <name ref="">l'ange de dieu</name>
+<lb n="CDAM.363a:21"/>vint qui lui dist que sa peticion estoit ex-
+<lb n="CDAM.363a:22"/>aussée et que elle alast oû nom de <name ref="">dieu</name>
+<lb n="CDAM.363a:23"/>recevoir sa palme de victoire / et adont
+<lb n="CDAM.363a:24"/>estendi le col / decollée fu et <name ref="">les anges</name> son
+<lb n="CDAM.363a:25"/>ame en emporterent ¶ Cellui faulx
+<lb n="CDAM.363a:26"/><name ref="">olibrius</name> semblablement fist tourment<abbr expan="er"/>
+<lb n="CDAM.363a:27"/>et decoler <name ref="">la sainte vierge nommée re-
+<lb n="CDAM.363a:28"/>gine jeunette de l'aage de &#x95; xv &#x95; ans</name> po<abbr expan="ur"/>
+<lb n="CDAM.363a:29"/>ce que elle ne se volt accorder<abbr expan=" "/>à lui et con-
+<lb n="CDAM.363a:30"/>verti moult de gens à sa predicacion
+<lb n="CDAM.363a:31"/><hi rend="">Ci dit de <name ref="">sainte Luce</name> &#x95; v &#x95;</hi>
+<lb n="CDAM.363a:32"/><hi rend="cap2">L</hi>a <note>lettre de préparation</note> <name ref="">benoite sainte luce vierge qui
+<lb n="CDAM.363a:33"/>fu née de Romme</name> ne doit pas est<abbr expan="re"/>
+<lb n="CDAM.363a:34"/>oubliée en n<abbr expan="ost"/>re letanie / ceste vierge fu ra-
+<lb n="CDAM.363a:35"/>vie et prise du <name ref="">Roy Aceya de barbarie</name>
+<lb n="CDAM.363a:36"/>et quant il fu en son paÿs et il lui cuida
+<lb n="CDAM.363a:37"/>faire force / Adont celle le commença
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.363b:01"/>à prescher tant que par la vertu divine il
+<lb n="CDAM.363b:02"/>fu tout hors de son mauvais propos et moult
+<lb n="CDAM.363b:03"/>s'esmerveilla de son sens et dist que c'estoit une
+<lb n="CDAM.363b:04"/>déesse et la tint en grant honneur et revere<abbr expan="n"/>ce
+<lb n="CDAM.363b:05"/>en son palais et moult honorablement lui fist
+<lb n="CDAM.363b:06"/>establir sa demeure à elle et à sa mesgnie
+<lb n="CDAM.363b:07"/>et ordena que nul homme n'y repairast po<abbr expan="ur"/>
+<lb n="CDAM.363b:08"/>l'empescher / et celle sans cesser estoit en jeu-
+<lb n="CDAM.363b:09"/>nes et en oroisons et menoit sainte vie pri-
+<lb n="CDAM.363b:10"/>ant <name ref="">dieu</name> pour son hoste que il le voulsist
+<lb n="CDAM.363b:11"/>enluminer et il se conseilloit à elle de tous
+<lb n="CDAM.363b:12"/>ses affaires et bien lui prenoit de tout qua<abbr expan="n"/>-
+<lb n="CDAM.363b:13"/>que elle lui conseilloit quant il aloit en
+<lb n="CDAM.363b:14"/>guerre / il lui prioit que elle priast son
+<lb n="CDAM.363b:15"/><name ref="">dieu</name> pour lui et elle le beneissoit et il s'en re-
+<lb n="CDAM.363b:16"/>tournoit vainqueur par quoy Il la vouloit
+<lb n="CDAM.363b:17"/>äourer comme déesse et lui faire ediffier
+<lb n="CDAM.363b:18"/>temples / mais elle lui disoit que de ce se
+<lb n="CDAM.363b:19"/>gardast bien et que il n'estoit que un seul
+<lb n="CDAM.363b:20"/><name ref="">dieu</name> que on devoit äourer / et que elle <note>'s' allongé</note> es-
+<lb n="CDAM.363b:21"/>toit une simple pecharresse / et ainsi fu <note>'s' allongé</note> l'es-
+<lb n="CDAM.363b:22"/>pace de xx &#x95; ans perseverent en sainte
+<lb n="CDAM.363b:23"/>vie / si lui fu revelé de <name ref="">n<abbr expan="ost"/>reseigneur</name> que
+<lb n="CDAM.363b:24"/>elle s'en retournast à <name ref="">romme</name> et que là ac-
+<lb n="CDAM.363b:25"/>compliroit par martire le terme de sa vie
+<lb n="CDAM.363b:26"/>et elle le dist au roy le quel fu de ce
+<lb n="CDAM.363b:27"/>moult dolent / et il lui respondi las se tu
+<lb n="CDAM.363b:28"/>te pers de moy mes ennemis m'assauldront
+<lb n="CDAM.363b:29"/>et perdray ma bonne fortune quant je ne
+<lb n="CDAM.363b:30"/>t'aray / et elle lui dist Roy viens <note>'u' à l'italienne</note> avecques
+<lb n="CDAM.363b:31"/>moy et laisses ce regne terrïen / Car <name ref="">dieu</name>
+<lb n="CDAM.363b:32"/>t'a esleu à posseder plus noble regne et q<abbr expan="ui"/>
+<lb n="CDAM.363b:33"/>est sanz fin / et cellui tantost laissa tout
+<lb n="CDAM.363b:34"/>&amp; s'en ala avec la sainte vierge<abbr expan=" "/>non pas co<abbr expan="m"/>-
+<lb n="CDAM.363b:35"/>me seigneur mais comme sergent / Et
+<lb n="CDAM.363b:36"/>quant à <name ref="">Romme</name> furent arrivez et elle se
+<lb n="CDAM.363b:37"/>fu magnifestée crestïenne / prise fu &amp; me
+
+
+<pb n="363" side="v"/>
+<lb n="CDAM.363v:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 36 lines -->
+<lb n="CDAM.363c:01"/><note>sic, erreur ? 'née' omis ?</note> au martire de <note>'d' exubérant</note> / la quelle chose <name ref="">le roy Aceya</name> <note>point sur les 2 'y', 'A' exubérant</note>
+<lb n="CDAM.363c:02"/>fu moult dolent et acouru celle part et voulen-
+<lb n="CDAM.363c:03"/>tiers eust couru sus à ceulx qui la tourmen-
+<lb n="CDAM.363c:04"/>toient / mais elle lui deffendoit que bien s'en
+<lb n="CDAM.363c:05"/>gardast si plouroit tendrement et cryoit q<abbr expan="ue"/>
+<lb n="CDAM.363c:06"/>mauvaise gent estoient de faire mal à
+<lb n="CDAM.363c:07"/><name ref="">la vierge de dieu</name> / et quant vint que on de-
+<lb n="CDAM.363c:08"/>voit copper la teste à <name ref="">la sainte vierge de
+<lb n="CDAM.363c:09"/>dieu</name> le roy ala mettre son chef coste le sien
+<lb n="CDAM.363c:10"/>cryant je suis <name ref=""><abbr expan="crest"/>ien</name> et offre mon chief à
+<lb n="CDAM.363c:11"/><name ref="">jhesucrist dieu le vif</name> que äoure <name ref="">luce</name> et
+<lb n="CDAM.363c:12"/>ainsi furent tous &#x95; ii &#x95; ensemble decollez et
+<lb n="CDAM.363c:13"/>couronnez en gloire et &#x95; xii &#x95; autres avecques
+<lb n="CDAM.363c:14"/>eulx convertis par <name ref="">la benoite luce</name> dont la
+<lb n="CDAM.363c:15"/>feste de tous ensemble est celebrée en la &#x95; vii<num type="ordinal">e</num> &#x95;
+<lb n="CDAM.363c:16"/>kalande de Jullet <note>sic</note> <hi rend="">Ci dit de <name ref="">la benoite
+<lb n="CDAM.363c:17"/>martine vierge</name> &#x95; vi &#x95;<note>'i' long</note></hi>
+<lb n="CDAM.363c:18"/><hi rend="cap2">L</hi>a <note>lettre de préparation</note> <name ref="">benoite martine vierge</name> ne fait mie
+<lb n="CDAM.363c:19"/>à oublier / Ceste beneurée fu née de
+<lb n="CDAM.363c:20"/><name ref="">Romme</name> de moult nobles parens et très belle
+<lb n="CDAM.363c:21"/>estoit / L'empereur la volt contraindre que<abbr expan=" "/>el-
+<lb n="CDAM.363c:22"/>le fust sa femme et elle respondi / Je <note>'J' exubérant</note> suis
+<lb n="CDAM.363c:23"/><abbr expan="crest"/>ienne offerte à <name ref="">dieu le vif</name> qui se de-
+<lb n="CDAM.363c:24"/>lite en corps chaste et en cuer net et à cel-
+<lb n="CDAM.363c:25"/>lui je sacrifie et m'i recommande / l'empere<abbr expan="ur"/>
+<lb n="CDAM.363c:26"/>pour despit de ces paroles la fist mener
+<lb n="CDAM.363c:27"/>au temple pour la contraindre de äou-
+<lb n="CDAM.363c:28"/>rer les ydoles / et là celle s'agenoullia vers <note>rising 's' allongé, ajouté ?</note>
+<lb n="CDAM.363c:29"/>le ciel les yeulx levez et les mains jointes
+<lb n="CDAM.363c:30"/>fist à <name ref="">dieu</name> son oroison et tantost les ydoles <note>rising 's' allongé</note>
+<lb n="CDAM.363c:31"/>froissierent et trebucherent le temple rom-
+<lb n="CDAM.363c:32"/>pi et furent les prestres des ydoles occis et
+<lb n="CDAM.363c:33"/>le dyable qui estoit en la maistre ydole cry-
+<lb n="CDAM.363c:34"/>oit et confessoit <name ref="">martine</name> estre <name ref="">serve de
+<lb n="CDAM.363c:35"/>dieu</name> / <name ref="">Le tirant empereur</name> pour revencher ses
+<lb n="CDAM.363c:36"/>dieux fist livrer <name ref="">martine</name> à cruel martire
+
+<cb n="d"/>
+<!-- 36 lines -->
+<lb n="CDAM.363d:01"/>oû quel <name ref="">dieu</name> se apparut à elle et la reconfor-
+<lb n="CDAM.363d:02"/>ta et elle pria pour ceulx qui la tourmentoi-
+<lb n="CDAM.363d:03"/>ent tant que ilz furent convertis par ses me-
+<lb n="CDAM.363d:04"/>rites et grant foison peuple / de la quelle
+<lb n="CDAM.363d:05"/>chose l'empereur fu plus obstiné que devant
+<lb n="CDAM.363d:06"/>et la fist de plus en plus tourmenter de
+<lb n="CDAM.363d:07"/>divers crüeulx tourmens / mais ceulx qui
+<lb n="CDAM.363d:08"/>la tourmentoient s'escrierent que ilz veoie<abbr expan="n"/>t
+<lb n="CDAM.363d:09"/><name ref="">dieu</name> et <name ref="">ses sains</name> devant elle / et deman-
+<lb n="CDAM.363d:10"/>derent mercis convertis furent et sico<abbr expan="m"/>me
+<lb n="CDAM.363d:11"/>elle estoit en oroison prïant <name ref="">dieu</name> pour
+<lb n="CDAM.363d:12"/>eulx une <note>'u' expérimental</note> lumiere avironna yceulx et une
+<lb n="CDAM.363d:13"/>voix fu ouÿe du ciel qui dist je vous <note>'s' allongé</note> es-
+<lb n="CDAM.363d:14"/>pargne pour l'amour de ma très amée
+<lb n="CDAM.363d:15"/><name ref="">martine</name> / Adont leur crya le prevost po<abbr expan="ur"/>
+<lb n="CDAM.363d:16"/>ce que convertis estoient / O folz vous
+<lb n="CDAM.363d:17"/>estes deceus par celle enchanterresse
+<lb n="CDAM.363d:18"/><name ref="">martine</name> et yceulx respondirent sans
+<lb n="CDAM.363d:19"/>nulle päour / mais tu es deceu par le
+<lb n="CDAM.363d:20"/>dyable qui abite en toy / Car tu ne con-
+<lb n="CDAM.363d:21"/>gnois cellui qui te fist / Et l'empereur for-
+<lb n="CDAM.363d:22"/>cenez les commanda estre pendus et à
+<lb n="CDAM.363d:23"/>desrompre la char de eulx / et ilz receure<abbr expan="n"/>t
+<lb n="CDAM.363d:24"/>martire joyeusement louant <name ref="">dieu</name> de-
+<lb n="CDAM.363d:25"/>rechef / L'empereur fist despouller <name ref="">marti-
+<lb n="CDAM.363d:26"/>ne</name> toute nue et la char d'eulx <note>erreur ? comprendre 'elle' ?</note> estoit
+<lb n="CDAM.363d:27"/>blanche comme lis qui faisoit esbahir
+<lb n="CDAM.363d:28"/>les voyans pour sa grant beauté / et
+<lb n="CDAM.363d:29"/>quant l'empereur qui la couvoitoit l'ot
+<lb n="CDAM.363d:30"/>longue piece admonnestée et vid q<abbr expan="ue"/>
+<lb n="CDAM.363d:31"/>obeïr n'i vouloit il la fist toute detran-
+<lb n="CDAM.363d:32"/>cher et de ses playes yssoit laict pour
+<lb n="CDAM.363d:33"/>sanc / et odeur grande rendoit <note>changed from 'grandeurendoit', 'u' rayé</note> / Encore
+<lb n="CDAM.363d:34"/>plus forcené sur elle la fist estendre
+<lb n="CDAM.363d:35"/>et atacher à pieulx et lui desrompre
+<lb n="CDAM.363d:36"/>tout le corps tant que ceulx qui la
+
+
+<pb n="364" side="r"/>
+<lb n="CDAM.364r:01"/><hi rend="">de la <note>centred</note> Cité des <note>centred</note> dames xxix</hi> <note>centred</note><note>'d' </note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.364a:01"/>martiroient estoient tous lassez / et <name ref="">dieu</name> la
+<lb n="CDAM.364a:02"/>gardoit que elle si tost ne mourust affin q<abbr expan="ue"/>
+<lb n="CDAM.364a:03"/>les tourmenteurs et le peuple eussent cause
+<lb n="CDAM.364a:04"/>de eulx convertir / Les quieulx commencie-
+<lb n="CDAM.364a:05"/>rent à crier / Empereur nous n'en ferons
+<lb n="CDAM.364a:06"/>plus Car <name ref="">les anges</name> nous batent de chay-
+<lb n="CDAM.364a:07"/>ennes / et nouviaulx bourriaulx vindre<abbr expan="n"/>t
+<lb n="CDAM.364a:08"/>pour la tourmenter et tantost furent <note>barre allongée</note>
+<lb n="CDAM.364a:09"/>mors et l'empereur confus ne savoit que
+<lb n="CDAM.364a:10"/>faire / il la fist estendre et flamer de <note>'s' allongé</note> grais-
+<lb n="CDAM.364a:11"/>se ardent et celle tous jours gloriffioit
+<lb n="CDAM.364a:12"/><name ref="">dieu</name> et de sa bouche yssoit très grant o-
+<lb n="CDAM.364a:13"/>deur / et quant les tirans l'orent tant
+<lb n="CDAM.364a:14"/>tourmentée que recreus furent ilz la get-
+<lb n="CDAM.364a:15"/>terent en une chartre obscure / Et <name ref="">emenien
+<lb n="CDAM.364a:16"/>le cousin de l'empereur</name> ala gaiter en la
+<lb n="CDAM.364a:17"/>chartre et vit <name ref="">martine</name> avironnée d'<name ref="">anges</name> <note>rising 's' allongé</note>
+<lb n="CDAM.364a:18"/>assise en un trosne très bien parée à m<abbr expan="ou"/>lt
+<lb n="CDAM.364a:19"/>grant clarté et à chans melodieux / et elle
+<lb n="CDAM.364a:20"/>tenoit une table d'or en la quelle avoit
+<lb n="CDAM.364a:21"/>escript / <name ref="">Sire doulx Jhesucrist</name> tant so<abbr expan="n"/>t
+<lb n="CDAM.364a:22"/>louées tes oeuvres en tes benois sains /
+<lb n="CDAM.364a:23"/>Cellui <name ref="">Esmenien</name> <note>'s' ajouté</note> moult esmerveillié de
+<lb n="CDAM.364a:24"/>ceste chose l'ala dire à l'empereur / qui re-
+<lb n="CDAM.364a:25"/>spondi que il estoit deceu par les encha<abbr expan="n"/>-
+<lb n="CDAM.364a:26"/>temens d'elle / l'endemain la fist le tira<abbr expan="n"/>t
+<lb n="CDAM.364a:27"/>mettre hors et chacun s'esmerveilloit de ce
+<lb n="CDAM.364a:28"/>que toute garie estoit dont moult en y
+<lb n="CDAM.364a:29"/>ot de convertis / il la fist de rechef mener
+<lb n="CDAM.364a:30"/>au temple pour la contraindre de sacri-
+<lb n="CDAM.364a:31"/>fier aux faulx dieux / Adont le dyable
+<lb n="CDAM.364a:32"/>qui estoit en l'idole commença à braire
+<lb n="CDAM.364a:33"/>Las Las Je suis convaincus et la vierge
+<lb n="CDAM.364a:34"/>lui commanda que il s'en issist &amp; se mon-
+<lb n="CDAM.364a:35"/>trast en sa laidure / et tantost vint un
+<lb n="CDAM.364a:36"/>grant tonnoirre avecques fouldre qui
+<lb n="CDAM.364a:37"/>chaÿ du ciel et trebucha l'idole et les
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.364b:01"/>prestres ardi / Adont plus forcena l'empere<abbr expan="ur"/>
+<lb n="CDAM.364b:02"/>sur elle et la fist estendre et lui esracher
+<lb n="CDAM.364b:03"/>toute la char à pignes de fer / et celle tous
+<lb n="CDAM.364b:04"/>jours äouroit <name ref="">dieu</name> / et quant il vid que elle
+<lb n="CDAM.364b:05"/>ne mouroit il la fist bailler aux bestes sau-
+<lb n="CDAM.364b:06"/>vages pour devourer / et un grant lyon q<abbr expan="ui"/>
+<lb n="CDAM.364b:07"/>n'avoit mengié de &#x95; iii &#x95; jours vint vers elle
+<lb n="CDAM.364b:08"/>et l'enclina et coste elle se coucha co<abbr expan="m"/>me se fust
+<lb n="CDAM.364b:09"/>un petit chien et lui lechoit les playes / et cel-
+<lb n="CDAM.364b:10"/>le beneyssoit <name ref="">n<abbr expan="ost"/>re seigneur</name> en disant <name ref="">dieux</name>
+<lb n="CDAM.364b:11"/>tu soies louez qui par ta vertu amoderes la
+<lb n="CDAM.364b:12"/>cruaulté des felonnesses bestes / le tirant aÿ-
+<lb n="CDAM.364b:13"/>ré de ceste chose commanda que le lyon fust
+<lb n="CDAM.364b:14"/>remis en sa fosse et le lyon se esdreça par
+<lb n="CDAM.364b:15"/>grant yre et fist un sault et occist <name ref="">esmenien
+<lb n="CDAM.364b:16"/>le cousin de l'empereur</name> / de la quelle chose il
+<lb n="CDAM.364b:17"/>fu moult dolent et la commanda à gitter
+<lb n="CDAM.364b:18"/>en un grant feu et si que elle estoit dede<abbr expan="n"/>s
+<lb n="CDAM.364b:19"/>à joyeuse chere <name ref="">dieux</name> envoya un grant
+<lb n="CDAM.364b:20"/>vent qui espardi le feu d'environ elle / et
+<lb n="CDAM.364b:21"/>ardi ceulx qui la tourmentoient / l'empere<abbr expan="ur"/>
+<lb n="CDAM.364b:22"/>commanda que sa cheveleure qui longue
+<lb n="CDAM.364b:23"/>et belle estoit lui fust ostée disant que ses
+<lb n="CDAM.364b:24"/>enchantemens estoient en ses cheveulx &amp;
+<lb n="CDAM.364b:25"/>la vierge lui dist tu ostes la cheveleure q<abbr expan="ui"/>
+<lb n="CDAM.364b:26"/>est l'äournement de femme si que dit <name ref="">l'ap-
+<lb n="CDAM.364b:27"/>postre</name> et <name ref="">dieu</name> t'ostera ton regne te perse-
+<lb n="CDAM.364b:28"/>cutera et tu attendras la mort à très g<abbr expan="ra"/>nt
+<lb n="CDAM.364b:29"/>douleur / il la commanda à estre enclose en
+<lb n="CDAM.364b:30"/>un temple où estoient ses dieux / et clouÿ
+<lb n="CDAM.364b:31"/>&amp; saella <note>'sa ella' ?</note> lui mesmes la porte / et seella lui
+<lb n="CDAM.364b:32"/>mesmes de son seel / Au chef de &#x95; iii &#x95; jours
+<lb n="CDAM.364b:33"/>Revint et trouva ses dieux tresbuchez &amp;
+<lb n="CDAM.364b:34"/>la vierge jouant avecques <name ref="">les angelz</name> sai-
+<lb n="CDAM.364b:35"/>ne et entiere / L'empereur lui demanda q<abbr expan="ue"/>
+<lb n="CDAM.364b:36"/>elle avoit fait de ses dieux / Et elle <note>'s' allongé</note> res-
+<lb n="CDAM.364b:37"/>pondi / la vertu de <name ref="">Jhesucrist</name> <note>'J' exubérant</note> les a confondus /
+
+
+<pb n="364" side="v"/>
+<lb n="CDAM.364v:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.364c:01"/>Adont <note>'A' expérimental</note> commanda que on lui coppast
+<lb n="CDAM.364c:02"/>la gorge / Lors fu ouÿe une voix qui dist <name ref="">mar-
+<lb n="CDAM.364c:03"/>tine vierge</name> pour ce que tu t'es combatue pour
+<lb n="CDAM.364c:04"/>mon nom entre avec les sains en mon regne
+<lb n="CDAM.364c:05"/>et te esjouÿs en pardurableté avec moy et
+<lb n="CDAM.364c:06"/>ainsi fina <name ref="">la benoite martine</name> / et adont vin-
+<lb n="CDAM.364c:07"/>drent <name ref="">l'evesque de romme</name> à tout le clergie &amp;
+<lb n="CDAM.364c:08"/>ensevelirent le corps en l'eglise honorablem<abbr expan="en"/>t
+<lb n="CDAM.364c:09"/>&amp; ce mesmes jour <name ref="">cellui empereur qui alixan-
+<lb n="CDAM.364c:10"/>dre avoit nom</name> fu feru de tel douleur que il
+<lb n="CDAM.364c:11"/>mengioit sa char <hi rend="">Ci dit d'une <name ref="">autre sain-
+<lb n="CDAM.364c:12"/>te luce</name> et d'autres vierges martires &#x95; vii &#x95;</hi>
+<lb n="CDAM.364c:13"/><hi rend="cap2">U</hi>ne <note>lettre de préparation</note> <name ref="">autre sainte luce</name> fu de <name ref="">la cité de sira-
+<lb n="CDAM.364c:14"/>cuse</name> / celle sicomme elle prioit au <name ref="">sepul-
+<lb n="CDAM.364c:15"/>chre de sainte agate</name> pour sa mere qui estoit
+<lb n="CDAM.364c:16"/>malade / elle vit en avisïon <name ref="">sainte Agate</name>
+<lb n="CDAM.364c:17"/>oû milieu <name ref="">des anges</name> äournée de pierres p<abbr expan="re"/>-
+<lb n="CDAM.364c:18"/>cieuses qui lui dist <name ref="">Luce ma seur vierge devo-
+<lb n="CDAM.364c:19"/>te à dieu</name> / À quoy requiers tu de moy / ce que
+<lb n="CDAM.364c:20"/>toy mesmes peus donner à ta mere / Je te non-
+<lb n="CDAM.364c:21"/>ce que si que <name ref="">la cité de cachanays</name> est surhau-
+<lb n="CDAM.364c:22"/>ciée par moy / aussi sera par toy <name ref="">celle de si-
+<lb n="CDAM.364c:23"/>racuse</name>/ car tu as <name ref="">jhesucrist</name> appareillié joy-
+<lb n="CDAM.364c:24"/>aulx delitables en ta purté / <name ref="">Luce</name> se leva sa
+<lb n="CDAM.364c:25"/>mere garie elle donna quanque elle avoit
+<lb n="CDAM.364c:26"/>pour <name ref="">dieu</name> / puis fina sa vie par martire et
+<lb n="CDAM.364c:27"/>entre les autres martires que elle ot le juge
+<lb n="CDAM.364c:28"/>la menaça de faire mener en la place des
+<lb n="CDAM.364c:29"/>foles femmes / et que là en despit de son <note>'s' allongé</note> es-
+<lb n="CDAM.364c:30"/>poux seroit vïolée / et elle respondi l'ame ne
+<lb n="CDAM.364c:31"/>sera ja soullée se la pensée ne s'i consent / car
+<lb n="CDAM.364c:32"/>se tu me fais corrompre à force ma chasteté
+<lb n="CDAM.364c:33"/>en sera doublée et ma victoire / et sicomme on
+<lb n="CDAM.364c:34"/>la vouloit mener<abbr expan=" "/>en la dicte place / elle fu si
+<lb n="CDAM.364c:35"/>pesante que pour thoriaulx ne pour diver-
+<lb n="CDAM.364c:36"/>ses bestes que ilz y atachassent ne pot estre
+<lb n="CDAM.364c:37"/>remüée et lui mirent cordes aux piez po<abbr expan="ur"/>
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.364d:01"/>elle trainsner / mais elle estoit aussi ferme
+<lb n="CDAM.364d:02"/>comme une montaigne / et à son trespasse-
+<lb n="CDAM.364d:03"/>ment elle prophetisa ce qui estoit à avenir
+<lb n="CDAM.364d:04"/>à l'empire ¶ Item digne de grant reve-
+<lb n="CDAM.364d:05"/>rence est <name ref="">la glorieuse vierge sainte benoi-
+<lb n="CDAM.364d:06"/>te née de romme</name> celle avoit avec elle &#x95; xii &#x95;
+<lb n="CDAM.364d:07"/>vierges converties à sa predicacion / elle
+<lb n="CDAM.364d:08"/>desira povoir accroistre par prescher la
+<lb n="CDAM.364d:09"/>Religion <abbr expan="crest"/>ïanne / si se parti elle et sa
+<lb n="CDAM.364d:10"/>compaignie / et traverserent ces benoites
+<lb n="CDAM.364d:11"/>vierges maintes terres sanz avoir nulle
+<lb n="CDAM.364d:12"/>päour / Car <name ref="">dieux</name> estoit avecques elles
+<lb n="CDAM.364d:13"/>&amp; par la voulenté de <name ref="">n<abbr expan="ost"/>re seigneur</name> furent
+<lb n="CDAM.364d:14"/>sepparées de ensemble et s'espandirent
+<lb n="CDAM.364d:15"/>en diverses contrées affin que chacune
+<lb n="CDAM.364d:16"/>peust prouffiter / et comme <name ref="">la vierge sai<abbr expan="n"/>-
+<lb n="CDAM.364d:17"/>te benoite</name> eust plusieurs paÿs convertis
+<lb n="CDAM.364d:18"/>à la foy de <name ref="">jhesucrist</name> elle fina sa vie par
+<lb n="CDAM.364d:19"/>palme de martire et semblablement le
+<lb n="CDAM.364d:20"/>firent ses saintes compaignes ¶ Item
+<lb n="CDAM.364d:21"/>ne fu pas de mendre perfection <name ref="">sainte
+<lb n="CDAM.364d:22"/>foste vierge de l'aage de xiiii &#x95; ans</name> / La
+<lb n="CDAM.364d:23"/>quelle pour ce que elle ne vouloit sacrifier
+<lb n="CDAM.364d:24"/>aux ydoles / <name ref="">l'empereur maximien</name> la fist
+<lb n="CDAM.364d:25"/>sier d'une sie de fer / mais comme les si-
+<lb n="CDAM.364d:26"/>eurs ne finassent de sier depuis l'eure de
+<lb n="CDAM.364d:27"/>tierce jusques à l'eure de nonne et ne la
+<lb n="CDAM.364d:28"/>peussent entamer / lui dirent par quel
+<lb n="CDAM.364d:29"/>vertu nous as tu tenus à tes enchantem<abbr expan="en"/>s
+<lb n="CDAM.364d:30"/>si<abbr expan=" "/>longuement cy sans Riens faire / et <name ref="">fau-
+<lb n="CDAM.364d:31"/>ste</name> les commença à prescher de <name ref="">ih<abbr expan="es"/>ucrist</name>
+<lb n="CDAM.364d:32"/>et de sa loy et les converti / l'empereur
+<lb n="CDAM.364d:33"/>de ce moult indignez la fist tourmen-
+<lb n="CDAM.364d:34"/>ter de divers tourmens / et entre les aut<abbr expan="res"/>
+<lb n="CDAM.364d:35"/>lui fist clouer le chef de Mille cloux si-
+<lb n="CDAM.364d:36"/>comme le heaume d'un chevalier &#x95; &amp; celle
+<lb n="CDAM.364d:37"/>prioit pour ceulx qui la persecutoient <note>barre longue</note>
+
+
+<pb n="365" side="r"/>
+<lb n="CDAM.365r:01"/><hi rend="">de la <note>centred</note> Cité des <note>centred</note> dames <note>centred</note> xxix</hi> <note>unusual layout</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.365a:01"/>et le prevost fu convert<s>y</s> par ce que il <s>v</s>id <note>Italianate 'v'</note> les
+<lb n="CDAM.365a:02"/>cieulx ouvers et <name ref="">dieu</name> séant avecques <name ref="">ses
+<lb n="CDAM.365a:03"/>anges</name> / Et quant <name ref="">fauste</name> fu mise en la chau-
+<lb n="CDAM.365a:04"/>diere d'eaue boulant le dit prevost s'escria
+<lb n="CDAM.365a:05"/><name ref="">sainte serve de dieu</name> ne t'en va pas sanz moy
+<lb n="CDAM.365a:06"/>et sailli dedens la chaudiere / quant les
+<lb n="CDAM.365a:07"/>deux autres / que elle <note>trou, couture</note> avoit <note>très longue barre</note>
+<lb n="CDAM.365a:08"/>convertiz virent ce <note>très longue ligne remplie de doubles traits arrondis posés en zigzag, 16 letter spaces</note>
+<lb n="CDAM.365a:09"/>ilz saillirent aussi dedens la chaudiere
+<lb n="CDAM.365a:10"/>dont l'eaue bouloit à très grant onde et
+<lb n="CDAM.365a:11"/><name ref="">fauste</name> les touchoit et ilz ne sentoient nul
+<lb n="CDAM.365a:12"/>mal / et elle disoit je suis oû mi lieu sico<abbr expan="m"/>-
+<lb n="CDAM.365a:13"/>me la vigne portant fruit / sicomme <name ref="">n<abbr expan="ost"/>re<abbr expan="seigneur"/></name>
+<lb n="CDAM.365a:14"/>dit là où plusieurs sont assemblez en mon
+<lb n="CDAM.365a:15"/>nom je suis oû mi lieu d'eulx / Et adont
+<lb n="CDAM.365a:16"/>fu ouÿe une voix qui dist / venez ames
+<lb n="CDAM.365a:17"/>beneurées le pere vous demande / et yceulx
+<lb n="CDAM.365a:18"/>oyant ceste chose Rendirent les esperis
+<lb n="CDAM.365a:19"/>joyeusement <hi rend="">Ci dit de <name ref="">sainte justine</name> et
+<lb n="CDAM.365a:20"/>d'autres vierges &#x95; viii &#x95;</hi>
+<lb n="CDAM.365a:21"/><name ref="">J2ustine sainte vierge née d'anthio-
+<lb n="CDAM.365a:22"/>che jeunette et de souveraine be-
+<lb n="CDAM.365a:23"/>auté</name> surmonta le dyable qui <note>trou, couture / 4 letter space</note> se
+<lb n="CDAM.365a:24"/>estoit vanté à l'invocacion d'un nigro-
+<lb n="CDAM.365a:25"/>mancien que il feroit tant que elle fe-
+<lb n="CDAM.365a:26"/>roit la voulenté d'un homme qui fort <note>'s' allongé</note> es-
+<lb n="CDAM.365a:27"/>toit espris de s'amour et ne la laissoit en
+<lb n="CDAM.365a:28"/>paix / mais pour ce que par prieres ne
+<lb n="CDAM.365a:29"/>par promesses riens n'y faisoit il se cuida
+<lb n="CDAM.365a:30"/>aidier de l'ennemi / mais riens n'y val /
+<lb n="CDAM.365a:31"/>Car <name ref="">la glorieuse justine</name> enchaça l'ennemi <note>i long</note>
+<lb n="CDAM.365a:32"/>par plusieurs fois qui se mettoit en diver-
+<lb n="CDAM.365a:33"/>ses fourmes pour la tempter / mais il fu
+<lb n="CDAM.365a:34"/>vaincus d'elle / et s'en ala confus / elle con-
+<lb n="CDAM.365a:35"/>verti par sa predicacion cellui qui la
+<lb n="CDAM.365a:36"/>couvoitoit follement / et aussi converty
+<lb n="CDAM.365a:37"/><name ref="">le Nigromancien qui avoit nom ciprian</name>
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.365b:01"/>&amp; estoit homme de moult mauvaise vie / mais <note>rising 's' long</note>
+<lb n="CDAM.365b:02"/>il fu par elle muez en bonne / et autres plu-
+<lb n="CDAM.365b:03"/>sieurs furent convertis par les signes q<abbr expan="ue"/>
+<lb n="CDAM.365b:04"/><name ref="">n<abbr expan="ost"/>reseigneur</name> demonstra en elle / et à la fin
+<lb n="CDAM.365b:05"/>elle se parti du siecle par martire ¶ Ite<abbr expan="m"/>
+<lb n="CDAM.365b:06"/><name ref="">la benoite vierge Eulalie née d'espaigne</name>
+<lb n="CDAM.365b:07"/>de l'aage de &#x95; xii &#x95; ans s'embla de ses pare<abbr expan="n"/>s
+<lb n="CDAM.365b:08"/>qui la tenoient enclose pour ce que elle ne
+<lb n="CDAM.365b:09"/>finoit de parler de <name ref="">jhesucrist</name> / si s'en fuy
+<lb n="CDAM.365b:10"/>par nuit et ala gitter les ydoles des tem-
+<lb n="CDAM.365b:11"/>ples à terre / et crier aux juges qui persecu-
+<lb n="CDAM.365b:12"/>toient les martirs que ilz estoient deceus
+<lb n="CDAM.365b:13"/>et qu'en celle foy vouloit mourir / si fu
+<lb n="CDAM.365b:14"/>mise oû nombre des chevaliers de <name ref="">jhesuc<abbr expan="ri"/>st</name>
+<lb n="CDAM.365b:15"/>et <add place="" type="" evidence="">ot</add> <note>caret</note> plusieurs tourmens / et maintes gens
+<lb n="CDAM.365b:16"/>furent convertis par les signes que <name ref="">n<abbr expan="ost"/>resei-
+<lb n="CDAM.365b:17"/>gneur</name> demonstroit en elle ¶ Item une
+<lb n="CDAM.365b:18"/><name ref="">autre sainte vierge que on nommoit mar-
+<lb n="CDAM.365b:19"/>tre</name> fu durement tourmentée pour la foy
+<lb n="CDAM.365b:20"/>de <name ref="">dieu</name> / et entre ses tourmens ot les ma-
+<lb n="CDAM.365b:21"/>melles esrachées <note>'es' changed to 'as' ?</note> / et après sicomme elle
+<lb n="CDAM.365b:22"/>estoit en la chartre <name ref="">dieu</name> lui envoya <name ref="">son
+<lb n="CDAM.365b:23"/>ange</name> qui lui restabli sa santé / dont le
+<lb n="CDAM.365b:24"/>prevost fu l'endemain durement esbahi
+<lb n="CDAM.365b:25"/>mais ne laissa pour tant que griefment
+<lb n="CDAM.365b:26"/>ne la feist tourmenter de divers tourm<abbr expan="en"/>s
+<lb n="CDAM.365b:27"/>et au derrain rendi l'esperit à <name ref="">dieu</name> / et gist
+<lb n="CDAM.365b:28"/>son corps pres de <name ref="">la cité de Rains</name> ¶ Ite<abbr expan="m"/>
+<lb n="CDAM.365b:29"/><name ref="">la glorieuse vierge sainte foy</name> souffry <note>2 'y' à la queue excessivement longue</note>
+<lb n="CDAM.365b:30"/>martire en son enfance et ot moult de
+<lb n="CDAM.365b:31"/>tourmens / et <name ref="">n<abbr expan="ost"/>re<abbr expan="seigneur"/></name> la couronna <note>'a' élargi</note> à la fin
+<lb n="CDAM.365b:32"/>à la veue du monde par <name ref="">son ange</name> qui
+<lb n="CDAM.365b:33"/>couronne de pierres precieuses lui appor-
+<lb n="CDAM.365b:34"/>ta et moult de signes monstra <name ref="">dieux</name>
+<lb n="CDAM.365b:35"/>en elle par quoy plusieurs furent con-
+<lb n="CDAM.365b:36"/>vertis / Item <note>'I' exubérant</note> <name ref="">la benoite vierge marciane</name>
+<lb n="CDAM.365b:37"/>vit \ que on faisoit honneur à un faulx <note>'t', 'q', 'h', et 'x' à la queue longue</note>
+<!-- trace de signature, boucle -->
+
+
+<pb n="365" side="v"/>
+<lb n="CDAM.365v:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<!-- very pale / faded ink , parts of this column, but not the next, difficult to read -->
+<lb n="CDAM.365c:01"/><s>y</s>mage d'une <s>y</s>dole / elle prist celle <s>y</s>dole et la
+<lb n="CDAM.365c:02"/>gitta à terre et la rompy pour la quelle cause
+<lb n="CDAM.365c:03"/>elle fu tant batue que laissée fu comme morte
+<lb n="CDAM.365c:04"/>et fu enchartrée en une place / oû quel lieu un
+<lb n="CDAM.365c:05"/>faulx menistre la cuida par nuit aler efforcier
+<lb n="CDAM.365c:06"/>mais par grace divine vint entre cellui et el-
+<lb n="CDAM.365c:07"/>le une si haulte paroit que il n'y pot aler / la
+<lb n="CDAM.365c:08"/>quelle paroit fu l'endemain veue de tout le
+<lb n="CDAM.365c:09"/>peuple par quoy maintes gens furent con-
+<lb n="CDAM.365c:10"/>vertis / ceste ot plusieurs grans tourmens
+<lb n="CDAM.365c:11"/>mais tous jours preschoit le nom de <name ref="">Jhesu-
+<lb n="CDAM.365c:12"/>crist</name> et au derrain pria Dieu que ainsi la
+<lb n="CDAM.365c:13"/>voulsist prendre / si fina oû tourment / /
+<lb n="CDAM.365c:14"/>¶ <name ref="">Sainte Enfante</name> <note>'Eufante', JR</note> autre si moult souffri
+<lb n="CDAM.365c:15"/>pour le nom de <name ref="">jhesu</name> / elle fu moult noble
+<lb n="CDAM.365c:16"/>de lignée et très belle de corps / <name ref="">le prevost pri-
+<lb n="CDAM.365c:17"/>cus</name> l'admonnestoit que elle äourast les ydo-
+<lb n="CDAM.365c:18"/>les et renonçast à <name ref="">jhesucrist</name> / et elle par <note>rising 's'</note> très
+<lb n="CDAM.365c:19"/>grans argumens lui respondoit tant q<abbr expan="ue"/>
+<lb n="CDAM.365c:20"/>souldre n'y savoit dont si grant yre ot de
+<lb n="CDAM.365c:21"/>estre vaincus d'une femme que il la fist to<abbr expan="ur"/>-
+<lb n="CDAM.365c:22"/>menter de très griefs et divers tourmens
+<lb n="CDAM.365c:23"/>mais tout feust son corps froissié p<abbr expan="ar"/>moult
+<lb n="CDAM.365c:24"/>de peines le sens d'elle adès croisçoit / et ren-
+<lb n="CDAM.365c:25"/>doit paroles plaines du <name ref="">saint esperit</name> / et si
+<lb n="CDAM.365c:26"/>que elle estoit oû tourment <name ref="">l'ange de dieu</name>
+<lb n="CDAM.365c:27"/>descendi qui despeça le tourment / et tour-
+<lb n="CDAM.365c:28"/>menta les tourmenteurs / et celle à visage
+<lb n="CDAM.365c:29"/>joyeux s'en yssy toute saine / le faulx pre-
+<lb n="CDAM.365c:30"/>vost fist embraser une fournase dont la
+<lb n="CDAM.365c:31"/>flame s'estendoit par &#x95; xl &#x95; coubdes de hault et
+<lb n="CDAM.365c:32"/>dedens la fist gitter / elle chantoit dede<abbr expan="n"/>s
+<lb n="CDAM.365c:33"/>louanges à <name ref="">dieu</name> moult melodieusement
+<lb n="CDAM.365c:34"/>si hault que tous l'ouoyent / et quant le
+<lb n="CDAM.365c:35"/>feu fu tout consumé elle s'en yssy saine
+<lb n="CDAM.365c:36"/>et sauve / Le juge plus aÿré fist appor-
+<lb n="CDAM.365c:37"/>ter tenailles ardens pour lui esracher
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.365d:01"/>les membres mais ceulx qui devoient ce faire
+<lb n="CDAM.365d:02"/>furent si espovantez que nul ne l'osa tou-
+<lb n="CDAM.365d:03"/>cher et furent les tourmens derompus / si
+<lb n="CDAM.365d:04"/>fist le faulx tirant amener &#x95; iiii &#x95; lyons et
+<lb n="CDAM.365d:05"/>ii &#x95; autres fieres bestes sauvages / mais ceulx
+<lb n="CDAM.365d:06"/>la venoient äourer / Et adont la benoite
+<lb n="CDAM.365d:07"/>vierge desireuse <note>trou, couture, 6 letter space between 'i' and 'r'</note> d'aler à son <name ref="">dieu</name>
+<lb n="CDAM.365d:08"/>pria que il la voulsist prendre &amp; adont
+<lb n="CDAM.365d:09"/>elle fina sans ce que nulle beste la touchast
+<lb n="CDAM.365d:10"/><hi rend="">Ci dit de <name ref="">la vierge theodosine</name> / et de <name ref="">sain-
+<lb n="CDAM.365d:11"/>te barbre</name> et de <name ref="">sainte dorothée</name> &#x95; ix &#x95;</hi>
+<lb n="CDAM.365d:12"/><hi rend="cap2">L</hi>a Constance du martire de la <name ref="">benoi-
+<lb n="CDAM.365d:13"/>te theodosine</name> fait à n<abbr expan="ost"/>re propos b<abbr expan="ie"/>n
+<lb n="CDAM.365d:14"/>à ramentevoir / très noble estoit ceste vierge <note>'u' à l'italienne</note>
+<lb n="CDAM.365d:15"/>et de grant beauté de l'aage de xviii &#x95; ans / cel-
+<lb n="CDAM.365d:16"/>le par merveilleux sens disputoit au juge
+<lb n="CDAM.365d:17"/>qui la menaçoit de martire se elle ne reno<abbr expan="n"/>-
+<lb n="CDAM.365d:18"/>çoit à <name ref="">ih<abbr expan="es"/>ucrist</name> / et comme elle respondist
+<lb n="CDAM.365d:19"/>paroles divines il la fist pendre par les
+<lb n="CDAM.365d:20"/>cheveulx et batre durement / et celle lui di-
+<lb n="CDAM.365d:21"/>soit / Certes cellui est chetif qui veult <note>tache sur le 'e'</note> sei-
+<lb n="CDAM.365d:22"/>gnourir autrui et ne se scet seignourir
+<lb n="CDAM.365d:23"/>lui meismes / Las à cellui qui a grant
+<lb n="CDAM.365d:24"/>cure <note>trou, couture, 7 letter space</note> d'estre rempli de vïandes
+<lb n="CDAM.365d:25"/>et n'a nul soing des fameilleux / mal
+<lb n="CDAM.365d:26"/>pour cellui qui veult estre eschauffé et
+<lb n="CDAM.365d:27"/>ne eschauffe ne revest les mourans de
+<lb n="CDAM.365d:28"/>froit / Las à cellui qui veult reposer et tra-
+<lb n="CDAM.365d:29"/>veille les autres / mal pour cellui qui
+<lb n="CDAM.365d:30"/>dit toutes choses estre siennes et il les
+<lb n="CDAM.365d:31"/>a Receues de <name ref="">dieu</name> / las à cellui qui veult
+<lb n="CDAM.365d:32"/>que on lui face bien et il fait tous maulx
+<lb n="CDAM.365d:33"/>paroles dignes disoit tous jours la vier-
+<lb n="CDAM.365d:34"/>ge en son tourment / mais pour ce que
+<lb n="CDAM.365d:35"/>elle avoit passion en son cuer de honte
+<lb n="CDAM.365d:36"/>que ses membres apparoient tous nuds
+<lb n="CDAM.365d:37"/>au peuple / <name ref="">Dieux</name> envoya une blanche
+
+
+<pb n="366" side="r"/>
+<lb n="CDAM.366r:01"/><hi rend="">La cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 39 lines -->
+<lb n="CDAM.366a:01"/>nue qui la couvr<s>y</s> toute et <name ref=""><s>u</s>rban</name> <note>Italianate 'u'</note> de plus en
+<lb n="CDAM.366a:02"/>plus la menaçoit / au quel elle dist Tu ne
+<lb n="CDAM.366a:03"/>m'osteras nul des mets du disner qui m'est
+<lb n="CDAM.366a:04"/>appareillié / et le tirant la menaça de corro<abbr expan="m"/>-
+<lb n="CDAM.366a:05"/>pre sa virginité / au quel elle respondi / tu
+<lb n="CDAM.366a:06"/>menaces en vain corrupcion en moy / Car
+<lb n="CDAM.366a:07"/><name ref="">dieu</name> abite ès cuers honnestes / le prevost
+<lb n="CDAM.366a:08"/>plus enragié la fist gitter en la mer une
+<lb n="CDAM.366a:09"/>pesant pierre au col / et elle fu soustenue
+<lb n="CDAM.366a:10"/>des <name ref="">anges</name> et ramenée chantant à terre et
+<lb n="CDAM.366a:11"/>portoit la vierge entre ses bras la pierre
+<lb n="CDAM.366a:12"/>qui plus pesoit que elle / Le tirant fist <note>'s' allongé</note> lais-
+<lb n="CDAM.366a:13"/>sier aler sur elle &#x95; ii &#x95; lieppars / mais yceulx
+<lb n="CDAM.366a:14"/>sailloient entour elle lui faisant feste / au
+<lb n="CDAM.366a:15"/>derrain le tirant qui n'en savoit comment
+<lb n="CDAM.366a:16"/>faire la fist decoller / et de son corps depar-
+<lb n="CDAM.366a:17"/>ti l'ame visiblement en guise d'une blan-
+<lb n="CDAM.366a:18"/>che colombe resplandissant et celle mesmes
+<lb n="CDAM.366a:19"/>nuit apparut à ses parens plus clere que
+<lb n="CDAM.366a:20"/>le souleil à tout couronne precieuse accom-
+<lb n="CDAM.366a:21"/>paignée de vierges <note>'b' changed to 'u' ?</note> tenant une croix d'or
+<lb n="CDAM.366a:22"/>et leur dist / veez quelle est la gloire que me
+<lb n="CDAM.366a:23"/>vouliés oster et ceulx se convertirent / /
+<lb n="CDAM.366a:24"/>¶ Item oû temps <name ref="">maximian l'empereur</name>
+<lb n="CDAM.366a:25"/>flouri en vertu <name ref="">la benoite barbre vierge de
+<lb n="CDAM.366a:26"/>noble lignée &amp; souverainement belle</name> / son
+<lb n="CDAM.366a:27"/>pere pour cause de sa beauté l'avoit enclo-
+<lb n="CDAM.366a:28"/>se en une tour / celle ot inspiracion de la foy
+<lb n="CDAM.366a:29"/>de <name ref="">dieu</name> / et pour ce que par autre ne pouoit
+<lb n="CDAM.366a:30"/>estre baptisiée elle mesmes prist de l'eaue
+<lb n="CDAM.366a:31"/>et se baptisa oû nom du <name ref="">pere</name> et du <name ref="">filz</name> et du
+<lb n="CDAM.366a:32"/><name ref="">saint esperit</name> / Son pere la voult marier t<abbr expan="re"/>s-
+<lb n="CDAM.366a:33"/>haultement et elle refusa tous mariages <note>rising 's' allongé</note>
+<lb n="CDAM.366a:34"/>par lonc temps / et <note> mark like a left bookend</note> à la parfin elle regehi
+<lb n="CDAM.366a:35"/>que <abbr expan="crest"/>ianne estoit et avoit vouée à <name ref="">dieu</name>
+<lb n="CDAM.366a:36"/>sa virginité / le pere pour celle cause la volt
+<lb n="CDAM.366a:37"/>occire / et elle s'en fuy et eschappa et co<abbr expan="m"/>me
+<lb n="CDAM.366a:38"/>le pere la poursuivist pour mettre à
+<lb n="CDAM.366a:39"/>mort / au derrain la trouva p<abbr expan="ar"/>l'enseignement
+
+<cb n="b"/>
+<!-- 39 lines -->
+<lb n="CDAM.366b:01"/>d'un pastour qui tantost secha lui et ses be-
+<lb n="CDAM.366b:02"/>stes / le pere la mena au prevost / le quel pour ce
+<lb n="CDAM.366b:03"/>que elle desobeÿ à tous ses commandemens
+<lb n="CDAM.366b:04"/>la fist martirer de plusieurs très grans tour-
+<lb n="CDAM.366b:05"/>mens et pendre par les piez contre mont / et
+<lb n="CDAM.366b:06"/>elle lui disoit chetif ne vois tu pas q<abbr expan="ue"/>tourme<abbr expan="n"/>s
+<lb n="CDAM.366b:07"/>ne me font point de mal / et lui forcené lui fist
+<lb n="CDAM.366b:08"/>esracher les mamelles et en <note>'n' souligné ?</note> cel estat la fist
+<lb n="CDAM.366b:09"/>mener par la cité et elle tous jours gloriffi-
+<lb n="CDAM.366b:10"/>oit <name ref="">dieu</name> / mais pour ce que elle avoit hon-
+<lb n="CDAM.366b:11"/>te que son corps vierge estoit veu nu <name ref="">n<abbr expan="ost"/>re-
+<lb n="CDAM.366b:12"/>sire</name> envoya <name ref="">son ange</name> qui la sana de toutes <note>rising 's' allongé</note>
+<lb n="CDAM.366b:13"/>ses playes et lui couvri le corps d'un vestem<abbr expan="en"/>t
+<lb n="CDAM.366b:14"/>blanc / et quant elle ot esté assez pourmenée
+<lb n="CDAM.366b:15"/>on la ramena devant le prevost qui se for-
+<lb n="CDAM.366b:16"/>cena quant il la vid toute saine / et sa face
+<lb n="CDAM.366b:17"/>clere comme estoille si la fist de rechef to<abbr expan="ur"/>-
+<lb n="CDAM.366b:18"/>menter tant que les tourmenteurs estoie<abbr expan="n"/>t
+<lb n="CDAM.366b:19"/>lassez sur elle / et au derrain dist par gra<abbr expan="n"/>t
+<lb n="CDAM.366b:20"/>yre que on l'otast de devant lui et que on
+<lb n="CDAM.366b:21"/>lui tranchast la teste / et celle fist son orois<abbr expan="on"/>
+<lb n="CDAM.366b:22"/>et pria <name ref="">dieu</name> que il feust en ayde de tous
+<lb n="CDAM.366b:23"/>ceulx qui le requerroient en remembrance
+<lb n="CDAM.366b:24"/>d'elle et qui recorderoient sa passion / et
+<lb n="CDAM.366b:25"/>quant elle ot finée une voix fu ouÿe di-
+<lb n="CDAM.366b:26"/>sant viens très amée fille te reposer <note>'reposes' at first sight , tail of 'y' across top of 'r'</note> oû re-
+<lb n="CDAM.366b:27"/>gne de ton pere et reçoy ta couronne et ce
+<lb n="CDAM.366b:28"/>que tu as requis te sera ottroyé / et sico<abbr expan="m"/>me
+<lb n="CDAM.366b:29"/>elle fu montée en la montaigne où elle fu
+<lb n="CDAM.366b:30"/>decollée / son felon pere lui coppa lui <note>'s' allongé</note> mes-
+<lb n="CDAM.366b:31"/>mes le<abbr expan=" "/>chief / et sicomme il dessendoit de
+<lb n="CDAM.366b:32"/>la montaigne le feu du ciel le fouldroya
+<lb n="CDAM.366b:33"/>et mist en cendre ¶ Item <name ref="">la benoite vier-
+<lb n="CDAM.366b:34"/>ge dorothée</name> pareillement souffri plusie<abbr expan="ur"/>s
+<lb n="CDAM.366b:35"/>martires en <name ref="">Capadoce</name> / Et pour ce que
+<lb n="CDAM.366b:36"/>elle ne vouloit prendre nul homme à
+<lb n="CDAM.366b:37"/>mari / et tant parloit de son espoux <name ref="">Jhe-
+<lb n="CDAM.366b:38"/>sucrist</name> / <name ref="">le maistre des escoles qui estoit
+<lb n="CDAM.366b:39"/>nommé theophilus</name> lui dist p<abbr expan="ar"/>moquerye
+
+
+<pb n="366" side="v"/>
+<lb n="CDAM.366v:01"/><hi rend="">de la <note>centred</note> Cité des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.366c:01"/>quant on la menoit decoller que au moins q<abbr expan="ua"/>nt <note>abbréviation exubérante</note>
+<lb n="CDAM.366c:02"/>elle seroit devers son espous qu'elle lui envoy-
+<lb n="CDAM.366c:03"/>ast des Roses et des pommes du verger de son
+<lb n="CDAM.366c:04"/>mari / et elle dist que si feroit elle / Dont il
+<lb n="CDAM.366c:05"/>advint que si tost que elle ot parfaict son
+<lb n="CDAM.366c:06"/>martire / un très bel petit enfant comme de l'aa-
+<lb n="CDAM.366c:07"/>ge de &#x95; iiii &#x95; ans vint à <name ref="">theophilus</name> / et apportoit
+<lb n="CDAM.366c:08"/>un petit paneret plain de souverainement bel-
+<lb n="CDAM.366c:09"/>les roses et pommes à merveilles bien flaira<abbr expan="n"/>s
+<lb n="CDAM.366c:10"/>et belles et dist que <name ref="">la vierge dorothée</name> les
+<lb n="CDAM.366c:11"/>lui envoyoit / Adont fu cellui esmerveillez
+<lb n="CDAM.366c:12"/>car il estoit yver oû mois de fevrier / si se
+<lb n="CDAM.366c:13"/>converti et puis fu martirez pour le nom de
+<lb n="CDAM.366c:14"/><name ref="">jhesucrist</name> ¶ Se de toutes les saintes vi-
+<lb n="CDAM.366c:15"/>erges qui sont oû ciel par constance de mar-
+<lb n="CDAM.366c:16"/>tire te vouloie raconter / longue histoire y
+<lb n="CDAM.366c:17"/>couvendroit / sicomme <name ref="">sainte cecile</name> / <name ref="">sainte
+<lb n="CDAM.366c:18"/>agnès</name> / <name ref="">sainte agate</name> / et infinies autres &amp;
+<lb n="CDAM.366c:19"/>se plus en veulx avoir ne t'esteut que Re-
+<lb n="CDAM.366c:20"/>garder oû <name ref="">miroir historial</name> là assez en
+<lb n="CDAM.366c:21"/>trouveras / Si te diray ancore de <name ref="Saint+Christina">sainte
+<lb n="CDAM.366c:22"/><abbr expan="Crist"/>ine</name> / et pour ce que elle est ta marreine
+<lb n="CDAM.366c:23"/>et moult est vierge de grant dignité plus
+<lb n="CDAM.366c:24"/>à plain t'en diray la vie qui moult est bel-
+<lb n="CDAM.366c:25"/>le et devote <hi rend="">Ci dit de <name ref="Saint+Christina">sainte <abbr expan="Crist"/>ine vier-
+<lb n="CDAM.366c:26"/>ge</name> &#x95; x &#x95;</hi>
+<lb n="CDAM.366c:27"/><name ref="Saint+Christina">L2a <note>lettre de préparation</note> benoite sainte <abbr expan="Crist"/>ine vierge</name> fu de
+<lb n="CDAM.366c:28"/><name ref="">la cité de Tyr</name> <name ref="">fille de urban maistre
+<lb n="CDAM.366c:29"/>de la chevalerie</name> / celle pour sa grant beauté
+<lb n="CDAM.366c:30"/>estoit tenue anclose <note>'a' corrigé en 'e' ?</note> de son pere en une tour
+<lb n="CDAM.366c:31"/>et avoit avec elle &#x95; xii &#x95; pucelles / et avoit
+<lb n="CDAM.366c:32"/>fait faire son pere un moult bel oratoire de
+<lb n="CDAM.366c:33"/>ydoles pres de la chambre de <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> affin <note>surmonté d'un trait rouge</note>
+<lb n="CDAM.366c:34"/>que elle les äourast / mais elle qui anco-
+<lb n="CDAM.366c:35"/>re estoit si enfant comme de l'aage de
+<lb n="CDAM.366c:36"/>xii &#x95; ans estoit ja inspirée de la foy de
+<lb n="CDAM.366c:37"/><name ref="">Jhesucrist</name> ne des ydoles ne faisoit co<abbr expan="m"/>pte
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.366d:01"/>dont ses pucelles s'esmerveilloient et souve<abbr expan="n"/>t
+<lb n="CDAM.366d:02"/>l'admonnestoient de faire oblacion / et cel-
+<lb n="CDAM.366d:03"/>le quant elle avoit prins l'encens sico<abbr expan="m"/>me
+<lb n="CDAM.366d:04"/>pour sacrifier aux ydoles / elle s'agenoulloit
+<lb n="CDAM.366d:05"/>devers orient à une fenestre et regardoit
+<lb n="CDAM.366d:06"/>vers le ciel et encenssoit à <name ref="">dieu inmortel</name>
+<lb n="CDAM.366d:07"/>et la plus grant part de la nuit estoit à
+<lb n="CDAM.366d:08"/>celle fenestre et regardoit les estoilles
+<lb n="CDAM.366d:09"/>et gemissoit reclamant <name ref="">Dieu</name> / devotem<abbr expan="en"/>t
+<lb n="CDAM.366d:10"/>et lui prioit que en ayde lui feust cont<abbr expan="re"/>
+<lb n="CDAM.366d:11"/>ses adversaires / Les pucelles qui bien
+<lb n="CDAM.366d:12"/>appercevoient que son cuer avoit en
+<lb n="CDAM.366d:13"/><name ref="">jhesucrist</name> souventes fois s'agenoulloie<abbr expan="n"/>t
+<lb n="CDAM.366d:14"/>mains jointes devant elle lui prïant
+<lb n="CDAM.366d:15"/>que mettre s'entente ne voulsist en <name ref="">di-
+<lb n="CDAM.366d:16"/>eu estrange</name> / Ains voulsist celebrer aus <note>rising 's' long ajouté</note>
+<lb n="CDAM.366d:17"/><name ref="">dieux de ses parens</name> / et que se il estoit
+<lb n="CDAM.366d:18"/>sceu elle et toutes en seroient destruit-
+<lb n="CDAM.366d:19"/>tes &#x95; <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> respondoit qu'elles estoie<abbr expan="n"/>t
+<lb n="CDAM.366d:20"/>deceues par le dyable qui les admonne-
+<lb n="CDAM.366d:21"/>stoit de äourer tant de dieux / et que
+<lb n="CDAM.366d:22"/>il n'en estoit que un / Au derrain co<abbr expan="m"/>me
+<lb n="CDAM.366d:23"/>son pere sceust que sa fille ne vouloit
+<lb n="CDAM.366d:24"/>äourer les ydoles trop en fu dolent &amp;
+<lb n="CDAM.366d:25"/>moult l'en reprist / et elle dist que elle
+<lb n="CDAM.366d:26"/>offreroit voulentiers à <name ref="">dieu du ciel</name>
+<lb n="CDAM.366d:27"/>et cellui cuida que elle voulsist dire
+<lb n="CDAM.366d:28"/>à <name ref="">Jupiter</name> et fu joyeux et la voult bay-
+<lb n="CDAM.366d:29"/>sier / mais elle s'escrya ne touches à
+<lb n="CDAM.366d:30"/>ma bouche / Car je vueil offrir offra<abbr expan="n"/>-
+<lb n="CDAM.366d:31"/>de nette à <name ref="">dieu celestre</name> / de ce fu ancore
+<lb n="CDAM.366d:32"/>comptent le pere et elle s'en entra en sa
+<lb n="CDAM.366d:33"/>chambre et la clouÿ / puis à genoulz
+<lb n="CDAM.366d:34"/>se mist et offry sainte oroison à <name ref="">dieu</name>
+<lb n="CDAM.366d:35"/>en plourant et <name ref="">l'ange de n<abbr expan="ost"/>reseigneur</name>
+<lb n="CDAM.366d:36"/>descendi qui la reconforta / et lui appor-
+<lb n="CDAM.366d:37"/>ta pain blanc et vïande <note>'u' à l'italienne</note> de quoy elle
+
+
+<pb n="367" side="r"/>
+<lb n="CDAM.367r:01"/><hi rend="">La cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.367a:01"/>mengia / car de iii &#x95; jours n'avoit gousté
+<lb n="CDAM.367a:02"/>de vïande Après ce / comme <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> veist par
+<lb n="CDAM.367a:03"/>sa fenestre plusieurs povres <abbr expan="crest"/>ïans men-
+<lb n="CDAM.367a:04"/>dians au pié de sa tour et elle n'eust que
+<lb n="CDAM.367a:05"/>eulx donner elle ala querre les ydoles de
+<lb n="CDAM.367a:06"/>son pere qui estoient d'or et d'argent et les
+<lb n="CDAM.367a:07"/>froissa toutes et donna les pieces aux pov<abbr expan="re"/>s
+<lb n="CDAM.367a:08"/>et quant son pere sceut ceste chose il la bati
+<lb n="CDAM.367a:09"/>très cruellement et elle disoit plaineme<abbr expan="n"/>t
+<lb n="CDAM.367a:10"/>que il estoit deceu d'äourer ces faulx yma-
+<lb n="CDAM.367a:11"/>ges et que il n'estoit que un seul <name ref="">dieu en
+<lb n="CDAM.367a:12"/>trinité</name> et que cellui äourer on devoit / le q<abbr expan="ue"/>l
+<lb n="CDAM.367a:13"/>elle confessoit ne pour mourir autre ne
+<lb n="CDAM.367a:14"/>äoureroit / dont lui enragié sur elle la fist
+<lb n="CDAM.367a:15"/>lÿer de chayennes et mener batant par les pla-
+<lb n="CDAM.367a:16"/>ces / et puis mettre en chartre et lui mesmes
+<lb n="CDAM.367a:17"/>voult estre juge de celle cause / si la fist l'en-
+<lb n="CDAM.367a:18"/>demain amener devant lui et la menaça de
+<lb n="CDAM.367a:19"/>tous tourmens se elle ne äouroit les ydoles
+<lb n="CDAM.367a:20"/>et après ce qu'il vit bien que pour priere ne
+<lb n="CDAM.367a:21"/>pour menaces ja ne la tourneroit / il la fist
+<lb n="CDAM.367a:22"/>toute nue estendre <note>'ue' changed to 're' , 'i' rayé</note> par bras et par jam-
+<lb n="CDAM.367a:23"/>bes et tant batre que &#x95; xii &#x95; hommes se recreu-
+<lb n="CDAM.367a:24"/>rent dessus / et tous jours lui demandoit le
+<lb n="CDAM.367a:25"/>pere se elle s'aviseroit / et lui dist fille pi-
+<lb n="CDAM.367a:26"/>tié naturelle destraint durement mon
+<lb n="CDAM.367a:27"/>courage de ainsi tourmenter toy qui es
+<lb n="CDAM.367a:28"/>ma char / mais la reverence que j'ay à mes
+<lb n="CDAM.367a:29"/>dieux me contraint à ce<abbr expan=" "/>faire pour ce que
+<lb n="CDAM.367a:30"/>tu les despices / et la sainte vierge lui <note>'s' allongé</note> res-
+<lb n="CDAM.367a:31"/>pondi / Tirant que je ne doy appeller pere
+<lb n="CDAM.367a:32"/>ains ennemi de ma beneurté tourmentes
+<lb n="CDAM.367a:33"/>hardiement la char que tu as engendrée
+<lb n="CDAM.367a:34"/>Car ce peus tu bien faire / mais à l'esp<abbr expan="er"/>it
+<lb n="CDAM.367a:35"/>créé de <name ref="">mon pere qui est oû ciel</name> / n'as tu
+<lb n="CDAM.367a:36"/>povoir d'atoucher par nulle te<abbr expan="m"/>ptacion
+<lb n="CDAM.367a:37"/>car <name ref="">jhesucrist mon sauveur</name> le garde / le
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.367b:01"/>cruel pere plus forcené fist apporter une <note>'u' à l'italienne</note> roe q<abbr expan="ue"/>
+<lb n="CDAM.367b:02"/>il avoit fait faire / et fist celle doulce enfan-
+<lb n="CDAM.367b:03"/>celle estre liée dedens et mettre feu dessoubz
+<lb n="CDAM.367b:04"/>et puis fist giter oele boulant à grant plan-
+<lb n="CDAM.367b:05"/>té sur son corps et celle roe tournoit sur el-
+<lb n="CDAM.367b:06"/>le qui toute la froissoit / Mais <name ref="">dieu le pere de
+<lb n="CDAM.367b:07"/>misericorde</name> ot pitié de sa servante / si envoya
+<lb n="CDAM.367b:08"/><name ref="">son ange</name> qui desrompi tous les tourmens
+<lb n="CDAM.367b:09"/>et estaigni le feu et la vierge delivra sai-
+<lb n="CDAM.367b:10"/>ne et entiere et occist plus de mille tirans
+<lb n="CDAM.367b:11"/>felons qui la regardoient sanz pitié <note>'s' allongé</note> blas-
+<lb n="CDAM.367b:12"/>phemant le nom de <name ref="">dieu</name> et son pere lui de-
+<lb n="CDAM.367b:13"/>manda / dis moy qui t'a enseigné ces ma-
+<lb n="CDAM.367b:14"/>lefices / et elle Respondi tirant sanz pitié
+<lb n="CDAM.367b:15"/>ne t'ay je pas bien dit que mon pere <name ref="">jhe-
+<lb n="CDAM.367b:16"/>sucrist</name> m'a appris ceste pacience et toute
+<lb n="CDAM.367b:17"/>droitture en la foy de <name ref="">dieu le vif</name> / et po<abbr expan="ur"/>ce
+<lb n="CDAM.367b:18"/>despite je tous tes tourmens et vaincray
+<lb n="CDAM.367b:19"/>en la vertu de <name ref="">dieu</name> tous les assaulx du
+<lb n="CDAM.367b:20"/>diable / et cellui vaincu et confus la fist gi-
+<lb n="CDAM.367b:21"/>ter en une très orrible et obscure chartre &amp;
+<lb n="CDAM.367b:22"/>sicomme elle estoit là pensant aux très grans <note>rising 's' allongé, ajouté ?</note>
+<!-- rustine sur 3 lignes ? -->
+<lb n="CDAM.367b:23"/>misteres <note>barre horiz&#x95;</note> de <name ref="">Dieu</name> &#x95; iii &#x95; <name ref="">anges</name> vindre<abbr expan="n"/>t
+<lb n="CDAM.367b:24"/>à elle à tout <note> 6 traits inclinés à gauche</note> grant lumiere et lui
+<lb n="CDAM.367b:25"/>apporterent à <note>6 traits inclinés à gauche</note> mengier / et la recon-
+<lb n="CDAM.367b:26"/>forterent / <name ref="">urban</name> ne savoit que faire d'elle
+<lb n="CDAM.367b:27"/>et ne finoit de pourpenser quieulx ma-
+<lb n="CDAM.367b:28"/>nieres de tourmens faire lui pourroit à
+<lb n="CDAM.367b:29"/>la parfin comme tout ennuyez pour en <note>'s' allongé</note> es-
+<lb n="CDAM.367b:30"/>tre delivré <note>'delivre' ?</note> lui fist mettre une grosse pier-
+<lb n="CDAM.367b:31"/>re au col et la giter en la mer / mais ain-
+<lb n="CDAM.367b:32"/>si comme on l'y trebuchoit les anges la
+<lb n="CDAM.367b:33"/>prirent et elle s'en aloit sur l'eaue / avec-
+<lb n="CDAM.367b:34"/>ques eulx / Adont pria <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> à <name ref="">ih<abbr expan="es"/>ucrist</name>
+<lb n="CDAM.367b:35"/>levant les yeulx au ciel que il lui pleust
+<lb n="CDAM.367b:36"/>que en celle eaue receust le saint sacre-
+<lb n="CDAM.367b:37"/>ment de baptesme que elle desiroit m<abbr expan="ou"/>lt
+
+
+<pb n="367" side="v"/>
+<lb n="CDAM.367v:01"/><hi rend="">de la <note>centred</note> Cité des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.367c:01"/>à avoir / et adont descend<s>y</s> <name ref="">ih<abbr expan="es"/>ucrist en propre
+<lb n="CDAM.367c:02"/>personne</name> à grant compaignie d'<name ref="">anges</name> et la <note>'le' changed to 'la' corrigé</note>
+<lb n="CDAM.367c:03"/>baptisa <note>'b' exubérant</note> et nomma de son nom <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> / et la
+<lb n="CDAM.367c:04"/>couronna et lui mist une estoile <note>'s' allongé</note> resplandis-
+<lb n="CDAM.367c:05"/>sant sur son chef et la mist à terre / et celle
+<lb n="CDAM.367c:06"/>nuit <name ref="">urban</name> fu tourmenté du dëable et mou-
+<lb n="CDAM.367c:07"/>rut / <name ref="Saint+Christina">la benoite <abbr expan="Crist"/>ine</name> que <name ref="">dieu</name> vouloit rece-
+<lb n="CDAM.367c:08"/>voir par martire / la quelle chose elle desi-
+<lb n="CDAM.367c:09"/>roit / fu ramenée par les felons en la chartre
+<lb n="CDAM.367c:10"/>et le nouvel <name ref="">juge nommé dyon</name> qui savoit
+<lb n="CDAM.367c:11"/>ce qui estoit fait d'elle la fist venir devant
+<lb n="CDAM.367c:12"/>lui et la couvoita pour sa beauté / mais<abbr expan=" "/>qua<abbr expan="n"/>t
+<lb n="CDAM.367c:13"/>il vit que belles paroles riens ne lui valoient
+<lb n="CDAM.367c:14"/>il la fist de rechef tourmenter et fist emplir
+<lb n="CDAM.367c:15"/>une grant chaudiere de huile et poix à gra<abbr expan="n"/>t
+<lb n="CDAM.367c:16"/>feu dessoubz et<abbr expan=" "/>la fist giter dedens le chief
+<lb n="CDAM.367c:17"/>dessoubz / &amp; &#x95; iiii &#x95; hommes la tournoient dede<abbr expan="n"/>s
+<lb n="CDAM.367c:18"/>à grans croqs de fer / et la sainte vierge cha<abbr expan="n"/>-
+<lb n="CDAM.367c:19"/>toit à <name ref="">dieu</name> melodieuseme<abbr expan="n"/>t et moquoit
+<lb n="CDAM.367c:20"/>les tourmentortrs <note>' tourmentertrs', correction?</note> et menaçoit des peines d'en-
+<lb n="CDAM.367c:21"/>fer / et quant le felon juge aÿré vit que ce
+<lb n="CDAM.367c:22"/>riens ne lui valoit la fist pendre par les
+<!-- rustine sur 3 vers ? -->
+<lb n="CDAM.367c:23"/>cheveulx que elle avoit loncs / <note>espace blanc ?</note> et blons
+<lb n="CDAM.367c:24"/>comme or / en la place devant <note>'vant' rayé à l'encre rouge</note> tous
+<lb n="CDAM.367c:25"/>environ elle accoururent <note>3 traits inclinés entre 'u' et 'r</note> les fe<abbr expan="m"/>mes
+<lb n="CDAM.367c:26"/>qui plourant par grant pitié de veoir<abbr expan=" "/>une
+<lb n="CDAM.367c:27"/>tele tendre enfancellette ainsi tourment<abbr expan="er"/>
+<lb n="CDAM.367c:28"/>Si cryoyent au juge en disant Cruel felon
+<lb n="CDAM.367c:29"/>plus que beste sauvage comment peut avoir
+<lb n="CDAM.367c:30"/>conceu en cuer d'omme tant de cruaulté
+<lb n="CDAM.367c:31"/>contre pucelle tant belle et si tendre et
+<lb n="CDAM.367c:32"/>toutes lui vouloient courir sus / Adont
+<lb n="CDAM.367c:33"/>ot le juge päour / et lui dist <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> Amie
+<lb n="CDAM.367c:34"/>ne te seuffres plus tourmenter / mais vien
+<lb n="CDAM.367c:35"/>avec moy si alons äourer le souverain di-
+<lb n="CDAM.367c:36"/>eu qui tant t'a soustenue / Cellui enten-
+<lb n="CDAM.367c:37"/>doit de <name ref="">jupiter que ilz tenoient pour souverain</name>
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.367d:01"/><name ref="">dieu</name> / Mais elle entendoit tout autre-
+<lb n="CDAM.367d:02"/>ment / si lui dist Tu as moult bien dit <note>barre longue</note>
+<lb n="CDAM.367d:03"/>si l'ottroy il la fist despendre et la mena
+<lb n="CDAM.367d:04"/>au temple et grant peuple les suivi / q<abbr expan="ua"/>nt
+<lb n="CDAM.367d:05"/>il l'ot menée devant les ydoles cuidant q<abbr expan="ue"/>
+<lb n="CDAM.367d:06"/>elle les deust äourer / elle s'agenoullia
+<lb n="CDAM.367d:07"/>regardant oû ciel / et fist à <name ref="">dieu</name> son oroi-
+<lb n="CDAM.367d:08"/>son / puis se leva et se tourna vers l'idole
+<lb n="CDAM.367d:09"/>et dist / je te commande maling esperit
+<lb n="CDAM.367d:10"/>qui es en celle ydole / oû nom de <name ref="">jhesucrist</name> /
+<lb n="CDAM.367d:11"/>que tu ysses hors / et tantost le dëable
+<lb n="CDAM.367d:12"/>vint dehors et fist grant et espovan-
+<lb n="CDAM.367d:13"/>table tumulte par quoy tous furent si
+<lb n="CDAM.367d:14"/>espovantez que tous cheyrent à terre
+<lb n="CDAM.367d:15"/>et le juge quant il fu relevez dist <name ref="Saint+Christina"><abbr expan="crist"/>i-
+<lb n="CDAM.367d:16"/>ne</name> / Tu as esmeu n<abbr expan="ost"/>re dieu tout puissant
+<lb n="CDAM.367d:17"/>mais pour ce que il a pitié de toy / il
+<lb n="CDAM.367d:18"/>est yssu hors ad ce que il veist sa créa-
+<lb n="CDAM.367d:19"/>ture / et celle fu courrouciée en la parole
+<lb n="CDAM.367d:20"/>et le reprist durement de ce que il <note>'s' allongé</note> es-
+<lb n="CDAM.367d:21"/>toit tant avuglez que il ne <note>'s' allongé</note> congnois-
+<lb n="CDAM.367d:22"/>çoit la vertu divine / si pria <name ref="">dieu</name> que
+<lb n="CDAM.367d:23"/>l'ydole cheist et devenist pouldre / la
+<lb n="CDAM.367d:24"/>quelle chose fu faicte et par les paro-
+<lb n="CDAM.367d:25"/>les et signes de la vierge plus de &#x95; iii<add place="" type="" evidence="">m</add> &#x95;
+<lb n="CDAM.367d:26"/>hommes et femmes furent convertis
+<lb n="CDAM.367d:27"/>et le juge espovanté dist / se le Roy
+<lb n="CDAM.367d:28"/>savoit ce qui est fait contre nostre dieu
+<lb n="CDAM.367d:29"/>par les demonstrances de ceste <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name>
+<lb n="CDAM.367d:30"/>il me destruiroit <note>'destrui' sur grattage</note> mauvaisement et
+<lb n="CDAM.367d:31"/>maintenant cellui plain d'angoisse
+<lb n="CDAM.367d:32"/>forsena et mouru &#x95; / <name ref="">Le tiers Juge
+<lb n="CDAM.367d:33"/>vint après nommé Julian</name> /  et fist p<abbr expan="re"/>n-
+<lb n="CDAM.367d:34"/>dre <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> et se vanta qu'il la feroit
+<lb n="CDAM.367d:35"/>äourer les ydoles / mais pour toute
+<lb n="CDAM.367d:36"/>la force que il y peust mettre il ne la
+<lb n="CDAM.367d:37"/>pot faire remouvoir du lieu ou elle es
+
+
+<pb n="368" side="r"/>
+<lb n="CDAM.368r:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 36 lines -->
+<lb n="CDAM.368a:01"/>estoit <note>'es' répété</note> / si fist faire un <note>'u' à l'italienne</note> grant feu autour d'elle <note>'d' exubérant</note>
+<lb n="CDAM.368a:02"/>en ce feu demoura par &#x95; iii &#x95; jours / et la dede<abbr expan="n"/>s
+<lb n="CDAM.368a:03"/>estoient ouÿes doulces melodies / et furent
+<lb n="CDAM.368a:04"/>les tourmenteurs espovantez par merveil-
+<lb n="CDAM.368a:05"/>leux signes que ilz virent / Les quelles chos<abbr expan="es"/>
+<lb n="CDAM.368a:06"/>rapportées à <name ref="">julian</name> cuida forcener / et quant
+<lb n="CDAM.368a:07"/>le feu fu consumé elle s'en sailli toute saine
+<lb n="CDAM.368a:08"/>Le juge fist amener les serpens et fist gitter
+<lb n="CDAM.368a:09"/>sur elle &#x95; ii &#x95; aspis qui sont serpens qui mor-
+<lb n="CDAM.368a:10"/>dent et enveniment merveilleusement et
+<lb n="CDAM.368a:11"/>ii &#x95; grosses couleuvres / mais ces serpens se
+<lb n="CDAM.368a:12"/>laisserent cheoir à ses piez les testes encli-
+<lb n="CDAM.368a:13"/>nes sanz lui mal faire / et &#x95; ii &#x95; autres orribles <note>rising 's' allongé, ajouté ?</note>
+<lb n="CDAM.368a:14"/>serpens nommez guievres furent laissiées
+<lb n="CDAM.368a:15"/>aler et ilz se pendirent à ses mamelles et <note>barre allongée</note>
+<lb n="CDAM.368a:16"/>la lechoient et <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> regardoit oû ciel
+<lb n="CDAM.368a:17"/>et disoit je te rens graces <name ref="">sire dieux jhe-
+<lb n="CDAM.368a:18"/>sucrist</name> qui m'as tant daigné exaussier
+<lb n="CDAM.368a:19"/>par tes saintes vertus que les serpens
+<lb n="CDAM.368a:20"/>orribles congnoiscent en moy ta dignité
+<lb n="CDAM.368a:21"/>et <name ref="">Julian</name> <note>'J' exubérant</note> obstiné voyant ces merveilles <note>'s' allongé</note> es-
+<lb n="CDAM.368a:22"/>cria à cellui qui estoit garde des serpens
+<lb n="CDAM.368a:23"/>n'ez tu pas aussi enchanté de <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> par
+<lb n="CDAM.368a:24"/>quoy tu n'as povoir d'esmouvoir les cont<abbr expan="re"/>
+<lb n="CDAM.368a:25"/>elle / Adont cellui qui doubta le juge les
+<lb n="CDAM.368a:26"/>cuida harer sur elle et ilz lui coururent
+<lb n="CDAM.368a:27"/>sus et l'occirent et sicomme chacun doubtoit
+<lb n="CDAM.368a:28"/>ces serpens et que nul n'osoit approcher / el-
+<lb n="CDAM.368a:29"/>le<abbr expan=" "/>leur commanda de par <name ref="">dieu</name> que ilz ra-
+<lb n="CDAM.368a:30"/>lassent en leur lieu sanz mesfaire à cre-
+<lb n="CDAM.368a:31"/>ature et ilz si firent / elle Ressucita le
+<lb n="CDAM.368a:32"/>mort qui tantost se gita à ses piez et fu
+<lb n="CDAM.368a:33"/>convertis / Le juge avuglez du dëable
+<lb n="CDAM.368a:34"/>si que il n'appercevoit le mistere divin
+<lb n="CDAM.368a:35"/>dist à <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> tu as assez demonstré tes
+<lb n="CDAM.368a:36"/>ars magiques / et elle Respondi /  hors du
+
+<cb n="b"/>
+<!-- 36 lines -->
+<lb n="CDAM.368b:01"/>sens se tes <s>y</s>eulx veissent les vertus de <name ref="">dieu</name>
+<lb n="CDAM.368b:02"/>tu les creusses / et adont cellui forcenant lui
+<lb n="CDAM.368b:03"/>fist esracher les mamelles et tantost en yssi
+<lb n="CDAM.368b:04"/>laict en lieu de sanc / et pour ce que elle sanz
+<lb n="CDAM.368b:05"/>cesser nommoit le nom de <name ref="">jhesu</name> il lui fist
+<lb n="CDAM.368b:06"/>copper la lengue / mais mieulx que devant
+<lb n="CDAM.368b:07"/>et plus cler parloit adès des choses divines
+<lb n="CDAM.368b:08"/>et beneissoit <name ref="">dieu</name> en le regraciant des bene-
+<lb n="CDAM.368b:09"/>fices que il lui donnoit et commença à faire
+<lb n="CDAM.368b:10"/>son oroison que il lui pleust à la recevoir vers
+<lb n="CDAM.368b:11"/>lui / et que la couronne de son martire fust
+<lb n="CDAM.368b:12"/>achevée / Adont une voix du ciel fu ouÿe
+<lb n="CDAM.368b:13"/>disant / <name ref="">cristine pure et nette</name> les cieulx
+<lb n="CDAM.368b:14"/>te sont ouvers et le regne sans fin t'est appa-
+<lb n="CDAM.368b:15"/>reillié et toute la compaignie des sains be-
+<lb n="CDAM.368b:16"/>neyst <name ref="">dieu</name> pour toy / car tu as dès ton en-
+<lb n="CDAM.368b:17"/>fance soustenu le nom de ton <name ref="">crist</name> / et elle
+<lb n="CDAM.368b:18"/>gloriffioit <name ref="">dieu</name> les yeulx vers le ciel / La
+<lb n="CDAM.368b:19"/>voix de rechef fu ouÿe qui disoit / vien <name ref="Saint+Christina"><abbr expan="crist"/>i-
+<lb n="CDAM.368b:20"/>ne</name> / ma très amée et très eslicte fille et re-
+<lb n="CDAM.368b:21"/>çoy la palme et couronne pardurable et le
+<lb n="CDAM.368b:22"/>guerredon de ta passionnable vie en la
+<lb n="CDAM.368b:23"/>confession de mon nom / et <name ref="">le faulx Julian</name>
+<lb n="CDAM.368b:24"/>qui ceste voix ot ouÿe blasma les bourri-
+<lb n="CDAM.368b:25"/>aulx et leur dist que ilz n'avoient pas assez
+<lb n="CDAM.368b:26"/>pres coppé la lengue de <name ref="Saint+Christina"><abbr expan="Crist"/>ine</name> si lui <note>'s' allongé</note> coppas-
+<lb n="CDAM.368b:27"/>sent si pres que tant ne peust parler à
+<lb n="CDAM.368b:28"/>son <name ref="">crist</name> / Si lui esracherent hors la lengue
+<lb n="CDAM.368b:29"/>et lui copperent jusques au gavion / et celle
+<lb n="CDAM.368b:30"/>cracha le coppon de sa lengue jusques au
+<lb n="CDAM.368b:31"/>visage du tirant et lui en creua l'ueil et
+<lb n="CDAM.368b:32"/>lui dist aussi sainement que oncques mais
+<lb n="CDAM.368b:33"/>Tirant que te vault avoir coppé ma lengue
+<lb n="CDAM.368b:34"/>affin que elle ne beneysse <name ref="">dieu</name> / quant
+<lb n="CDAM.368b:35"/>mon esperit à tous jours le beneistra et
+<lb n="CDAM.368b:36"/>le tien demourera perpetuel en maleisson
+<!-- no signature -->
+
+
+<pb n="368" side="v"/>
+<lb n="CDAM.368v:01"/><hi rend="">de <note>arabesques</note> la <note>centred</note> Cité <note>centred</note> des dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.368c:01"/>et pour ce que tu ne congnois ma parole / c'est
+<lb n="CDAM.368c:02"/>bien raison que ma lengue te ait avuglé / A-
+<lb n="CDAM.368c:03"/>dont celle qui ja veoit  <name ref="">jhesucrist</name> séant à la dex-
+<lb n="CDAM.368c:04"/>tre de son pere fina son martire par &#x95; ii &#x95;<note>'s' allongé</note> fles-
+<lb n="CDAM.368c:05"/>ches qui lui furent lanciées l'une oû costé /
+<lb n="CDAM.368c:06"/>l'autre vers le cuer / et un sien parent que elle
+<lb n="CDAM.368c:07"/>avoit converti enseveli le saint corps / et <note>'s' allongé</note> es-
+<lb n="CDAM.368c:08"/>cript la glorieuse legende &#x95; O <name ref="Saint+Christina">benoite <abbr expan="Crist"/>ine
+<lb n="CDAM.368c:09"/>vierge digne et beneurée de dieu très eslicte
+<lb n="CDAM.368c:10"/>martire glorieuse</name> vueilles par la sainteté
+<lb n="CDAM.368c:11"/>dont <name ref="">dieux</name> t'a faicte digne prier pour moy
+<lb n="CDAM.368c:12"/>pecherresse nommée par ton nom et me
+<lb n="CDAM.368c:13"/>soies propice et piteuse marreine / si voir
+<lb n="CDAM.368c:14"/>que je m'esjouÿs de avoir cause de enexer
+<lb n="CDAM.368c:15"/>et mettre ta sainte legende en mes escrip-
+<lb n="CDAM.368c:16"/>tures la quelle pour ta reverence ay recor-
+<lb n="CDAM.368c:17"/>dée assez au lonc / ce te soit agréable / pries
+<lb n="CDAM.368c:18"/>pour toutes femmes aux quelles ta sain-
+<lb n="CDAM.368c:19"/>te vie soit cause par bon exemple de b<abbr expan="ie"/>n
+<lb n="CDAM.368c:20"/>finer leur vie / Amen / / ¶ Que t'en
+<lb n="CDAM.368c:21"/>diroye belle amie pour emplir n<abbr expan="ost"/>re cité de
+<lb n="CDAM.368c:22"/>tel mesgniée plus à grant flotte viengne
+<lb n="CDAM.368c:23"/><name ref="">sainte ourse</name> à tout ses &#x95; xi<add place="" type="" evidence="">m</add> vierges benoi-
+<lb n="CDAM.368c:24"/>tes martires pour le nom de <name ref="">jhesucrist</name> tou-
+<lb n="CDAM.368c:25"/>tes decolées que comme elles fussent envoy-
+<lb n="CDAM.368c:26"/>ées pour estre mariées et elles s'embatisse<abbr expan="n"/>t
+<lb n="CDAM.368c:27"/>en terre de mescréans et on les voulsist con-
+<lb n="CDAM.368c:28"/>traindre de renoncier à la foy de <name ref="">dieu</name> plus
+<lb n="CDAM.368c:29"/>tost esleurent la mort que renoncier à <note>'a' élargi</note>
+<lb n="CDAM.368c:30"/><name ref="">jhesucrist leur sauveur</name> <hi rend="">de plusieurs <name ref="">saintes</name> <note>rising 's' allongé</note>
+<lb n="CDAM.368c:31"/>qui virent martirer leurs enfans devant
+<lb n="CDAM.368c:32"/>elles &#x95; xi &#x95;</hi>
+<lb n="CDAM.368c:33"/><hi rend="cap2">O</hi> quelle est oû monde plus tendre
+<lb n="CDAM.368c:34"/>chose que mere à son enfant ne pl<abbr expan="us"/>
+<lb n="CDAM.368c:35"/>grant douleur que son cuer seuffre quant
+<lb n="CDAM.368c:36"/>mal lui voit endurer / mais par ce que
+<lb n="CDAM.368c:37"/>je voy ancores est foy plus grant chose <note>2 'y' à longue queue</note>
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.368d:01"/>comme il <s>y</s> paru à maintes vaillans fe<abbr expan="m"/>mes
+<lb n="CDAM.368d:02"/>qui pour l'amour de <name ref="">ih<abbr expan="es"/>ucrist</name> offroient <note>barre allongée</note>
+<lb n="CDAM.368d:03"/>leurs propres enfans au tourment sico<abbr expan="m"/>-
+<lb n="CDAM.368d:04"/>me <name ref="">la benoite felix</name> qui vit ses &#x95; vii &#x95; filz q<abbr expan="ui"/>
+<lb n="CDAM.368d:05"/>estoient très beaulx jouvenceaulx mar-
+<lb n="CDAM.368d:06"/>tirer devant elle et la très bonne mere les <note>rising 's' allongé</note>
+<lb n="CDAM.368d:07"/>reconfortoit et admonnestoit de pacience
+<lb n="CDAM.368d:08"/>et de estre fermes en la foy / si avoit ce-
+<lb n="CDAM.368d:09"/>ste bonne dame oublié courage mater-
+<lb n="CDAM.368d:10"/>nel quant au corps pour l'amour de
+<lb n="CDAM.368d:11"/><name ref="">dieu</name> / et puis après quant au sacrefice
+<lb n="CDAM.368d:12"/>les ot tous offers elle volt estre sacrifi-
+<lb n="CDAM.368d:13"/>ée et vint au martire ¶ Item pareille-
+<lb n="CDAM.368d:14"/>ment <name ref="">la benoite julite</name> qui avoit <name ref="">un filz
+<lb n="CDAM.368d:15"/>nommé thir</name> / celle dame tout aussi co<abbr expan="m"/>me
+<lb n="CDAM.368d:16"/>elle lui bailloit nourriture corporelle <note>'s' allongé</note> aus-
+<lb n="CDAM.368d:17"/>si bailloit espirituelle / car sans cesser
+<lb n="CDAM.368d:18"/>l'introduisoit en la foy telement que<abbr expan=" "/>lui
+<lb n="CDAM.368d:19"/>petit enfant ne pot oncques estre vain-
+<lb n="CDAM.368d:20"/>cu des martireurs / ne par tourmens q<abbr expan="ue"/>
+<lb n="CDAM.368d:21"/>il renÿast le nom de <name ref="">jhesus</name> / Ains qua<abbr expan="n"/>t
+<lb n="CDAM.368d:22"/>on le tourmentoit il cryoit tant co<abbr expan="m"/>me
+<lb n="CDAM.368d:23"/>il pouoit de sa petite clere voix / je
+<lb n="CDAM.368d:24"/>suis <abbr expan="crest"/>ien / je suis <abbr expan="crest"/>ien / je te rens
+<lb n="CDAM.368d:25"/>graces <name ref="">n<abbr expan="ost"/>reseigneur dieux</name> / et parloit
+<lb n="CDAM.368d:26"/>si très appertement que homme de &#x95; xl &#x95;
+<lb n="CDAM.368d:27"/>ans peust faire / sa bonne mere le recon-
+<lb n="CDAM.368d:28"/>fortoit la quelle fu aussi durement <note>barre allongée</note>
+<lb n="CDAM.368d:29"/>tourmentée / et celle sanz cesser louoit
+<lb n="CDAM.368d:30"/><name ref="">dieu</name> et reconfortoit les autres martirs
+<lb n="CDAM.368d:31"/>et parloit de la joye celestïelle que ilz
+<lb n="CDAM.368d:32"/>attendoient et que ilz n'eussent point
+<lb n="CDAM.368d:33"/>de päour ¶ Item que pourrons no<abbr expan="us"/>
+<lb n="CDAM.368d:34"/>dire de la merveilleuse constance et for-
+<lb n="CDAM.368d:35"/>ce que ot <name ref="">la benoite blandine</name> / elle vit
+<lb n="CDAM.368d:36"/>tourmenter et martirer devant elle
+<lb n="CDAM.368d:37"/>sa fille que elle tant amoit / de l'aage
+
+
+<pb n="369" side="r"/>
+<lb n="CDAM.369r:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.369a:01"/>de &#x95; xv &#x95; ans que elle reconfortoit jo<s>y</s>eusement
+<lb n="CDAM.369a:02"/>et après elle aussi lïement que femme va à
+<lb n="CDAM.369a:03"/>espous se ala mettre oû tourment et fu ta<abbr expan="n"/>t
+<lb n="CDAM.369a:04"/>tourmentée par multitude de martires q<abbr expan="ue"/>
+<lb n="CDAM.369a:05"/>les martireurs se lasserent sur elle / elle fu
+<lb n="CDAM.369a:06"/>mise sus un greil et rostie detranchée de
+<lb n="CDAM.369a:07"/>pignes de fer / et tous jours elle gloriffioit
+<lb n="CDAM.369a:08"/><name ref="">dieu</name> et ainsi persevera jusques à la fin
+<lb n="CDAM.369a:09"/><hi rend="">Ci dit de <name ref="">sainte marine vierge</name> &#x95; xii &#x95;</hi>
+<lb n="CDAM.369a:10"/><hi rend="cap2">D</hi>es martires vierges se pourroit raco<abbr expan="m"/>p-
+<lb n="CDAM.369a:11"/>ter à grant nombre et pareillem<abbr expan="en"/>t
+<lb n="CDAM.369a:12"/>d'autres qui vesquirent en religion et en
+<lb n="CDAM.369a:13"/>maintes guises moult saintement et de
+<lb n="CDAM.369a:14"/>ii &#x95; par especial te diray dont<abbr expan=" "/>les legendes
+<lb n="CDAM.369a:15"/>sont moult belles en approuvant tous jours
+<lb n="CDAM.369a:16"/>le propos de constance de femme / un ho<abbr expan="m"/>me
+<lb n="CDAM.369a:17"/>seculier avoit une seule fille petite nom-
+<lb n="CDAM.369a:18"/>mée <name ref="">marine</name> / si la mist en garde à un
+<lb n="CDAM.369a:19"/>sien parent et entra en religion et m<abbr expan="ou"/>lt
+<lb n="CDAM.369a:20"/>menoit sainte vie et non pour tant natu-
+<lb n="CDAM.369a:21"/>re le tiroit à sa fille / dont la peine lui fai-
+<lb n="CDAM.369a:22"/>soit grant moleste / si estoit moult pensif
+<lb n="CDAM.369a:23"/>par quoy l'abbé lui demanda la cause de
+<lb n="CDAM.369a:24"/>son marrement tant que il lui dist que
+<lb n="CDAM.369a:25"/>sa pensée estoit durement occuppée pour
+<lb n="CDAM.369a:26"/>un petit filz que il avoit laissié au siecle
+<lb n="CDAM.369a:27"/>que il ne pouoit oublier / l'abbé lui dist
+<lb n="CDAM.369a:28"/>que il<abbr expan=" "/>l'alast querre et le menast en la
+<lb n="CDAM.369a:29"/>religion avecques lui / si fu celle vierge
+<lb n="CDAM.369a:30"/>avecques son pere vestue come un pe-
+<lb n="CDAM.369a:31"/>tit moine et bien se savoit celer et moult
+<lb n="CDAM.369a:32"/>fu de bonne discipline / et quant elle vint <note>'r' changed to 'u' ?</note>
+<lb n="CDAM.369a:33"/>en l'aage de xviii &#x95; ans tous jours perse-
+<lb n="CDAM.369a:34"/>veroit de mieulx en mieulx / le pere qui
+<lb n="CDAM.369a:35"/>moult saintement l'avoit introduicte
+<lb n="CDAM.369a:36"/>trespassa / et elle demoura seule / en la
+<lb n="CDAM.369a:37"/>selle de son pere en sainte vie si q<abbr expan="ue"/>l'abbé
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.369b:01"/>et tous louo<s>y</s>ent sa sainte conversacion et
+<lb n="CDAM.369b:02"/>et <note>sic</note> tenoient que homme fust / Celle abbaÿe
+<lb n="CDAM.369b:03"/>estoit à &#x95; iii &#x95; milles pres d'une ville où avoit
+<lb n="CDAM.369b:04"/>marchié / si couvenoit aucune fois que les
+<lb n="CDAM.369b:05"/>moines alassent au dit marchié pour ache-
+<lb n="CDAM.369b:06"/>ter leurs neccessaires dont il avenoit aucu-
+<lb n="CDAM.369b:07"/>ne foiz en yver quant il leur anuitoit selon
+<lb n="CDAM.369b:08"/>les affaires que ilz avoient que ilz <note>'s' allongé</note> demouras-
+<lb n="CDAM.369b:09"/>sent au giste en la ville / et <name ref="">marine</name> qui estoit
+<lb n="CDAM.369b:10"/>nommé <name ref="">frere marin</name> aucune foiz à son tour
+<lb n="CDAM.369b:11"/>demouroit en la ville en certaine ostellerie
+<lb n="CDAM.369b:12"/>où communeme<abbr expan="n"/>t se logioyent / Advint en
+<lb n="CDAM.369b:13"/>ce temps que la fille de l'oste fu ençainte
+<lb n="CDAM.369b:14"/>et comme elle feust par ses parens contrai<abbr expan="n"/>-
+<lb n="CDAM.369b:15"/>te de dire <note>trait, sens ?</note> de qui c'estoit / elle le mist à sus <note>1 seul mot ?</note>
+<lb n="CDAM.369b:16"/>à <name ref="">frere marin</name> de quoy les parens se vin-
+<lb n="CDAM.369b:17"/>drent plaindre à l'abbé qui le fist appeller
+<lb n="CDAM.369b:18"/>et moult fu dolent de ceste chose et la sain-
+<lb n="CDAM.369b:19"/>te vierge ot plus cher prendre la coulpe
+<lb n="CDAM.369b:20"/>sur elle que magnifester que elle fust <note>barre longue</note>
+<lb n="CDAM.369b:21"/>femme pour soy excuser Si s'agenoullia
+<lb n="CDAM.369b:22"/>en plourant / disant pere / j'ay pechié /
+<lb n="CDAM.369b:23"/>priez pour moy je feray penitence / A-
+<lb n="CDAM.369b:24"/>dont l'abbé courroucié le fist batre dure-
+<lb n="CDAM.369b:25"/>ment et le mist hors du moustier et def-
+<lb n="CDAM.369b:26"/>fendi l'entrée / et il se mist à terre deva<abbr expan="n"/>t
+<lb n="CDAM.369b:27"/>la porte et là gisoit en penitence / et de-
+<lb n="CDAM.369b:28"/>mandoit aux freres un seul morsel de
+<lb n="CDAM.369b:29"/>pain / et la fille du tavernier enfanta
+<lb n="CDAM.369b:30"/>un filz que la mere d'elle apporta à <name ref="">marin</name>
+<lb n="CDAM.369b:31"/>devant le moustier et le laissa ylec / et
+<lb n="CDAM.369b:32"/>la vierge le receut et de ce morsel de pain
+<lb n="CDAM.369b:33"/>que les entrans lui donnoient nourrissoit
+<lb n="CDAM.369b:34"/>cel enfant comme se il fust sien propre
+<lb n="CDAM.369b:35"/>et un temps après ce les freres meus de
+<lb n="CDAM.369b:36"/>pitié prierent l'abbé que il Receust <name ref="">frere
+<lb n="CDAM.369b:37"/>marin</name> à misericorde et à peines <note>1 seul mot ?</note> lui condescendirent
+
+
+<pb n="369" side="v"/>
+<lb n="CDAM.369v:01"/><hi rend="">de la Cité <note>centred</note> Des <note>arab&#x95; / centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.369c:01"/>et ja avoit esté &#x95; v &#x95; ans en celle peni-
+<lb n="CDAM.369c:02"/>tence et quant il fu entrez oû moustier l'abbé
+<lb n="CDAM.369c:03"/>lui commanda à faire tous les ors et vilz of-
+<lb n="CDAM.369c:04"/>fices de léens et que il apportast l'eaue à netto-
+<lb n="CDAM.369c:05"/>yer tous leurs neccessaires et que il servist
+<lb n="CDAM.369c:06"/>à <note>'a' élargi</note> tous et <name ref="">la sainte vierge</name> le faisoit <note>tache de cire ?</note> humblem<abbr expan="en"/>t
+<lb n="CDAM.369c:07"/>et voulentiers et pou de temps après elle s'en-
+<lb n="CDAM.369c:08"/>dormi à <name ref="">n<abbr expan="ost"/>re<abbr expan="seigneur"/></name> / et quant les freres l'orent deno<abbr expan="n"/>-
+<lb n="CDAM.369c:09"/>cié à l'abbé il leur dist veez que son pechié fu
+<lb n="CDAM.369c:10"/>tel que il n'en a pas desservy pardon / lavez le
+<lb n="CDAM.369c:11"/>toutefoiz et l'ensevelissez loings du moustier
+<lb n="CDAM.369c:12"/>et sicomme ilz l'orent despoullié et ilz virent
+<lb n="CDAM.369c:13"/>que c'estoit une femme ilz se commencierent
+<lb n="CDAM.369c:14"/>à batre et à crier comme dolens et confus
+<lb n="CDAM.369c:15"/>du mal que on avoit fait à tant sainte
+<lb n="CDAM.369c:16"/>créature sanz cause / de la quelle conver-
+<lb n="CDAM.369c:17"/>sacion trop avoient grant merveille / ceste
+<lb n="CDAM.369c:18"/>chose nonciée à l'abbé il affuy celle part et
+<lb n="CDAM.369c:19"/>se laissa cheoir aux piez du saint corps en
+<lb n="CDAM.369c:20"/>moult grant pleur batant sa coulpe <note>'y' à queue longue</note> cry-
+<lb n="CDAM.369c:21"/>ant mercis et requerant pardon / et ordena
+<lb n="CDAM.369c:22"/>sa sepulture en une chappelle dedens le mou-
+<lb n="CDAM.369c:23"/>stier / Là vindrent tous les moines dont
+<lb n="CDAM.369c:24"/>un qui n'avoit que un oeil s'enclina sur le
+<lb n="CDAM.369c:25"/>corps le baisant par grant devocion / et tan-
+<lb n="CDAM.369c:26"/>tost sa veue lui fu restituée / ce mesmes jour
+<lb n="CDAM.369c:27"/>celle qui avoit eu l'enfant devint hors du
+<lb n="CDAM.369c:28"/>sens et cryoit son pechié / et elle fu menée
+<lb n="CDAM.369c:29"/>au saint corps et recouvra santé et plusie<abbr expan="ur"/>s
+<lb n="CDAM.369c:30"/>miracles fist et ancores fait oû dit lieu
+<lb n="CDAM.369c:31"/><hi rend="">Ci dit de <name ref="">la benoite Enfrosine vierge</name> &#x95;</hi>
+<lb n="CDAM.369c:32"/><hi rend="cap2">P</hi>areillement <note>lettre de préparation</note> en <name ref="">Alexandrie</name> ot <hi rend="">&#x95; xiii &#x95;</hi>
+<lb n="CDAM.369c:33"/>une vierge nommée <name ref="">Enfrosine</name> la
+<lb n="CDAM.369c:34"/>quelle <name ref="">dieu</name> avoit donnée à <name ref="">paffonsien son
+<lb n="CDAM.369c:35"/>pere homme de grant richece</name> par les prie-
+<lb n="CDAM.369c:36"/>res du saint abbé et d'un couvent de moines <note>rising 's' allongé, ajouté ?</note>
+<!-- 1 blank line(s) here -->
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.369d:01"/>qui pres de lui estoit / et quant ceste fille
+<lb n="CDAM.369d:02"/>fu grande le pere marier la voult mais
+<lb n="CDAM.369d:03"/>elle qui toute estoit donnée à <name ref="">dieu</name> en pro-
+<lb n="CDAM.369d:04"/>pos de garder sa virginité s'en fuy vestue
+<lb n="CDAM.369d:05"/>en guise d'omme et requist que elle fu
+<lb n="CDAM.369d:06"/>vestue <note>'vestue' exponctué</note> en la dicte abbaÿe / et faisoit à
+<lb n="CDAM.369d:07"/>croire que elle estoit un jouvencel de la
+<lb n="CDAM.369d:08"/>court de l'empereur qui devocion avoit de <note>'s' allongé</note> es-
+<lb n="CDAM.369d:09"/>tre rendu léens / l'abbé qui vit sa grant af-
+<lb n="CDAM.369d:10"/>fection la receut voulentiers / quant le
+<lb n="CDAM.369d:11"/>pere ne pot trouver sa fille que il tant
+<lb n="CDAM.369d:12"/>amoit il ot douleur à merveilles / si vint
+<lb n="CDAM.369d:13"/>à l'abbé dire sa grant douleur pour y <note>'y' à queue longue</note>
+<lb n="CDAM.369d:14"/>trouver reconfort et lui prier que lui et
+<lb n="CDAM.369d:15"/>le couvent priassent <name ref="">dieu</name> que aucune
+<lb n="CDAM.369d:16"/>nouvelle en peust ouÿr / l'abbé le reconfor-
+<lb n="CDAM.369d:17"/>ta et dist que il ne pourroit croire que fil-
+<lb n="CDAM.369d:18"/>le donnée de <name ref="">dieu</name> par oroison feust perie
+<lb n="CDAM.369d:19"/>longuement l'abbé et le couvent pria <name ref="">di-
+<lb n="CDAM.369d:20"/>eu</name> pour ceste chose / et comme il n'en peust
+<lb n="CDAM.369d:21"/>ouÿr aucune nouvelle / et le bon homme
+<lb n="CDAM.369d:22"/>tous jours revenist à reffuge à lui en sa
+<lb n="CDAM.369d:23"/>grant tribulacion / un jour lui dist l'abbé
+<lb n="CDAM.369d:24"/>vrayement je ne cuide point que ta fille
+<lb n="CDAM.369d:25"/>soit mal alée / Car se ainsi estoit je tiens
+<lb n="CDAM.369d:26"/>que <name ref="">dieux</name> le nous eust revelé / mais no<abbr expan="us"/>
+<lb n="CDAM.369d:27"/>avons céans un filz d'oroison qui ça vint
+<lb n="CDAM.369d:28"/>de la court de l'empereur à qui <name ref="">dieux</name> a
+<lb n="CDAM.369d:29"/>donné tant de grace que toute personne
+<lb n="CDAM.369d:30"/>qui à lui parle se treuve reconfortez / si
+<lb n="CDAM.369d:31"/>peus parler à lui / s'il te plaist / <name ref="">paffonci-
+<lb n="CDAM.369d:32"/>en</name> en requist que pour <name ref="">dieu</name> il y parlast
+<lb n="CDAM.369d:33"/>et adont l'abbé fist mener le pere à sa fil-
+<lb n="CDAM.369d:34"/>le que il ne congneut , mais la fille bien
+<lb n="CDAM.369d:35"/>recongneut le pere / si fu tantost toute
+<lb n="CDAM.369d:36"/>Remplie de larmes et se tourna d'autre
+<!-- 1 blank line(s) here -->
+<!-- signature cursive 'part sico|m|me se' -->
+
+
+<pb n="370" side="r"/>
+<lb n="CDAM.370r:01"/><hi rend="">de La <note>centred</note> cité <note>centred</note> des dames xxix</hi> <note>centred</note><note>arabesques</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.370a:01"/>part sicomme se il finast quelque oroison et
+<lb n="CDAM.370a:02"/>ja estoit la beauté et frecheur de son vis moult
+<lb n="CDAM.370a:03"/>flestrie pour l'asprece de l'abstinence / après
+<lb n="CDAM.370a:04"/>elle parla à son pere et le reconforta moult
+<lb n="CDAM.370a:05"/>et lui acertena que sa fille estoit en bon lieu
+<lb n="CDAM.370a:06"/>oû service de <name ref="">dieu</name> et que ains que il mourust
+<lb n="CDAM.370a:07"/>que il la verroit et que ancore aroit grant
+<lb n="CDAM.370a:08"/>joye d'elle / le pere qui cuida que il le sceust
+<lb n="CDAM.370a:09"/>par vertu divine s'en parti moult consolez
+<lb n="CDAM.370a:10"/>et dit à l'abbé que oncques puis que il avoit
+<lb n="CDAM.370a:11"/>perdu sa fille n'avoit trouvé en son cuer au-
+<lb n="CDAM.370a:12"/>tant de repos / et suis dist<abbr expan=" "/>il aussi liez en la
+<lb n="CDAM.370a:13"/>grace de <name ref="">dieu</name> que se je eusse trouvée ma fil-
+<lb n="CDAM.370a:14"/>le / et en se recommandant à l'abbé et aux
+<lb n="CDAM.370a:15"/>oroisons des freres s'en parti / mais ne se
+<lb n="CDAM.370a:16"/>tenoit mie de souvent venir visiter le sai<abbr expan="n"/>t
+<lb n="CDAM.370a:17"/>frere ne bien n'avoit fors tant que il de-
+<lb n="CDAM.370a:18"/>visoit avecques lui / et ainsi dura par si
+<lb n="CDAM.370a:19"/>lonc temps que ja avoit accompli ceste
+<lb n="CDAM.370a:20"/>fille qui se faisoit appeller <name ref="">frere Sinaroch</name>
+<lb n="CDAM.370a:21"/>xxxviii &#x95; ans dedens sa selle / Adont la
+<lb n="CDAM.370a:22"/>voult <name ref="">dieux</name> appeller à soy si la prist ma-
+<lb n="CDAM.370a:23"/>ladie / le bon homme de ce moult dolent
+<lb n="CDAM.370a:24"/>vint là et quant il vit que <name ref="">Sinaroch</name> se
+<lb n="CDAM.370a:25"/>mouroit il commença à crier / Las où
+<lb n="CDAM.370a:26"/>sont tes doulces paroles et les promesses
+<lb n="CDAM.370a:27"/>que tu m'avoies faictes que je verroye
+<lb n="CDAM.370a:28"/>ma fille / Ainsi trespassa en <name ref="">dieu</name> <name ref="">Sina-
+<lb n="CDAM.370a:29"/>roch</name> et n'y estoit pas le pere quant il tre-
+<lb n="CDAM.370a:30"/>spassa / un escript tenoit en sa main q<abbr expan="ue"/>
+<lb n="CDAM.370a:31"/>nul ne lui pouoit oster / L'abbé et tout le
+<lb n="CDAM.370a:32"/>couvent s'i vint essayer mais riens n'y
+<lb n="CDAM.370a:33"/>faisoient / sur cela vint le pere à grans
+<lb n="CDAM.370a:34"/>pleurs et à grans cris pour son bon amy
+<lb n="CDAM.370a:35"/>que il trouva mort oû quel estoit tout
+<lb n="CDAM.370a:36"/>son reconfort / et aussi tost que il s'apro-
+<lb n="CDAM.370a:37"/>cha du corps pour le baiser devant tous
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.370b:01"/>il ouvry la main et lui bailla l'escript / et cil<abbr expan=" "/>le
+<lb n="CDAM.370b:02"/>prist et list dedens comment elle estoit sa
+<lb n="CDAM.370b:03"/>fille et que nul ne touchast son corps pour
+<lb n="CDAM.370b:04"/>l'ensevelir fors lui / ceste chose fu merveilla-
+<lb n="CDAM.370b:05"/>ble à lui à l'abbé <note>tache de cire ?</note> et à tout le couvent qui m<abbr expan="ou"/>lt
+<lb n="CDAM.370b:06"/>louerent sa sainte constance et vertu / et au
+<lb n="CDAM.370b:07"/>pere redoubla le pleur en pitié et consolaci-
+<lb n="CDAM.370b:08"/>on de sa sainte vie / si vendi quanque il
+<lb n="CDAM.370b:09"/>avoit / léens se rendi et là fina sa vie &#x95; ¶ Or
+<lb n="CDAM.370b:10"/>t'ay dit de plusieurs vierges / si te diray d'au-
+<lb n="CDAM.370b:11"/>tres dames martires
+<lb n="CDAM.370b:12"/><hi rend="">de <name ref="">la benoite dame Anastaise</name> &#x95; xiiii</hi>
+<lb n="CDAM.370b:13"/><hi rend="cap2">L</hi>ors <note>lettre de préparation</note> que la grant persecucion estoit à
+<lb n="CDAM.370b:14"/><name ref="">Romme</name> oû temps de <name ref="">deodocien l'em-
+<lb n="CDAM.370b:15"/>pereur</name> avoit en la cité <name ref="">une moult noble
+<lb n="CDAM.370b:16"/>dame de grant richece et des plus aucto-
+<lb n="CDAM.370b:17"/>risées qui y fussent qui avoit nom ana-
+<lb n="CDAM.370b:18"/>staise</name> / celle dame avoit à merveilles g<abbr expan="ra"/>nt
+<lb n="CDAM.370b:19"/>compassion du tourment que elle veoit 
+<lb n="CDAM.370b:20"/>faire tous les jours aux <abbr expan="crest"/>iens benois
+<lb n="CDAM.370b:21"/>martirs et pour les reconforter et visi-
+<lb n="CDAM.370b:22"/>ter chacun jour se mettoit en abit d'une
+<lb n="CDAM.370b:23"/>povre femme et aloit à tout une pucelle
+<lb n="CDAM.370b:24"/>ès chartres où ilz estoient et les recon-
+<lb n="CDAM.370b:25"/>fortoit de vins precieux de vïandes et de
+<lb n="CDAM.370b:26"/>ce que elle pouoit / elle lavoit et torchoit
+<lb n="CDAM.370b:27"/>leurs playes et oignoit de precieux oigne-
+<lb n="CDAM.370b:28"/>mens / et tant<abbr expan=" "/>le continua ainsi que elle
+<lb n="CDAM.370b:29"/>fu accusée à <name ref="">publien qui estoit un noble
+<lb n="CDAM.370b:30"/>homme de romme</name> / qui la vouloit avoir à
+<lb n="CDAM.370b:31"/>femme qui moult<abbr expan=" "/>s'en courroussa et y mist
+<lb n="CDAM.370b:32"/>tieulx gardes que plus n'osoit yssir hors
+<lb n="CDAM.370b:33"/>de la maison / Adont avoit en la<abbr expan=" "/>char-
+<lb n="CDAM.370b:34"/>tre entre les autres martirs <name ref="">saint griso-
+<lb n="CDAM.370b:35"/>gone homme de grant excellence</name> qui
+<lb n="CDAM.370b:36"/>moult avoit souffert de griefs martires
+<lb n="CDAM.370b:37"/>et il estoit soustenus des biens de la visitacion
+<!-- top of signature, 'k' or 'h', in plummet -->
+
+
+<pb n="370" side="v"/>
+<lb n="CDAM.370v:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.370c:01"/>de celle <name ref="">sainte dame Anastaise</name> à la
+<lb n="CDAM.370c:02"/>quelle cellui saint envoya par une bonne
+<lb n="CDAM.370c:03"/>dame <abbr expan="crest"/>ienne celéement plusieurs epistres
+<lb n="CDAM.370c:04"/>la admonnestant de pacience et pareillement
+<lb n="CDAM.370c:05"/>lui en envoya elle par ycelle bonne dame / à la
+<lb n="CDAM.370c:06"/>parfin si que <name ref="">dieux</name> volt cellui qui si courte la
+<lb n="CDAM.370c:07"/>tenoit mourut et elle <note> mark like a left bookend</note> vendi tout quanque
+<lb n="CDAM.370c:08"/>elle avoit et tout employoit en la visitacion
+<lb n="CDAM.370c:09"/>et soustenance des martirs / celle noble dame
+<lb n="CDAM.370c:10"/>avoit moult grant suite de dames et de pu-
+<lb n="CDAM.370c:11"/>celles <abbr expan="crest"/>iennes et entre les autres y avoit
+<lb n="CDAM.370c:12"/>iii &#x95; vierges seurs de noble lignée qui moult
+<lb n="CDAM.370c:13"/>estoient ses familieres / l'une de ses <note>i.e. 'ces'</note> seurs a-
+<lb n="CDAM.370c:14"/>voit nom <name ref="">agape</name> / l'autre <name ref="">thione</name> / et la tierce
+<lb n="CDAM.370c:15"/><name ref="">hirene</name> / si vint à congnoissance à l'empereur
+<lb n="CDAM.370c:16"/>que ces &#x95; iii &#x95; nobles seurs estoient <abbr expan="crest"/>iennes
+<lb n="CDAM.370c:17"/>il les manda et leur promist grans dons
+<lb n="CDAM.370c:18"/>et que haultement les marieroit mais q<abbr expan="ue"/>
+<lb n="CDAM.370c:19"/>elles renonçassent à <name ref="">jhesucrist</name> / et co<abbr expan="m"/>me
+<lb n="CDAM.370c:20"/>elles ne feissent de tout ce nul compte il
+<lb n="CDAM.370c:21"/>les fist batre et puis mettre en dure chartre
+<lb n="CDAM.370c:22"/>en la quelle les visitoit <name ref="">leur sainte amie
+<lb n="CDAM.370c:23"/>Anastaise</name> qui ne s'en partoit nuit ne jour
+<lb n="CDAM.370c:24"/>et prioit à <name ref="">dieu</name> qu'il la laissast tant vivre
+<lb n="CDAM.370c:25"/>que ses biens dureroient affin que elle
+<lb n="CDAM.370c:26"/>les peust tous employer en celle sainte
+<lb n="CDAM.370c:27"/>oeuvre / L'empereur commanda à <name ref="">dulcici-
+<lb n="CDAM.370c:28"/>en son prevost</name> que tous les <abbr expan="crest"/>iens qui
+<lb n="CDAM.370c:29"/>estoient ès chartres fussent contrains p<abbr expan="ar"/>
+<lb n="CDAM.370c:30"/>tourmens à äourer les ydoles / si les fist
+<lb n="CDAM.370c:31"/>le dit prevost tous amener devant lui
+<lb n="CDAM.370c:32"/>entre les quieulx estoient les &#x95; iii &#x95; benoites <note>'s'allongé</note>
+<lb n="CDAM.370c:33"/>seurs / Quant le mauvais prevost les
+<lb n="CDAM.370c:34"/>vit il les couvoita pour leur beauté et
+<lb n="CDAM.370c:35"/>les admonnesta en secret par belles paro-
+<lb n="CDAM.370c:36"/>les et par promesses que elles s'acordasse<abbr expan="n"/>t
+<lb n="CDAM.370c:37"/>à lui / et il les delivreroit mais co<abbr expan="m"/>me elles <note>rising 's' allongé</note>
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.370d:01"/>fussent de tout ce reffusantes / il les bailla
+<lb n="CDAM.370d:02"/>à garder à un sien familier et mener en
+<lb n="CDAM.370d:03"/>sa maison et se pensa que bon gré ou mal
+<lb n="CDAM.370d:04"/>gré il les aroit / quant vint la nuit il ala
+<lb n="CDAM.370d:05"/>seul et sanz lumiere en l'ostel où avoit fait
+<lb n="CDAM.370d:06"/>mener ycelles et sicomme il vouloit aler
+<lb n="CDAM.370d:07"/>oû lieu où il ouoyt les voix des vierges qui
+<lb n="CDAM.370d:08"/>toute nuit disoient louange à <name ref="">dieu</name> il <note>'s' allongé</note> pas-
+<lb n="CDAM.370d:09"/>sa par le lieu où tous les vaisseaulx de la
+<lb n="CDAM.370d:10"/>cuisine estoient / et adont lui plain du dë-
+<lb n="CDAM.370d:11"/>able de l'esperit de luxure avuglé <note>'avugle' ?</note> si que
+<lb n="CDAM.370d:12"/><name ref="">dieu</name> volt prist à accoller et baiser estroit-
+<lb n="CDAM.370d:13"/>tement puis l'un puis l'autre de ses <note>'c' changed to 's' ?</note><note>'s' allongé</note> vais-
+<lb n="CDAM.370d:14"/>seaulx et cuidoit estre avec les pucelles
+<lb n="CDAM.370d:15"/>et tant ala ainsi faisant que il fu for-
+<lb n="CDAM.370d:16"/>ment lassez / et quant il fu jour il s'en
+<lb n="CDAM.370d:17"/>yssy à ses gens qui dehors l'attendoient <note>barre allongée</note>
+<lb n="CDAM.370d:18"/>les quieulx quant ainsi le virent ce
+<lb n="CDAM.370d:19"/>leur sembla la figure d'un dëable tant
+<lb n="CDAM.370d:20"/>estoit soullié gras et charbonné et sa
+<lb n="CDAM.370d:21"/>robe desroupte et traisnant par paleti-
+<lb n="CDAM.370d:22"/>aulx / si s'enfuirent <note>2 words?</note> tous effraez / et qua<abbr expan="n"/>t
+<lb n="CDAM.370d:23"/>il les vit ainsi fuir et que ilz le despitoi-
+<lb n="CDAM.370d:24"/>ent il s'esbahi à merveilles pourquoy c'e-
+<lb n="CDAM.370d:25"/>stoit / et sicomme il aloit par la Rue cha-
+<lb n="CDAM.370d:26"/>cun qui l'encontroit l'escharnissoit / si se
+<lb n="CDAM.370d:27"/>pensa que il s'en yroit tout droit plain-
+<lb n="CDAM.370d:28"/>dre à l'empereur de ce que chacun par
+<lb n="CDAM.370d:29"/>où il passoit l'escharnissoit / et quant il
+<lb n="CDAM.370d:30"/>fu entrez oû palais où plusieurs atten-
+<lb n="CDAM.370d:31"/>doient au matin / Adont commença sur
+<lb n="CDAM.370d:32"/>lui grande la huée / où l'un le batoit de
+<lb n="CDAM.370d:33"/>verges / l'autre le poussoit arriere / di-
+<lb n="CDAM.370d:34"/>sant va de là mal eureux abominable
+<lb n="CDAM.370d:35"/>tu pus tout / L'autre lui crachoit oû vi-
+<lb n="CDAM.370d:36"/>sage / et les autres s'en rïoyent / si estoit
+<lb n="CDAM.370d:37"/>tant <note>'tout' corrigé</note>esbahi que ce pouoit estre q<abbr expan="ue"/>à pou
+
+
+<pb n="371" side="r"/>
+<lb n="CDAM.371r:01"/><hi rend=""><s>d</s>e la Cité <note>centred</note> <s>d</s>es <note>centred</note> <s>d</s>ames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.371a:01"/>forcenoit / et le d<s>y</s>able lui avoit si clos les
+<lb n="CDAM.371a:02"/>yeulx que il ne se pouoit appercevoir si s'en
+<lb n="CDAM.371a:03"/>tourna ainsi moult affelonni ¶ Un au-
+<lb n="CDAM.371a:04"/>tre juge fu mis en son lieu qui fist venir
+<lb n="CDAM.371a:05"/>devant lui les &#x95; iii &#x95; beneurées vierges / et
+<lb n="CDAM.371a:06"/>leur voult faire äourer les ydoles / et pour
+<lb n="CDAM.371a:07"/>ce que riens n'en voldrent faire il les com-
+<lb n="CDAM.371a:08"/>manda estre despoullées toutes nues et
+<lb n="CDAM.371a:09"/>batues / mais oncques pour toute leur
+<lb n="CDAM.371a:10"/>puissance ne les porent despouller et
+<lb n="CDAM.371a:11"/>furent leur robes si aherses à elles que on
+<lb n="CDAM.371a:12"/>ne leur pot oster / si les fist bouter en un
+<lb n="CDAM.371a:13"/>feu très ardent mais riens ne leur gre-
+<lb n="CDAM.371a:14"/>voit / mais elles requirent à <name ref="">dieu</name> que là
+<lb n="CDAM.371a:15"/>finassent leur vie s'il lui plaisoit si <note>'s' allongé</note> tres-
+<lb n="CDAM.371a:16"/>passerent glorieusement / mais pour de-
+<lb n="CDAM.371a:17"/>monstrer que de leur voulenté estoit on-
+<lb n="CDAM.371a:18"/>ques le feu ne brusla <note>'p' changed to 'b' overwritten</note> cheveul ne vestem<abbr expan="en"/>t
+<lb n="CDAM.371a:19"/>que elles eussent / et quant le feu fu de-
+<lb n="CDAM.371a:20"/>gasté les corps d'elles furent trouvez les
+<lb n="CDAM.371a:21"/>mains jointes aussi entiers et les visa-
+<lb n="CDAM.371a:22"/>ges aussi frès que se elles dormissent
+<lb n="CDAM.371a:23"/>et <name ref="">la benoite Anastaise</name> qui d'elles se pre-
+<lb n="CDAM.371a:24"/>noit garde les enseveli
+<lb n="CDAM.371a:25"/><hi rend="">de <name ref="">la benoite theodorie</name> &#x95; xv</hi>
+<lb n="CDAM.371a:26"/><hi rend="cap2">U</hi>ne autre noble compaigne avoit
+<lb n="CDAM.371a:27"/><name ref="">Anastaise</name> qui estoit nommée <name ref="">the-
+<lb n="CDAM.371a:28"/>odorie</name> la quelle avoit &#x95; iii &#x95; petis filz / cel-
+<lb n="CDAM.371a:29"/>le dame pour ce que elle reffusa à ma-
+<lb n="CDAM.371a:30"/>riage le <name ref="">conte léocadien</name> et que elle ne
+<lb n="CDAM.371a:31"/>volt sacrifier aux ydoles plusieurs tourm<abbr expan="en"/>s
+<lb n="CDAM.371a:32"/>lui furent fais et pour mieulx la contrain-
+<lb n="CDAM.371a:33"/>dre par pitié de mere on fist tourmen-
+<lb n="CDAM.371a:34"/>ter l'un de ses filz / mais par la vertu
+<lb n="CDAM.371a:35"/>de foy qui passoit nature / elle le recon-
+<lb n="CDAM.371a:36"/>fortoit disant filz ne doubtes point ces
+<lb n="CDAM.371a:37"/>tourmens / Car par eulx tu yras en gloire /
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.371b:01"/>celle dame comme elle fust emprisonné
+<lb n="CDAM.371b:02"/>un filz du dyable vint à elle pour vïoler
+<lb n="CDAM.371b:03"/>sa chasteté / mais incontinent prist très
+<lb n="CDAM.371b:04"/>fort à seigner du nez / si s'escria que un
+<lb n="CDAM.371b:05"/>jouvencel qui estoit avec elle lui avoit
+<lb n="CDAM.371b:06"/>donné un coup de poing sur le nez / si fu
+<lb n="CDAM.371b:07"/>de rechef tourmentée et à la parfin occise
+<lb n="CDAM.371b:08"/>et ses &#x95; iii &#x95; filz aussi qui rendirent à <name ref="">dieu</name>
+<lb n="CDAM.371b:09"/>leur benois esperis gloriffians <name ref="">dieu</name> / et
+<lb n="CDAM.371b:10"/><name ref="">la glorieuse Anastaise</name> les enseveli ¶ Ja
+<lb n="CDAM.371b:11"/>avoit celle <name ref="">benoite Anastaise</name> tant freq<abbr expan="ue"/>n-
+<lb n="CDAM.371b:12"/>té la visitacion des martirs que elle fu
+<lb n="CDAM.371b:13"/>detenue en la chartre / si ne pot plus visiter
+<lb n="CDAM.371b:14"/><name ref="">les sains de dieu</name> et elle n'avoit que boi-
+<lb n="CDAM.371b:15"/>re ne que menger / mais <name ref="">dieu</name> qui ne volt
+<lb n="CDAM.371b:16"/>pas que celle qui tant dilige<abbr expan="m"/>ment avoit
+<lb n="CDAM.371b:17"/>confortez et repeus ses benois membres
+<lb n="CDAM.371b:18"/>eust souffrette / envoya vers elle l'esperit
+<lb n="CDAM.371b:19"/>de <name ref="">sa benoite compaigne theodorie</name> avec
+<lb n="CDAM.371b:20"/>grant lumiere qui lui mist la table / et
+<lb n="CDAM.371b:21"/>apporta diverses precieuses reffections
+<lb n="CDAM.371b:22"/>et l'acompaigna ainsi par &#x95; xxx &#x95; jours
+<lb n="CDAM.371b:23"/>que on ne lui avoit livré quelconques
+<lb n="CDAM.371b:24"/>chose à menger et cuidoit on que elle fust
+<lb n="CDAM.371b:25"/>morte de fain / si fu trouvée toute vi-
+<lb n="CDAM.371b:26"/>ve et menée devant le prevost qui gra<abbr expan="n"/>t
+<lb n="CDAM.371b:27"/>dueil en ot / et pour ce que plusieurs po<abbr expan="ur"/>
+<lb n="CDAM.371b:28"/>ce miracle se convertissoient il la fist
+<lb n="CDAM.371b:29"/>mettre en une nef avec plusieurs mal
+<lb n="CDAM.371b:30"/>faicteurs qui estoient condampnez à
+<lb n="CDAM.371b:31"/>mourir et quant ilz furent en haulte
+<lb n="CDAM.371b:32"/>mer les maronniers pour obeïr à ce que
+<lb n="CDAM.371b:33"/>leur estoit ordonné rompirent la nef
+<lb n="CDAM.371b:34"/>entrerent en une autre vaissel dont
+<lb n="CDAM.371b:35"/><name ref="">la benoite theodorie</name> s'apparut à eulx &amp;
+<lb n="CDAM.371b:36"/>les convoya par la mer une nuit et un
+<lb n="CDAM.371b:37"/>jour aussi seurement que se sur plaine
+<!-- signature 'lii' in plummet , second signature 'd j', but cropped at right and bottom margin, and only top half visible -->
+
+
+<pb n="371" side="v"/>
+<lb n="CDAM.371v:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<!-- parchemin plutôt transparent -->
+<lb n="CDAM.371c:01"/>terre feust tant que elle les mist en <name ref="">l'isle
+<lb n="CDAM.371c:02"/>de palme</name> en la quelle moult d'evesques &amp;
+<lb n="CDAM.371c:03"/>de sains hommes avoient esté envoyez en
+<lb n="CDAM.371c:04"/>exil / si furent là receus à louanges à <name ref="">dieu</name>
+<lb n="CDAM.371c:05"/>et à grant joye / et ceulx qui estoient escha-
+<lb n="CDAM.371c:06"/>pez avec <name ref="">Anastaise</name> furent baptisez et cru-
+<lb n="CDAM.371c:07"/>rent en <name ref="">dieu</name> / Ceste chose après venue à la
+<lb n="CDAM.371c:08"/>congnoissance de l'empereur les envoya to<abbr expan="us"/>
+<lb n="CDAM.371c:09"/>querre qui estoient que hommes que fem-
+<lb n="CDAM.371c:10"/>mes qu'enfans plus de &#x95; CCC &#x95; que il fist
+<lb n="CDAM.371c:11"/>tous mourir par tourmens et <name ref="">la benoite
+<lb n="CDAM.371c:12"/>Anastaise</name> après plusieurs grans argus
+<lb n="CDAM.371c:13"/>que elle fist à l'empereur et divers tour-
+<lb n="CDAM.371c:14"/>mens que elle receut fu couronnée par
+<lb n="CDAM.371c:15"/>martire <hi rend="">de <name ref="">la noble et sainte nathalie</name> &#x95; xvi &#x95;</hi>
+<lb n="CDAM.371c:16"/><name ref="">N2athalie la noble femme d'adrian
+<lb n="CDAM.371c:17"/>prince de la chevalerie de l'empere<abbr expan="ur"/>
+<lb n="CDAM.371c:18"/>maximian</name> comme elle fust <abbr expan="crist"/>iane secre-
+<lb n="CDAM.371c:19"/>tement oû temps que plusieurs crestïens
+<lb n="CDAM.371c:20"/>estoient martirez / elle ouÿ dire que <name ref="">A-
+<lb n="CDAM.371c:21"/>drian son mari</name> pour le quel elle prioit
+<lb n="CDAM.371c:22"/><name ref="">dieu</name> sanz cesser estoit soubdainement <note>barre longue</note>
+<lb n="CDAM.371c:23"/>convertis en regardant les martirs tour-
+<lb n="CDAM.371c:24"/>menter et avoit confessé le nom de <name ref="">jhesu-
+<lb n="CDAM.371c:25"/>crist</name> par quoy l'empereur de ce très aÿré
+<lb n="CDAM.371c:26"/>l'avoit fait mettre en très dure prison
+<lb n="CDAM.371c:27"/>La benoite dame très resjouÿe de la con-
+<lb n="CDAM.371c:28"/>vercion de son mari s'en ala tantost en
+<lb n="CDAM.371c:29"/>la chartre conforter ycellui prïant que
+<lb n="CDAM.371c:30"/>il voulsist perseverer en ce que il avoit
+<lb n="CDAM.371c:31"/>commencié et baisoit les liens dont il
+<lb n="CDAM.371c:32"/>estoit liez en plourant de pitié et de joye
+<lb n="CDAM.371c:33"/>et moult l'admonnestoit que il n'eust
+<lb n="CDAM.371c:34"/>mie regrait aux terrïennes joyes qui
+<lb n="CDAM.371c:35"/>pou durent / ains eust devant les yeulx
+<lb n="CDAM.371c:36"/>la grant gloire qui lui estoit appareil-
+<lb n="CDAM.371c:37"/>lée / là fu longuement ceste sainte dame
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.371d:01"/>confortant lui et tous les autres martirs
+<lb n="CDAM.371d:02"/>prïant <name ref="">dieu</name> que elle fust bien brief de
+<lb n="CDAM.371d:03"/>leur compaignie et moult leur pria q<abbr expan="ue"/><note>exaggerated abbreviation</note>
+<lb n="CDAM.371d:04"/>ilz reconfortassent son mari / du quel
+<lb n="CDAM.371d:05"/>elle se doubtoit que par la force des tour-
+<lb n="CDAM.371d:06"/>mens il ne chancelast en la fermeté de
+<lb n="CDAM.371d:07"/>la foy elle le visitoit par chacun jour &amp;
+<lb n="CDAM.371d:08"/>tous jours le sermonnoit de fermeté et
+<lb n="CDAM.371d:09"/>moult de belles paroles lui disoit / mais po<abbr expan="ur"/>
+<lb n="CDAM.371d:10"/>ce que elle et plusieurs dames visitoient
+<lb n="CDAM.371d:11"/>les sains martirs l'empereur fist deffendre
+<lb n="CDAM.371d:12"/>que femme n'y entrast / et pour ce elle se
+<lb n="CDAM.371d:13"/>vesti en guise d'omme et quant vint au
+<lb n="CDAM.371d:14"/>jour de son derrain martire elle fu pre-
+<lb n="CDAM.371d:15"/>sente et ses playes lui torchoit et baisoit
+<lb n="CDAM.371d:16"/>son sanc plourant par devocion et lui
+<lb n="CDAM.371d:17"/>prioit que il priast <name ref="">dieu</name> pour elle / et
+<lb n="CDAM.371d:18"/>ainsi le <name ref="">benoit Adrian</name> trespassa et<abbr expan=" "/>elle
+<lb n="CDAM.371d:19"/>l'enseveli moult devotement / et l'une
+<lb n="CDAM.371d:20"/>de ses mains qui lui avoit esté coppée
+<lb n="CDAM.371d:21"/>elle retint et enveloppa chierement co<abbr expan="m"/>-
+<lb n="CDAM.371d:22"/>me sainte relique / celle sainte dame
+<lb n="CDAM.371d:23"/>après la mort de son mari / <note> ?</note> on volt con-
+<lb n="CDAM.371d:24"/>traindre de marier pour ce que elle <note>'s' allongé</note> es-
+<lb n="CDAM.371d:25"/>toit de haulte lignée et belle et riche
+<lb n="CDAM.371d:26"/>si estoit adès en oroison prïant <name ref="">dieux</name>
+<lb n="CDAM.371d:27"/>que la voulsist tirer des mains de ceulz
+<lb n="CDAM.371d:28"/>qui contraindre la vouloient / et son ma-
+<lb n="CDAM.371d:29"/>ri lui apparut en dormant et la<abbr expan=" "/>reconfor-
+<lb n="CDAM.371d:30"/>ta et lui dist que elle alast en <name ref="">constan-
+<lb n="CDAM.371d:31"/>tinoble</name> ensevelir les corps de moult
+<lb n="CDAM.371d:32"/>de martirs qui là estoient / et elle le fist
+<lb n="CDAM.371d:33"/>voulentiers / et quant elle ot esté une
+<lb n="CDAM.371d:34"/>piece oû service divin en visitant les
+<lb n="CDAM.371d:35"/>sains martirs en chartres son mari de
+<lb n="CDAM.371d:36"/>Rechef s'apparu à elle / et lui dist seur
+<lb n="CDAM.371d:37"/>et amie <name ref="">chamberiere de jhesucrist</name><abbr expan=" "/>vien
+
+
+<pb n="372" side="r"/>
+<lb n="CDAM.372r:01"/><hi rend="">de la Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.372a:01"/>t'en en gloire pardurable Car <name ref="">n<abbr expan="ost"/>reseigneur</name>
+<lb n="CDAM.372a:02"/>t'appelle et adont celle s'esveilla / et tantost
+<lb n="CDAM.372a:03"/>après trespassa <hi rend="">de <name ref="">sainte affre</name> qui fu
+<lb n="CDAM.372a:04"/>fole femme convertie &#x95; xvii &#x95;</hi>
+<lb n="CDAM.372a:05"/><name ref="">A2ffre</name> <note>lettre de préparation</note> fu femme folieuse convertie à
+<lb n="CDAM.372a:06"/>la foy de <name ref="">jhesucrist</name> et fu accusée au
+<lb n="CDAM.372a:07"/>juge qui lui dist il ne te souffist mie la <note>'s' allongé</note> des-
+<lb n="CDAM.372a:08"/>honnesteté de ton corps se tu ne peches en
+<lb n="CDAM.372a:09"/>erreur de äourer dieu estrange / sacrifies
+<lb n="CDAM.372a:10"/>à noz dieux si que ilz te pardonnent / et <name ref="">af-
+<lb n="CDAM.372a:11"/>fre</name> respondi Je sacrifieray à mon <name ref="">dieu</name> qui
+<lb n="CDAM.372a:12"/>descendi pour les pecheurs / Car son euva<abbr expan="n"/>-
+<lb n="CDAM.372a:13"/>gile dit que une femme pecharresse lui la-
+<lb n="CDAM.372a:14"/>va les piez de ses larmes et<abbr expan=" "/>receut pardon
+<lb n="CDAM.372a:15"/>et il ne despita oncques les foles fe<abbr expan="m"/>mes
+<lb n="CDAM.372a:16"/>ne les pecheurs publicans ains les <note>'s' allongé</note> lais-
+<lb n="CDAM.372a:17"/>soit mengier avecques lui / le juge lui dist
+<lb n="CDAM.372a:18"/>se tu ne sacriffies tu ne seras pas amée de
+<lb n="CDAM.372a:19"/>tes ribaulx ne de eulx ne recevras dons /
+<lb n="CDAM.372a:20"/>et elle respondi jamais ne recevray don
+<lb n="CDAM.372a:21"/>escommenié et ceulx que j'ay injustement
+<lb n="CDAM.372a:22"/>receus j'ay prié aux povres que ilz les vueil-
+<lb n="CDAM.372a:23"/>lent prendre et prier pour moy / <note> ?</note> le juge
+<lb n="CDAM.372a:24"/>donna sa sentence que <name ref="">Affre</name> puis que sa-
+<lb n="CDAM.372a:25"/>criffier ne vouloit feust arse / et quant el-
+<lb n="CDAM.372a:26"/>le fut livrée au tourment elle äourant
+<lb n="CDAM.372a:27"/>disoit / <name ref="">Sire dieux tout puissant Ih<abbr expan="es"/>ucrist</name>
+<lb n="CDAM.372a:28"/>qui appelles les pecheurs à penitence reçoy
+<lb n="CDAM.372a:29"/>en bon gré mon martire en ceste heure de
+<lb n="CDAM.372a:30"/>ma passion et me delivre du feu pardu-
+<lb n="CDAM.372a:31"/>rable par ce feu materiel qui est appareil-
+<lb n="CDAM.372a:32"/>lié à mon corps / et celle toute avironné
+<lb n="CDAM.372a:33"/>de<add place="" type="" evidence="">u</add> <note>préparation de correction suscrite</note> feu disoit sire <name ref="">jhesucrist</name> daignes re-
+<lb n="CDAM.372a:34"/>cevoir moy povre pecharresse sacrifiée
+<lb n="CDAM.372a:35"/>pour ton saint nom / tu qui es offert seul
+<lb n="CDAM.372a:36"/>à sacrefice pour tout le monde et fus
+<lb n="CDAM.372a:37"/>mis justes en la croix pour les no<abbr expan="n"/>justes
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.372b:01"/>et bon pour les mauvais / benoit pour les mau-
+<lb n="CDAM.372b:02"/>dis / doulx pour les amers net et innocent
+<lb n="CDAM.372b:03"/>du pechié pour les pecheurs À toy offre le
+<lb n="CDAM.372b:04"/>sacrefice de mon corps qui vis et regnes avec
+<lb n="CDAM.372b:05"/>le <name ref="">pere</name> et le <name ref="">saint esperit</name> par tout le siecle
+<lb n="CDAM.372b:06"/>des siecles / Et ainsi fina <name ref="">la benoite Affre</name>
+<lb n="CDAM.372b:07"/>pour qui <name ref="">n<abbr expan="ost"/>reseigneur</name> demonstra puis
+<lb n="CDAM.372b:08"/>moult de miracles <hi rend="">dit <name ref="Justice"><c>j</c>ustice</name> de plusie<abbr expan="ur"/>s
+<lb n="CDAM.372b:09"/>nobles dames qui servirent et ostellere<abbr expan="n"/>t
+<lb n="CDAM.372b:10"/>les <name ref="">appostres</name> et autres sains</hi>
+<lb n="CDAM.372b:11"/><hi rend="cap2">Q</hi>ue <note>lettre de préparation grattée/ lavée</note> veulx tu que plus <hi rend="">&#x95; xviii &#x95;</hi>
+<lb n="CDAM.372b:12"/>je t'en die belle amie <name ref="Christine+de+Pizan"><abbr expan="Crist"/>ine</name> sanz
+<lb n="CDAM.372b:13"/>cesser te pourroit <note> 't' sur 'e'</note> ramentevoir tieulx exe<abbr expan="m"/>-
+<lb n="CDAM.372b:14"/>ples mais pour ce que tu es esmerveillée
+<lb n="CDAM.372b:15"/>sicomme tu as dit cy devant que auques
+<lb n="CDAM.372b:16"/>tous aucteurs tant blasment les fe<abbr expan="m"/>mes
+<lb n="CDAM.372b:17"/>Je te dis que quoy que tu ayes trouvé ès
+<lb n="CDAM.372b:18"/>escrips des aucteurs payens je croy q<abbr expan="ue"/>
+<lb n="CDAM.372b:19"/>à propos de blasme de femme pou trou-
+<lb n="CDAM.372b:20"/>veras ès saintes legendes et ès histoires
+<lb n="CDAM.372b:21"/>de <name ref="">jhesucrist</name> et de ses <name ref="">appostres</name> et mesme-
+<lb n="CDAM.372b:22"/>ment de tous les sains si que tu peus ve-
+<lb n="CDAM.372b:23"/>oir / ains merveilleuses constances et ver-
+<lb n="CDAM.372b:24"/>tus à grant nombre y trouveras par gra-
+<lb n="CDAM.372b:25"/>ce de <name ref="">dieu</name> en femmes &#x95; O les beaulx ser-
+<lb n="CDAM.372b:26"/>vices les grans charitez que elles par
+<lb n="CDAM.372b:27"/>grant cure et solicitude faisoient sanz
+<lb n="CDAM.372b:28"/>recréandise aux <name ref="">serfs de dieu</name> / les hospi-
+<lb n="CDAM.372b:29"/>talitez et les autres biens font ycestes
+<lb n="CDAM.372b:30"/>choses point à peser / et se aucuns folz ho<abbr expan="m"/>-
+<lb n="CDAM.372b:31"/>mes les vouloient tenir à frivoles nul
+<lb n="CDAM.372b:32"/>ne peut nyer que tieulx oeuvres selon
+<lb n="CDAM.372b:33"/>n<abbr expan="ost"/>re foy ne soient les escheles qui maine<abbr expan="n"/>t
+<lb n="CDAM.372b:34"/>oû ciel / Ainsi qu'il est escript de <name ref="">drusien-
+<lb n="CDAM.372b:35"/>ne qui estoit une bonne dame vesve</name> qui
+<lb n="CDAM.372b:36"/>recevoit à hostel <name ref="">saint Jehan l'euvange-
+<lb n="CDAM.372b:37"/>liste</name> et le servoit et administroit son vivre
+<!-- signature in plummet 'l iii' -->
+
+
+<pb n="372" side="v"/>
+<lb n="CDAM.372v:01"/><hi rend="">La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.372c:01"/>dont il advint quant le dit <name ref="">saint jehan</name> s'en
+<lb n="CDAM.372c:02"/>revenoit de son exil et ceulx de la cité lui fai-
+<lb n="CDAM.372c:03"/>soient grant feste l'en portoit <name ref="">drusienne</name> en ter-
+<lb n="CDAM.372c:04"/>re qui morte estoit de dueil de ce que il ta<abbr expan="n"/>t
+<lb n="CDAM.372c:05"/>demouroit / et les voisins lui dirent <name ref="">Jehan</name> voy
+<lb n="CDAM.372c:06"/>cy <name ref="">drusienne</name> ta bonne ostece qui est morte
+<lb n="CDAM.372c:07"/>pour l'ennui de ta demeure / elle ne te servira
+<lb n="CDAM.372c:08"/>plus / Adont <name ref="">saint jehan</name> lui dist <name ref="">drusienne</name>
+<lb n="CDAM.372c:09"/>lieve sus et va en ta maison et m'apreste ma
+<lb n="CDAM.372c:10"/>reffection et celle ressuscita ¶ Item <name ref="">une
+<lb n="CDAM.372c:11"/>vaillant et noble dame de la cité de limo-
+<lb n="CDAM.372c:12"/>ges nommée Susanne</name> fu la premiere
+<lb n="CDAM.372c:13"/>qui ostela <name ref="">saint marcial</name> qui là estoit en-
+<lb n="CDAM.372c:14"/>voyé par <name ref="">saint pierre</name> pour convertir le paÿs
+<lb n="CDAM.372c:15"/>et moult de biens lui fist celle dame &#x95;
+<lb n="CDAM.372c:16"/>¶ Item <name ref="">la bonne dame maximille</name> ense-
+<lb n="CDAM.372c:17"/>veli <name ref="">saint Andry</name> &amp; le osta de la croix et
+<lb n="CDAM.372c:18"/>en ce faisant se mist en peril de mort / /
+<lb n="CDAM.372c:19"/>¶ Item la <name ref="">sainte vierge epigene</name> suivoit
+<lb n="CDAM.372c:20"/>par devocion <name ref="">saint mathieu l'euvange-
+<lb n="CDAM.372c:21"/>liste</name> et le servoit et après sa mort lui fist
+<lb n="CDAM.372c:22"/>ediffier une eglise ¶ Item une autre
+<lb n="CDAM.372c:23"/>bonne dame estoit tant esprise de la sai<abbr expan="n"/>-
+<lb n="CDAM.372c:24"/>te amour de <name ref="">saint paul</name> que elle le suivoit
+<lb n="CDAM.372c:25"/>partout et le servoit par grant dilige<abbr expan="n"/>ce
+<lb n="CDAM.372c:26"/>¶ Item en cellui temps des <name ref="">appostres</name> <name ref="">une
+<lb n="CDAM.372c:27"/>noble Royne appellée helayne</name> et ne fu
+<lb n="CDAM.372c:28"/>pas celle qui fu <name ref="">mere de constantin</name> mais
+<lb n="CDAM.372c:29"/><name ref="">une autre royne des Albigois</name> qui ala
+<lb n="CDAM.372c:30"/>en <name ref="">jherusalem</name> oû quel lieu avoit très
+<lb n="CDAM.372c:31"/>grant cherté de vivres pour la famine
+<lb n="CDAM.372c:32"/>qui y estoit / et quant elle sceut que les
+<lb n="CDAM.372c:33"/>sains de <name ref="">n<abbr expan="ost"/>reseigneur</name> qui estoient en la
+<lb n="CDAM.372c:34"/>cité pour prescher et convertir le peuple
+<lb n="CDAM.372c:35"/>mouroient de fain elle fist acheter ta<abbr expan="n"/>t
+<lb n="CDAM.372c:36"/>de vivres que ilz en furent pourveus
+<lb n="CDAM.372c:37"/>tant que la famine dura ¶ <s>I</s>tem
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.372d:01"/>¶ Item quant on menoit <name ref="">saint paul</name>
+<lb n="CDAM.372d:02"/>pour decoler par le commandement <name ref="">noi-
+<lb n="CDAM.372d:03"/>ron</name> <name ref="">une bonne dame qui avoit nom pau-
+<lb n="CDAM.372d:04"/>cille</name> qui avoit accoustumé de l'admi-
+<lb n="CDAM.372d:05"/>nistrer lui \ vint au devant moult fort
+<lb n="CDAM.372d:06"/>plourant et <name ref="">saint paul</name> lui demanda le
+<lb n="CDAM.372d:07"/>cueuvrechief qu'elle avoit sur son chef
+<lb n="CDAM.372d:08"/>et elle lui bailla dont les mauvais qui
+<lb n="CDAM.372d:09"/>là estoient s'en moquoyent disant pour
+<lb n="CDAM.372d:10"/>ce que moult estoit bel que tant perdoit
+<lb n="CDAM.372d:11"/>elle / <name ref="">saint paul</name> lui mesmes en banda
+<lb n="CDAM.372d:12"/>ses yeulx / et puis quant il fu mort les
+<lb n="CDAM.372d:13"/>anges le rendirent à la femme tout<abbr expan=" "/>plai<abbr expan="n"/>
+<lb n="CDAM.372d:14"/>de sanc dont elle le tint moult cherem<abbr expan="en"/>t
+<lb n="CDAM.372d:15"/>&amp; <name ref="">saint paul</name> s'apparut à elle / et lui dist
+<lb n="CDAM.372d:16"/>que pour ce que elle lui avoit fait servi-
+<lb n="CDAM.372d:17"/>ce en ce terre que il lui feroit oû ciel en
+<lb n="CDAM.372d:18"/>prïant pour elle / de assez d'autres en
+<lb n="CDAM.372d:19"/>cas pareulx te pourroie dire ¶ <name ref="">Noble
+<lb n="CDAM.372d:20"/>dame fu baselice en la vertu de chari-
+<lb n="CDAM.372d:21"/>té</name> / elle fu mariée a <name ref="">saint julian</name> / et dè<s>s</s>
+<lb n="CDAM.372d:22"/>la nuit de leurs nopces eulx &#x95; ii vouere<abbr expan="n"/>t
+<lb n="CDAM.372d:23"/>d'un accort virginité et nul ne pourroit
+<lb n="CDAM.372d:24"/>penser la sainte conversacion de celle
+<lb n="CDAM.372d:25"/>vierge ne la multitude de femmes
+<lb n="CDAM.372d:26"/>et de vierges qui par sa sainte monicion
+<lb n="CDAM.372d:27"/>furent sauvées et tirées à sainte vie
+<lb n="CDAM.372d:28"/>et à brief dire tant desservi de grace
+<lb n="CDAM.372d:29"/>par la très grande charité qui estoit
+<lb n="CDAM.372d:30"/>en elle que <name ref="">n<abbr expan="ost"/>reseigneur</name> parla à elle
+<lb n="CDAM.372d:31"/>à son trespassement ¶ <s>J</s>e ne sçay q<abbr expan="ue"/>
+<lb n="CDAM.372d:32"/>plus t'en diroie <name ref="Christine+de+Pizan"><abbr expan="Crist"/>ine</name> sans nombre
+<lb n="CDAM.372d:33"/>pourroie compter de dames de di-
+<lb n="CDAM.372d:34"/>ver<s>s</s> <note>rising 's, inserted?</note> estas tant vierges comme ve<s>s</s>-
+<lb n="CDAM.372d:35"/>ves ou mariées en qui <name ref="">dieux</name> a de-
+<lb n="CDAM.372d:36"/>monstré ses vertus par merveilleuse
+<lb n="CDAM.372d:37"/>force et constance / Si te souffise à ta<abbr expan="n"/>t <note>'atant' ?</note>
+
+
+<pb n="373" side="r"/>
+<lb n="CDAM.373r:01"/><hi rend="">de la <note>centred</note> Cité <note>centred</note> des dames xxix</hi> <note>centred</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.373a:01"/>car bien et bel si qu'il m'est vis me suis ac-
+<lb n="CDAM.373a:02"/>quitée de mon office en parfaisant les
+<lb n="CDAM.373a:03"/>haulx combles de ta cité et la te peupler
+<lb n="CDAM.373a:04"/>de excellens dames / si que je te promis &amp;
+<lb n="CDAM.373a:05"/>cestes derrenieres serviront de portes et <note>barre longue</note>
+<lb n="CDAM.373a:06"/>de clostures en n<abbr expan="ost"/>re cité / et non obstant q<abbr expan="ue"/>
+<lb n="CDAM.373a:07"/>je ne nomme ne nommer pourroye fors
+<lb n="CDAM.373a:08"/>à peines les saintes dames qui ont esté
+<lb n="CDAM.373a:09"/>qui sont et qui seront / elles pevent toutes
+<lb n="CDAM.373a:10"/>estre comprises en ceste <name ref="">cité des dames</name> de
+<lb n="CDAM.373a:11"/>la quelle se peut dire &#x95; Gloriosa dicta
+<lb n="CDAM.373a:12"/>sunt de te civitas dei <note>la citation est soulignée à l'encre rouge</note> / Si la te rens
+<lb n="CDAM.373a:13"/>close parfaicte et bien fermée / si que je te
+<lb n="CDAM.373a:14"/>promis &#x95; A Dieu te dy la paix du sou-
+<lb n="CDAM.373a:15"/>verain soit permanent avecques toy
+<lb n="CDAM.373a:16"/><hi rend="">La fin du livre / <note> ?</note> parle <name ref="">cristine</name> <note>toutes lettres</note> aux
+<lb n="CDAM.373a:17"/>dames &#x95; xix &#x95;</hi>
+<lb n="CDAM.373a:18"/><hi rend="cap2">M</hi>es <note>lettre de préparation</note> très redoubtées dames <name ref="">dieux</name> soit
+<lb n="CDAM.373a:19"/>louez / or est du tout achevée et p<abbr expan="ar"/>-
+<lb n="CDAM.373a:20"/>faicte n<abbr expan="ost"/>re cité en la quelle à grant ho<abbr expan="n"/>neur
+<lb n="CDAM.373a:21"/>vous toutes celles qui amez gloire vertu
+<lb n="CDAM.373a:22"/>et loz pouez estre hebergées tant les <note>'s' allongé</note> pas-
+<lb n="CDAM.373a:23"/>sées dames comme les presentes et celles
+<lb n="CDAM.373a:24"/>à avenir / Car pour toute dame hono-
+<lb n="CDAM.373a:25"/>rable est faicte et fondée / Et mes tresche-
+<lb n="CDAM.373a:26"/>res dames chose naturelle est à cuer hu-
+<lb n="CDAM.373a:27"/>main de soy esjouÿr quant il se treuve
+<lb n="CDAM.373a:28"/>avoir victoire d'aucune emprise et que
+<lb n="CDAM.373a:29"/>ses ennemis soient confondus / si avez
+<lb n="CDAM.373a:30"/>cause or endroit mes dames de \ vous <note>'s' allongé</note> es-
+<lb n="CDAM.373a:31"/>jouyr vertueusement en <name ref="">dieu</name> et bonnes
+<lb n="CDAM.373a:32"/>meurs par ceste nouvelle cité veoir par-
+<lb n="CDAM.373a:33"/>faicte qui peut estre non mie seulement
+<lb n="CDAM.373a:34"/>le refuge de vous toutes c'est à entendre
+<lb n="CDAM.373a:35"/>des vertueuses / mais aussi la deffence et
+<lb n="CDAM.373a:36"/>garde contre voz ennemis et assaillans
+<lb n="CDAM.373a:37"/>se bien la gardez / Car vous pouez veoir
+
+<cb n="b"/>
+<!-- 37 lines -->
+<lb n="CDAM.373b:01"/>que la matiere dont elle est faicte est tou-
+<lb n="CDAM.373b:02"/>te de vertu voire si reluisant que toutes
+<lb n="CDAM.373b:03"/>vous y pouez mirer et par especial ès com-
+<lb n="CDAM.373b:04"/>bles de ceste derreniere partie / et sembla-
+<lb n="CDAM.373b:05"/>blement en ce qui vous peut toucher des
+<lb n="CDAM.373b:06"/>autres / Et mes cheres dames / si ne<abbr expan=" "/>vueil-
+<lb n="CDAM.373b:07"/>lés mie user de ce nouvel heritage / sico<abbr expan="m"/>-
+<lb n="CDAM.373b:08"/>me font les arrogans qui deviennent
+<lb n="CDAM.373b:09"/>orgueilleux quant leur prosperité croist
+<lb n="CDAM.373b:10"/>et leur richece multiplie Ains par l'exe<abbr expan="m"/>-
+<lb n="CDAM.373b:11"/>ple de <name ref="">vostre royne la vierge souveraine</name>
+<lb n="CDAM.373b:12"/>qui après si grant honneur que on lui ad-
+<lb n="CDAM.373b:13"/>nonçoit comme d'estre <name ref="">mere du filz de di-
+<lb n="CDAM.373b:14"/>eu</name> elle tant plus s'umilïa en se appellant
+<lb n="CDAM.373b:15"/><name ref="">Chamberiere de dieu</name> / ainsi mes dames
+<lb n="CDAM.373b:16"/>comme il soit voir que les vertus plus so<abbr expan="n"/>t
+<lb n="CDAM.373b:17"/>grandes en créature plus <add place="" type="" evidence="">le</add> <note>trait plus fin et léger</note> rendent hum-
+<lb n="CDAM.373b:18"/>ble et benigne vous soit cause ceste cité
+<lb n="CDAM.373b:19"/>d'avoir bonnes meurs &amp; estre vertueuse<add place="" type="" evidence="">s</add> <note>rising 's'</note> &amp;
+<lb n="CDAM.373b:20"/>humbles ¶ Et entre vous dames qui
+<lb n="CDAM.373b:21"/>estes mariées n'ayés point à despit de
+<lb n="CDAM.373b:22"/>estre tant subgètes à voz mariez / Car
+<lb n="CDAM.373b:23"/>n'est pas aucune foiz <note>aucunefoiz ?</note> le meilleur à créa-
+<lb n="CDAM.373b:24"/>ture d'estre franche / et ce tesmoigne ce
+<lb n="CDAM.373b:25"/>que l'<name ref="">ange de dieu</name> dit à <name ref="">Esdras</name> ceulz
+<lb n="CDAM.373b:26"/>dist il qui userent de leur franche vou-
+<lb n="CDAM.373b:27"/>lenté cheyrent en pechié et despirent
+<lb n="CDAM.373b:28"/><name ref="">n<abbr expan="ost"/>re seigneur</name> et deffoullerent les justes<note>rising 's' allongé</note>
+<lb n="CDAM.373b:29"/>et pour ce furent peris / et celles qui
+<lb n="CDAM.373b:30"/>ont maris paysibles bons et discrès
+<lb n="CDAM.373b:31"/>et à elles de grant amour loent <name ref="">dieu</name>
+<lb n="CDAM.373b:32"/>de ce benefice qui n'est pas petit / car
+<lb n="CDAM.373b:33"/>plus grant bien au monde ne leur pou-
+<lb n="CDAM.373b:34"/>roit estre donné / et soient diligentes
+<lb n="CDAM.373b:35"/>de les servir amer et cherir en la loy-
+<lb n="CDAM.373b:36"/>auté de leur cuer si que elles doivent
+<lb n="CDAM.373b:37"/>gardant <note>'s' changed to't', overwritten</note> leur paix et prïant <name ref="">dieu</name>
+
+
+<pb n="373" side="v"/>
+<!-- transparent parchment -->
+<lb n="CDAM.373v:01"/><hi rend=""><note>offset</note> La Cité <note>centred</note> des <note>centred</note> dames xxix</hi> <note>centred</note>
+
+<cb n="c"/>
+<!-- 37 lines -->
+<lb n="CDAM.373c:01"/>qu'il leur maintiengne et sauve / et celles q<abbr expan="ui"/>
+<lb n="CDAM.373c:02"/>les ont moyens entre bons et mauvais an-
+<lb n="CDAM.373c:03"/>cores doivent <name ref="">dieux</name> louer que elles n'ont
+<lb n="CDAM.373c:04"/>des pires et mettre peine de les amoderer
+<lb n="CDAM.373c:05"/>en leur perversité et les tenir en paix se-
+<lb n="CDAM.373c:06"/>lon leurs condicions / et celles qui les ont
+<lb n="CDAM.373c:07"/>divers felons et reveches mettent peine te-
+<lb n="CDAM.373c:08"/>le en endurant que elles puissent convai<abbr expan="n"/>-
+<lb n="CDAM.373c:09"/>cre leur felonnie et les ramener se elles
+<lb n="CDAM.373c:10"/>pevent à vie raisonnable et debonnaire
+<lb n="CDAM.373c:11"/>et se<abbr expan=" "/>yceulx sont tant obstinez que elles
+<lb n="CDAM.373c:12"/>ne puissent au moins y acquerront elles
+<lb n="CDAM.373c:13"/>grant merite à leurs ames par la vertu
+<lb n="CDAM.373c:14"/>de pacience et tout le monde les beneistra
+<lb n="CDAM.373c:15"/>et sera pour elles ¶ Ainsi mes dames
+<lb n="CDAM.373c:16"/>soiés humbles et pacientes et la grace de
+<lb n="CDAM.373c:17"/><name ref="">dieu</name> croistra en vous et louange vous se-
+<lb n="CDAM.373c:18"/>ra donnée et le Regne des cieulx / Car
+<lb n="CDAM.373c:19"/>dit <name ref="">saint gregoire</name> que pacience est en-
+<lb n="CDAM.373c:20"/>trée de <name ref="">paradis</name> et la voye de <name ref="">jhesucrist</name>
+<lb n="CDAM.373c:21"/>et ne soit nulle de vous ahurtée ne
+<lb n="CDAM.373c:22"/>endurcie à oppinions frivoles sanz fon-
+<lb n="CDAM.373c:23"/>dement de raison ne en jalousies ne
+<lb n="CDAM.373c:24"/>en perversitez de testes ne en haultai-
+<lb n="CDAM.373c:25"/>netez de paroles / n'en oeuvres oultra-
+<lb n="CDAM.373c:26"/>geuses / car ce sont choses qui bestourne<abbr expan="n"/>t
+<lb n="CDAM.373c:27"/>le sens et rendent la personne co<abbr expan="m"/>me
+<lb n="CDAM.373c:28"/>forcenée / Les quelles manieres sont à
+<lb n="CDAM.373c:29"/>femmes très descouvenables et mal sé-
+<lb n="CDAM.373c:30"/>antes ¶ Et entre vous vierges en <note>'s' allongé</note> l'es-
+<lb n="CDAM.373c:31"/>tat de pucelage / soiés pures simples
+<lb n="CDAM.373c:32"/>et quoyes sanz vagueté / Car les las
+<lb n="CDAM.373c:33"/>des mauvais sont mis contre vous
+<lb n="CDAM.373c:34"/>voz Regars soient bas / pou de paroles
+<lb n="CDAM.373c:35"/>en voz bouches cremeur soit en tous
+<lb n="CDAM.373c:36"/>voz fais et soiez armées de vertueuses
+<!-- 1 blank line(s) here -->
+
+<cb n="d"/>
+<!-- 37 lines -->
+<lb n="CDAM.373d:01"/>force contre les cautelles des deceveurs &amp;
+<lb n="CDAM.373d:02"/>eschevez leur frequentacion ¶ Et aux
+<lb n="CDAM.373d:03"/>vesves dames soit honnesteté en abit /
+<lb n="CDAM.373d:04"/>maintien et parole devocion en fait et
+<lb n="CDAM.373d:05"/>en conversacion prudente en gouvernem<abbr expan="en"/>t
+<lb n="CDAM.373d:06"/>pacience qui bien besoing ya <note>agglutinés</note> / force et
+<lb n="CDAM.373d:07"/>resistence en tribulacions et grans af-
+<lb n="CDAM.373d:08"/>faires / humilité en cuer contenance &amp;
+<lb n="CDAM.373d:09"/>paroles / &amp; charité en oeuvres ¶ Et bri-
+<lb n="CDAM.373d:10"/>efment toutes femmes soient grandes
+<lb n="CDAM.373d:11"/>moyennes ou petites vueillez estre sur
+<lb n="CDAM.373d:12"/>toute riens avisées et caultes en deffen-
+<lb n="CDAM.373d:13"/>ce contre les ennemis de voz honneurs et
+<lb n="CDAM.373d:14"/>de vostre chasteté / voyez mes dames co<abbr expan="m"/>-
+<lb n="CDAM.373d:15"/>ment ces hommes vous accusent de
+<lb n="CDAM.373d:16"/>tant de vices et de toutes pars / Faites <note>'ff'</note>
+<lb n="CDAM.373d:17"/>les tous menteurs par monstrer vostre
+<lb n="CDAM.373d:18"/>vertu et prouvez mençongeurs ceulx
+<lb n="CDAM.373d:19"/>qui vous blasment par bien faire en te-
+<lb n="CDAM.373d:20"/>le maniere que vous puissiés dire avec
+<lb n="CDAM.373d:21"/>le psalmiste / La felonnie des mauvais
+<lb n="CDAM.373d:22"/>cherra sur leur teste / Si deboutez arrie-
+<lb n="CDAM.373d:23"/>re les losangeurs decevables qui par
+<lb n="CDAM.373d:24"/>divers attrais tachent par mains tours <note>rising 's' allongé, ajouté ?</note>
+<lb n="CDAM.373d:25"/>à soubtraire ce que tant souverainem<abbr expan="en"/>t
+<lb n="CDAM.373d:26"/>devez garder C'est à savoir voz honne<abbr expan="ur"/>s
+<lb n="CDAM.373d:27"/>et la beauté de vostre loz / O mes dames
+<lb n="CDAM.373d:28"/>fuyez fuyez la fole amour dont ilz vous
+<lb n="CDAM.373d:29"/>admonnestent / fuyez la pour <name ref="">dieu</name> fu-
+<lb n="CDAM.373d:30"/>yez / Car nul bien ne vous en peut ve-
+<lb n="CDAM.373d:31"/>nir / Ains soiés certaines que quoy q<abbr expan="ue"/>
+<lb n="CDAM.373d:32"/>les aluchemens en soient decevables
+<lb n="CDAM.373d:33"/>que tous jours en est la fin à voz pre-
+<lb n="CDAM.373d:34"/>judices et ne croyez le contraire / car
+<lb n="CDAM.373d:35"/>autrement ne peut estre / Souviengne
+<lb n="CDAM.373d:36"/>vous cheres dames co<abbr expan="m"/>ment ces hommes
+<!-- 1 blank line(s) here -->
+
+
+<pb n="374" side="r"/>
+<lb n="CDAM.374r:01"/><hi rend="">la cité des dames xxix</hi> <note>centred, col. gauche</note>
+
+<cb n="a"/>
+<!-- 37 lines -->
+<lb n="CDAM.374a:01"/>vous appellent fraisles legieres et tost tour-
+<lb n="CDAM.374a:02"/>nées et comment toutevoyes ilz quierent
+<lb n="CDAM.374a:03"/>tous engins estranges et decevables a grans <note>rising 's' allongé, ajouté ?</note>
+<lb n="CDAM.374a:04"/>peines et travaulx pour vous prendre si
+<lb n="CDAM.374a:05"/>que on fait les bestes aux las / Fuyez <note>'ff'</note> fuyez
+<lb n="CDAM.374a:06"/>mes dames et eschevez tieulx acointances
+<lb n="CDAM.374a:07"/>soubs les quieulx ris sont enveloppez venins
+<lb n="CDAM.374a:08"/>très angoisseux et qui livrent à mort / et
+<lb n="CDAM.374a:09"/>ainsi vous plaise mes très redoubtées pour
+<lb n="CDAM.374a:10"/>les vertus attraire / et fuyr les vices accroi-
+<lb n="CDAM.374a:11"/>stre et multiplier n<abbr expan="ost"/>re cité vous resjouÿr et
+<lb n="CDAM.374a:12"/>bien faire / Et moy vostre servante vous
+<lb n="CDAM.374a:13"/>soit Recommandée en prïant <name ref="">dieu</name> qui p<abbr expan="ar"/>
+<lb n="CDAM.374a:14"/>sa grace en cestui monde me doint vivre
+<lb n="CDAM.374a:15"/>et perseverer en son saint service / et à la
+<lb n="CDAM.374a:16"/>fin soit pitéable à mes grans deffaulx
+<lb n="CDAM.374a:17"/>et m'ottroit la joye qui à tous jours dure
+<lb n="CDAM.374a:18"/>La quelle <note>longue queue</note> ainsi par sa grace vous face
+<lb n="CDAM.374a:19"/>Amen <note>centred</note>
+<!-- 3 blank line(s) here -->
+<lb n="CDAM.374a:23"/>Explicit la troiziesme et derreniere par-
+<lb n="CDAM.374a:24"/>tie du <name ref="">livre de la Cité des Dames</name>
+<!-- 13 blank line(s) here -->
+
+<cb n="b"/>
+<!-- ruled, but blank -->
+
+
+<pb n="374" side="v"/>
+<!-- no heading, lines ruled in preparation -->
+
+<cb n="c"/>
+<!-- ruled, but blank -->
+
+<cb n="d"/>
+<!-- ruled, but blank -->
+
+
+<pb n="375" side="r"/>
+<!-- no heading, no ruled lines -->
+
+<cb n="a"/>
+<!-- ruled, but blank -->
+
+<cb n="b"/>
+<!-- ruled, but blank -->
+
+
+<pb n="375" side="v"/>
+<!-- no heading, no ruled lines -->
+
+<cb n="c"/>
+<!-- ruled, but blank -->
+
+<cb n="d"/>
+<!-- ruled, but blank -->
+<!-- cursive catchword close to bottom margin, 'Cent balades', the two words straddle the left margin of column d -->
+<lb n="CDAM.375d:01"/>
+
+</text>
+</tei5>

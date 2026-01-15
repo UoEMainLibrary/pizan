@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact pizan@ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Jeux à vendre" type="Item">
+<pb n="034" ed="v"/><layout ruledLines="yes" rend="within ruling"></layout>
+<lb n="JEUX.034v:01 "/><hi rend="red"><fw type="header1" place="col c" rend="centred" ><s>G</s>ieux à <s>v</s>endre</fw>  <fw type="header2" place="intercolumn" rend="centred" >&#x95; <s>v</s>iii &#x95;</fw></hi>
+<cb n="c"/><layout ruledLines="40"/>
+<lb n="JEUX.034c:01 "/><fw place="inline" rend="centred" type="header">Geux à vendre</fw>
+<!-- 1 blank line -->
+<lb n="JEUX.034c:03 "/><group n=" 1"/><div2 n=" 1" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la passe <rhyme>rose</rhyme>.<note>SATF Jeu 1.</note>
+<lb n="JEUX.034c:04 "/>"<name ref="The+Lady">Belle</name>, dire ne vous <rhyme>ose</rhyme>
+<lb n="JEUX.034c:05 "/>Comment <name ref="God+of+Love"><c>a</c>mours</name> vers vo<abbr type="us"/> me <rhyme>tire</rhyme>,
+<lb n="JEUX.034c:06 "/>Si l'appercevez tout sanz <rhyme>dire</rhyme>."<l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034c:08 "/><group n=" 2"/><div2 n=" 2" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la fueille <rhyme>trembla<abbr type="n"/>t</rhyme>.<note>SATF Jeu 2.</note>
+<lb n="JEUX.034c:09 "/>"Maint faulx amans par leur <rhyme>sembla<abbr type="n"/>t</rhyme>
+<lb n="JEUX.034c:10 "/>Font grant mençonge sembler <rhyme><g lemma="voir2" en="true" fr="vrai">voire</g></rhyme>,
+<lb n="JEUX.034c:11 "/>Si ne doyt on mie tout <rhyme>croire</rhyme>."<l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034c:13 "/><group n=" 3"/><div2 n=" 3" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la <name ref="Lord's+Prayer">pater <rhyme>nostre</rhyme></name><note>SATF Jeu  3. The line is hypometric.</note>
+<lb n="JEUX.034c:14 "/>"Vous savez bien que je suis <rhyme>vostre</rhyme>
+<lb n="JEUX.034c:15 "/>Në oncques à autre ne <rhyme>fus</rhyme>,<note>Hiatus.</note>
+<lb n="JEUX.034c:16 "/>Si ne faites de moy <rhyme>refus</rhyme>,<l n=" 4"/>
+<lb n="JEUX.034c:17 "/><name ref="The+Lady">Belle</name> que j'aim, mais sans <rhyme>demour</rhyme>
+<lb n="JEUX.034c:18 "/>Me vueillés donner vostre <rhyme>amour</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034c:20 "/><group n=" 4"/><div2 n="4" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le <rhyme><g lemma="papegai" en="parrot" fr="perroquet">papegay</g></rhyme>.<note>SATF Jeu 4. The line is hypometric.</note>
+<lb n="JEUX.034c:21 "/>"Vous estes bel et bon et <rhyme>gay</rhyme>,
+<lb n="JEUX.034c:22 "/><name ref="The+Lover">Sire</name>, et en tous cas bien <rhyme>appris</rhyme>,
+<lb n="JEUX.034c:23 "/>Mais oncques à amer <rhyme>n'appris</rhyme>,<l n=" 4"/>
+<lb n="JEUX.034c:24 "/>Ancor n'y saroië <rhyme>apprendre</rhyme><note>Hiatus.</note>
+<lb n="JEUX.034c:25 "/>Në amer par amours me <rhyme>prendre</rhyme>."<note>Hiatus.</note></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034c:27 "/><group n=" 5"/><div2 n="5" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la flour <add place="inline" evidence="lighter ink, alignment" type="copyist">de <rhyme><g lemma="meslier" en="medlar" fr="néflier">mellier</g></rhyme></add><note>SATF Jeu 5.</note>
+<lb n="JEUX.034c:28 "/>"<name ref="Knight">Sire jolis <rhyme>chevalier</rhyme></name>,<note>Hypometric line.</note>
+<lb n="JEUX.034c:29 "/>Tele pour vous souvent <rhyme>souspire</rhyme>
+<lb n="JEUX.034c:30 "/>Qui vous aime et ne l'ose <rhyme>dire</rhyme>."<l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034c:32 "/><group n=" 6"/><div2 n="6" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'esparvier <rhyme>appris</rhyme>.<note>SATF Jeu 6.</note>
+<lb n="JEUX.034c:33 "/>"Bien vouldroie estre de tel <rhyme>pris</rhyme>
+<lb n="JEUX.034c:34 "/>Qu'aucune damoiselle ou <rhyme>dame</rhyme>
+<lb n="JEUX.034c:35 "/>Me daignast amer, car, par <rhyme>m'ame</rhyme>,<l n=" 4"/>
+<lb n="JEUX.034c:36 "/>À mon povoir la <rhyme>serviroie</rhyme>
+<lb n="JEUX.034c:37 "/>Tant que s'amour <rhyme><g lemma="desservir" en="to deserve" fr="mériter">desserviroye</g></rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034c:39 "/><group n=" 7"/><div2 n=" 7" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le <add place="inline" evidence="lighter ink, alignment" type="copyist">vert <rhyme>mugait</rhyme></add>.<note>SATF Jeu 7.</note>
+<lb n="JEUX.034c:40 "/>"<c>m</c>esdisans sont <add place="inline" evidence="lighter ink, alignment" type="copyist">en <rhyme>agait</rhyme></add>,
+<cb n="d"/><layout ruledLines="40"/>
+<lb n="JEUX.034d:01 "/><name ref="The+Lover">Doulx ami</name>, pour nous <rhyme>gaitier</rhyme>,
+<lb n="JEUX.034d:02 "/>Si querez autre <rhyme>sentier</rhyme><l n=" 4"/>
+<lb n="JEUX.034d:03 "/>Quant vers moy venir <rhyme>devrés</rhyme>
+<lb n="JEUX.034d:04 "/>Et l'eure sonner <rhyme><g lemma="ouïr" en="to hear" fr="entendre" type="fut. 5">orrés</g></rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034d:06 "/><group n=" 8"/><div2 n=" 8" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">D</hi>u <name ref="Amour">dieu d'<c>a</c>mours</name> vous vens le <rhyme>dart</rhyme>.<note>SATF Jeu 8.</note>
+<lb n="JEUX.034d:07 "/>"<c>q</c>ui m'a navré par le <rhyme>regart</rhyme>
+<lb n="JEUX.034d:08 "/>De voz beaulx yeulx, <name ref="The Lady"><c>d</c>ame <rhyme>jolie</rhyme></name>,
+<lb n="JEUX.034d:09 "/>Qui à vous amer si me<supplied reason="sense" resp="JCL"> </supplied><rhyme>lie</rhyme><l n=" 4"/>
+<lb n="JEUX.034d:10 "/>Que j'en seray à mort <rhyme>livré</rhyme>,
+<lb n="JEUX.034d:11 "/>Se par vous ne suis <rhyme>delivré</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034d:13 "/><group n=" 9"/><div2 n=" 9" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">D</hi>u <name ref="Amour">dieu d'<c>a</c>mours</name> vous vens <rhyme>l'usage</rhyme>.<note>SATF Jeu 9.</note>
+<lb n="JEUX.034d:14 "/>"<c>p</c>as n'<g lemma="apparoir" en="to appear" fr="apparaître" type="ind. 3">appert</g> à vostre <rhyme>visage</rhyme>
+<lb n="JEUX.034d:15 "/>Que vous soyés d'amours <rhyme>malade</rhyme>,
+<lb n="JEUX.034d:16 "/>Car la maladie est moult <rhyme><g lemma="sade" en="pleasing, agreeable" fr="doux, agréable ">sade</g></rhyme><l n=" 4"/>
+<lb n="JEUX.034d:17 "/>Dont le visage en riens <rhyme>n'empire</rhyme>,
+<lb n="JEUX.034d:18 "/>Mais tel n'a nul mal qui <rhyme>souspire</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034d:20 "/><group n="10"/><div2 n="10" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la fleur de <rhyme>lis</rhyme>.<note>SATF Jeu 10. The line is Hypometric`.</note>
+<lb n="JEUX.034d:21 "/>"<choice><sic><del rend="strikethrough">Vray</del></sic><corr reason="scansion" resp="JCL" source="MS4431 corrected in error">Vray</corr></choice> amant doit estrë <rhyme><g lemma="joli" en="happy, joyous" fr="heureux, joyeux" type="adj. masc. nom. s.">jolis</g></rhyme>,
+<lb n="JEUX.034d:22 "/>Sage, courtois et bien <rhyme>appris</rhyme>,
+<lb n="JEUX.034d:23 "/>Amer honneur, armes et <rhyme>pris</rhyme>,<l n=" 4"/>
+<lb n="JEUX.034d:24 "/>Loyal, secret et sans <rhyme><g lemma="amer" en="coarseness, maliciousness" fr="rudesse, méchanceté">amer</g></rhyme>
+<lb n="JEUX.034d:25 "/>Qui tel l'a,<note>'The lady who has such a lover...'</note> bien \ le doit <rhyme>amer</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034d:27 "/><group n="11"/><div2 n="11" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens du rosier la <rhyme>fueille</rhyme>.<note>SATF Jeu 11.</note>
+<lb n="JEUX.034d:28 "/>"<c>j</c>e prie au <name ref="God+of+Love">dieu d'<c>a</c>mours</name> qu'il <rhyme>vueille</rhyme>
+<lb n="JEUX.034d:29 "/>Briefment m'ottroier tant de <rhyme>grace</rhyme>
+<lb n="JEUX.034d:30 "/>Qu'aquerir puisse vostre <rhyme><g lemma="grâce" en="" fr="acceptation par la dame de l'amour offert">grace</g></rhyme>."<l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034d:32 "/><group n="12"/><div2 n="12" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la <rhyme>turterelle</rhyme>.<note>SATF Jeu 12.</note>
+<lb n="JEUX.034d:33 "/>"Seulette et toute <g lemma="part1" en="alone, apart" fr="toute seule, à l'écart">à par<supplied reason="sense" resp="JCL">t</supplied> <rhyme>elle</rhyme></g>
+<lb n="JEUX.034d:34 "/>San<del rend="erasure"></del><add place="inline" evidence="paler ink">s</add> per <del rend="erasure"></del><add place="inline" evidence="trace of earlier reading">s'en vole</add> <rhyme>esgarée</rhyme>.
+<lb n="JEUX.034d:35 "/>Ainsi suis je <rhyme>demourée</rhyme>,<l n=" 4"/>
+<lb n="JEUX.034d:36 "/>Dont jamais je n'aray <rhyme>joye</rhyme>
+<lb n="JEUX.034d:37 "/>Pour nulle chose q<abbr type="ue"/> <rhyme>j'<g lemma="ouïr" en="to hear" fr="entendre" type="subj. 1">oye</g></rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.034d:39 "/><group n="13"/><div2 n="13" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le cerf <rhyme>vola<abbr type="n"/>t</rhyme>.<note>SATF Jeu 13.</note>
+<lb n="JEUX.034d:40 "/>"<c>d</c>e bien amer ne soiez <rhyme>lent</rhyme>
+<pb n="035" ed="r"/><layout ruledLines="yes" rend="above ruling"></layout><lb n="JEUX.035r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">Gieux</fw> <fw type="header2" place="column a" rend="double tabbed from left ">à</fw> <fw type="header3" place="column a" rend="raligned">vendre</fw> <fw type="header4" place="column b," rend="tabbed">&#x95; <s>v</s>iii &#x95;</fw></hi>
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="JEUX.035a:01 "/><name ref="The+Lover">Amis</name>, car vous avez <rhyme>amie</rhyme><note>SATF Jeu 14.</note>
+<lb n="JEUX.035a:02 "/>Qui talent d'autre amer n'a <rhyme>envie</rhyme>,<l n=" 4"/> <note>Hypermetric line.</note>
+<lb n="JEUX.035a:03 "/>Si lui soyés vrays et <rhyme>entiers</rhyme>,
+<lb n="JEUX.035a:04 "/>Car elle vous aime sans <rhyme>tiers</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035a:06 "/><group n="14"/><div2 n="14" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le <g lemma="sauz" en="wreath of willow" fr="couronne de branches de saule">chappel de <rhyme>saulx</rhyme></g>.<note>A willow wreath is a traditional emblem of a lover's grief after being forsaken.</note><note>SATF Jeu 14.</note>
+<lb n="JEUX.035a:07 "/>S'<name ref="Amour">Amours</name> vous prent par ses <rhyme>assaulx</rhyme>,
+<lb n="JEUX.035a:08 "/><name ref="The+Lady">Dame jolie et <rhyme>gracïeuse</rhyme></name>,
+<lb n="JEUX.035a:09 "/>Ne soyez nul jour <rhyme>envïeuse</rhyme><l n=" 4"/>
+<lb n="JEUX.035a:10 "/>De voz loyaulx amours <rhyme>faulser</rhyme>
+<lb n="JEUX.035a:11 "/>Pour abaissier ne pour <rhyme>haulcer</rhyme>.
+<lb n="JEUX.035a:12 "/>Se vous estes dame <rhyme>clamée</rhyme>
+<lb n="JEUX.035a:13 "/>De vostre ami et b<abbr type="ie"/>n <rhyme>amée</rhyme>,<l n=" 8"/>
+<lb n="JEUX.035a:14 "/><g lemma="tenir" en="to hold fast to sth., keep faith with" fr="s'arrêter, se maintenir à qqc.">Tenez vous <choice><sic>oy</sic><corr reason="sense" resp="JCL">y</corr></choice></g>. <c>j</c>'ay ouÿ <rhyme>dire</rhyme> <note>There is an unidentified double offset at the end of the line.</note>
+<lb n="JEUX.035a:15 "/>Que qui plus change, plus <rhyme>s'empire</rhyme>.</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035a:17 "/><group n="15"/><div2 n="15" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la harpe et la <rhyme>lire</rhyme>.<note>SATF Jeu 15.</note>
+<lb n="JEUX.035a:18 "/>"Vraye <c>a</c>mour si m'a fait <rhyme>eslire</rhyme>
+<lb n="JEUX.035a:19 "/>Vous seule pour dame et <rhyme>maistrece</rhyme>.
+<lb n="JEUX.035a:20 "/><name ref="The+Lady">Belle</name>, or me mettez en <choice><sic>la drece</sic><corr reason="sense" resp="JCL"><rhyme>l'<g lemma="adresse" en="right road" fr="juste chemin">adrece</g></rhyme></corr></choice><l n=" 4"/>
+<lb n="JEUX.035a:21 "/>De joye avoir et à mon <rhyme>dit</rhyme>
+<lb n="JEUX.035a:22 "/>Vous accordez sans <rhyme>contredit</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035a:24 "/><group n="16"/><div2 n="16" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous <add evidence="caret" place="supralinear" type="scribe">vens</add> les gans de <rhyme>laine</rhyme><note>SATF Jeu 16.</note>
+<lb n="JEUX.035a:25 "/>"<c>j</c>e seroie trop <rhyme>villaine</rhyme>
+<lb n="JEUX.035a:26 "/>Se vostre amour <rhyme>refusoie</rhyme>,
+<lb n="JEUX.035a:27 "/>Car voulentiers, se <rhyme>j'osoye</rhyme>,<l n=" 4"/>
+<lb n="JEUX.035a:28 "/>Seroit en vous m'amour <del rend="almost complete erasure" reason="scansion" evidence="2 letter spaces left blank">af</del><rhyme>fermée</rhyme>
+<lb n="JEUX.035a:29 "/><g lemma="si2" en="on condition that" fr="à condition que">Par si que</g> de vous fusse <rhyme>amée</rhyme>,
+<lb n="JEUX.035a:30 "/>Car vous estes digne <rhyme>d'avoir</rhyme>
+<lb n="JEUX.035a:31 "/>D'<name ref="Helen+of+Troy"><c>e</c>laine</name> le corps et <rhyme>l'avoir</rhyme>."<l n=" 8"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035a:33 "/><group n="17"/><div2 n="17" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la flour de <rhyme>parvanche</rhyme>.<note>SATF Jeu 17.</note>
+<lb n="JEUX.035a:34 "/>"<g lemma="manche" en="to conceal one's feelings" fr="cacher ses sentiments">N'ayez pas le cuer en la <rhyme>manche</rhyme></g>,<note>'Do not conceal your feelings'. Cf. 'To wear one's heart on one's sleeve'.</note>
+<lb n="JEUX.035a:35 "/>Amans de bonne <rhyme>voulenté</rhyme>,
+<lb n="JEUX.035a:36 "/>Hardiment joyë et <rhyme>santé</rhyme><l n=" 4"/>
+<lb n="JEUX.035a:37 "/>Requerez, mais loyaulx <rhyme>soyez</rhyme>
+<lb n="JEUX.035a:38 "/>En quelque lieu que vous <rhyme><g lemma="être" en="to find o.s." fr="se trouver ">soyez</g></rhyme>,
+<lb n="JEUX.035a:39 "/>Car se <name ref="Falseness"><c>f</c>aulceté</name> en vo<abbr type="us"/> <rhyme>maint</rhyme>
+<lb n="JEUX.035a:40 "/>Des biens d'amours perderés <rhyme>maint</rhyme>."<l n=" 8"/></div2>
+<cb n="b"/><layout ruledLines="40"/>
+<!-- 1 blank line -->
+<lb n="JEUX.035b:02 "/><group n="18"/><div2 n="18" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la rose <rhyme><g lemma="amatir" en="to fade, wither" fr="dépérir, faner">amatye</g></rhyme>.<note>SATF Jeu 18.</note>
+<lb n="JEUX.035b:03 "/>"Vous avez vostre foy <rhyme>mentye</rhyme>
+<lb n="JEUX.035b:04 "/>Vers <name ref="God+of+Love"><c>a</c>mours</name> dont vous valez <rhyme>mains</rhyme>.
+<lb n="JEUX.035b:05 "/>De tieulx tours savez faire <rhyme>mains</rhyme>,<l n=" 4"/>
+<lb n="JEUX.035b:06 "/>Si se fait bon de gent <rhyme>retraire</rhyme>
+<lb n="JEUX.035b:07 "/>Qui sont à loyauté <rhyme>contraire</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035b:09 "/><group n="19"/><div2 n="19" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le pont qui se <rhyme>haulse</rhyme><note>SATF Jeu 19.</note>
+<lb n="JEUX.035b:10 "/>"<name ref="God"><c>d</c>ieux</name>, que vous semblez estre <rhyme>faulse</rhyme>,
+<lb n="JEUX.035b:11 "/>Bien savoir compter et <rhyme>rabatre</rhyme>,
+<lb n="JEUX.035b:12 "/>Et à maint <g  lemma="eau" en="to do sth. useless, pointless" fr="faire une action vaine, inutile">l'eaue faire <rhyme>batre</rhyme>,</g><l n=" 4"/>
+<lb n="JEUX.035b:13 "/>Et faire en vain <g lemma="cornard" en="fool, idiot" fr="sot, imbécile">cornars</g> <rhyme>veiller</rhyme>
+<lb n="JEUX.035b:14 "/>Et pour néant eulx <rhyme>traveiller</rhyme>,
+<lb n="JEUX.035b:15 "/>Monstrer semblant de fort <rhyme>amer</rhyme>,
+<lb n="JEUX.035b:16 "/>Sans en sentir ne doulx <rhyme>n'amer</rhyme>."<l n=" 8"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035b:18 "/><group n="20"/><div2 n="20" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le panier <rhyme>d'osier</rhyme>.<note>SATF Jeu 20.</note>
+<lb n="JEUX.035b:19 "/>"<c>o</c>n ne doit amer ne <rhyme><g lemma="priser" en="to esteem, admire" fr="apprécier, admirer">proisier</g></rhyme>
+<lb n="JEUX.035b:20 "/>Homme qui de femme <rhyme>mesdie</rhyme>
+<lb n="JEUX.035b:21 "/>Ne le croire de riens qu'il <rhyme>die</rhyme>.<l n=" 4"/>
+<lb n="JEUX.035b:22 "/>Si estes de ce <rhyme>renommé</rhyme>,
+<lb n="JEUX.035b:23 "/>Dont vous en estes moins <rhyme>amé</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035b:25 "/><group n="21"/><div2 n="21" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'oisellet en <rhyme>cage</rhyme>.<note>SATF Jeu 21.</note>
+<lb n="JEUX.035b:26 "/>"<c>s</c>e vous estes faulx, c'est <rhyme>dommage</rhyme>,
+<lb n="JEUX.035b:27 "/>Car vous estes et bel et <rhyme>doulx</rhyme>,
+<lb n="JEUX.035b:28 "/>Si n'ayés tele tache en <rhyme>vous</rhyme>,<l n=" 4"/>
+<lb n="JEUX.035b:29 "/>Et digne serés d'estre <rhyme>amé</rhyme>,
+<lb n="JEUX.035b:30 "/><name ref="The Lover">Bel et bon et b<abbr type="ie"/>n <rhyme>renommé</rhyme></name>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035b:32 "/><group n="22"/><div2 n="22" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le vert <rhyme>chapellet</rhyme>.<note>SATF Jeu 22.</note>
+<lb n="JEUX.035b:33 "/>"<c>n</c>ul amant ne peut estre <rhyme>lait</rhyme>
+<lb n="JEUX.035b:34 "/>Mais que ses taches soient <rhyme>bonnes</rhyme>.
+<lb n="JEUX.035b:35 "/>De loyauté suive les <rhyme>bonnes</rhyme>,<l n=" 4"/>
+<lb n="JEUX.035b:36 "/>Si sera digne que l'en <rhyme>l'aime</rhyme>
+<lb n="JEUX.035b:37 "/>Et que sa dame ami le <rhyme>claime</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035b:39 "/><group n="23"/><div2 n="23" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la clere <rhyme>fontaine</rhyme>.<note>SATF Jeu 23.</note>
+<lb n="JEUX.035b:40 "/>"<s>J</s>e vo<s>y</s> b<abbr type="ie"/>n <s>q</s>ue je <s>p</s>ers ma <rhyme>peine</rhyme> 
+<pb n="035" ed="v"/><layout ruledLines="yes" rend="above ruling"/>
+<lb n="JEUX.035v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Gieux à vendre</fw> <fw type="header2" place="intercolumn" rend="centred">&#x95; <s>v</s>iii &#x95;</fw></hi>
+<cb n="c"/><layout ruledLines="39"/>
+<lb n="JEUX.035c:01 "/><name ref="The+Lady"><s>D</s>ame</name>, de tant <s>v</s>ous <rhyme>requerir</rhyme>,
+<lb n="JEUX.035c:02 "/>Puis que riens n'y puis <rhyme>acquerir</rhyme>.<l n=" 4"/>
+<lb n="JEUX.035c:03 "/>C'oncques vous vi l'eure <rhyme>maudy</rhyme>,
+<lb n="JEUX.035c:04 "/>Je m'en vois et à <name ref="God"><c>d</c>ieu</name> vous <rhyme>dy</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035c:06 "/><group n="24"/><div2 n="24" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e <note>There is a faint 'X' in the margin.</note> vous vens le chappel de <rhyme>soye</rhyme>.<note>SATF Jeu 24.</note>
+<lb n="JEUX.035c:07 "/>"<c>c</c>uidez vous qu'à pourvëoir <rhyme>soye</rhyme>
+<lb n="JEUX.035c:08 "/>D'ami plaisant, jeune et <rhyme>joli</rhyme>,
+<lb n="JEUX.035c:09 "/>Qui de bon cuer m'aime et je <rhyme>li</rhyme>?<l n=" 4"/>
+<lb n="JEUX.035c:10 "/>Nennil voir! <c>c</c>il pert bien sa <rhyme>peine</rhyme>,
+<lb n="JEUX.035c:11 "/>Qui de m'amour avoir se <rhyme>peine</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035c:13 "/><group n="25"/><div2 n="25" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le cuer du <rhyme>lÿon</rhyme><note>SATF Jeu 25.</note>
+<lb n="JEUX.035c:14 "/>"Vostre cuer et le mien <rhyme>lÿon</rhyme>
+<lb n="JEUX.035c:15 "/>À tous jours, mais sans <rhyme>deslïer</rhyme>.
+<lb n="JEUX.035c:16 "/>Et pour n<abbr type="ost"/>re amour <rhyme>alïer</rhyme><l n=" 4"/>
+<lb n="JEUX.035c:17 "/>Par vray serment le <rhyme>prometto<abbr type="n"/>s</rhyme>.
+<lb n="JEUX.035c:18 "/>Et corps &amp; avoir y <rhyme>mettons</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035c:20 "/><group n="26"/><div2 n="26" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e <note>There is a faint 'X' in the margin.</note> vous vens la couldre qui <rhyme>ploye</rhyme>.<note>SATF Jeu 26.</note>
+<lb n="JEUX.035c:21 "/>"<c>e</c>n bien amer mon cuer <rhyme>employe</rhyme>.
+<lb n="JEUX.035c:22 "/>Je ne sçay se je suis <rhyme>amée</rhyme>,
+<lb n="JEUX.035c:23 "/>Mais je ne doy estre <rhyme>blamée</rhyme><l n=" 4"/>
+<lb n="JEUX.035c:24 "/>D'avoir mon cuer à cil <rhyme>donné</rhyme>
+<lb n="JEUX.035c:25 "/>Qui sur tous est bien <rhyme>renommé</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035c:27 "/><group n="27"/><div2 n="27" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'anelet d'or <rhyme>fin</rhyme>.<note>SATF Jeu 27.</note>
+<lb n="JEUX.035c:28 "/>"Je <add  place="inline" evidence="2 letter space filled by curved line" reason="defect in parchment?"></add> prie à <name ref="God"><c>d</c>ieu</name> que male <rhyme>fin</rhyme>
+<lb n="JEUX.035c:29 "/>P<add  place="inline" evidence="3 letter space filled by curved line" reason="defect in parchment?"></add>u<del rend="erasure"></del><add place="inline" evidence="blurring, traces of erased letters">iss</add>ent tous ces mesdisans <rhyme>faire</rhyme>.
+<lb n="JEUX.035c:30 "/>Qu<del  rend="erasure"></del><add  place="inline" evidence="darker ink; 1 letter space with trace of erased letter">i</add><note>'Those who...'</note> se meslent d'autrui <rhyme>affaire</rhyme><l n=" 4"/>
+<lb n="JEUX.035c:31 "/>Souvent esveillent <rhyme>jalousie</rhyme>
+<lb n="JEUX.035c:32 "/>Qui met plusieurs en <rhyme>frenasie</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035c:34 "/><group n="28"/><div2 n="28" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">D</hi>'un esparvier vous vens la <rhyme>longe</rhyme>.<note>SATF Jeu 28.</note>
+<lb n="JEUX.035c:35 "/>"<c>q</c>uant un amant plain de <rhyme>me<abbr type="n"/>ço<abbr type="n"/>ge</rhyme>
+<lb n="JEUX.035c:36 "/>Est et souvent parjur <rhyme>trouvé</rhyme>,
+<lb n="JEUX.035c:37 "/>D'<name ref="God+of+Love"><c>a</c>mours</name> doit estre <rhyme>reprouvé</rhyme>,<l n=" 4"/>
+<lb n="JEUX.035c:38 "/>Car amant ne doit à sa <rhyme>dame</rhyme>
+<lb n="JEUX.035c:39 "/>Mentir ne pour mort ne pour <rhyme>blame</rhyme>."</div2>
+<cb n="d"/><layout ruledLines="39"/>
+<!-- 1 blank line -->
+<lb n="JEUX.035d:02 "/><group n="29"/><div2 n="29" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e <s>v</s>ous <s>v</s>ens le coulon <rhyme>ramage</rhyme> <note>elaborate 'l's</note><note>SATF Jeu 29.</note>
+<lb n="JEUX.035d:03 "/>"<c>o</c>n scet assez bien vostre <rhyme>usage</rhyme>.
+<lb n="JEUX.035d:04 "/>Assez savez du bas <rhyme>voler</rhyme>
+<lb n="JEUX.035d:05 "/>En faignant plaindre et <rhyme>flajoler</rhyme>,<l n=" 4"/>
+<lb n="JEUX.035d:06 "/>Et en mains lieux querir <rhyme>santé</rhyme>,
+<lb n="JEUX.035d:07 "/>Dïent ceulx qui vous ont <rhyme>hanté</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035d:09 "/><group n="30"/><div2 n="30" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e <note>There is a very faint 'X' in the intercolumn margin.</note> vous vens le songe <rhyme>amoureux</rhyme><note>SATF Jeu 30.</note>
+<lb n="JEUX.035d:10 "/><c>q</c>ui fait joyeux ou <rhyme>doulereux</rhyme>
+<lb n="JEUX.035d:11 "/>Estre cellui qui l'a <rhyme>songié</rhyme>.
+<lb n="JEUX.035d:12 "/>Ma dame, le songe que <rhyme>g'ié</rhyme><l n=" 4"/>
+<lb n="JEUX.035d:13 "/>Fait <g lemma="anuit" en="last night" fr="la nuit dernière">ennuyt</g>, ferés estre <rhyme>voir</rhyme>
+<lb n="JEUX.035d:14 "/><c>s</c>e je puis vostre amour <rhyme>avoir</rhyme>."</div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035d:16 "/><group n="31"/><div2 n="31" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'aloe qui <rhyme>vole</rhyme> <note>last word in brown ink</note><note>SATF Jeu 31.</note>
+<lb n="JEUX.035d:17 "/>Vostre gracïeuse <rhyme>parole</rhyme>
+<lb n="JEUX.035d:18 "/>Et vostre doulx et bel <rhyme>sembla<abbr type="n"/>t</rhyme>
+<lb n="JEUX.035d:19 "/>Doulx ami va mon cuer <rhyme>embla<abbr type="n"/>t</rhyme><l n=" 4"/>
+<lb n="JEUX.035d:20 "/>Si ne vous puis plus <rhyme>escondire</rhyme>
+<lb n="JEUX.035d:21 "/>Car vostre suis sans <rhyme>contredire</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035d:23 "/><group n="32"/><div2 n="32" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'espée de <rhyme>guerre</rhyme><note>SATF Jeu 32.</note>
+<lb n="JEUX.035d:24 "/><c>q</c>ue venez vous ci entour <rhyme>querre</rhyme>
+<lb n="JEUX.035d:25 "/>Sire qui si bien savez <rhyme>faindre</rhyme>
+<lb n="JEUX.035d:26 "/>Le loyal amant et vo<abbr type="us"/> <rhyme>plaindre</rhyme><l n=" 4"/>
+<lb n="JEUX.035d:27 "/>Par vous sont maintes <rhyme>barguignées</rhyme>
+<lb n="JEUX.035d:28 "/>Blanches brunes ou bien <rhyme>pignées</rhyme>
+<lb n="JEUX.035d:29 "/>Si alez hors de no <rhyme>dangier</rhyme>
+<lb n="JEUX.035d:30 "/>Ailleurs voz roisins <rhyme>vendengier</rhyme><l n=" 8"/></div2>
+<!-- 1 blank line -->
+
+<lb n="JEUX.035d:32 "/><group n="33"/><div2 n="33" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la fleur <rhyme>d'acolie</rhyme><note>SATF Jeu 33.</note>
+<lb n="JEUX.035d:33 "/><c>j</c>e suis en grant <rhyme>merencolie</rhyme>
+<lb n="JEUX.035d:34 "/>Amis que ne m'ayés <rhyme>changiée</rhyme>
+<lb n="JEUX.035d:35 "/>Car vous m'avez trop <rhyme>estrangiée</rhyme><l n=" 4"/>
+<lb n="JEUX.035d:36 "/>Dittes m'en le voir sans <note>8 letter space with elaborate filler</note> <rhyme>ruser</rhyme>
+<lb n="JEUX.035d:37 "/>Sans plus me faire en vain <rhyme>muser</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.035d:39 "/><group n="34"/><div2 n="34" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e <note>'X' in margin</note> vous vens la branche <rhyme>d'olive</rhyme><note>SATF Jeu 34.</note>
+<!-- cursive catchword 'ou monde' -->
+<pb n="036" ed="r"/><layout ruledLines="yes" rend="above ruling"/>
+<lb n="JEUX.036r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">Gieux à vendre</fw> <fw type="header2" place="column b" rend="laligned">&#x95; viii &#x95;</fw></hi> 
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="JEUX.036a:01 "/>O monde n'a femme qui <rhyme>vive</rhyme> <note>elaborate 'u'</note>
+<lb n="JEUX.036a:02 "/>Que je vueille servir fors <rhyme>vous</rhyme>
+<lb n="JEUX.036a:03 "/>Si me retenez dont sur <rhyme>tous</rhyme><l n=" 4"/>
+<lb n="JEUX.036a:04 "/>Belle plaisant de moy <rhyme>cherie</rhyme>
+<lb n="JEUX.036a:05 "/>Ne soyez vers moy <rhyme>rencherie</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036a:07 "/><group n="35 "/><div2 n="35" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e <note>mark in margin</note> vous vens la flour <rhyme>d'ortye</rhyme><note>SATF Jeu 35.</note>
+<lb n="JEUX.036a:08 "/><c>j</c>e suis d'amours bien <rhyme>partye</rhyme>
+<lb n="JEUX.036a:09 "/>Car j'ay ami loyal et <rhyme>bon</rhyme>
+<lb n="JEUX.036a:10 "/>À qui cuer corps et amour <rhyme>don</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036a:12 "/><group n="36"/><div2 n="36" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens \ le chappel de <rhyme>byevre</rhyme><note>SATF Jeu 36.</note>
+<lb n="JEUX.036a:13 "/><c>j</c>alousie \ vault pis que <rhyme>fievre</rhyme>
+<lb n="JEUX.036a:14 "/>Si ne croyez \ riens qu'on vous <rhyme>dye</rhyme>
+<lb n="JEUX.036a:15 "/>Qui vous traye \ à tel <rhyme>maladie</rhyme><l n=" 4"/>
+<lb n="JEUX.036a:16 "/>Se voulez \ amours <rhyme>maintenir</rhyme>
+<lb n="JEUX.036a:17 "/>Gayement \ et lié vous <rhyme>tenir</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036a:19 "/><group n="37"/><div2 n="37" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e<note>'X' in margin</note> vous vens la rose de <rhyme>may</rhyme><note>SATF Jeu 37.</note>
+<lb n="JEUX.036a:20 "/><c>o</c>ncques en ma vie <rhyme>n'amay</rhyme>
+<lb n="JEUX.036a:21 "/>Autant dame ne <rhyme>damoiselle</rhyme>
+<lb n="JEUX.036a:22 "/>Que je fais vous gente <rhyme>pucelle</rhyme><l n=" 4"/>
+<lb n="JEUX.036a:23 "/>Si me retenez à <rhyme>ami</rhyme>
+<lb n="JEUX.036a:24 "/>Car tout avez le cuer de <rhyme>mi</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036a:26 "/><group n="38"/><div2 n="38" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la fleur de <rhyme>ser</rhyme><note>SATF Jeu 38.</note>
+<lb n="JEUX.036a:27 "/><c>j</c>e ne suis pas bien <rhyme>asser</rhyme>
+<lb n="JEUX.036a:28 "/>Que j'aye vostre amour ou <rhyme>non</rhyme>
+<lb n="JEUX.036a:29 "/>Pour tant se d'ami ay le <rhyme>nom</rhyme><l n=" 4"/>
+<lb n="JEUX.036a:30 "/>Car par tout vostre belle <rhyme>chere</rhyme>
+<lb n="JEUX.036a:31 "/>Ce me semble envers nul n'est <rhyme>chere</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036a:33 "/><group n="39"/><div2 n="39" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e <note>'X' in margin</note> vous vens la <rhyme>vïolette</rhyme><note>SATF Jeu 39.</note>
+<lb n="JEUX.036a:34 "/>De joye mon cuer <rhyme>volette</rhyme>
+<lb n="JEUX.036a:35 "/>Quant je voy vostre doulx <rhyme>vis</rhyme>
+<lb n="JEUX.036a:36 "/>Sur tous bel à mon <rhyme>avis</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036a:38 "/><group n="40"/><div2 n="40" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le blanc <rhyme>corbel</rhyme><note>SATF Jeu 40.</note>
+<lb n="JEUX.036a:39 "/>Vostre gracïeux corps <rhyme>bel</rhyme>
+<lb n="JEUX.036a:40 "/>Et vostre ris <rhyme>savoureux</rhyme>
+<cb n="b"/><layout ruledLines="40"/>
+<lb n="JEUX.036b:01 "/>Fait mon cuer estre <rhyme>joyeux</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036b:03 "/><group n="41"/><div2 n="41" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'aloe <rhyme>volant</rhyme><note>SATF Jeu 41.</note>
+<lb n="JEUX.036b:04 "/>De bien amer n'avez <rhyme>talent</rhyme>
+<lb n="JEUX.036b:05 "/>Mais vous savez bien <rhyme>decevoir</rhyme>
+<lb n="JEUX.036b:06 "/>Plusieurs ne l'ont pas a <rhyme>savoir</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036b:08 "/><group n="42"/><div2 n="42" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le <rhyme>dÿament</rhyme><note>SATF Jeu 42.</note>
+<lb n="JEUX.036b:09 "/><c>s</c>achés que j'ay bel <rhyme>amant</rhyme>
+<lb n="JEUX.036b:10 "/>Il n'est homme soubs les <rhyme>cieulx</rhyme>
+<lb n="JEUX.036b:11 "/>À mon gré plus <rhyme>gracïeux</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036b:13 "/><group n="43"/><div2 n="43" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le touret de <rhyme>nez</rhyme><note>SATF Jeu 43.</note>
+<lb n="JEUX.036b:14 "/><c>g</c>ay et jolis vous <rhyme>maintenez</rhyme>
+<lb n="JEUX.036b:15 "/>S'estre voulez <rhyme>renommé</rhyme>
+<lb n="JEUX.036b:16 "/>Et des dames bien <rhyme>amé</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036b:18 "/><group n="44"/><div2 n="44" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la <rhyme>majorlaine</rhyme><note>SATF Jeu 44.</note>
+<lb n="JEUX.036b:19 "/><c>j</c>e tiens la dame à <rhyme>villaine</rhyme>
+<lb n="JEUX.036b:20 "/>Se amant merci lui <rhyme>crye</rhyme>
+<lb n="JEUX.036b:21 "/>Et humblement la <rhyme>deprye</rhyme><l n=" 4"/>
+<lb n="JEUX.036b:22 "/>De respondre <rhyme>rudement</rhyme>
+<lb n="JEUX.036b:23 "/>Et lui mettre à sus qu'il <rhyme>ment</rhyme> <note>erasure, 'avient' to 'ment'?</note></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036b:25 "/><group n="45"/><div2 n="45" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la fueille de <rhyme>hous</rhyme><note>SATF Jeu 45.</note>
+<lb n="JEUX.036b:26 "/><c>j</c>'ay bel ami plaisant et <rhyme>doulx</rhyme>
+<lb n="JEUX.036b:27 "/><name ref="God">Dieu</name> vueille qu'aussi bon soit <rhyme>il</rhyme>
+<lb n="JEUX.036b:28 "/>Comme il est bel gent et <rhyme>gentil</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036b:30 "/><group n="46"/><div2 n="46" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la blonde <rhyme>tresse</rhyme><note>SATF Jeu 46.</note>
+<lb n="JEUX.036b:31 "/><c>m</c>a très gracïeuse <rhyme>maistresse</rhyme>
+<lb n="JEUX.036b:32 "/>Que j'aime et craing et servir <rhyme>vueil</rhyme>
+<lb n="JEUX.036b:33 "/>Très belle plaisant sans <rhyme>orgueil</rhyme><l n=" 4"/>
+<lb n="JEUX.036b:34 "/>Commandez moy Je sui tout <rhyme>prest</rhyme>
+<lb n="JEUX.036b:35 "/>À vous obéir sans <rhyme>arrest</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036b:37 "/><group n="47"/><div2 n="47" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le souspir <rhyme>parfont</rhyme><note>SATF Jeu 47.</note>
+<lb n="JEUX.036b:38 "/><c>q</c>ue mains faulx amans <rhyme>contrefo<abbr type="n"/>t</rhyme>
+<lb n="JEUX.036b:39 "/>Tel gent fierent sans <rhyme>deffïer</rhyme>
+<lb n="JEUX.036b:40 "/>Si ne s'i doit on pas <rhyme>fÿer</rhyme><l n=" 4"/></div2>
+<pb n="036" ed="v"/><layout ruledLines="yes" rend="within ruling"/>
+<lb n="JEUX.036v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="raligned"><s>G</s>ieux à <s>v</s>endre</fw> <fw type="header2" place="column d" rend="tabbed">&#x95; <s>v</s>iii &#x95;</fw></hi><note>The flourished top of 'G' has been shaved by the binder.</note>
+<cb n="c"/><layout ruledLines="39"/>
+<lb n="JEUX.036c:01 "/>Car tel a assez <rhyme>souspiré</rhyme>
+<lb n="JEUX.036c:02 "/>Qui n'est malade <rhyme>n'empiré</rhyme>
+<!-- 1 blank line -->
+<lb n="JEUX.036c:04 "/><group n="48"/><div2 n="48" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le blanc <rhyme>oriller</rhyme><note>SATF Jeu 48.</note>
+<lb n="JEUX.036c:05 "/><c>a</c>ssez ne me puis <rhyme>merveiller</rhyme>
+<lb n="JEUX.036c:06 "/>Comment <name ref="Amour"><c>a</c>mours</name> peut <rhyme>endurer</rhyme>
+<lb n="JEUX.036c:07 "/>Faulceté si lonc temps <rhyme>durer</rhyme><l n=" 4"/>
+<lb n="JEUX.036c:08 "/>Qu'à peine qui veult <rhyme>esprouver</rhyme>
+<lb n="JEUX.036c:09 "/>Peut on nullui loyal <rhyme>trouver</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036c:11 "/><group n="49"/><div2 n="49" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la volant <rhyme>arondem</rhyme> <note>'m' scored out</note><note>SATF Jeu 49.</note>
+<lb n="JEUX.036c:12 "/><c>d</c>ame la plus belle du <rhyme>monde</rhyme>
+<lb n="JEUX.036c:13 "/>Pour <name ref="God"><c>d</c>ieu</name> ayés de moy <rhyme>pitié</rhyme>
+<lb n="JEUX.036c:14 "/>Car je muyr pour vostre <rhyme>amistié</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036c:16 "/><group n="50"/><div2 n="50" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">D</hi>u blanc pain vous vens la <rhyme>mie</rhyme><note>SATF Jeu 50.</note>
+<lb n="JEUX.036c:17 "/><c>p</c>our <name ref="God"><c>d</c>ieu</name> ne m'oublïez <rhyme>mie</rhyme>
+<lb n="JEUX.036c:18 "/>Quant je seray loing de <rhyme>vous</rhyme>
+<lb n="JEUX.036c:19 "/>À <name ref="God"><c>d</c>ieu</name> vous dy mon cuer <rhyme>doulx</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036c:21 "/><group n="51"/><div2 n="51" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens <name ref="Rose+of+Artois">la rose <rhyme>d'artois</rhyme></name><note>SATF Jeu 51.</note>
+<lb n="JEUX.036c:22 "/>Amez honneur soyés <rhyme>courtois</rhyme>
+<lb n="JEUX.036c:23 "/>Bien servez en toute <rhyme>saison</rhyme>
+<lb n="JEUX.036c:24 "/>Et des biens arés à <rhyme>foison</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036c:26 "/><group n="52"/><div2 n="52" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la <rhyme>colombelle</rhyme><note>SATF Jeu 52.</note>
+<lb n="JEUX.036c:27 "/>Dame qui tant estes <rhyme>belle</rhyme>
+<lb n="JEUX.036c:28 "/>Ne vueillez avoir en <rhyme>despris</rhyme>
+<lb n="JEUX.036c:29 "/>Vostre ami pour vostre grant <rhyme>pris</rhyme><l n=" 4"/>
+<lb n="JEUX.036c:30 "/>Mais prenez son service en <rhyme>gré</rhyme>
+<lb n="JEUX.036c:31 "/>Si le mettrés en hault <rhyme>degré</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036c:33 "/><group n="53"/><div2 n="53" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le blanc <rhyme>cueuvrechief</rhyme><note>SATF Jeu 53.</note>
+<lb n="JEUX.036c:34 "/>Vostre amour met à grant <rhyme>meschief</rhyme>
+<lb n="JEUX.036c:35 "/>Mon las cuer qui toudis <rhyme>souspire</rhyme>
+<lb n="JEUX.036c:36 "/>Pour vous n'il n'est mal du sien <rhyme>pire</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036c:38 "/><group n="54"/><div2 n="54" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens de soye le <rhyme>las</rhyme><note>SATF Jeu 54.</note>
+<lb n="JEUX.036c:39 "/><c>o</c>ncques vray amant ne fu <rhyme>las</rhyme>
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="JEUX.036d:01 "/>De bien amer pour <rhyme>escondit</rhyme>
+<lb n="JEUX.036d:02 "/>On dit communement un <rhyme>dit</rhyme><l n=" 4"/>
+<lb n="JEUX.036d:03 "/>Que qui bien peut souffrir il <rhyme>vaint</rhyme>
+<lb n="JEUX.036d:04 "/>Et ainsi l'ont esprouvé <rhyme>maint</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036d:06 "/><group n="55"/><div2 n="55" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e te donne le cuer de <rhyme>mi</rhyme><note>The SATF edition does not include Jeu 55.</note>
+<lb n="JEUX.036d:07 "/><c>e</c>t te di à <name ref="God"><c>d</c>ieu</name> mon <rhyme>ami</rhyme>
+<lb n="JEUX.036d:08 "/>Pensez de briefment <rhyme>revenir</rhyme>
+<lb n="JEUX.036d:09 "/>De moy te vueille <rhyme>souvenir</rhyme><l n=" 4"/></div2>
+<!-- 2 blank lines -->
+<lb n="JEUX.036d:12 "/><group n="56"/><div2 n="56" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'anellet <rhyme>d'arge<abbr type="n"/>t</rhyme><note>SATF Jeu 55.</note>
+<lb n="JEUX.036d:13 "/>Vostre doulz gracïeux corps <rhyme>gent</rhyme>
+<lb n="JEUX.036d:14 "/>Voz ris voz gieux voz <note>'voz' corrected to 'vo', 'z' scored out</note> doulx <rhyme>chanter</rhyme>
+<lb n="JEUX.036d:15 "/><c>f</c>eroit les mors <rhyme>ressuciter</rhyme><l n=" 4"/>
+<lb n="JEUX.036d:16 "/>Ne je ne suis pas <rhyme>souvenant</rhyme>
+<lb n="JEUX.036d:17 "/>C'oncques veisse plus <rhyme>avena<abbr type="n"/>t</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036d:19 "/><group n="57"/><div2 n="57" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la fleur de <rhyme>glay</rhyme><note>SATF Jeu 56.</note><note> 7 and 8 syllable lines. </note>
+<lb n="JEUX.036d:20 "/>Chantons \ dançons \ menons bon <rhyme>glay</rhyme>
+<lb n="JEUX.036d:21 "/>En despit de <rhyme>mesdisans</rhyme>
+<lb n="JEUX.036d:22 "/>Qui aux amans sont <rhyme>nuisans</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036d:24 "/><group n="58"/><div2 n="58" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la perle <rhyme>fine</rhyme><note>SATF Jeu 57.</note><note>7 and 8 syllable lines; elaborate rhymes </note>
+<lb n="JEUX.036d:25 "/><c>s</c>e par vous mon mal ne <rhyme>fine</rhyme> <note>SATF irregular?</note>
+<lb n="JEUX.036d:26 "/>Ma dame très <rhyme>affinée</rhyme>
+<lb n="JEUX.036d:27 "/>Vous fustes pour ma fin <rhyme>née</rhyme><l n=" 4"/>
+<lb n="JEUX.036d:28 "/>Car <name ref="Amour"><c>a</c>mours</name> m'a si <rhyme>affiné</rhyme>
+<lb n="JEUX.036d:29 "/>Que tost me verrés <rhyme>deffiné</rhyme>
+<lb n="JEUX.036d:30 "/>Mais mieulx vueil ma vie <rhyme>finer</rhyme>
+<lb n="JEUX.036d:31 "/>Que d'ainsi languir ne <rhyme>finer</rhyme><l n=" 8"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036d:33 "/><group n="59"/><div2 n="59" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e ne vens ne donne les <rhyme>yeulx</rhyme><note>SATF Jeu 58.</note>
+<lb n="JEUX.036d:34 "/><c>b</c>eaulx et plaisans doulx <rhyme>gracïeux</rhyme>
+<lb n="JEUX.036d:35 "/>De vo beau vis qui m'ont <rhyme>attrait</rhyme>
+<lb n="JEUX.036d:36 "/>Doulce dame par leur doulx <rhyme>trait</rhyme><l n=" 4"/>
+<lb n="JEUX.036d:37 "/>Ainçois les retiens pour ma <rhyme>part</rhyme>
+<lb n="JEUX.036d:38 "/>Car par eulx tout mal de moy <rhyme>part</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.036d:40 "/><group n="60"/><div2 n="60" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">C</hi>hacun vous vent mais je vous <rhyme>donne</rhyme><note>SATF Jeu 59.</note><note> 8, then 10 syllable lines; all 10 syllable lines in SATF.</note>
+<pb n="037" ed="r"/><layout ruledLines="yes" rend="above ruling"/>
+<lb n="JEUX.037r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="centred"><s>G</s>ieux</fw> <fw type="header2" place="column a" rend="tabbed">à</fw> <fw type="header3" place="column a" rend="raligned"><s>v</s>endre</fw> <fw type="header4" place="column b" rend="laligned">&#x95; <s>v</s>iii &#x95;</fw></hi><note>The flourished top of 'G' has been shaved by the binder.</note>
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="JEUX.037a:01 "/>Mon cuer mon corps vous <rhyme>abandonne</rhyme>
+<lb n="JEUX.037a:02 "/>Tout quanque j'ay si n'en faites <rhyme>refus</rhyme>
+<lb n="JEUX.037a:03 "/>Très belle à qui sui et seray et <rhyme>fus</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037a:05 "/><group n="61"/><div2 n="61" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la flour de <rhyme>pescher</rhyme><note>SATF Jeu 60.</note>
+<lb n="JEUX.037a:06 "/><c>j</c>e ne vous vueil mie <rhyme>empescher</rhyme>
+<lb n="JEUX.037a:07 "/>Parler voulez <rhyme>secretement</rhyme>
+<lb n="JEUX.037a:08 "/>Je m'en vois à <name ref="God"><c>d</c>ieu</name> vous <rhyme>command</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037a:10 "/><group n="62"/><div2 n="62" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens du rosier la <rhyme>branche</rhyme><note>SATF Jeu 61</note>
+<lb n="JEUX.037a:11 "/><c>o</c>ncques nege ne fu plus <rhyme>blanche</rhyme>
+<lb n="JEUX.037a:12 "/>Ne rose en may plus <rhyme>coulourée</rhyme>
+<lb n="JEUX.037a:13 "/>Qu'est la beauté fine <rhyme>esmerée</rhyme><l n=" 4"/>
+<lb n="JEUX.037a:14 "/>De celle à qui <rhyme>entierement</rhyme>
+<lb n="JEUX.037a:15 "/>Me suis donné tout <rhyme>ligement</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037a:17 "/><group n="63"/><div2 n="63" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens d'<name ref="Amour"><c>a</c>mours la <rhyme>prison</rhyme></name><note>SATF Jeu 62.</note>
+<lb n="JEUX.037a:18 "/><c>s</c>'onques vers vous fis <rhyme>mesprison</rhyme>
+<lb n="JEUX.037a:19 "/>Pour <name ref="God"><c>d</c>ieu</name> prenez moy à <rhyme>mercy</rhyme>
+<lb n="JEUX.037a:20 "/>Ma dame je vous cry <rhyme>mercy</rhyme><l n=" 4"/>
+<lb n="JEUX.037a:21 "/>Et je suis tout prest <rhyme>d'amender</rhyme>
+<lb n="JEUX.037a:22 "/>Ce qu'il vous plaira <rhyme>commander</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037a:24 "/><group n="64"/><div2 n="64" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la rose <rhyme>vermeille</rhyme><note>SATF Jeu 63.</note>
+<lb n="JEUX.037a:25 "/><name ref="Amour"><c>a</c>mours</name> me comma<abbr type="n"/>de &amp; <rhyme>conseille</rhyme>
+<lb n="JEUX.037a:26 "/>Que je face de vous ma <rhyme>dame</rhyme>
+<lb n="JEUX.037a:27 "/>Dites moy belle par vostre <rhyme>ame</rhyme><l n=" 4"/>
+<lb n="JEUX.037a:28 "/>Pourray je vostre amour <rhyme>avoir</rhyme>
+<lb n="JEUX.037a:29 "/>Se je fais vers vous mon <rhyme>devoir</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037a:31 "/><group n="65"/><div2 n="65" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens plain panier de <rhyme>flours</rhyme><note>SATF Jeu 64</note>
+<lb n="JEUX.037a:32 "/><c>o</c>n ne doit marchander <rhyme>d'amours</rhyme>
+<lb n="JEUX.037a:33 "/>On doit servir à <rhyme>l'aventure</rhyme>
+<lb n="JEUX.037a:34 "/>S'ainsi faites par <rhyme>aventure</rhyme><l n=" 4"/>
+<lb n="JEUX.037a:35 "/>Des biens d'<name ref="Amour"><c>a</c>mours</name> arés <rhyme>assez</rhyme>
+<lb n="JEUX.037a:36 "/>Se vous n'estes d'amer <rhyme>lassez</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037a:38 "/><group n="66"/><div2 n="66" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la fueille de <rhyme>tremble</rhyme><note>SATF Jeu 65.</note>
+<lb n="JEUX.037a:39 "/>De päour tout le cuer me <rhyme>tremble</rhyme>
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="JEUX.037b:01 "/>Que pour moy vous soyés <rhyme>blamée</rhyme>
+<lb n="JEUX.037b:02 "/>Ma belle dame très <rhyme>amée</rhyme><l n=" 4"/>
+<lb n="JEUX.037b:03 "/>Et se vers vous je n'ose <rhyme>aler</rhyme>
+<lb n="JEUX.037b:04 "/>Pour la doubtance du <rhyme>parler</rhyme>
+<lb n="JEUX.037b:05 "/>De ceulx qui nous ont <rhyme>encusé</rhyme>
+<lb n="JEUX.037b:06 "/>Si m'en tenez <note>3 words over erasure? </note> pour <rhyme>excusé</rhyme><l n=" 8"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037b:08 "/><group n="67"/><div2 n="67" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">L</hi>e saphir vous vent <rhyme>d'orïent</rhyme><note>SATF Jeu 66.</note>
+<lb n="JEUX.037b:09 "/><c>c</c>e que je vous dy en <rhyme>rïant</rhyme>
+<lb n="JEUX.037b:10 "/>Que mon cuer à vous amer <rhyme>muse</rhyme>
+<lb n="JEUX.037b:11 "/>Ne le tenez pour tant à <rhyme>ruse</rhyme><l n=" 4"/>
+<lb n="JEUX.037b:12 "/>Car je le vous di tout à <rhyme>certes</rhyme>
+<lb n="JEUX.037b:13 "/>Et vous aime plus que riens <rhyme>certes</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037b:15 "/><group n="68"/><div2 n="68" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">F</hi>lours vous vens de toutes <rhyme>coulours</rhyme><note>SATF Jeu 67.</note>
+<lb n="JEUX.037b:16 "/><c>j</c>e suis gari de mes <rhyme>doulours</rhyme>
+<lb n="JEUX.037b:17 "/>Quant vous me faites bonne <rhyme>chiere</rhyme>
+<lb n="JEUX.037b:18 "/>Ma gracïeuse dame <rhyme>chiere</rhyme><l n=" 4"/>
+<lb n="JEUX.037b:19 "/>Mais quant estes vers moy <rhyme>ayrée</rhyme> <note>irregular? 9 syllables?</note>
+<lb n="JEUX.037b:20 "/>La mort est de moy <rhyme>desirée</rhyme></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037b:22 "/><group n="69"/><div2 n="69" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens le levrier <rhyme>coura<abbr type="n"/>t</rhyme><note>SATF Jeu 68.</note>
+<lb n="JEUX.037b:23 "/><c>p</c>our vostre amour me vois <rhyme>moura<abbr type="n"/>t</rhyme>
+<lb n="JEUX.037b:24 "/>Ce pouez vous vëoir à <rhyme>l'ueil</rhyme>
+<lb n="JEUX.037b:25 "/>Et pitié n'en avez ne <rhyme>dueil</rhyme><l n=" 4"/></div2>
+<!-- 1 blank line -->
+<lb n="JEUX.037b:27 "/><group n="70"/><div2 n="70" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens la flour <rhyme>mipartie</rhyme><note>SATF Jeu 69.</note>
+<lb n="JEUX.037b:28 "/>Sommes nous à la <rhyme>departie</rhyme>
+<lb n="JEUX.037b:29 "/>De noz amours beau doulx <rhyme>ami</rhyme>
+<lb n="JEUX.037b:30 "/>S'il est ainsi ce poise <rhyme>mi</rhyme><l n=" 4"/>
+<lb n="JEUX.037b:31 "/>Car je ne l'ay pas <rhyme>desservi</rhyme>
+<lb n="JEUX.037b:32 "/>Dolent suis quë <note>'e' crudely overwriten, then 2 letter spaces &amp; filler</note> onques vous <rhyme>vy</rhyme> <note>hiatus</note></div2>
+<!-- 1 blank line -->
+<!-- JEUX 71 = SATF 70 -->
+<lb n="JEUX.037b:34 "/><group n="71"/><div2 n="71" type="Jeu à vendre" metre="" length="" stanza=""  rhyme=""><hi rend="cap2">J</hi>e vous vens l'escrinet tout <rhyme>plain</rhyme><note>SATF Jeu 70.</note>
+<lb n="JEUX.037b:35 "/>Mon nom y trouverés à <rhyme>plain</rhyme>
+<lb n="JEUX.037b:36 "/>Et de cil qu'oncques plus <rhyme>amay</rhyme>
+<lb n="JEUX.037b:37 "/>Par qui j'ay souffert maint <rhyme>esmay</rhyme><l n=" 4"/>
+<lb n="JEUX.037b:38 "/>Se vous y querez <rhyme>proprement</rhyme>
+<lb n="JEUX.037b:39 "/>Or regardez mon se je <rhyme>ment</rhyme> <note>long tails on 'g', 'n', 's', 'm'</note></div2>
+<!-- signatures 'dii' in black ink,  and '//' in brown ink, thicker pen -->
+
+<pb n="037" ed="v"/><layout ruledLines="yes" rend="above ruling"/>
+<lb n="JEUX.037v:01"/><hi rend="red"><fw place="intercolumn" rend="raligned" type="header1"><c>a</c>ultres balades</fw> <fw place="col d" rend="tabbed" type="header2">&#x95; ix</fw></hi>
+<cb n="c"/><layout ruledLines="40"/>
+<lb n="JEUX.037c:01"/><fw place="inline" rend="centred" type="explicit">Explicit gieux à vendre.</fw>
+<!-- 1 blank line -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

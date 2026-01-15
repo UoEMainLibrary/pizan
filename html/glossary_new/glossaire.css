@@ -1,0 +1,128 @@
+entry {
+    display: block;    margin-top: 12pt;
+    margin-bottom: 12pt;
+    counter-reset:appel;
+}
+
+entry[dmf="entree_absente"]:before {
+     content:"NOT IN DMF "; 
+}
+entry[dmf="sens_absent"]:before {
+     content:"SENSE NOT IN DMF "; 
+}
+
+orth {
+    display: inline;
+}
+form, pos,target {
+     font-size: 14pt;
+    font-weight: bold;
+    color: red;
+    background-color: white;
+}
+pos:before {
+    content:", ";
+     font-size: 14pt;
+    font-weight: bold;
+    color: red;
+    background-color: white;
+}
+target:before {
+    content:" voir ";
+     font-size: 14pt;
+    font-weight: bold;
+    color: red;
+    background-color: white;
+}
+
+w  {
+    font-weight: bold;
+}
+w[statut="3"] {
+    background-color: #00FF00;
+    color: white;
+}
+w[statut="1"] {
+    background-color: #FF55FF;
+    color: black;
+}
+
+br:before  {
+     content:"";
+}
+br  {
+    display: block;
+}
+occurrence {
+    display: block;
+}
+exemples {
+    display: block;
+    background-color: #FFFFEE;
+    color: black;
+}
+exemples > exemple {
+    margin-left:20pt;
+    display: block;
+    margin-bottom:5pt;
+}
+exemple[dmf="entree_absente"]:before {
+     content:"NOT IN DMF "; 
+}
+exemple[dmf="sens_absent"]:before {
+     content:"SENSE NOT IN DMF "; 
+}
+
+DMFBQ {
+    display: block;
+}
+NON_TRAITE:before {
+    content:"Non traite dans BQ";
+ }
+VED  {
+    font-weight: bold;
+}
+CODE  {
+    font-weight: bold;
+}
+CODE:before  {
+    content:", ";
+}
+P {
+    display: block;
+}
+NUM  {
+    font-weight: bold;
+}
+IND:before {
+    content:"  ";
+ }
+IND+IND:before {
+    content:",  ";
+ }
+EMPL:before {
+    content:"  ";
+ }
+SYNT:before {
+    content:"  ";
+ }
+SYNT {
+    font-style: italic;
+ }
+DEF:before {
+    content:"  ";
+ }
+EXE:before {
+    content:" : ";
+ }
+EXE > exemple {
+    display: inline;
+}
+occ {
+    font-style: italic;
+    color:blue;
+ }
+
+
+
+

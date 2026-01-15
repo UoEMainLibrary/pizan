@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Les Quinze Joyes Nostre Dame" type="item"><lb n="15JO.267r:01"/><hi rend="red">Les &#x95; xv &#x95; joyes <name ref="">nostre <note>1re colonne</note> dame</name> <note>entrecolonne</note> xxvii &#x95; <note>2e colonne</note></hi><cb n="a"/><layout ruledLines="38"/>
+<lb n="15JO.267a:01"/><hi rend="red">Ci commencent les &#x95; xv &#x95; joyes <note>point sur le 'y'</note> <name ref="">nostre
+<lb n="15JO.267a:02"/>Dame</name> <note>élément gratté devant le mot ?</note> Rimées &#x95; xxvii &#x95;</hi>
+<!-- 1 blank line here -->
+<lb n="15JO.267a:04"/><group n=" 0"/><hi rend="cap2">G</hi>lorïeuse dame je te <rhyme>Salue</rhyme>
+<lb n="15JO.267a:05"/>treshumblement d'icelles xv &#x95; <rhyme>joyes</rhyme>
+<lb n="15JO.267a:06"/>Qu'en terre eus doulce dame <rhyme>impolue</rhyme>
+<lb n="15JO.267a:07"/>Par ce te pry que reconfort <rhyme>m'envoyes</rhyme>
+<lb n="15JO.267a:08"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267a:10"/><group n=" 1"/>¶ Prïez <note>c'est-à-dire 'Pries', singulier</note> pour moy beneurée <rhyme>pucelle</rhyme>
+<lb n="15JO.267a:11"/>Pour le salu qui vint de <name ref="">dieu le <rhyme>pere</rhyme></name>
+<lb n="15JO.267a:12"/>Que te porta l'archange et la <rhyme>nouvelle</rhyme>
+<lb n="15JO.267a:13"/>Que du <name ref="">filz dieu</name> seroies vierge <rhyme>mere</rhyme>
+<lb n="15JO.267a:14"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267a:16"/><group n=" 2"/>¶ Empetres moy grace pour celle <rhyme>joye</rhyme>
+<lb n="15JO.267a:17"/>Que tu eus quant ta cousine en <rhyme>contras</rhyme> <note>dernier mot sur grattage ; encre plus claire ; les deux éléments sont clairement séparés</note>
+<lb n="15JO.267a:18"/><name ref="">Elisabeth</name> qui salu en la <rhyme>voye</rhyme>
+<lb n="15JO.267a:19"/>Te donna lors qu'en sa maison <rhyme>entras</rhyme>
+<lb n="15JO.267a:20"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267a:22"/><group n=" 3"/>¶ Doulce dame vueilles pitié <rhyme>avoir</rhyme>
+<lb n="15JO.267a:23"/>De mon ame pour ycelle <rhyme>léece</rhyme>
+<lb n="15JO.267a:24"/>Que tu eus quant en ton ventre <rhyme>mouvoir</rhyme>
+<lb n="15JO.267a:25"/>Le <name ref="">filz de dieu</name> sentis plain de <rhyme>sagece</rhyme>
+<lb n="15JO.267a:26"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267a:28"/><group n=" 4"/>¶ Digne <name ref="">vierge</name> qui le sauveur <rhyme>portas</rhyme>
+<lb n="15JO.267a:29"/>Pour ycelle grant joye / <rhyme>secourir</rhyme>
+<lb n="15JO.267a:30"/>Tu me vueilles quë eus <note>'s' sur grattage</note> qua<abbr type="n"/>t <rhyme>l'enfantas</rhyme> <note>hiatus</note>
+<lb n="15JO.267a:31"/>Et vien à moy quant je devray <rhyme>mourir</rhyme>
+<lb n="15JO.267a:32"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267a:34"/><group n=" 5"/>¶ O <name ref="">marie</name> gardes moy des faulx <rhyme>tours</rhyme>
+<lb n="15JO.267a:35"/>Et de l'agait de l'ennemi <rhyme>soubtil</rhyme>
+<lb n="15JO.267a:36"/>Pour la <note>'e' repassé en 'a'</note> joye quë eus quant les <rhyme>pastours</rhyme> <note>hiatus</note>
+<lb n="15JO.267a:37"/>Te trouverent et ton benoit chier <rhyme>fil</rhyme>
+<lb n="15JO.267a:38"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw><cb n="b"/><layout ruledLines="38"/>
+<!-- 1 blank line here -->
+<lb n="15JO.267b:02"/><group n=" 6"/>¶ Pour la grant joye <note>point sur 'y'</note> et <rhyme>consolacïon</rhyme>
+<lb n="15JO.267b:03"/>Doulce dame quë eus quant le <name ref=""> &#x95; iii &#x95; <rhyme>Roys</rhyme></name> <note>hiatus</note>
+<lb n="15JO.267b:04"/>À ton doulx filz par grant <rhyme>devocïon</rhyme>
+<lb n="15JO.267b:05"/>Vindrent offrir gard moy de tous <rhyme>desrois</rhyme>
+<lb n="15JO.267b:06"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267b:08"/><group n=" 7"/>¶ Pour ycelle joye quë eus chere <rhyme>dame</rhyme> <note>hiatus</note>
+<lb n="15JO.267b:09"/>Quant ton cher filz tresdigne offris au <name ref=""><rhyme>te<abbr type="m"/>ple</rhyme></name>
+<lb n="15JO.267b:10"/>De mal garder vueilles mon corps &amp; <rhyme>m'ame</rhyme>
+<lb n="15JO.267b:11"/>Et me donnes vivre à ton bon <rhyme>exemple</rhyme>
+<lb n="15JO.267b:12"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267b:14"/><group n=" 8"/>¶ Reconfortes mon las cuer <rhyme>esperdu</rhyme>
+<lb n="15JO.267b:15"/>Pour la joye que euh <note>?</note> qua<abbr type="n"/>t <rhyme>retrouvas</rhyme> <note>erreur</note>
+<lb n="15JO.267b:16"/>Ton chier enfant quë avoies <rhyme>perdu</rhyme> <note>hiatus</note>
+<lb n="15JO.267b:17"/>Et au <name ref="">temple</name> dame tu le <rhyme>trouvas</rhyme>
+<lb n="15JO.267b:18"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267b:20"/><group n=" 9"/>¶ Vierge pries qu'à moy aydier <rhyme>enclin</rhyme>
+<lb n="15JO.267b:21"/>Soit ton doulx filz pour ycelle gra<abbr type="n"/>t <rhyme>joye</rhyme>
+<lb n="15JO.267b:22"/>Qu'eus aux nopces de <name ref="">saint <rhyme>archedeclin</rhyme></name>
+<lb n="15JO.267b:23"/>Quant d'iaue vin fist par divine <rhyme>voye</rhyme>
+<lb n="15JO.267b:24"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267b:26"/><group n="10"/>¶ Que mon corps gard de toutes <rhyme>meffaço<abbr type="n"/>s</rhyme>
+<lb n="15JO.267b:27"/>Prïes ton filz pour la joye <rhyme>sacrée</rhyme>
+<lb n="15JO.267b:28"/>Que eus quant de v &#x95; pains d'orge et iii &#x95; <rhyme>poisso<abbr type="n"/>s</rhyme>
+<lb n="15JO.267b:29"/>V &#x95;<add place="supralinear" type="" evidence="">M</add> hommes replanis en la <rhyme>prée</rhyme>
+<lb n="15JO.267b:30"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267b:32"/><group n="11"/>¶ Pour la joye qui en toy <rhyme>abita</rhyme>
+<lb n="15JO.267b:33"/>Très doulce dame en ycelle <rhyme>journée</rhyme>
+<lb n="15JO.267b:34"/>Que ton doulx filz de mort<abbr type=" "/><rhyme>ressuscita</rhyme>
+<lb n="15JO.267b:35"/>Me soit joye celestïel <rhyme>donnée</rhyme>
+<lb n="15JO.267b:36"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267b:38"/><group n="12"/>¶ Doulce dame pour la joyë <rhyme>plainiere</rhyme><pb n="267" ed="v"/>
+<lb n="15JO.267v:01"/><hi rend="red">les xv &#x95; joyes n<abbr type="ost"/>re dame <note>1re colonne</note> xxvii &#x95;</hi> <note>2e colonne, encre plus foncée ?</note><cb n="c"/><layout ruledLines="38"/>
+<lb n="15JO.267c:01"/>¶ <note>partiellement effacé</note> Qu'à <name ref="">pasques</name> eus quant ton filz <rhyme>t'apparu</rhyme>
+<lb n="15JO.267c:02"/>Ressuscité exausses ma <rhyme>prïere</rhyme>
+<lb n="15JO.267c:03"/>Et mets en moy la mort dont il <rhyme>mouru</rhyme>
+<lb n="15JO.267c:04"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267c:06"/><group n="13"/>¶ Pries ton filz qu'après lui il me <rhyme>traye</rhyme>
+<lb n="15JO.267c:07"/>Pour la joye que eus à <rhyme>l'asscencïon</rhyme> <note>'c' inséré ?; 'assan' transformé en 'asscen' ?</note>
+<lb n="15JO.267c:08"/>Quant il monta oû ciel c'est chose <rhyme>vraye</rhyme>
+<lb n="15JO.267c:09"/>Si vrayement ay je <rhyme>salvacïon</rhyme>
+<lb n="15JO.267c:10"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267c:12"/><group n="14"/>¶ Doulce dame pour ycellui <rhyme>plaisir</rhyme>
+<lb n="15JO.267c:13"/>Que / <note><abbr type=" "/>?</note>tu eus quant / le <name ref="">saint esperit</name> <rhyme>vint</rhyme>
+<lb n="15JO.267c:14"/>Aux <name ref="">appostres</name> conforter leur <rhyme>desir</rhyme>
+<lb n="15JO.267c:15"/>Ainsi me puist venir com leur <rhyme>advint</rhyme>
+<lb n="15JO.267c:16"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267c:18"/><group n="15"/>¶ Vierge digne pour la joye <rhyme>enterine</rhyme>
+<lb n="15JO.267c:19"/>Quë eus au jour de ton <rhyme>assompcïon</rhyme> <note>hiatus</note>
+<lb n="15JO.267c:20"/>Qu'en ciel montas / de pechié la <rhyme>racine</rhyme>
+<lb n="15JO.267c:21"/>Ostes de moy / et mets <rhyme>devocïon</rhyme>
+<lb n="15JO.267c:22"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><c>a</c>ve <name ref="Virgin+Mary"><c>m</c>aria</name></foreign>.</fw>
+<!-- 1 blank line here -->
+<lb n="15JO.267c:24"/><fw rend="centred" type="explicit">Explicit.</fw>
+<!-- 14 blank lines here --><cb n="d"/><layout ruledLines="38"/>
+<!-- blank column --><pb n="268" ed="r"/>
+<lb n="15JO.268r:01"/><hi rend="red">Le livre de prudence à l'enseignement de bien vivre <note>première et entrecolonne</note> xxviii &#x95; <note>deuxième colonne</note></hi>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

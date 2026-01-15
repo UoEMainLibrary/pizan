@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<TITLE>Virtual Vellum - Embedded Applet</TITLE>
+</HEAD>
+<BODY>
+<CENTER>
+<B><FONT SIZE=4>Virtual Vellum - Embedded Applet</FONT></B>
+<BR><BR>
+<I>Note, this example will only work when all the files are copied to a web server because a Java applet is not
+allowed to access files stored on a local hard drive even if the applet is run from a local hard disk.</I>
+<BR><BR>
+<!-- HTML code to launch Virtual Vellum as an applet -->
+
+<APPLET CODE="WebLaunch.class" ARCHIVE="vv.jar" WIDTH="800" HEIGHT="600">
+
+  <!-- To tell Virtual Vellum which image collection to use, we need to set the "state" parameter 
+       to the full path of the state file, i.e. http://www.../.../images/.xml -->
+
+  <param name="embed" value="true"/>
+  <param name="state" value="http://cbers.shef.ac.uk/newexample/web_state.xml"/>
+</APPLET>
+
+<!-- end of HTML code to launch Virtual Vellum as an applet -->
+
+</BODY>
+</HTML>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="fiche.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact Charlie.Mansfield@ ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="1" type="1">
+
+<!-- New document created with EditiX at Mon Feb 16 13:53:54 GMT 2009 -->
+
+<div9>
+<div4><title type="main"><emph rend="headline">Le Livre du duc des vrais amans</emph></title>
+</div4>
+<div4>The <emph rend="italic">Livre du duc des vrais amans</emph> is divided into 6 sections:
+</div4>
+<div4>
+1) the <emph rend="italic">Livre</emph> (DVAL), a narrative in heptasyllabic couplets,
+    interspersed with <emph rend="italic">formes fixes</emph> (15 ballades, 3 rondeaux,
+    1 virelai) and 8 letters in prose. 
+</div4>
+<div4>
+2) an epilogue (DVAE) made up of 12 heptasyllabic couplets.
+
+</div4>
+<div4>
+3) a collection of 9 <emph rend="italic">Balades de plusieurs façons</emph> (DVAB).
+</div4>
+<div4>
+4) a collection of 3 <emph rend="italic">Virelais</emph> (DVAV).
+</div4>
+<div4>
+5) a collection of 4 <emph rend="italic">Rondiaulx</emph> (DVAR).
+</div4>
+<div4>
+6) a <emph rend="italic">Complainte</emph> (DVAC).
+</div4>
+<div4>The <emph rend="italic">Livre du duc des vrais amans</emph> 
+is extant in only two manuscripts, London, BL, Harley 4431 andParis, BnF, f.fr. 836.
+The work was edited by Maurice Roy in 1896 (<emph rend="italic">Oeuvres poétiques de
+Christine de Pisan</emph>, Paris: SATF, vol. 3,  pp. 59-208), who based his text on the Paris MS. 
+A new edition, based on the Harley MS, was published by Thelma S. Fenster in 1995:
+ (<emph rend="italic">Christine de Pizan: Le Livre du duc des vrais amans</emph>, Binghamton, NY:
+Medieval &amp; Renaissance texts &amp; studies 124, 261 pp.).
+The verse lines are numbered in both editions. From line 2066 onwards Fenster's
+line numbers, which are used here, 
+are greater by one than those in Roy's edition, because
+Fenster numbers the missing line, discussed below.</div4>
+<div4>
+The copy of the <emph rend="italic">Livre du duc des vrais amans</emph> in the
+Queen's MS is carefully executed; the text is notably free of
+abbreviations. The errors and emendations made by the scribe
+and the reviser's corrections are surprisingly few in number.
+Lines of verse have been copied twice on ff. 151c and 174b,
+the second copy being scored out. The scribe has left a blank
+line on fol. 157c to show that line 2067 is missing.
+</div4>
+<div4>The work contains five 'split rhymes': 
+ The first syllable(s) of the rhyme-word provide the rhyme and the
+ remaining syllable(s) are carried over to the next line.  
+Two of the split rhymes are adverbs ending in <emph rend="italic">–ment</emph> (lines 1513-4, 1598-9),
+ two are a form  of <emph rend="italic">avoir</emph> (lines 2055-6, 2385-6); the last example
+is <emph rend="italic">tour–noyé</emph> (lines 953-4) . The scribe has copied <emph rend="italic">-Ment</emph> once with a capital;
+in all the other instances the new line begins with a small letter,
+which has been retained.</div4>
+<div4>
+The refrains of the <emph rend="italic">ballades</emph>, are written
+ now in full, now in abbreviated form. The  refrains of 
+<emph rend="italic">virelais</emph> <emph rend="italic">rondeaux</emph> 
+are presented differently: they are always abbreviated and always inset.  Both layouts have been reproduced, as has the use - and
+sometimes the absence - of blank lines. The majority of the errors
+in the text have been corrected by reference to BnF, f.fr. 836.</div4>
+<div4>The refrains have been set in italic, in accordance with modern practice.</div4>
+</div9>
+</div1>
+</p>
+</body>
+</text>
+</TEI>
+
+

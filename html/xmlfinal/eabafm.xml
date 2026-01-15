@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="fiche.xsl" type="text/xsl"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact pizan@ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="1" type="1">
+<div9>
+<div4><title type="main"><emph rend="headline">Encore Aultres Balades</emph></title></div4>
+<div4>Harley MS 4431 contains the only known copy of <emph rend="italic">Encore Aultres Balades</emph>; the name is misleading for these 9 poems consist of  4 <emph rend="italic">rondeaux quatrains</emph>, 4 <emph rend="italic">balades simples</emph> and 1 <emph rend="italic">balade layée</emph>.</div4>
+<div4>Although the collection has no rubric, the four lines left blank before the first poem, together with two faint dots closeby in the outer margin, show that one was planned. The rubric supplied in this edition mirrors the only running title, at the top of fol. 049v, and echoes the title found in the Table of Contents.</div4>
+ <div4>The collection was inserted into the Queen's MS at the very last moment, witness the very unusual structure of Quire 5 and the allusions in the final poem to the expedition led by the Duke of Bourbon which culminated in the capture of Soubise on 23 November 1413. For the significance of these references in dating the Queen's MS see  "<a href="http://www.pizan.lib.ed.ac.uk/harley4431date.pdf"/>.</div4>
+</div9>
+</div1>
+</p>
+</body>
+</text>
+</TEI>
+
+
+
+   
+

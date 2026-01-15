@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<vvlanguagefile languages="French">
+  <translation id="SHRINK" french="Diminuer" />
+  <translation id="EXPAND" french="Agrandir" />
+  
+  <translation id="GRID_LAYOUT" french="Format de la grille" />
+  <translation id="GD1" french="Entrez le nombre de grilles" />
+  <translation id="GD2" french="Lignes et colonnes" />
+  <translation id="GD_ROWS" french="Lignes" />
+  <translation id="GD_COLS" french="Colonnes" />
+
+  <translation id="OK" french="OK" />
+  <translation id="CANCEL" french="Annuler" />
+  <translation id="YES" french="Oui" />
+  <translation id="NO" french="Non" />
+
+  <translation id="UNUSED_IMAGE_WINDOW" french="La fenêtre de l'image est inactive" />
+  <translation id="UNKNOWN_RESOLUTION" french="Résolution inconnue" />
+
+  <translation id="CM" french="cm" />
+  <translation id="INCHES" french="in" />
+
+  <translation id="MEASURE_DIALOG" french="Dimensions" />
+  <translation id="MD1" french="Détails des dimensions" />
+  <translation id="MD2" french="(gauche, haut, droite, bas)" />
+  <translation id="MD_REGION" french="Region" />
+  <translation id="MD_DIAGONAL" french="Diagonale" />
+
+  <translation id="LOADING" french="Chargement" />
+
+  <translation id="TOOLTIPS0" french="Ouvrir la vignette séléctionnée dans la fenêtre courante" />
+  <translation id="TOOLTIPS1" french="Utiliser la souris pour suivre les images" />
+  <translation id="TOOLTIPS2" french="Utiliser la souris pour zoomer dans ou hors de l'image" />
+  <translation id="TOOLTIPS3" french="Utiliser l'outil d'annotation" />
+  <translation id="TOOLTIPS4" french="Utiliser la souris pour mesurer une partie de l'image" />
+  <translation id="TOOLTIPS5" french="Mettre l'image aux proportions de la fenêtre" />
+  <translation id="TOOLTIPS6" french="Zoomer d'un niveau (maintenir appuyé pour continuer le zoom)" />
+  <translation id="TOOLTIPS7" french="Zoomer d'un niveau (maintenir appuyé pour continuer de diminuer le zoom)" />
+  <translation id="TOOLTIPS8" french="Afficher/Masquer les boîtes d'apperçu d'image" />
+  <translation id="TOOLTIPS9" french="Afficher/Masquer la barre de couleurs" />
+  <translation id="TOOLTIPS10" french="Afficher/Masquer les rêgles autour de l'image" />
+  <translation id="TOOLTIPS11" french="Utiliser la vue en mode fenêtre simple" />
+  <translation id="TOOLTIPS12" french="Utiliser la vue en mode fenêtre double" />
+
+  <translation id="DISABLED" french="disabled" />
+
+
+  <translation id="FILE" french="Fichier" />
+  <translation id="SAVE_TO_BMP" french="Enregistrer au format BMP" />
+  <translation id="EXIT" french="Quitter" />
+  <translation id="WINDOW" french="Fenêtre" />
+  <translation id="SINGLE_WINDOW" french="Fenêtre simple" />
+  <translation id="DOUBLE_WINDOW" french="Fenêtre double" />
+  <translation id="NEW_WINDOW" french="Nouvelle Fenêtre" />
+  <translation id="CLOSE_WINDOW" french="Fermer la fenêtre" />
+  <translation id="CLOSE_ALL_WINDOWS" french="Tout fermer" />
+  <translation id="MOUSE_DRIVEN" french="Prévenir les changements de dimensions dûs aux mouvements de la souris" />
+  <translation id="CASCADE" french="Cascade" />
+  <translation id="TILEH" french="Aligner horizontalement" />
+  <translation id="TILEV" french="Aligner verticalement" />
+  <translation id="GRIDW" french="Fenêtre de la grille" />
+  <translation id="WINDOWS" french="Fenêtre" />
+  <translation id="INFO" french="Information" />
+  <translation id="ABOUT" french="A propos de" />
+
+  <translation id="SAVE_FILE" french="Enregistrer le fichier" />
+  <translation id="IMAGE_SAVED" french="L'image a été enregistrée correctement" />
+
+  <translation id="VV0" french="Voulez-vous continuer?" />
+  <translation id="VV1" french="Vous avez plusieus fenêtre d'ouvertes. Choisir Fenêtre Simple risque de fermer les autres fenêtres." />
+  <translation id="VV2" french="Choisissez la vignette que vous souhaitez voir" />
+
+  <translation id="MAGNIFICATION" french="Agrandissement" />
+
+  <translation id="RELAUNCH" french="Relancer la visionneuse" />
+
+  <translation id="WD1" french="Choisissez la fenêtre à activer:" />
+
+  <translation id="IMAGE_RESOLUTION" french="Résolution de l'image" />
+  <translation id="RD1" french="Choisissez la résolution de l'image pour le BMP" />
+
+  <translation id="LANGUAGES" french="Langue" />
+  <translation id="ENGLISH" french="Anglais" />
+</vvlanguagefile>

@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Une Oroison de la Vie et Passion de Nostre Seigneur" type="item"><figure ref="257b" place="16"></figure>
+<lb n="ORNS.257b:17"/><group n=" 1"/><hi rend="red" type="rubric">Ci commence une <c>o</c>roison de la <c>v</c>ie et
+<lb n="ORNS.257b:18"/><c>p</c>assion de <c>n</c><abbr type="ost"/>re <c>s</c>eigneur xxiii.&#x95;</hi><note>The item number is in a darker ink than the rubric.</note>
+<lb n="ORNS.257b:19"/><name ref="Jesus+Christ"><hi rend="cap4" type="vignes">S</hi>ire Jhesus</name>, mon oroison <rhyme>entens</rhyme>
+<lb n="ORNS.257b:20"/>Et me donnes grace que je <rhyme>recite</rhyme>
+<lb n="ORNS.257b:21"/><c>t</c>a tresdigne vie et mort q<abbr type="ue"/> <rhyme>j'ente<abbr type="n"/>s</rhyme>
+<lb n="ORNS.257b:22"/>À recorder. <c>v</c>eilles qu'il me <rhyme>p<abbr type="ro"/>ufite</rhyme>.<l n="  4"/>
+<lb n="ORNS.257b:23"/><fw place="centred"><hi rend="red">Pater noster</hi></fw>
+<lb n="ORNS.257b:24"/><group n=" 2"/>¶ Conseilles moy pour le conseil <rhyme>tresdigne</rhyme>
+<lb n="ORNS.257b:25"/>Qui oû ciel fu pour no <rhyme>redempcïon</rhyme>
+<lb n="ORNS.257b:26"/>Pris, que ça jus descendroies, <rhyme>benigne</rhyme>,<note>'benigne' as a masculine form is well attested; see the DMF.</note>
+<lb n="ORNS.257b:27"/>Et prendroyes n<abbr type="ost"/>re <rhyme>carnacïon</rhyme>.<l n="  8"/>
+<lb n="ORNS.257b:28"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257b:29"/><group n=" 3"/>¶ Fay mon cuer lié en toy pour le <rhyme>salu</rhyme>
+<lb n="ORNS.257b:30"/>Qu'à la <name ref="Virgin+Mary"><c>v</c>ierge</name> par <name ref="Angel+Gabriel"><c>g</c>abrïel</name> <rhyme>tramis</rhyme>,
+<lb n="ORNS.257b:31"/>Lui annonçant que pour n<abbr type="ost"/>re <rhyme>salu</rhyme>
+<lb n="ORNS.257b:32"/>T'enfanteroit, comme il estoit <rhyme>promis</rhyme>.<l n=" 12"/>
+<lb n="ORNS.257b:33"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257b:34"/><group n=" 4"/>¶ O bon <name ref="Jesus+Christ"><c>j</c>hesus</name> pour ta <rhyme>nativité</rhyme>
+<lb n="ORNS.257b:35"/>Conforte moy et ayde en tout <rhyme>besoing</rhyme>.
+<lb n="ORNS.257b:36"/>De mes pechiez oste <rhyme>l'iniquité</rhyme>
+<lb n="ORNS.257b:37"/>Et ne seuffres que de <choice><sic>toye</sic><corr reason="hypermetric" resp="JCL" rend="eyeskip">toy</corr></choice> soye <rhyme>loing</rhyme>.<l n=" 16"/>
+<lb n="ORNS.257b:38"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257b:39"/><group n=" 5"/>¶ Tresdoulx enfant, <name ref="Emmanuel"><c>e</c>manüel</name> <rhyme>plaisant</rhyme>,
+<lb n="ORNS.257b:40"/>Je te requier que pour yceulz <rhyme>pastours</rhyme><pb n="257" ed="v"/>
+<lb n="ORNS.257v:01"/><hi rend="run">une oroison de la vie et<note>première colonne</note> passion<note>entrecolonne</note> de nostre seigneur xxiii&#x95;<note>deuxième colonne</note></hi><cb n="c"/><layout ruledLines="40"/>
+<lb n="ORNS.257c:01"/>Qui en creche te trouverent <rhyme>gisant</rhyme>,
+<lb n="ORNS.257c:02"/>En tous besoings j'aye de toy <rhyme>secours</rhyme>.<l n=" 20"/>
+<lb n="ORNS.257c:03"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:04"/><group n=" 6"/>¶ Pour le digne sanc que tu <rhyme>respendis</rhyme>
+<lb n="ORNS.257c:05"/>À cellui jour que circoncis tu <rhyme>fus</rhyme>,
+<lb n="ORNS.257c:06"/><name ref="Wisdom">Sapience</name> me donne en fais et <rhyme>dicts</rhyme>
+<lb n="ORNS.257c:07"/>Et ne soit ja mon esperit <rhyme>confus</rhyme>.<l n=" 24"/>
+<lb n="ORNS.257c:08"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:09"/><group n=" 7"/>¶ Ottroye moy toy faire <rhyme>oblacïon</rhyme>
+<lb n="ORNS.257c:10"/>Et offrande qui te soit <rhyme>agréable</rhyme>,
+<lb n="ORNS.257c:11"/>Sicom firent par grant <rhyme>devocïon</rhyme>
+<lb n="ORNS.257c:12"/>Les bons <name ref="Magi">&#x95;iii&#x95; <c>r</c>oys</name> que tu os <rhyme>acceptable</rhyme>.<l n=" 28"/>
+<lb n="ORNS.257c:13"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:14"/><group n=" 8"/>¶ L'offrande que de toy <name ref="Virgin+Mary">ta mere</name> au <name ref="Temple"><rhyme><c>t</c>emple</rhyme></name>
+<lb n="ORNS.257c:15"/>Fist, <name ref="Jesus+Christ">doulx <c>j</c>hesus</name>, ès bras du <name ref="Simeon">saint <rhyme>p<abbr type="ro"/>phete</rhyme>
+<lb n="ORNS.257c:16"/>Syméon</name> qui t'atendoit, <del rend="erasure"></del><add place="inline" evidence="blurring, larger font, cruder hand">soit</add> <rhyme>exemple</rhyme>
+<lb n="ORNS.257c:17"/>De m'ame offrir à toy <name ref="God"><c>d</c>ieux</name> qui l'as <rhyme>faicte</rhyme>.<l n=" 32"/>
+<lb n="ORNS.257c:18"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:19"/><group n=" 9"/>¶ En remembrant ton enfance et <rhyme>jeunece</rhyme>,
+<lb n="ORNS.257c:20"/><name ref="God">Beau sire <c>d</c>ieux</name>, qui tant fu nette &amp; <rhyme>pure</rhyme>,
+<lb n="ORNS.257c:21"/>Mes jours passer me donnes en <rhyme>lïece</rhyme>
+<lb n="ORNS.257c:22"/>Sans vice avoir et m'ame pren en <rhyme>cure</rhyme>.<l n=" 36"/>
+<lb n="ORNS.257c:23"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:24"/><group n="10"/>¶ Le Baptesme que de <name ref="Saint+John+the+Baptist">saint <c>j</c>ehan</name> <rhyme>receus</rhyme>
+<lb n="ORNS.257c:25"/>Oû <name ref="River+Jordan">flun <c>j</c>ourdain</name> quant la voix fu <rhyme>ouÿe</rhyme>
+<lb n="ORNS.257c:26"/>De <name ref="God"><c>d</c>ieu</name> qui dist, "<c>c</c>'est mes filz <rhyme>esleüs</rhyme>",
+<lb n="ORNS.257c:27"/>Face en vertus mon ame <rhyme>resjouÿe</rhyme>.<l n=" 40"/>
+<lb n="ORNS.257c:28"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:29"/><group n="11"/>¶ Pour la sainte jeune que tu volz <rhyme>faire</rhyme>
+<lb n="ORNS.257c:30"/>Quant, baptisiez, fus entrez oû <rhyme>desert</rhyme>
+<lb n="ORNS.257c:31"/>&#x95;xl&#x95;jours, ottroyes moy <rhyme>parfaire</rhyme>
+<lb n="ORNS.257c:32"/>Tel jeune dont mon pechié soit <rhyme>desert</rhyme>.<l n=" 44"/>
+<lb n="ORNS.257c:33"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:34"/><group n="12"/>¶ Tes grans vertus et <rhyme>tes</rhyme> miracles <rhyme>saintes</rhyme>,
+<lb n="ORNS.257c:35"/>Tes doulx sermons et ta digne <rhyme>parolle</rhyme>,
+<lb n="ORNS.257c:36"/><name ref="Jesus+Christ">Mon doulx <c>s</c>auveur</name>, soient en moy <rhyme>e<abbr type="m"/>prai<abbr type="n"/>tes</rhyme>
+<lb n="ORNS.257c:37"/>Si que n'aye cure de vie <rhyme>mole</rhyme>.<l n=" 48"/>
+<lb n="ORNS.257c:38"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257c:39"/><group n="13"/>¶ Doulx <name ref="Jesus+Christ"><c>j</c>hesucrist</name>, sens me donne et <rhyme>memoire</rhyme>
+<lb n="ORNS.257c:40"/>De <c>R</c>ecorder en tel <rhyme>compassïon</rhyme><cb n="d"/><layout ruledLines="40"/>
+<lb n="ORNS.257d:01"/>¶ Ta digne mort que me conduit/ en <rhyme>gloire</rhyme>
+<lb n="ORNS.257d:02"/>Le digne effect d'icelle <rhyme><c>p</c>assïon</rhyme>.<l n=" 52"/>
+<lb n="ORNS.257d:03"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:04"/><group n="14"/>¶ O <name ref="Jesus+Christ">bon <c>j</c>hesus</name>, pour celle sainte <rhyme><g lemma="cène" en="(Last) Supper" fr="cène">sene</g></rhyme>
+<lb n="ORNS.257d:05"/>Que tu feïs avec tes bons <rhyme>amis</rhyme>
+<lb n="ORNS.257d:06"/>Quant ton saint corps leur do<abbr type="n"/>nas, m'ame <rhyme>assene</rhyme>
+<lb n="ORNS.257d:07"/>Oû lieu où as tous tes sai<abbr type="n"/>s esleus <rhyme>mis</rhyme>.<l n=" 56"/>
+<lb n="ORNS.257d:08"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:09"/><group n="15"/>¶ Pour cellui sanc qu'äourant à ton <rhyme>pere</rhyme>
+<lb n="ORNS.257d:10"/>Oû jardin volz espandre pour <rhyme>l'orreur</rhyme>
+<lb n="ORNS.257d:11"/>De ta grief mort, en süant<note>sense? correct to sui(v)ant?</note> cil <rhyme>mistere</rhyme>,
+<lb n="ORNS.257d:12"/>Me deffende de pechié et <rhyme>d'erreur</rhyme>.<l n=" 60"/>
+<lb n="ORNS.257d:13"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:14"/><group n="16"/>¶ <name ref="Jesus+Christ">Jhesus</name>, qui volz à heure de <rhyme>matines</rhyme>
+<lb n="ORNS.257d:15"/>Des faulx <c>j</c>uïfs estre pris et <rhyme>lïé</rhyme>
+<lb n="ORNS.257d:16"/>Pour noz pechez, à celle heure <rhyme>m'enclines</rhyme>
+<lb n="ORNS.257d:17"/>À t'äourer de cuer <rhyme>humilïé</rhyme>.<l n=" 64"/>
+<lb n="ORNS.257d:18"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:19"/><group n="17"/>¶ Sire, qui volz souffrir par ton <rhyme>humblece</rhyme>
+<lb n="ORNS.257d:20"/>Le <name ref="Judas+Iscariot">faulx <c>j</c>udas</name> toy baisier et <rhyme>trahir</rhyme>,
+<lb n="ORNS.257d:21"/>Si humble rens mon cuer qu'<name ref="Pride"><c>o</c>rgueil</name> ne <rhyme>blece</rhyme>
+<lb n="ORNS.257d:22"/>M'ame, et me fais pour toy pechié <rhyme>haÿr</rhyme>.<l n=" 68"/>
+<lb n="ORNS.257d:23"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:24"/><group n="18"/>¶ Pardonnes moy mes pechez en <rhyme>l'onneur</rhyme>
+<lb n="ORNS.257d:25"/>De ton saint col et dignes mai<abbr type="n"/>s q<abbr type="ui"/> <rhyme>tant</rhyme>
+<lb n="ORNS.257d:26"/>Estroit lïez furent à <rhyme>deshonnour</rhyme>
+<lb n="ORNS.257d:27"/>Par les felons qui t'aloie<abbr type="n"/>t <rhyme>batant</rhyme>.<l n=" 72"/>
+<lb n="ORNS.257d:28"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:29"/><group n="19"/>¶ O <name ref="Jesus+Christ">digne saint filz de <c>d</c>ieu <rhyme>treshumain</rhyme></name>
+<lb n="ORNS.257d:30"/>Qui cheux <name ref="Anne"><c>a</c>ne</name> celle nuit <rhyme>malmenez</rhyme>
+<lb n="ORNS.257d:31"/>Fus et bandez et ferus jusqu'au <rhyme>main</rhyme>
+<lb n="ORNS.257d:32"/>Fay que de toy soit mon desir <rhyme>menez</rhyme>.<l n=" 76"/>
+<lb n="ORNS.257d:33"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:34"/><group n="20"/>¶ Sauve moy <name ref="Jesus+Christ">doulx <c>j</c>hesus</name> en <rhyme>reme<abbr type="m"/>bra<abbr type="n"/>ce</rhyme>
+<lb n="ORNS.257d:35"/>Qu'à <name ref="Caiphas">l'evesque caÿphe</name> on te <rhyme>mena</rhyme>
+<lb n="ORNS.257d:36"/>Au point du jour, où par <rhyme>inreverence</rhyme>
+<lb n="ORNS.257d:37"/>On t'accusa, frappa et <rhyme>malmena</rhyme>.<l n=" 80"/>
+<lb n="ORNS.257d:38"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.257d:39"/><group n="21"/>¶ <name ref="">Dieux</name> donne moy pacïence en <rhyme>memoire</rhyme>
+<lb n="ORNS.257d:40"/>Que fus frappez devant <name ref="">caÿphe</name> à <rhyme>tort</rhyme><note>agglutinated?</note><pb n="258" ed="r"/>
+<lb n="ORNS.258r:01"/><hi rend="red">une oroison de la <note>centré sur la première colonne</note> passion <note>entrecolonne</note> de n<abbr type="ost"/>re seigneur <note>4 espaces</note> xxiii &#x95;</hi><note>décharges à quatre endroits différents</note><cb n="a"/><layout ruledLines="38"/>
+<lb n="ORNS.258a:01"/>Et acusez et pour parolle <rhyme>voire</rhyme>
+<lb n="ORNS.258a:02"/>Que tu deis <note>'lui', found in Duke's manuscript, omitted? ' deis', 'deist' are monosyllables elsewhere in poem</note> te deist digne de <rhyme>mort</rhyme><note>9 syllables?</note><l n=" 84"/>
+<lb n="ORNS.258a:03"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258a:04"/><group n="22"/>¶ <name ref="Jesus+Christ">Beau sire <c>d</c>ieux</name>, qui à heure de <rhyme>prime</rhyme>
+<lb n="ORNS.258a:05"/>Chieux <name ref="Pontius+Pilate"><c>p</c>ilate</name> fus menez par <rhyme>envie</rhyme>,
+<lb n="ORNS.258a:06"/>Là accusez sans desserte et sans <rhyme>crime</rhyme>,
+<lb n="ORNS.258a:07"/>Donne moy sens de vivre en sainte\ <rhyme>vie</rhyme>.<l n=" 88"/>
+<lb n="ORNS.258a:08"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258a:09"/><group n="23"/>¶ O <name ref="Jesus+Christ">mon <c>s</c>aulveur</name>, tresdoulx aignel sa<abbr type="n"/>z <rhyme>tache</rhyme>
+<lb n="ORNS.258a:10"/>Si vrayement que sans cause <rhyme>batus</rhyme>
+<lb n="ORNS.258a:11"/>Chieux <name ref="Pontius+Pilate"><c>p</c>ilate</name> fus lïez à <rhyme>l'atache</rhyme>,
+<lb n="ORNS.258a:12"/>Ne soit mon sens de dïable <rhyme>abatus</rhyme>.<l n=" 92"/>
+<lb n="ORNS.258a:13"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258a:14"/><group n="24"/>¶ <name ref="Jesus+Christ">Sire Jhesus</name>, pour ycelle <rhyme>couronne</rhyme>
+<lb n="ORNS.258a:15"/>Dure et poignant jusqu'au cervel q<abbr type="ue"/> oû <rhyme>chef</rhyme>
+<lb n="ORNS.258a:16"/>Par grant desdaing te mirent, me <rhyme>p<abbr type="ar"/>do<abbr type="n"/>ne</rhyme>
+<lb n="ORNS.258a:17"/>Mes griefs pechez et me gards de <rhyme>meschef</rhyme>.<l n=" 96"/>
+<lb n="ORNS.258a:18"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258a:19"/><group n="25"/>¶ <name ref="Jesus+Christ">Mon <c>c</c>réateur</name>, le <g lemma="gabois" en="mockery, derision" fr="moquerie, dérision">gabois</g> et <rhyme><g lemma="desroi" en="violence" fr="violence">desroy</g></rhyme>
+<lb n="ORNS.258a:20"/>Et le mantel de pourpre et les <rhyme><g lemma="batture" en="beating, blow" fr="fait d'être battu, coup">basteures</g></rhyme>
+<lb n="ORNS.258a:21"/>Qu'on te faisoit, disant "<name ref="God"><c>d</c>ieu</name> te gard, <rhyme>roy</rhyme>",
+<lb n="ORNS.258a:22"/>De mes pechez deffacent les <rhyme><g lemma="laidure" en="stain (of sin)" fr="souillure du péché">laidures</g></rhyme>.<l n="100"/>
+<lb n="ORNS.258a:23"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258a:24"/><group n="26"/>¶ Tes dignes yeulx bandez ta sainte <rhyme>face</rhyme>
+<lb n="ORNS.258a:25"/>De très grans coups noircie et <rhyme>decrachée</rhyme>
+<lb n="ORNS.258a:26"/>Ton digne sanc qui decouroit à <rhyme>trace</rhyme>
+<lb n="ORNS.258a:27"/>Me deffendent qu'en grief pechié ne <rhyme>chée</rhyme><l n="104"/>
+<lb n="ORNS.258a:28"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258a:29"/><group n="27"/>¶ Le hideux cry disant oste le <rhyme>nous</rhyme>
+<lb n="ORNS.258a:30"/>Cruxifie le que crierent <rhyme>juifs</rhyme><note>' juifs', monosyllable?</note>
+<lb n="ORNS.258a:31"/>Encontre toy <name ref="">mon créateur <rhyme>tresdoulx</rhyme></name>
+<lb n="ORNS.258a:32"/>Me soit d'avoir pacïence <rhyme>conduis</rhyme><l n="108"/>
+<lb n="ORNS.258a:33"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258a:34"/><group n="28"/>¶ <name ref="">Mon redempteur</name> qui condampnez à <rhyme>heure</rhyme><note>agglutinated?</note>
+<lb n="ORNS.258a:35"/>De tierce fus par <name ref="">pylate</name> ses <rhyme>mains</rhyme>
+<lb n="ORNS.258a:36"/>Lavant te pry qu'à mes besoings je <rhyme>cuere</rhyme>
+<lb n="ORNS.258a:37"/>À toy et tu me preignes en tes <rhyme>mains</rhyme><l n="112"/>
+<lb n="ORNS.258a:38"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw><cb n="b"/><layout ruledLines="38"/>
+<lb n="ORNS.258b:01"/><group n="29"/>¶ <name ref="">Dieu</name><note>banderole sur le prolongement du 'D'</note> qui souffris<abbr type=" "/>sur tes espaules <rhyme>mettre</rhyme>
+<lb n="ORNS.258b:02"/>La très grant croix toy menant au <rhyme>m<abbr type="ar"/>tire</rhyme>
+<lb n="ORNS.258b:03"/>Ta passïon en mon cuer sans <rhyme>desmettre</rhyme>
+<lb n="ORNS.258b:04"/>Vueilles ficher si qu'à t'amer me <rhyme>tire</rhyme><l n="116"/>
+<lb n="ORNS.258b:05"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258b:06"/><group n="30"/>¶ Pardonnes moy mes pechez pour les <rhyme>larmes</rhyme><note>'s' avec bec et descendant</note>
+<lb n="ORNS.258b:07"/>Que tu gitas disant vers la <rhyme>cité</rhyme>
+<lb n="ORNS.258b:08"/>Plourez sur vous <name ref="">de Jherusalem <rhyme>dames</rhyme>
+<lb n="ORNS.258b:09"/>Et filles</name> / car arés <rhyme>adversité</rhyme><l n="120"/>
+<lb n="ORNS.258b:10"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258b:11"/><group n="31"/>¶ Celle douleur qui te fu trop <rhyme>diverse</rhyme>
+<lb n="ORNS.258b:12"/>Quant arrivez fus au <name ref="">mond de <rhyme>calvaire</rhyme></name>
+<lb n="ORNS.258b:13"/>À despouller ta robe qui <rhyme>aherse</rhyme>
+<lb n="ORNS.258b:14"/>Aux playes fu face m'ame à toy <rhyme>traire</rhyme><l n="124"/>
+<lb n="ORNS.258b:15"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258b:16"/><group n="32"/>¶ O mon seigneur envoyes moy <rhyme>fontaine</rhyme>
+<lb n="ORNS.258b:17"/>De plour pensant comment fus <rhyme>este<abbr type="n"/>du</rhyme>
+<lb n="ORNS.258b:18"/>Dessus la croix où l'un bras à <note>'en', encre plus pâle, au-dessus du 'à'</note> gra<abbr type="n"/>t <rhyme>peine</rhyme>
+<lb n="ORNS.258b:19"/>Oz à un clou fiché moult fort <rhyme>tendu</rhyme><l n="128"/>
+<lb n="ORNS.258b:20"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258b:21"/><group n="33"/>¶ La cruaulté des juïfs non <rhyme>pareille</rhyme>
+<lb n="ORNS.258b:22"/>Qui à cordes pour au treu <rhyme>avenir</rhyme>
+<lb n="ORNS.258b:23"/>Fort l'autre main tirerent tant me <rhyme>dueille</rhyme>
+<lb n="ORNS.258b:24"/>Que merite j'aye du <rhyme>souvenir</rhyme><l n="132"/>
+<lb n="ORNS.258b:25"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258b:26"/><group n="34"/>¶ Par tes sains piez qui detirez à <rhyme>cordes</rhyme><note>corection, 'accordes', premier 'c' barré d'une croix</note>
+<lb n="ORNS.258b:27"/>Et estendus furent pour <rhyme>atacher</rhyme>
+<lb n="ORNS.258b:28"/>À un gros clou en la croix sire <rhyme>acordes</rhyme><note>2 mots</note>
+<lb n="ORNS.258b:29"/>Si m'ame à toy que ne puisse <rhyme>pecher</rhyme><l n="136"/>
+<lb n="ORNS.258b:30"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258b:31"/><group n="35"/>¶ O <name ref="">mon sauveur innocent <rhyme>amïable</rhyme></name>
+<lb n="ORNS.258b:32"/>Emprains en moy sans partir li <rhyme>recors</rhyme>
+<lb n="ORNS.258b:33"/>De la douleur que eus <note>'x' transformé en 's'</note> <rhyme>inextimable</rhyme>
+<lb n="ORNS.258b:34"/>Quant la croix fu levée à tout le <rhyme>corps</rhyme><l n="140"/>
+<lb n="ORNS.258b:35"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258b:36"/><group n="36"/>¶ <name ref="">Mon redempteur</name> en celle croix <rhyme>t'äour</rhyme>
+<lb n="ORNS.258b:37"/>Où pour moy fus atachez à &#x95; iii &#x95; <rhyme>clos</rhyme>
+<lb n="ORNS.258b:38"/>Ta passïon en t'amour et <rhyme>päour</rhyme><pb n="258" ed="v"/>
+<lb n="ORNS.258v:01"/><hi rend="red">une oroison de la vie et passion <note>première colonne</note><note>décharge</note> de n<abbr type="ost"/>re seigneur xxiii &#x95;</hi><cb n="c"/><layout ruledLines="38"/>
+<lb n="ORNS.258c:01"/>Me tiengne si qu'enfer soit vers moy <note>point sur le 'y'</note> <rhyme>clos</rhyme><l n="144"/>
+<lb n="ORNS.258c:02"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:03"/><group n="37"/>¶ Par les larmes qu'à ta mort geta <note>sic</note><rhyme>maintes</rhyme>
+<lb n="ORNS.258c:04"/>Et la pitié que <name ref="">ta mere</name> ot de <rhyme>toy</rhyme>
+<lb n="ORNS.258c:05"/>Et pour s'amour et ses merites <rhyme>saintes</rhyme>
+<lb n="ORNS.258c:06"/>Ayes pardon sire et non dur <rhyme>chastoy</rhyme><l n="148"/>
+<lb n="ORNS.258c:07"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:08"/><group n="38"/>¶ O digne chief de <name ref="">Jhesu</name><note>'J' cadelé vers le bas</note> qui <rhyme>pendoies</rhyme>
+<lb n="ORNS.258c:09"/>Sans place avoir où peusses <rhyme>reposer</rhyme>
+<lb n="ORNS.258c:10"/>Fors que la croix autre oreiller <rhyme>n'avoies</rhyme>
+<lb n="ORNS.258c:11"/>Fay que mon cuer puisse en toy tout <rhyme>poser</rhyme><l n="152"/>
+<lb n="ORNS.258c:12"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:13"/><group n="39"/>¶ Ayes mercy de moy par ta <rhyme>pitié</rhyme>
+<lb n="ORNS.258c:14"/>Pour les saintes paroles que <rhyme>parlas</rhyme>
+<lb n="ORNS.258c:15"/>Pendant en croix jusqu'à mort <rhyme>dehaitié</rhyme>
+<lb n="ORNS.258c:16"/>Pour nous tirer d'enfer où tu <rhyme>alas</rhyme><l n="156"/>
+<lb n="ORNS.258c:17"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:18"/><group n="40"/>¶ Pardonnes moy par ta <rhyme>misericorde</rhyme>
+<lb n="ORNS.258c:19"/>Sire qui deis <note>monosyllable</note> pere pardonnes <rhyme>leur</rhyme>
+<lb n="ORNS.258c:20"/>Car ne scevent qu'ilz font mon ame <rhyme>accorde</rhyme>
+<lb n="ORNS.258c:21"/>À ton vouloir soit de joye ou <rhyme>douleur</rhyme><note>bas du 'y' encre rouge</note><l n="160"/>
+<lb n="ORNS.258c:22"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:23"/><group n="41"/>¶ <name ref="">Doulx jhesucrist</name> qui au bon larron <rhyme>deis</rhyme><note>monosyllable</note>
+<lb n="ORNS.258c:24"/>En croix pendant qui demandoit <rhyme>p<abbr type="ar"/>don</rhyme>
+<lb n="ORNS.258c:25"/>Huy tu seras o moy en <rhyme>paradis</rhyme>
+<lb n="ORNS.258c:26"/>Remissïon m'ottroye aussi <rhyme>pardon</rhyme><l n="164"/>
+<lb n="ORNS.258c:27"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:28"/><group n="42"/>¶ Pour la pitié dont regardas <name ref="">ta <rhyme>mere</rhyme></name>
+<lb n="ORNS.258c:29"/>Quant lui baillas pour toy <name ref="">sai<abbr type="n"/>t Jehan</name><note>'J' cadelé vers le bas</note> à<abbr type=" "/><rhyme>filz</rhyme>
+<lb n="ORNS.258c:30"/>Disant femme voy cy ton filz ta <note>sic</note> <rhyme>amere</rhyme><note>11 syllables</note> 
+<lb n="ORNS.258c:31"/>Mort si me soit vie saint <rhyme>crucefix</rhyme><l n="168"/>
+<lb n="ORNS.258c:32"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:33"/><group n="43"/>¶ Sire qui deis <note>monosyllable</note> j'ay soif pendant en <rhyme>croix</rhyme>
+<lb n="ORNS.258c:34"/>Et fus de vin aigre et de fiel <rhyme>amer</rhyme>
+<lb n="ORNS.258c:35"/>Abeuvrez fais que quant aux griefs <rhyme>destroiz</rhyme>
+<lb n="ORNS.258c:36"/>De mort seray <note>bas du 'y' encre rouge</note> te puisse <rhyme>reclamer</rhyme><l n="172"/>
+<lb n="ORNS.258c:37"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258c:38"/><group n="44"/>¶ Tu qui crÿas <name ref="">Eloÿ</name> qui fu <rhyme>signe</rhyme><cb n="d"/><layout ruledLines="38"/>
+<lb n="ORNS.258d:01"/>De grant douleur disant<abbr type=" "/><rhyme>qu'abandonné</rhyme>
+<lb n="ORNS.258d:02"/>Ton <name ref="">dieu</name> t'avoit soies la <rhyme>medecine</rhyme>
+<lb n="ORNS.258d:03"/>Contre le mors que pechié m'a <rhyme>donné</rhyme><l n="176"/>
+<lb n="ORNS.258d:04"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258d:05"/><group n="45"/>¶ Ottroies moy grace que je <rhyme>commande</rhyme>
+<lb n="ORNS.258d:06"/>Mon esperit en tes mains au <rhyme>trespas</rhyme>
+<lb n="ORNS.258d:07"/>De la mort sicom feis <note>monosyllable</note> payant <rhyme>l'amende</rhyme>
+<lb n="ORNS.258d:08"/>De noz pechez à ton pere en ce <rhyme>pas</rhyme><l n="180"/>
+<lb n="ORNS.258d:09"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258d:10"/><group n="46"/>¶ Consommé ost <note>'est'?</note> ce deis <note>monosyllable</note> tu siert <note>c'est-à-dire 's'iert?</note> à <rhyme>dire</rhyme>
+<lb n="ORNS.258d:11"/>Qu'accomplies erent les <rhyme>escriptures</rhyme>
+<lb n="ORNS.258d:12"/>Que <name ref="">prophetes</name> orent voulu <rhyme>escripre</rhyme>
+<lb n="ORNS.258d:13"/>De toy sire que de mon ame <rhyme>cures</rhyme><l n="184"/>
+<lb n="ORNS.258d:14"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258d:15"/><group n="47"/>¶<note>déplacé vers le bas</note> <name ref="">Sire Jhesus</name> qui à heure de <rhyme>nonne</rhyme>
+<lb n="ORNS.258d:16"/>Ton esperit rendis à <name ref="">dieu le <rhyme>pere</rhyme></name>
+<lb n="ORNS.258d:17"/>Ottroies moy que quant celle heure<abbr type=" "/><rhyme>so<abbr type="n"/>ne</rhyme>
+<lb n="ORNS.258d:18"/>Souvenance de ta mort en moy <rhyme>pere</rhyme><l n="188"/>
+<lb n="ORNS.258d:19"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258d:20"/><group n="48"/>¶ Graces te rends <name ref="">mon doulz sauveur</name><abbr type=" "/>q<abbr type="ui"/> <rhyme>volz</rhyme>
+<lb n="ORNS.258d:21"/>Pour noz pechez en croix estre <rhyme>penez</rhyme>
+<lb n="ORNS.258d:22"/>Ta passïon face noz cuers <rhyme>devos</rhyme><note>'o' refait?</note>
+<lb n="ORNS.258d:23"/>Si qu'en enfer ja ne soyons <rhyme>menez</rhyme><l n="192"/>
+<lb n="ORNS.258d:24"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258d:25"/><group n="49"/>¶ O tressainte deïté qui <rhyme>brisas</rhyme>
+<lb n="ORNS.258d:26"/>Enfer avec l'ame <name ref="">jhesus</name> quant <rhyme>hors</rhyme>
+<lb n="ORNS.258d:27"/>Tiras les tiens / l'esp<abbr type="er"/>it qu'en moy <rhyme>mis as</rhyme>
+<lb n="ORNS.258d:28"/>Tires à toy quant istra de mon <rhyme>corps</rhyme><l n="196"/>
+<lb n="ORNS.258d:29"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258d:30"/><group n="50"/>¶ <name ref="">Dieux</name> ayde moy /<note>?</note> pour les signes <rhyme>t<abbr type="re"/>mblables</rhyme><note>'s' long</note>
+<lb n="ORNS.258d:31"/>Dont le souleil mesmes müa sa <rhyme>forme</rhyme>
+<lb n="ORNS.258d:32"/>Qui à ta mort parurent <rhyme>redoubtables</rhyme>
+<lb n="ORNS.258d:33"/>Certiffïans qu'estoies <name ref="">dieu</name> et <rhyme>homme</rhyme><l n="200"/>
+<lb n="ORNS.258d:34"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.258d:35"/><group n="51"/>¶ Tressaint costé de <name ref="">Jhesus</name> que <name ref=""><rhyme>longis</rhyme></name>
+<lb n="ORNS.258d:36"/>Navra dont sanc et eaue hors <rhyme>sailli</rhyme>
+<lb n="ORNS.258d:37"/>Par merite de toy soie oû <rhyme>logis</rhyme>
+<lb n="ORNS.258d:38"/>De paradis qui jamais n'yert <rhyme>failli</rhyme><l n="204"/><pb n="259" ed="r"/>
+<lb n="ORNS.259r:01"/><hi rend="red">une oroison de la <note>première colonne</note> passion <note>entrecolonne</note> de n<abbr type="ost"/>re seigneur xxiii &#x95;<note>deuxième colonne</note></hi><cb n="a"/><layout ruledLines="39"/>
+<lb n="ORNS.259a:01"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259a:02"/><group n="52"/>¶ Mon <note>'M' élaboré</note> redempteur qui de la croix jus <rhyme>fus</rhyme>
+<lb n="ORNS.259a:03"/>À heure de vespres mis et <rhyme>osté</rhyme>
+<lb n="ORNS.259a:04"/>Tes bons amis presens ne fay <rhyme>refus</rhyme>
+<lb n="ORNS.259a:05"/>De moy ains <note>point sur le 'i' à l'encre rouge</note> mets mon ame à ton <rhyme>costé</rhyme><l n="208"/>
+<lb n="ORNS.259a:06"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259a:07"/><group n="53"/>¶ Pour les larmes qui respandues <rhyme>furent</rhyme>
+<lb n="ORNS.259a:08"/>Sevelissant et oignant ton corps <rhyme>saint</rhyme><note>doubles traits de part et d'autre du mot 'saint', en hauteur signale l'inversion des deux termes pour garantir la rime</note>
+<lb n="ORNS.259a:09"/>Et pour <name ref="">ta mere</name> et ceulx qui pitié <rhyme>eurent</rhyme>
+<lb n="ORNS.259a:10"/><name ref="">Dieux</name> fay mon cuer d'icelle pitié <rhyme>çaint</rhyme><l n="212"/>
+<lb n="ORNS.259a:11"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259a:12"/><group n="54"/>¶ Mon doulx sauveur qui en sepulchre <rhyme>mis</rhyme>
+<lb n="ORNS.259a:13"/>À heure de complie fus te <rhyme>pry</rhyme>
+<lb n="ORNS.259a:14"/>que <note>small 'q'</note> deffendes et moy et mes <rhyme>amis</rhyme>
+<lb n="ORNS.259a:15"/>De tous perilz / et oyes mon <rhyme>depry</rhyme><l n="216"/>
+<lb n="ORNS.259a:16"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259a:17"/><group n="55"/>¶ En l'onneur du sepulchre où <name ref=""><rhyme>magdelaine</rhyme></name>
+<lb n="ORNS.259a:18"/>Le samedi matin ala <rhyme>cercher</rhyme>
+<lb n="ORNS.259a:19"/>Ton digne corps et l'amour et la <rhyme>peine</rhyme>
+<lb n="ORNS.259a:20"/>Des &#x95; iii &#x95; dames ayde moy sire <rhyme>cher</rhyme><l n="220"/>
+<lb n="ORNS.259a:21"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259a:22"/><group n="56"/>¶ <name ref="">Beau sire dieux</name> qui voulz de mort à <rhyme>vie</rhyme>
+<lb n="ORNS.259a:23"/>Resusciter le jour de <name ref="">pasques</name> <rhyme>fais</rhyme>
+<lb n="ORNS.259a:24"/>Resusciter mon ame qui <rhyme>devie</rhyme>
+<lb n="ORNS.259a:25"/>Par grief pechié se tu n'ostes le <rhyme>fais</rhyme><l n="224"/>
+<lb n="ORNS.259a:26"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259a:27"/><group n="57"/>¶ Confortes moy en mon <rhyme>adversité</rhyme>
+<lb n="ORNS.259a:28"/>Si com tu feis <note>monosyllable</note> <name ref="">ta mere</name> à qui en <rhyme>joye</rhyme>
+<lb n="ORNS.259a:29"/>Tu t'apparus en corps <rhyme>resuscité</rhyme>
+<lb n="ORNS.259a:30"/>Et ainsi à <name ref="">magdelaine</name> en la <rhyme>voye</rhyme><l n="228"/>
+<lb n="ORNS.259a:31"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259a:32"/><group n="58"/>¶ Envoye moy secours pour le <rhyme>confort</rhyme>
+<lb n="ORNS.259a:33"/>Qu'à tes amez disciples et à <name ref=""><rhyme>pierre</rhyme></name>
+<lb n="ORNS.259a:34"/>Donnas adont que resuscis de <rhyme>mort</rhyme>
+<lb n="ORNS.259a:35"/>Leur apparus yssus hors de la <rhyme>pierre</rhyme><l n="232"/>
+<lb n="ORNS.259a:36"/><fw rend="centred" type="refrain"><foreign xml:lang="la"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></foreign></fw>
+<lb n="ORNS.259a:37"/><group n="59"/>¶ <name ref="">Mon doulx sauveur</name> pour celle <rhyme>assompc<abbr type="ï"/>on</rhyme>
+<lb n="ORNS.259a:38"/>Où tu montas oû ciel presens les <rhyme>tiens</rhyme>
+<lb n="ORNS.259a:39"/>xl &#x95; jours / puis ta <rhyme>surrexïon</rhyme><cb n="b"/><layout ruledLines="38"/>
+<lb n="ORNS.259b:01"/>M'ame et mon corps en toy serva<abbr type="n"/>t <rhyme>maintiens</rhyme><l n="236"/>
+<lb n="ORNS.259b:02"/><fw place="centred"><hi rend="red">P<abbr type="ate"/>r n<abbr type="oste"/>r</hi></fw>
+<lb n="ORNS.259b:03"/><group n="60"/>¶ <name ref="">Beau sire dieux</name> et si qu'à <rhyme>penthecouste</rhyme>
+<lb n="ORNS.259b:04"/>Enluminas <name ref="">tes appostres</name> du <name ref=""><rhyme>saint</rhyme>
+<lb n="ORNS.259b:05"/>Esperit</name> vueilles qu'icelle doulceur <rhyme>gouste</rhyme>
+<lb n="ORNS.259b:06"/>Qu'ilz sentirent que ta vertu <rhyme>ençaint</rhyme><note>2 words?</note><l n="240"/>
+<lb n="ORNS.259b:07"/><fw place="centred"><c>a</c>men</fw>
+<lb n="ORNS.259b:08"/><fw place="centred"><hi rend="red">Pater noster</hi></fw>
+<!-- 30 blank lines here -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

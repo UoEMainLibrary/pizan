@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway_18June2009.dtd">
+<?xml-stylesheet href="fiche.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes_18June2009.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact Charlie.Mansfield@ ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="1" type="1">
+<div9>
+<div4><title type="main"><emph rend="italic"><emph rend="headline">Prologue adreçant à la royne</emph></emph></title></div4>
+<div4>
+Folios 3r-3v of the Queen's MS contain the only known
+copy of the <title type="main"><emph rend="italic">Prologue adreçant à la royne</emph></title> in which Christine
+de Pizan dedicates her collection to Queen Isabeau. 
+The poem's importance is highlighted by the 
+frontispiece on f. 3r: a  richly elaborated border
+frames a miniature spanning both columns. The scene is the Queen's
+bedroom where Christine kneels to present her book to Isabeau
+who is accompanied by six of her ladies.
+</div4>
+<div4>
+The poem has no rubric; the opening line being written
+immediately under the miniature. The title just quoted is
+taken from the <title type="short"><emph rend="italic">Table</emph></title> (f. 2c). 
+The <title type="short"><emph rend="italic">Prologue</emph></title> is made up of
+eight stanzas of twelve octosyllables rhyming 
+<emph rend="italic">aabaabbaabaa ccdccdddcddc</emph> etc.;
+none of the sixteen rhymes is repeated.
+</div4>
+<div4>The opening stanza is introduced by 
+a decorated capital 'T' for which a five-line space was reserved. 
+The first line of all but one of the other stanzas is enhanced,   
+now by an elaborate initial penned by the scribe (stanzas 2, 5, 7-8),
+now by a paragraph mark (stanzas 4-8), now in both ways (stanzas 5, 7-8). 
+The beginning of stanza 3 has no distinguishing feature.  
+</div4>
+
+</div9>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

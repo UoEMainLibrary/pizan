@@ -1,0 +1,241 @@
+<!ENTITY nbsp "&#160;">
+
+<!ELEMENT a  ( #PCDATA )>
+<!ATTLIST a
+href CDATA #REQUIRED
+>
+
+<!ELEMENT abbr  EMPTY>
+<!ATTLIST abbr
+type CDATA #REQUIRED
+>
+
+<!ELEMENT add  ( #PCDATA | abbr | c | choice  | corr | emph | fw | g | hi | lb | name | num | rhyme | s | sic | title )*>
+<!ATTLIST add
+place CDATA #REQUIRED
+evidence CDATA #REQUIRED
+reason CDATA #IMPLIED
+type CDATA #IMPLIED
+>
+
+<!ELEMENT author  ( #PCDATA )>
+
+<!ELEMENT authority  ( #PCDATA )>
+
+<!ELEMENT availability  ( p )>
+<!ATTLIST availability
+status CDATA #REQUIRED
+>
+
+<!ELEMENT biblFull  ( titleStmt | publicationStmt )*>
+
+<!ELEMENT body  ( p )>
+
+<!ELEMENT c  ( #PCDATA | s )*>
+
+<!ELEMENT cb  EMPTY>
+<!ATTLIST cb
+n CDATA #REQUIRED
+ed CDATA #IMPLIED
+l CDATA #IMPLIED>
+
+<!ELEMENT choice  ( abbr | add | c | corr | hi | del | lb | orig | reg | rhyme | sic )*>
+
+<!ELEMENT corr  ( #PCDATA | c | g | hi | name | rhyme | title )*>
+<!ATTLIST corr
+reason CDATA #REQUIRED
+rend CDATA #IMPLIED
+resp CDATA #REQUIRED
+source CDATA #IMPLIED
+>
+
+<!ELEMENT date  ( #PCDATA )>
+
+<!ELEMENT del  ( #PCDATA  | abbr | add | c | div2 | emph | fw | group | hi | lb | name | note | rhyme | title )*>
+<!ATTLIST del
+evidence CDATA #IMPLIED
+rend CDATA #REQUIRED
+reason CDATA #IMPLIED
+type CDATA #IMPLIED
+>
+
+<!-- Used to delimit each of the items in the manuscript -->
+<!ELEMENT div1 ( #PCDATA  | abbr |  add | c | cb | choice | corr | del | div2 | div3| div4 | div9 | emph| figure | fw | g | group | hi | layout | l | lb | lg | msDesc | name | note | num | orig | pb | pre | reg | rhyme |  s | subst | supplied | title )*>
+<!ATTLIST div1
+n CDATA #REQUIRED
+type CDATA #REQUIRED
+>
+
+<!-- Used to number each of the items in a collection, e.g. of lyrics -->
+<!ELEMENT div2  ( #PCDATA |  abbr | add | c | cb | choice | corr | del | div2 | emph | figure | fw | g | group | hi | layout | l | lb | lg | name | note | num | orig | reg | pb |  rhyme |  s |  subst | supplied | title )*>
+<!ATTLIST div2
+type CDATA #IMPLIED
+metre CDATA #IMPLIED
+length CDATA #IMPLIED
+n CDATA #REQUIRED
+satfno CDATA #IMPLIED
+stanza CDATA #IMPLIED
+envoi CDATA #IMPLIED
+rhyme CDATA #IMPLIED
+refrain CDATA #IMPLIED
+>
+
+<!-- Used to tag individual 'intermèdes lyriques' -->
+<!ELEMENT div3  ( #PCDATA |  abbr | add | c | cb | choice | corr | del | div2 | emph | figure | fw | g | hi | layout | l | lb | lg | name | note | num | pb |  rhyme |  s |  subst | supplied | title )*>
+<!ATTLIST div3
+type CDATA #IMPLIED
+metre CDATA #IMPLIED
+length CDATA #IMPLIED
+n CDATA  #IMPLIED
+stanza CDATA #IMPLIED
+envoi CDATA #IMPLIED
+rhyme CDATA #IMPLIED
+refrain CDATA #IMPLIED
+>
+
+<!-- Used to delimit paragraphs in Front Matter -->
+<!ELEMENT div4  ( #PCDATA  | a | emph | title  )*>
+
+<!-- Used to group together for CSS puposes the paragraphs in Front Matter -->
+<!ELEMENT div9 ( #PCDATA  | div4 | emph | title )*>
+
+<!ELEMENT emph  ( #PCDATA | abbr | add | c | del | emph | fw | lb | name | note | rhyme | subst | supplied | title )*>
+<!ATTLIST emph
+rend CDATA #REQUIRED
+>
+
+<!ELEMENT figure  EMPTY>
+<!ATTLIST figure
+place CDATA #REQUIRED
+ref CDATA #REQUIRED
+>
+
+<!ELEMENT fileDesc  ( titleStmt | publicationStmt | sourceDesc )*>
+
+<!ELEMENT fw  ( #PCDATA | hi | s | abbr | add| del | c | choice | emph | g | l |rhyme | name | note | lb | num | orig | reg | subst | supplied | title )*>
+<!ATTLIST fw
+type CDATA #IMPLIED
+place CDATA #IMPLIED
+rend CDATA #IMPLIED
+size CDATA #IMPLIED
+>
+
+<!ELEMENT g  ( #PCDATA | abbr | add | c | choice| del | g | hi | l | lb |  name | rhyme | s | supplied | title )*>
+<!ATTLIST g
+lemma CDATA #REQUIRED
+en CDATA #REQUIRED
+fr CDATA #REQUIRED
+type CDATA #IMPLIED
+>
+
+<!ELEMENT group  EMPTY>
+<!ATTLIST group
+n CDATA #REQUIRED
+>
+
+<!ELEMENT hi  ( #PCDATA | abbr | add | c | cb | corr | choice | del | fw | g | hi | layout | l | lb | name | note | num | orig | pb | reg | s | sic | subst | supplied )*>
+<!ATTLIST hi
+rend CDATA #REQUIRED
+>
+
+<!ELEMENT idno  ( #PCDATA )>
+<!ATTLIST idno
+type CDATA #REQUIRED
+>
+
+<!ELEMENT l  EMPTY>
+<!ATTLIST l
+n CDATA #REQUIRED
+>
+
+<!ELEMENT layout  EMPTY>
+<!ATTLIST layout
+ruledLines CDATA #REQUIRED
+rend CDATA #IMPLIED
+writtenLines CDATA #IMPLIED
+>
+
+<!ELEMENT lb  EMPTY>
+<!ATTLIST lb
+n CDATA #REQUIRED
+>
+
+<!ELEMENT lg  ( #PCDATA | hi | g | lb | rhyme | name | l | choice | note | cb | layout | del | pb | s | c | abbr | add )*>
+<!ATTLIST lg
+n CDATA #REQUIRED
+type CDATA #REQUIRED
+>
+
+<!ELEMENT msDesc  ( div3 | div4 )*>
+
+<!ELEMENT name  ( #PCDATA | abbr | add | c | cb | choice | corr | del | fw | g | hi | l | layout | lb | name | note | num  | rhyme | s | sic | subst | title )*>
+<!ATTLIST name
+ref CDATA #IMPLIED
+>
+
+<!ELEMENT note  ( #PCDATA  | abbr | emph | hi | name | title )*>
+
+<!ELEMENT num ( #PCDATA | fw | choice | lb | abbr | note | s | name )*>
+<!ATTLIST num
+type CDATA #REQUIRED
+>
+
+<!ELEMENT orig  ( #PCDATA )>
+
+<!ELEMENT p  ( #PCDATA | div1 | emph | ref | title)*>
+
+<!ELEMENT pb  EMPTY>
+<!ATTLIST pb
+n CDATA #REQUIRED
+ed CDATA #REQUIRED
+l CDATA #IMPLIED
+>
+<!ELEMENT pre  ( #PCDATA | div4 )*>
+
+<!ELEMENT publicationStmt  ( authority | availability | date | publisher | pubPlace | idno )*>
+
+<!ELEMENT publisher  ( #PCDATA )>
+
+<!ELEMENT pubPlace  ( #PCDATA )>
+
+<!ELEMENT ref  ( #PCDATA )>
+<!ATTLIST ref
+type CDATA #REQUIRED
+>
+
+<!ELEMENT reg  ( #PCDATA )>
+
+<!ELEMENT resp  ( #PCDATA )>
+
+<!ELEMENT respStmt  ( resp | name )*>
+
+<!ELEMENT rhyme  ( #PCDATA | c | abbr | choice | corr | g | s | lb | num | sic | subst | add | note |  name | del | title )*>
+
+<!ELEMENT s  ( #PCDATA | c | abbr )*>
+
+<!ELEMENT sourceDesc  ( biblFull )>
+
+<!ELEMENT sic  ( #PCDATA | abbr | add | c | del | fw | hi | lb | name | s )*>
+
+<!ELEMENT subst  ( #PCDATA | abbr | del | add )*>
+
+<!ELEMENT supplied ( #PCDATA | c | del | fw | group | hi | lb | name | note | title )*>
+<!ATTLIST supplied
+reason CDATA #REQUIRED
+rend CDATA #IMPLIED
+resp CDATA #REQUIRED
+source CDATA #IMPLIED
+>
+
+<!ELEMENT TEI  ( teiHeader | text )*>
+
+<!ELEMENT teiHeader  ( fileDesc )>
+
+<!ELEMENT text  ( body )>
+
+<!ELEMENT title   ( #PCDATA | abbr | add | c | cb | choice | corr | del | emph | fw | g | hi | l | layout | lb | name | note | num  | rhyme | s | sic | subst  )*>
+<!ATTLIST title
+type CDATA #IMPLIED
+>
+
+<!ELEMENT titleStmt  ( title | author | respStmt )*>

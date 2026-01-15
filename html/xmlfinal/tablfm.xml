@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="fiche.xsl" type="text/xsl"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact Charlie.Mansfield@ ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="1" type="1">
+
+<div9>
+<div4><title type="main"><emph rend="headline">Table des dictiez</emph></title></div4>
+<div4>The Table of Contents has no running-head and no rubric. It is introduced by a descriptive heading which is copied in brown ink, as are the titles of the thirty works contained in the Queen's Manuscript. The works are numbered separately, in red and in Roman. The numerals are centred in two rather irregular columns, set close to the right-hand margin of folios 002c and 002d. Here, as elsewhere in the manuscript, Roman numerals are generally preceded and followed by a punctus, a large dot, in red ink.</div4>
+    <div4>After the works were numbered, champie line-fillers were inserted in the spaces left blank between the titles and the item numbers; in several cases these fillers obscure a punctus, traces of which can be seen underneath. The Table of Contents is the only item in MS 4431 which contains line-fillers of this type.</div4>
+
+</div9>
+
+</div1>
+</p>
+</body>
+</text>
+</TEI>
+
+

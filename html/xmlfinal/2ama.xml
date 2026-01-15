@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Le Debat des deux amans" type="Item">
+<pb n="058" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.058v:01"/><hi rend="red"><fw type="header1" place="column c" rend="right aligned">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>d</c>ebat</fw></hi>
+<cb n="c"/>
+<layout ruledLines="40"/>
+<figure place="16" ref="058c"/>
+<lb n="2AMA.058c:17"/><hi rend="red">Ci commence le <c>l</c>ivre du <c>d</c>ebat des
+<lb n="2AMA.058c:18"/> &#x95;ii&#x95; amans &#x95;xiiii&#x95;</hi>.<note>The Roman number in the title overlaps the decorated initial, showing that the rubric was inserted after the initial had been painted.</note>
+<lb n="2AMA.058c:19"/><hi rend="cap4">P</hi>rince royal, renommé de <rhyme>sagece</rhyme>,
+<lb n="2AMA.058c:20"/><c>h</c>ault en valeur, puissant, de g<abbr type="ra"/>nt <rhyme>noblece</rhyme>,
+<lb n="2AMA.058c:21"/><c>d</c>uit et appris en honneur et <rhyme>largece</rhyme>,
+<lb n="2AMA.058c:22"/>Très <rhyme>agréable</rhyme><l n="   4"/>
+<lb n="2AMA.058c:23"/><name ref="Louis+duc+d'Orléans">Duc d'<c>o</c>rlïans</name>, seigneur digne et <rhyme>valable</rhyme>,
+<lb n="2AMA.058c:24"/>Filz de <name ref="Charles+V">Charles, / le bon roy</name> <rhyme>charitable</rhyme>,
+<lb n="2AMA.058c:25"/>De qui l'ame\ soit oû ciel <rhyme>permanable</rhyme>,
+<lb n="2AMA.058c:26"/>Mon <rhyme>redoubté</rhyme><l n="   8"/>
+<lb n="2AMA.058c:27"/>Seigneur vaillant, <subst><del rend="erasure"/><add place="inline" evidence="darker ink, alignment, dash to fill space">par</add></subst> vostre gra<abbr type="n"/>t <rhyme>bonté</rhyme> <note>The rhyme-word and the preceding abbreviation have been overwritten in the same dark ink used to add 'par' earlier in the line.</note>
+<lb n="2AMA.058c:28"/>Mon petit dit soit de vous <rhyme>escouté</rhyme>,
+<lb n="2AMA.058c:29"/>Ne par desdaing ne soit en sus <rhyme>bouté</rhyme>
+<lb n="2AMA.058c:30"/>Par pou de <rhyme>pris</rhyme>;<l n="  12"/>
+<lb n="2AMA.058c:31"/>Si ne l'ait pas\ vo haultece en <rhyme>despris</rhyme>
+<lb n="2AMA.058c:32"/>Pour ce que j'ay pou de savoir <rhyme>appris</rhyme>
+<lb n="2AMA.058c:33"/>Ou pour ce qu'ay foible matiere <rhyme>pris</rhyme>
+<lb n="2AMA.058c:34"/>Et hors <rhyme>l'usage</rhyme><l n="  16"/>
+<lb n="2AMA.058c:35"/>De vo bon <g lemma="" en="meaning" fr="sens">sens</g>,\ qui m'escoute <rhyme>lengage</rhyme>
+<lb n="2AMA.058c:36"/>Qui tout ne soit\ très vertueux et <rhyme>sage</rhyme>.
+<lb n="2AMA.058c:37"/>Mais à la foiz\ point ne tourne à <rhyme>do<abbr type="m"/>mage</rhyme>
+<lb n="2AMA.058c:38"/>À ouÿr <rhyme>choses</rhyme><l n="  20"/>
+<lb n="2AMA.058c:39"/>De divers cas\ en textes ou en <rhyme>gloses</rhyme>
+<lb n="2AMA.058c:40"/>Et mesmement où matieres <rhyme>encloses</rhyme>
+<cb n="d"/><layout ruledLines="40"/><lb n="2AMA.058d:01"/><s>J</s>o<s>y</s>euses sont,\ soient\ rimes ou <rhyme>proses</rhyme>;
+<lb n="2AMA.058d:02"/>Et par <rhyme>ouÿr</rhyme><l n="  24"/>
+<lb n="2AMA.058d:03"/>Choses qui font\ par nature <rhyme>esjouïr</rhyme>
+<lb n="2AMA.058d:04"/>On fait souvent\ tristece hors <rhyme>fouïr</rhyme>,
+<lb n="2AMA.058d:05"/>Car trop grant soing\ tolt souvent à <rhyme>jouÿr</rhyme><note>The final letters of 'jouÿr' are in paler, faded ink.</note>
+<lb n="2AMA.058d:06"/>Cuer <rhyme>occuppé</rhyme><l n="  28"/>
+<lb n="2AMA.058d:07"/>D'avoir solas\ quant trop <rhyme>enveloppé</rhyme>
+<lb n="2AMA.058d:08"/>Est ès choses\ où il s'est <rhyme>entrappé</rhyme>,  
+<lb n="2AMA.058d:09"/>Ne corps humain\ tant soit bien <rhyme>attrempé</rhyme>
+<lb n="2AMA.058d:10"/>Ne pourroit <rhyme>vivre</rhyme><l n="  32"/>
+<lb n="2AMA.058d:11"/>Toudis en soing.\ <c>e</c>t j'ay leu en un <rhyme>livre</rhyme>
+<lb n="2AMA.058d:12"/>Que quant\ <name ref="King+David"><c>d</c>avid</name>,\ qui <name ref="Law+of+God">la loy <c>d</c>ieu</name> volt <rhyme>suiv<abbr type="re"/></rhyme>,
+<lb n="2AMA.058d:13"/>Vouloit estre\ de tristece <rhyme>delivre</rhyme>,
+<lb n="2AMA.058d:14"/>Lors de sa <rhyme>lire</rhyme><l n="  36"/>
+<lb n="2AMA.058d:15"/>Moult doulcement\ jouoit\ et souve<abbr type="n"/>t\ <rhyme>l'ire</rhyme>
+<lb n="2AMA.058d:16"/>Il rappaisoit\ de <name ref="God"><c>d</c>ieu</name>. <c>e</c>t oÿr <rhyme>lire</rhyme>
+<lb n="2AMA.058d:17"/>Choses plaisans\ font souvent joye <rhyme>eslire</rhyme>
+<lb n="2AMA.058d:18"/>Aux <rhyme>escoutens</rhyme>,<l n="  40"/>
+<lb n="2AMA.058d:19"/>Si n'est nul mal,\ et en lieu et en <rhyme>temps</rhyme>,
+<lb n="2AMA.058d:20"/>Li<subst><del rend="overwritten"/><add place="inline" evidence="darker ink, mess">r</add></subst>e et ouÿr de choses <rhyme>esbatans</rhyme>.
+<lb n="2AMA.058d:21"/>E<subst><del rend="erasure"/><add place="inline" evidence="darker ink, over long dash in paler ink">t</add></subst> pour ce, <name ref="Louis+d'Orléans"><c>p</c>rince</name>\ excellant, mal <rhyme>conte<abbr type="n"/>s</rhyme>
+<lb n="2AMA.058d:22"/>Vous ne <rhyme>soiez</rhyme><l n="  44"/>
+<lb n="2AMA.058d:23"/>De moy pour tant,\ s'ay desir que <rhyme>voyez</rhyme>
+<lb n="2AMA.058d:24"/>Un petit dit\ le quel ay <rhyme><c>R</c>imoyez</rhyme>
+<lb n="2AMA.058d:25"/>À celle fin\ que vo cuer <rhyme>avoyez</rhyme>
+<lb n="2AMA.058d:26"/>À <rhyme>soulacier</rhyme><l n="  48"/>
+<lb n="2AMA.058d:27"/>Aucunement.\ <c>s</c>i vous vueil <rhyme>co<abbr type="m"/>mencier</rhyme>
+<lb n="2AMA.058d:28"/>À raconter,\ <name ref="God"><c>d</c>ieu</name> m'e<abbr type="n"/> vueille <rhyme>avancier</rhyme>,
+<lb n="2AMA.058d:29"/>Un grant <add place="supralinear" evidence="broad caret" type="scribe" reason="sense">debat</add> dont j'ouÿ fort <rhyme>tencier</rhyme>
+<lb n="2AMA.058d:30"/>À &#x95;ii&#x95; <rhyme>amans</rhyme>,<l n="  52"/>
+<lb n="2AMA.058d:31"/>Car tout d'amours sera cilz mien <rhyme>ro<abbr type="m"/>ma<abbr type="n"/>s</rhyme>,
+<lb n="2AMA.058d:32"/>Si l'entendront\ <name ref="Frenchmen"><c>f</c>rançois</name> et <name ref="Germans"><rhyme><c>a</c>llemans</rhyme></name>
+<lb n="2AMA.058d:33"/>Et toute gent\ s'ilz entende<abbr type="n"/>t <name ref="French+language"><g lemma="roman" en="French language" fr="le français"><rhyme>ro<abbr type="m"/>mans</rhyme></g></name>.
+<lb n="2AMA.058d:34"/>Mais <rhyme>jugement</rhyme><l n="  56"/>
+<lb n="2AMA.058d:35"/>Y appartient,\ si supplie\ <rhyme>humblement</rhyme>
+<lb n="2AMA.058d:36"/>Vo noble cuer\ qu'il daigne <rhyme>bo<abbr type="n"/>nem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.058d:37"/>Droit en juger,\ sico<abbr type="m"/>me <rhyme>sageme<abbr type="n"/>t</rhyme>
+<lb n="2AMA.058d:38"/><c>l</c>e sara <rhyme>faire</rhyme>,<l n="  60"/>
+<lb n="2AMA.058d:39"/>Car li amant,\ où il n'a que <rhyme>refaire</rhyme>,
+<lb n="2AMA.058d:40"/>Le requierent\ et de tout cest <rhyme>affaire</rhyme>
+<pb n="059" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.059r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">de</fw> <fw type="header2" place="intercolumn" rend="left aligned">&#x95;ii&#x95;</fw> <fw type="header3" place="column b" rend="centred">aman<s>s</s></fw> <fw type="header4" place="column b" rend="right aligned">&#x95;xiii&#x95;</fw> </hi>
+<cb n="a"/><layout ruledLines="41"/>
+<lb n="2AMA.059a:01"/><s>I</s>lz vous chargent, <name ref="Louis+d'Orléans">noble\ duc <rhyme>debonnaire</rhyme></name>,
+<lb n="2AMA.059a:02"/>Et si se <rhyme>tiennent</rhyme><l n="  64"/>
+<lb n="2AMA.059a:03"/>À vostre dit,\ car bien sceve<abbr type="n"/>t et <rhyme>tie<abbr type="n"/>nent</rhyme>
+<lb n="2AMA.059a:04"/>Que droituriers les jugemens qui <rhyme>vie<abbr type="n"/>ne<abbr type="n"/>t</rhyme>
+<lb n="2AMA.059a:05"/>De vous tous sont,\ <g lemma="" en="" fr="">nez</g> ceulx qui <rhyme>app<abbr type="ar"/>tie<abbr type="n"/>ne<abbr type="n"/>t</rhyme>
+<lb n="2AMA.059a:06"/>Ès fais <rhyme>d'amours</rhyme>,<l n="  68"/>
+<lb n="2AMA.059a:07"/>Qui aux jeunes\ font souvent chang<abbr type="er"/> <rhyme>mours</rhyme>
+<lb n="2AMA.059a:08"/>En bien ou mal,\ en joyes ou <rhyme>clamours</rhyme>.
+<lb n="2AMA.059a:09"/>Mais naturel\ est à tous cil <rhyme>demours</rhyme>,
+<lb n="2AMA.059a:10"/>Tant comme il <rhyme>dure</rhyme>;<l n="  72"/>
+<lb n="2AMA.059a:11"/>Si ne le doit\ nul tenir à <rhyme>laidure</rhyme>,
+<lb n="2AMA.059a:12"/>Car tout ce qui\ est donné de <name ref="Nature"><rhyme><c>n</c>ature</rhyme></name>,
+<lb n="2AMA.059a:13"/>Nul ne le peut\ tolir, dit <rhyme><name ref="Scripture">l'<c>e</c>scripture</name></rhyme>.
+<lb n="2AMA.059a:14"/>¶ Si vous <rhyme>diray</rhyme><l n="  76"/>
+<lb n="2AMA.059a:15"/>Le grant debat,\ ne ja n'en <rhyme>mentiray</rhyme>,
+<lb n="2AMA.059a:16"/>De &#x95;ii&#x95; amans que je moult <rhyme>remiray</rhyme>,
+<lb n="2AMA.059a:17"/>Car leur descort à ouÿr <rhyme>desiray</rhyme>
+<lb n="2AMA.059a:18"/>Et leur <rhyme>tençon</rhyme><l n="  80"/>
+<lb n="2AMA.059a:19"/>Gracïeuse,\ non mie en <rhyme>contençon</rhyme>.
+<lb n="2AMA.059a:20"/>Ce fu en may,\ en la doulce <rhyme>saison</rhyme>
+<lb n="2AMA.059a:21"/>Qu'assemblée ot\ en moult belle <rhyme>maison</rhyme>
+<lb n="2AMA.059a:22"/>Et <rhyme>gracïeuse</rhyme><l n="  84"/>
+<lb n="2AMA.059a:23"/>Qui à <name ref="Paris"><c>p</c>aris</name>\ siet, en place <rhyme>joyeuse</rhyme>,
+<lb n="2AMA.059a:24"/>Compaignie\ jeune, belle et <rhyme>songneuse</rhyme>
+<lb n="2AMA.059a:25"/>De solacier;\ créature <rhyme>envïeuse</rhyme>
+<lb n="2AMA.059a:26"/>N'ot en la <rhyme><subst><del rend="erasure" evidence="trace of initial 's' or 'f', expunctuation mark"/><add place="inline" evidence="blurring"><c>R</c>ou</add></subst>te</rhyme><l n="  88"/>
+<lb n="2AMA.059a:27"/>Fors de jouer,\ si com je croy sans <rhyme>doubte</rhyme>.
+<lb n="2AMA.059a:28"/>Très belle fu\ la compaignie <rhyme>toute</rhyme>,
+<lb n="2AMA.059a:29"/>Où mainte dame ot qui d'amer n'ot <rhyme>goute</rhyme>,
+<lb n="2AMA.059a:30"/>Et mainte <rhyme>gente</rhyme><l n="  92"/>
+<lb n="2AMA.059a:31"/>Damoiselle\ parée et par <rhyme>entente</rhyme>
+<lb n="2AMA.059a:32"/>Mainte gentil\ pucelle, et q<abbr type="ue"/> ne <rhyme>mente</rhyme>,
+<lb n="2AMA.059a:33"/>De chevaliers\ y avoit plus de <rhyme><choice><sic/><corr reason="symmetry" resp="JCL">&#x95;</corr></choice>xxx</rhyme>&#x95;
+<lb n="2AMA.059a:34"/>Et d'autre <rhyme>gent</rhyme><l n="  96"/>
+<lb n="2AMA.059a:35"/>Beaulx et gentilz,\ papillotez <rhyme>d'arge<abbr type="n"/>t</rhyme>,
+<lb n="2AMA.059a:36"/>Gays et jolis\ assesmez bel et <rhyme>gent</rhyme>;
+<lb n="2AMA.059a:37"/>Si furent tous\ et toutes <rhyme>diligent</rhyme>
+<lb n="2AMA.059a:38"/>De joye <rhyme>faire</rhyme>.<l n=" 100"/>
+<lb n="2AMA.059a:39"/>Là ot moult bons\ menestreulx plus d'u<abbr type="n"/> <rhyme>paire</rhyme>,
+<lb n="2AMA.059a:40"/>Qui haultement\ faisoie<abbr type="n"/>t le <rhyme>repaire</rhyme>
+<lb n="2AMA.059a:41"/>Tout retentir. <c>s</c>i devoit à to<abbr type="us"/> <rhyme>plaire</rhyme>
+<cb n="b"/><layout ruledLines="41"/><lb n="2AMA.059b:01"/><s>C</s>e<s>l</s>le <rhyme>assem<s>b</s><s>l</s>ée</rhyme>,<l n=" 104"/>
+<lb n="2AMA.059b:02"/>Car feste et joye\ y estoit si <rhyme>com<s>b</s><s>l</s>ée</rhyme>
+<lb n="2AMA.059b:03"/>Qu'à cent doubles\ fu plus qu'aultre <rhyme>doublée</rhyme>,
+<lb n="2AMA.059b:04"/>N'elle n'estoit\ de discorde <rhyme>troublée</rhyme>,
+<lb n="2AMA.059b:05"/>Mais très <rhyme>unie</rhyme>;<l n=" 108"/>
+<lb n="2AMA.059b:06"/>Toute tristece en estoit hors <rhyme>banie</rhyme>.
+<lb n="2AMA.059b:07"/>Et en place\ bien parée et <rhyme>onnie</rhyme>,
+<lb n="2AMA.059b:08"/>Grant et large,\ nette, non pas <rhyme>honnie</rhyme>,
+<lb n="2AMA.059b:09"/>Menoient <rhyme>tresche</rhyme><l n=" 112"/>
+<lb n="2AMA.059b:10"/>Joyeusement\ par dessus l'erbe <rhyme>freche</rhyme>.
+<lb n="2AMA.059b:11"/>Maint joli tour,\ maint sault, mainte <rhyme>entreveche</rhyme>
+<lb n="2AMA.059b:12"/>Y veïst on,\ et lancier mainte <rhyme>fleche</rhyme>
+<lb n="2AMA.059b:13"/>À <name ref="Doux+Regard"><c>d</c>oulx <rhyme><c>r</c>egart</rhyme></name>,<l n=" 116"/>
+<lb n="2AMA.059b:14"/>Tout en requoy traire par soubtil <rhyme>art</rhyme>;
+<lb n="2AMA.059b:15"/>Et qui mieulx mieulx\ chacun faisoit sa <rhyme>part</rhyme>
+<lb n="2AMA.059b:16"/>De ce que <name ref="Doux+Déduit"><c>d</c>oulx\ <c>d</c>eduit</name> aux siens <rhyme>depart</rhyme>.
+<lb n="2AMA.059b:17"/>Ainsi <rhyme>dançoient</rhyme><l n=" 120"/>
+<lb n="2AMA.059b:18"/>Tous et toutes,\ ne point ne s'en <rhyme>lassoie<abbr type="n"/>t</rhyme>,
+<lb n="2AMA.059b:19"/>Et en dançant\ leurs cuers <rhyme>entrelaçoie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.059b:20"/>Par les regars\ que ilz s'entre <rhyme>lançoie<abbr type="n"/>t</rhyme>.
+<lb n="2AMA.059b:21"/>Qui veist <rhyme>jolyes</rhyme><l n=" 124"/>
+<lb n="2AMA.059b:22"/>Femmes dancier\ à contenances <rhyme>lies</rhyme>,
+<lb n="2AMA.059b:23"/>Si gayement,\ de manieres <rhyme>polies</rhyme>,
+<lb n="2AMA.059b:24"/>À chapeaulx vers\ de fleurs\ et <rhyme>d'acolies</rhyme>,
+<lb n="2AMA.059b:25"/>Par <rhyme>mignotise</rhyme><l n=" 128"/>
+<lb n="2AMA.059b:26"/>Bien avenant,\ doulcetem<abbr type="en"/>t <rhyme>assise</rhyme>,
+<lb n="2AMA.059b:27"/>Rire, jouer,\ elle<subst><del rend="erasure, expunctuated"/><add place="inline" evidence="lighter ink, suprascript dot">s</add></subst> plaindre en <rhyme>faintise</rhyme>
+<lb n="2AMA.059b:28"/>Parler atrait,\ de maniere <rhyme>rassise</rhyme>,<note>The stroke over the 'i' shows that the reading is 'atrait', not 'atrrat'.</note>
+<lb n="2AMA.059b:29"/>Les <rhyme>contenances</rhyme><l n=" 132"/>
+<lb n="2AMA.059b:30"/>De ces amans\ à chacun tour des <rhyme>dances</rhyme>
+<lb n="2AMA.059b:31"/>Müer coulour,\, faire maintes <rhyme>semblances</rhyme>
+<lb n="2AMA.059b:32"/>Moult en prisast\ les doulces <rhyme>ordonnances</rhyme>.
+<lb n="2AMA.059b:33"/>Et puis <rhyme>après</rhyme><l n=" 136"/>
+<lb n="2AMA.059b:34"/>Les menestreulx, qui bien jouoye<abbr type="n"/>t <rhyme>très</rhyme>
+<lb n="2AMA.059b:35"/>Par my chambres\ et p<abbr type="ar"/> my ces <rhyme>retrès</rhyme>,
+<lb n="2AMA.059b:36"/>Ouÿst on chanter\ hault et cler,\ <subst><del rend="erasure"/><add place="inline" evidence="blurring, space, suprascript dot">à</add></subst> <add place="supralinear" evidence="broad caret" type="scribe">biaulx</add> <rhyme>trais</rhyme>
+<lb n="2AMA.059b:37"/>Bien <rhyme>mesurez</rhyme>.<l n=" 140"/>
+<lb n="2AMA.059b:38"/>À brief parler,\ tant fure<abbr type="n"/>t <rhyme>procurez</rhyme>
+<lb n="2AMA.059b:39"/>Là\ ris et gieux\ qu'il sembloit que <rhyme>jurez</rhyme>
+<lb n="2AMA.059b:40"/>Fussent d'ainsi\ estre à feste <rhyme>adurez</rhyme>
+<lb n="2AMA.059b:41"/>À tous jours <rhyme>mais</rhyme>.<l n=" 144"/>
+<pb n="059" ed="v"/><layout ruledLines="no"/><lb n="2AMA.059v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="intercolumn" rend="right aligned"><c>d</c>ebat</fw></hi>
+<cb n="c"/><layout ruledLines="41"/><lb n="2AMA.059c:01"/>¶ Et moy, en qui tout ennui est <rhyme>remais</rhyme>
+<lb n="2AMA.059c:02"/>Depuis le jour\ que <name ref="Death"><c>m</c>ort</name> de trop dur <rhyme>mais</rhyme>
+<lb n="2AMA.059c:03"/>M'ot servie, dont je n'aray <rhyme>jamais</rhyme>,
+<lb n="2AMA.059c:04"/>C'est chose <rhyme>voire</rhyme>,<l n=" 148"/>
+<lb n="2AMA.059c:05"/>Plaisir joyeux\ au monde, ains aré <rhyme>noire</rhyme>
+<lb n="2AMA.059c:06"/>Pensée adès\ pour la dure <rhyme>memoire</rhyme>
+<lb n="2AMA.059c:07"/>De cil que je\ portë en ma <rhyme>memoire</rhyme>
+<lb n="2AMA.059c:08"/>Sans nul <rhyme>oubly</rhyme>,<l n=" 152"/>
+<lb n="2AMA.059c:09"/>Dont l'esperit\ soit oû ciel <rhyme>establi</rhyme>,
+<lb n="2AMA.059c:10"/>Qui seulete me laissa,\ <rhyme>n'entroubli</rhyme>
+<lb n="2AMA.059c:11"/>Ne fait mon dueil,\ où que soye, <rhyme>affoibli</rhyme>
+<lb n="2AMA.059c:12"/>En nulle <rhyme>guise</rhyme><l n=" 156"/>
+<lb n="2AMA.059c:13"/>Fus sus un b<del rend="erasure" evidence="space, blurring">l</del>anc\ <note>'blanc' has been corrected to 'banc'.</note> en cellui lieu <rhyme>assise</rhyme>
+<lb n="2AMA.059c:14"/>Sans mot sonner,\ regarda<abbr type="n"/>t la <rhyme>devise</rhyme>
+<lb n="2AMA.059c:15"/>Des fins amans\ gentilz, plains de <rhyme>coi<abbr type="n"/>tise</rhyme>,
+<lb n="2AMA.059c:16"/>Tant <rhyme>renvoysiez</rhyme><l n=" 160"/>
+<lb n="2AMA.059c:17"/>Que de mener\ solas furent <rhyme>aysiez</rhyme>.
+<lb n="2AMA.059c:18"/>Mais je, qui os\ l'esperit <rhyme>accoisiez</rhyme>,
+<lb n="2AMA.059c:19"/>Consideray\ que de tous les <rhyme>p<del rend="erasure" evidence="space, diagonal line"/>risiez</rhyme>
+<lb n="2AMA.059c:20"/>De celle <rhyme>place</rhyme>,<l n=" 164"/>
+<lb n="2AMA.059c:21"/>Un escuier\ bel de corps et de <rhyme>face</rhyme>
+<lb n="2AMA.059c:22"/>Y ot jolis,\ mais tant fu en sa <rhyme>grace</rhyme>
+<lb n="2AMA.059c:23"/>Qu'il sembloit bien\ qu'il eüst\ plus g<abbr type="ra"/>nt <rhyme>masse</rhyme>
+<lb n="2AMA.059c:24"/>De toute <rhyme>joye</rhyme><l n=" 168"/>
+<lb n="2AMA.059c:25"/>Qu'autre qui fust\ oû lieu, se <name ref="God"><c>d</c>ieux</name> me <rhyme>voye</rhyme>-
+<lb n="2AMA.059c:26"/>Car mon regart\ à lui toudis <rhyme>avoye</rhyme>
+<lb n="2AMA.059c:27"/>En remirant\ la gracïeuse <rhyme>voye</rhyme>
+<lb n="2AMA.059c:28"/>De son <rhyme>maintien</rhyme>,<l n=" 172"/>
+<lb n="2AMA.059c:29"/>Car il dançoi<subst><del rend="erasure">e</del><add place="inline" evidence="blurring, darker ink">t</add></subst>\ et chantoit si très <rhyme>b<abbr type="ie"/>n</rhyme>
+<lb n="2AMA.059c:30"/>Si lïement\ jouoit,<note>Altmann prints 'jouait'.</note> je vous di <rhyme>bien</rhyme>,
+<lb n="2AMA.059c:31"/>Quë il sembloit\ que le monde fust <rhyme>sien</rhyme>.
+<lb n="2AMA.059c:32"/>Tant <rhyme>resjouÿ</rhyme><l n=" 176"/>
+<lb n="2AMA.059c:33"/>Forment estoit,\ où qu'il eüst <rhyme>jouÿ</rhyme>
+<lb n="2AMA.059c:34"/>De tous les biens\ dont oncquë<del rend="erasure" evidence="space filled with dash" reason="scansion">s</del> ho<abbr type="m"/><subst><del rend="erasure">e?</del><add place="inline" evidence="blurring, darker ink" reason="scansion?">s</add></subst><note>Altmann prints 'hom'.</note> <rhyme>joÿ</rhyme>.
+<lb n="2AMA.059c:35"/>Tant par estoit\ son gay cuer <rhyme>esjouÿ</rhyme>
+<lb n="2AMA.059c:36"/>À droit voir <rhyme>dire</rhyme>,<l n=" 180"/>
+<lb n="2AMA.059c:37"/>Car ne finoit\ de jouer et de <rhyme><c>R</c>ire</rhyme>
+<lb n="2AMA.059c:38"/>Ou de chanter\ et dancer tout à <rhyme>tire</rhyme>.
+<lb n="2AMA.059c:39"/>Mais de ses gieux\ nul ne peüst <rhyme>mesdire</rhyme>,
+<lb n="2AMA.059c:40"/>Tant lui <rhyme>sëoient</rhyme>,<l n=" 184"/>
+<lb n="2AMA.059c:41"/>Car les autres\ tous resjouÿr\ <rhyme>faisoie<abbr type="n"/>t</rhyme>
+<cb n="d"/><layout ruledLines="41"/>
+<lb n="2AMA.059d:01"/>Et ses sou<subst><del rend="overwritten; erasure"/><add place="inline" evidence="blurring, rising 's'">las</add></subst> si gracïeux <rhyme>estoient</rhyme>
+<lb n="2AMA.059d:02"/>Qu'à toute gent\ communement <rhyme>plaisoie<abbr type="n"/>t</rhyme>;
+<lb n="2AMA.059d:03"/>N'il ne <rhyme>parlast</rhyme><l n=" 188"/>
+<lb n="2AMA.059d:04"/>Fors en rïant,\ et sembloit qu'il <rhyme>volast</rhyme>
+<lb n="2AMA.059d:05"/>Quant il dançoit\ mais, quoy que il <rhyme>celast</rhyme>,
+<lb n="2AMA.059d:06"/>À peine un pas\ de nul costé <rhyme>alast</rhyme>
+<lb n="2AMA.059d:07"/>Que de doulx <rhyme>oeil</rhyme><l n=" 192"/>
+<lb n="2AMA.059d:08"/>Ne regardast\ simplement, sans <rhyme>orgueil</rhyme>,
+<lb n="2AMA.059d:09"/>Tele qui fu\ present où tout son <rhyme>vueil</rhyme>
+<lb n="2AMA.059d:10"/>Estoit assis, mais par soubtil <rhyme>recueil</rhyme>
+<lb n="2AMA.059d:11"/>Comment qu'il <rhyme>fust</rhyme>,<l n=" 196"/>
+<lb n="2AMA.059d:12"/>Son regar<subst><del rend="overwritten">t</del><add place="inline" evidence="cramped, darker ink, suprascript dot">d<abbr type="er"/></add></subst> gitoit que on <rhyme>n'apperceust</rhyme>
+<lb n="2AMA.059d:13"/>Qu'à celle, plus\ qu'à autre, pensée <rhyme>eust</rhyme>.
+<lb n="2AMA.059d:14"/>Si ne cuidoye\ pas que pou lui <rhyme>pleust</rhyme>,
+<lb n="2AMA.059d:15"/>Car bien <rhyme>sembloit</rhyme><l n=" 200"/>
+<lb n="2AMA.059d:16"/>Que pour elle\ fust en amoureux <rhyme>ploit</rhyme>,
+<lb n="2AMA.059d:17"/>Tout non obstant\ que <note>avec 'queue' courbée comme un 'g'</note> de gens tant <rhyme>s'embloit</rhyme>
+<lb n="2AMA.059d:18"/>Comme il pouoit,\ mais l'amoureux <rhyme>esploit</rhyme>
+<lb n="2AMA.059d:19"/>Fors à <rhyme>celler</rhyme><l n=" 204"/>
+<lb n="2AMA.059d:20"/>Est aux amans\ qu'<name ref="God+of+Love"><c>a</c>mours</name> fait <rhyme>affoller</rhyme>
+<lb n="2AMA.059d:21"/>Par trop amer\ et venir et <rhyme>aler</rhyme>;
+<lb n="2AMA.059d:22"/>Ainsi surpris\ d'<name ref="God+of+Love"><c>a</c>mours</name>, à brief <rhyme>parler</rhyme>,
+<lb n="2AMA.059d:23"/>Cil sembla <rhyme>estre</rhyme>.<l n=" 208"/>
+<lb n="2AMA.059d:24"/>¶ Mais pres du banc\ où je sëoye à <rhyme>dextre</rhyme>
+<lb n="2AMA.059d:25"/>Avoit assis,\ decoste une <rhyme>fenestre</rhyme>,
+<lb n="2AMA.059d:26"/>Un chevalier\ qui sus sa main <rhyme>senestre</rhyme>
+<lb n="2AMA.059d:27"/>Tint <rhyme>appuyé</rhyme><l n=" 212"/>
+<lb n="2AMA.059d:28"/>Son chief enclin,\ comme tout <rhyme>anuyé</rhyme>
+<lb n="2AMA.059d:29"/>Et tout pensif\ et pou ot <rhyme>festoyé</rhyme>.
+<lb n="2AMA.059d:30"/>Në il n'estoit\ joyeux ne <rhyme>desroyé</rhyme>,
+<lb n="2AMA.059d:31"/>Në <rhyme>esbatant</rhyme><l n=" 216"/>
+<lb n="2AMA.059d:32"/>Ne sembla pas,\ mais n'estoit pas po<abbr type="ur"/> <rhyme>ta<abbr type="n"/>t</rhyme>
+<lb n="2AMA.059d:33"/>Lait ne viellart,\ ains de beauté ot <rhyme>ta<abbr type="n"/>t</rhyme>
+<lb n="2AMA.059d:34"/>Com nul qui fust,\ et moult entre <rhyme>metta<abbr type="n"/>t</rhyme>
+<lb n="2AMA.059d:35"/>En <rhyme>gentillece</rhyme><l n=" 220"/>
+<lb n="2AMA.059d:36"/>Et en honneur\ sembla, et de <rhyme>jeunece</rhyme>
+<lb n="2AMA.059d:37"/>Assez garni,\ jolis et sans <rhyme>parece</rhyme>.
+<lb n="2AMA.059d:38"/>Mais bien sembloit\ que pou eust de <rhyme>léece</rhyme>
+<lb n="2AMA.059d:39"/>Et pou de <rhyme>joye</rhyme>,<l n=" 224"/>
+<lb n="2AMA.059d:40"/>Car moy, qui lors\ dessus le ba<abbr type="n"/>c <rhyme>sëoye</rhyme>,
+<lb n="2AMA.059d:41"/>Songneusem<abbr type="en"/>t\ son maintien <rhyme>regardoye</rhyme>
+<pb n="060" ed="r"/><layout ruledLines="no"/><lb n="2AMA.060r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed"><c>D</c>e</fw> <fw type="header2" place="column a" rend="centred">&#x95;ii&#x95;</fw> <fw type="header3" place="column b" rend="left aligned">amans</fw> <fw type="header4" place="column b" rend="centred">&#x95;x<del rend="erasure" reason="wrong item number">i</del>iii&#x95;</fw></hi>
+<cb n="a"/><layout ruledLines="41"/><layout ruledLines="41"/>
+<lb n="2AMA.060a:01"/>Pour ce que si\ pensif je le <rhyme>vëo<s>y</s>e</rhyme>
+<lb n="2AMA.060a:02"/>Et sans <rhyme>solas</rhyme>.<l n=" 228"/>
+<lb n="2AMA.060a:03"/>Par maintes fois\ lui ouÿ dire "<rhyme><c>h</c>elas</rhyme>!"
+<lb n="2AMA.060a:04"/>Bassettement, n'estre ne pouoit <rhyme>las</rhyme>
+<lb n="2AMA.060a:05"/>De souspirer,\ comme homme qui en <rhyme>las</rhyme>
+<lb n="2AMA.060a:06"/>Est <rhyme>enserré</rhyme>.<l n=" 232"/>
+<lb n="2AMA.060a:07"/>Et avec ce\ tant ot le cuer <rhyme>serré</rhyme>
+<lb n="2AMA.060a:08"/>Quë il sembloit\ qu'on l'eüst <rhyme>deterré</rhyme>,
+<lb n="2AMA.060a:09"/>Tant palle estoit,\ ou qu'il fust <rhyme>enferré</rhyme>
+<lb n="2AMA.060a:10"/>D'un fer <rhyme>tranchant</rhyme>.<l n=" 236"/> <note>tache sur le 't' initial  ?</note>
+<lb n="2AMA.060a:11"/>Et non obstant\ qu'il s'alast <rhyme>embru<abbr type="n"/>cha<abbr type="n"/>t</rhyme>
+<lb n="2AMA.060a:12"/>D'un chapperon\ dessus ses yeulx <rhyme>sacha<abbr type="n"/>t</rhyme>,
+<lb n="2AMA.060a:13"/>C'on n'apperceust\ le pié dont fu <rhyme>clocha<abbr type="n"/>t</rhyme>
+<lb n="2AMA.060a:14"/>Ne son <rhyme>malage</rhyme>,<l n=" 240"/>
+<lb n="2AMA.060a:15"/>Et tout fust il\ loyal, secret et <rhyme>sage</rhyme>,
+<lb n="2AMA.060a:16"/>Sicom je croy,\ si faindre son <rhyme>courage</rhyme>
+<lb n="2AMA.060a:17"/>Ne pot qu'il n'eust\ tout au lonc du <rhyme>visage</rhyme>
+<lb n="2AMA.060a:18"/>Souvent les <rhyme>lermes</rhyme>.<l n=" 244"/>
+<lb n="2AMA.060a:19"/>Tant ne pouoit\ estre constans ne <rhyme>fermes</rhyme> <note>rising 's'</note>
+<lb n="2AMA.060a:20"/>Que couvrir peust <note>tache, de cire</note>\ les très ameres <rhyme>armes</rhyme> <note>rising 's'</note>
+<lb n="2AMA.060a:21"/>Qu'<name ref="God+of+Love"><c>a</c>mours</name> livre\ à\ ceulx q<abbr type="u'i"/>l re<abbr type="n"/>t t<abbr type="ro"/>p <rhyme>enf<abbr type="er"/>mes</rhyme> <note>rising 's'</note>
+<lb n="2AMA.060a:22"/>Et <rhyme>maladis</rhyme>.<l n=" 248"/>
+<lb n="2AMA.060a:23"/>Ainsi cellui\ fut là, com je vous <rhyme>dis</rhyme>,
+<lb n="2AMA.060a:24"/>Morne, pensif\ et petit <rhyme>esbaudis</rhyme>.
+<lb n="2AMA.060a:25"/>Mais, si me doint\ <name ref="Christ"><c>j</c>h<abbr type="es"/>ucrist</name> <rhyme>paradis</rhyme>,
+<lb n="2AMA.060a:26"/>Telle <rhyme>pitié</rhyme><l n=" 252"/>
+<lb n="2AMA.060a:27"/>Me fist de lui\ vëoir si <rhyme>dehaitié</rhyme>
+<lb n="2AMA.060a:28"/>C'onques homme,\ tant y eusse <rhyme>amistié</rhyme>,
+<lb n="2AMA.060a:29"/>Ne m'atendri le cuer à la <rhyme>moitié</rhyme>
+<lb n="2AMA.060a:30"/>Comme <rhyme>cellui</rhyme><l n=" 256"/>
+<lb n="2AMA.060a:31"/>Me fist, que là\ <add place="supralinear" evidence="" type="">je</add> <note>caret, oui, mais semble inversé sorte de 'v' à l'encre très claire</note> vëoye à par <rhyme>lui</rhyme>,
+<lb n="2AMA.060a:32"/>Morne, pensif\ lermoier.\ <c>n</c>e <rhyme>nullui</rhyme>
+<lb n="2AMA.060a:33"/>N'appercevoit,\ je croy, l'ennui de <rhyme>lui</rhyme>
+<lb n="2AMA.060a:34"/>Fors moy sans <rhyme>plus</rhyme>,<l n=" 260"/>
+<lb n="2AMA.060a:35"/>Car les autres\ toudis de plus en <rhyme>pl<abbr type="us"/></rhyme>
+<lb n="2AMA.060a:36"/>S'esbatoient\, et cil estoit <rhyme>reclus</rhyme>
+<lb n="2AMA.060a:37"/>Entre la gent,\ plus simple q<abbr type="ue"/> un <rhyme>recl<abbr type="us"/></rhyme>,
+<lb n="2AMA.060a:38"/>Ne ne <rhyme>pensoit</rhyme><l n=" 264"/>
+<lb n="2AMA.060a:39"/>Que le maintien qui triste le <rhyme>faisoit</rhyme>
+<lb n="2AMA.060a:40"/>Nul perceüst,\ car chacu<abbr type="n"/> y <rhyme>dançoit</rhyme>
+<lb n="2AMA.060a:41"/>Fors lui et moy,\ et pour ce ne <rhyme>cessoit</rhyme>
+<cb n="b"/><layout ruledLines="41"/><lb n="2AMA.060b:01"/>D'estre <rhyme>pensifs</rhyme>.<l n=" 268"/>
+<lb n="2AMA.060b:02"/>Mais la cause\ <note> ?</note> qui si le tint <rhyme>rassis</rhyme>
+<lb n="2AMA.060b:03"/>Apperceu bien,\ car des fois plus de <supplied reason="symmetry" resp="JCL">&#x95;</supplied><rhyme>vi</rhyme>&#x95;
+<lb n="2AMA.060b:04"/>Müa coulour\ quant pres de lui <rhyme>assis</rhyme>
+<lb n="2AMA.060b:05"/>Le corps <rhyme>gentil</rhyme><l n=" 272"/>
+<lb n="2AMA.060b:06"/>D'une dame belle,\ et gente entre <rhyme>mil</rhyme>
+<lb n="2AMA.060b:07"/>Estoit. <c>s</c>dont\ tout se <note>over erasure, 'se' in margin, correction preparation</note> tresmüoit <rhyme>cil</rhyme>, <lb n="2AMA.060b:08"/>Si la suivoit\ aux yeulx, mais si <rhyme>soubtil</rhyme>
+<lb n="2AMA.060b:09"/>Fu son <rhyme>regart</rhyme><l n=" 276"/>
+<lb n="2AMA.060b:10"/>Qu'appercevoir\ ne le peust p<abbr type="ar"/> nul <rhyme>art</rhyme>
+<lb n="2AMA.060b:11"/>Nul ne nulle,\ n'avoit l'ueil autre <rhyme>part</rhyme>,
+<lb n="2AMA.060b:12"/>Dont j'apperceu\ et vi tout en <rhyme>appert</rhyme>
+<lb n="2AMA.060b:13"/>Que le <rhyme>meschief</rhyme><l n=" 280"/>
+<lb n="2AMA.060b:14"/>Qui lui troubloit\ et le cuer et le <rhyme>chief</rhyme> <note>observer les deux 'l' de 'le' et 'lui'; cf. la différence établie au début entre minuscule et majuscule…</note>
+<lb n="2AMA.060b:15"/>Venoit de là\ je ne sçay par quel\ <rhyme>chief</rhyme>,
+<lb n="2AMA.060b:16"/>Mais sans cesser\ <note>grattage sur deux espaces et trait horizontal</note> souspiroit <note>'iroit' over erasure?</note> de <rhyme>rechief</rhyme>.
+<lb n="2AMA.060b:17"/>¶ Ainsi se <rhyme>tint</rhyme><l n=" 284"/>
+<lb n="2AMA.060b:18"/>Là\ longuement,\ dont trop de mal <rhyme>soustint</rhyme>.
+<lb n="2AMA.060b:19"/>Mais or oyez\ après qu'il en <rhyme>avint</rhyme>.
+<lb n="2AMA.060b:20"/>Quant ot songié\ assez, il se <rhyme>revint</rhyme>
+<lb n="2AMA.060b:21"/>Un pou à <rhyme>soy</rhyme>,<l n=" 288"/>
+<lb n="2AMA.060b:22"/>Comme homme qui\ un pou a sa grant <g lemma="soif" en="thirst" fr="soif"><rhyme>soy</rhyme></g>
+<lb n="2AMA.060b:23"/>Estanchéë.\ <c>e</c>et je qui <rhyme>l'apperçoy</rhyme>,
+<lb n="2AMA.060b:24"/>Le regarday, mais, s'onques nul b<abbr type="ie"/>n  <g lemma="savoir" en="to know" fr="savoir" type="past hist. 1"><rhyme>soy</rhyme></g>,
+<lb n="2AMA.060b:25"/>Me fu <rhyme>advis</rhyme><l n=" 292"/>
+<lb n="2AMA.060b:26"/>À son regart\ et au semblant du <rhyme>vis</rhyme>
+<lb n="2AMA.060b:27"/>Qu'il apperceut\ que tout son maintien <rhyme>vis</rhyme>,
+<lb n="2AMA.060b:28"/>Et comme là\ estoit sicom <rhyme>ravis</rhyme>,
+<lb n="2AMA.060b:29"/>Si lui <rhyme>greva</rhyme><l n=" 296"/>
+<lb n="2AMA.060b:30"/>Que veü l'oz.\ <c>n</c>e sçay co<abbr type="m"/>me il en <rhyme>va</rhyme>,
+<lb n="2AMA.060b:31"/>Mais assez tost\ de ce lieu se <rhyme>leva</rhyme>
+<lb n="2AMA.060b:32"/>Et vers moy vint,\ et achoison <rhyme>trouva</rhyme>
+<lb n="2AMA.060b:33"/>De <rhyme>m'aresner</rhyme>.<l n=" 300"/>
+<lb n="2AMA.060b:34"/>Et moy qui moult\ me voulsisse <rhyme>pener</rhyme>
+<lb n="2AMA.060b:35"/>De l'esjouïr,\ se g'i sceusse <rhyme>assener</rhyme>,
+<lb n="2AMA.060b:36"/>Pour la pitié\ qu'oy eu,\ dont <rhyme>atourner</rhyme>
+<lb n="2AMA.060b:37"/>En tel <rhyme>conroy</rhyme><l n=" 304"/>
+<lb n="2AMA.060b:38"/>L'avoye veu,\ quant devers la <rhyme>paroy</rhyme> <note>'la paroy' mal aligné - sur grattage ? cf. jambage descendant pres du 'l' de la ligne suivante</note>
+<lb n="2AMA.060b:39"/>Le vy venir,\ adont sans nul <rhyme>desroy</rhyme>
+<lb n="2AMA.060b:40"/>Je me levay.\ <c>m</c>ais cil fu filz de <rhyme><c>R</c>oy</rhyme>
+<lb n="2AMA.060b:41"/>Ou duc ou <rhyme>conte</rhyme>,<l n=" 308"/>
+<pb n="060" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.060v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed"><s>L</s>e <c>D</c>ebat</fw> <fw type="header2" place="column d" rend="centred">de</fw></hi>
+<cb n="c"/><layout ruledLines="40"/>
+<lb n="2AMA.060c:01"/>Sçot il assez\ que gentillece <rhyme>monte</rhyme> <note>elaborate 'll'</note>
+<lb n="2AMA.060c:02"/>Courtoisie\ qui les bons en pris <rhyme>monte</rhyme>
+<lb n="2AMA.060c:03"/>Et qui apprent,\ enseigne, duit et <rhyme>do<abbr type="m"/>pte</rhyme>
+<lb n="2AMA.060c:04"/>Tout bon <rhyme>courage</rhyme><l n=" 312"/>
+<lb n="2AMA.060c:05"/>Lui ot appris.\ <c>a</c>dont le doulx &amp; <note>'le'? erased, correction 'dot' or faint '&amp;' over erased 'e'; '&amp;', correction preparation above 'e' of 'sage'</note> <rhyme>sage</rhyme>
+<lb n="2AMA.060c:06"/>Si me rassist,\ et sanz querre <rhyme>avantage</rhyme>
+<lb n="2AMA.060c:07"/>De nul honneur,\ humblem<abbr type="en"/>t, sans <rhyme>haultage</rhyme>,
+<lb n="2AMA.060c:08"/>Dessus le <rhyme>banc</rhyme>,<l n=" 316"/>
+<lb n="2AMA.060c:09"/>Decoste moy,\ s'assist\ cil qui fu <rhyme>blanc</rhyme>
+<lb n="2AMA.060c:10"/>Et palle oû vis,\ où n'ot couleur ne <rhyme>sanc</rhyme>
+<lb n="2AMA.060c:11"/>Par trop amer.\ <c/>et son bras par<note>Altmann reads 'Son bras dessus'.</note> le <rhyme>flanc</rhyme>
+<lb n="2AMA.060c:12"/>Adont me <rhyme>mist</rhyme><l n=" 320"/>
+<lb n="2AMA.060c:13"/>Courtoisement,\ et belleme<abbr type="n"/>t me <rhyme>dist</rhyme>,
+<lb n="2AMA.060c:14"/>"Que pensez vous\ cy\ seule, car il <rhyme>n'ist</rhyme>
+<lb n="2AMA.060c:15"/>De vous nul mot?\ <c>b</c>ien croy qu'il vous <rhyme>souffist</rhyme>
+<lb n="2AMA.060c:16"/>De cy <rhyme>penser</rhyme><l n=" 324"/>
+<lb n="2AMA.060c:17"/>Sans autre esbat.\ <c>p</c>our quoy n'alez <rhyme>danc<abbr type="er"/></rhyme>?"
+<lb n="2AMA.060c:18"/>Et je respons,\ "<c>m</c>ais vous, sire, <rhyme>avanc<abbr type="er"/></rhyme>
+<lb n="2AMA.060c:19"/>Pou vous en voy,\ et ne deussiés <rhyme>cesser</rhyme>
+<lb n="2AMA.060c:20"/>De vous <rhyme>esbatre</rhyme>,<l n=" 328"/>
+<lb n="2AMA.060c:21"/>Ce m'est avis,\ car en ce lieu n'a <rhyme>&#x95;iiii<choice><sic>
+</sic><corr reason="symmetry" resp="JCL">&#x95;</corr></choice></rhyme>
+<lb n="2AMA.060c:22"/>Qui plus soient\ jeunes,\ mais pou <rhyme>embat<abbr type="re"/></rhyme>
+<lb n="2AMA.060c:23"/>Je vous y voy.\ <c>n</c>e sçay qui fait <rhyme>rabatre</rhyme>
+<lb n="2AMA.060c:24"/>Si vo <rhyme>pensée</rhyme>."<l n=" 332"/>
+<lb n="2AMA.060c:25"/>Et cil qui volt\ la douleur <rhyme>qu'amassée</rhyme>
+<lb n="2AMA.060c:26"/>Avoit oû cuer\ moy celer, à <rhyme>pesée</rhyme>
+<lb n="2AMA.060c:27"/>Parole dist,\ "<c>e</c>n pou d'eure est <rhyme>passée</rhyme>,
+<lb n="2AMA.060c:28"/>Certes, ma <rhyme>joye</rhyme>.<l n=" 336"/>
+<lb n="2AMA.060c:29"/>Tant suis rudes\ que dancer ne <rhyme>saroye</rhyme>
+<lb n="2AMA.060c:30"/>Në autrement\ jouer, et <rhyme>toutevoye</rhyme>
+<lb n="2AMA.060c:31"/>N'ay je courroux <note>retour du 'x'</note> ne chose qui <rhyme>m'anoye</rhyme>,
+<lb n="2AMA.060c:32"/>Mais c'est ma <rhyme>guise</rhyme><l n=" 340"/>
+<lb n="2AMA.060c:33"/>D'estre pensif.\ <c>c</c>e n'est pas par <rhyme>faintise</rhyme>:
+<lb n="2AMA.060c:34"/><name ref="God">Dieux</name> a\ <add place="supralinear" evidence="" type="">en</add> <note>bar, not caret, ou ponctuation ?</note> moy\ tel condicïon <rhyme>mise</rhyme>.
+<lb n="2AMA.060c:35"/>Ou qu'il m'amoit\ ou que bien me <rhyme>souffise</rhyme>,
+<lb n="2AMA.060c:36"/>C'est ma <rhyme>nature</rhyme>."<l n=" 344"/>
+<lb n="2AMA.060c:37"/>¶ Ainsi parlions à bien basse <rhyme>murmure</rhyme>
+<lb n="2AMA.060c:38"/>Et ja avions\ conté mainte <rhyme>aventure</rhyme>
+<lb n="2AMA.060c:39"/>Quant vers nous vint\ cellui tout à <rhyme>esture</rhyme>,
+<lb n="2AMA.060c:40"/>Dont j'ay <rhyme>parlé</rhyme><l n=" 348"/>
+<cb n="d"/><layout ruledLines="40"/>
+<lb n="2AMA.060d:01"/><s>J</s>a cy dessus,\ qui n'ot cuer <rhyme>adoulé</rhyme>,
+<lb n="2AMA.060d:02"/><c>a</c>ins fu joyeux.<note>retour du 'x'</note> <c>s</c>i a l'autre <rhyme>acolé</rhyme>
+<lb n="2AMA.060d:03"/>Tout en rïant,\ et à lui <rhyme>rigolé</rhyme>
+<lb n="2AMA.060d:04"/>C'est<note>i.e. 'S'est'.</note> <rhyme>bellement</rhyme><l n=" 352"/>
+<lb n="2AMA.060d:05"/>Et d'un et d'el\ parlere<abbr type="n"/>t <rhyme>longueme<abbr type="n"/>t</rhyme>,
+<lb n="2AMA.060d:06"/>Mais sus amours\ tourna le <rhyme>parlem<abbr type="en"/>t</rhyme>,
+<lb n="2AMA.060d:07"/>Si dist adonc\ l'escuyer <rhyme>lïement</rhyme>,
+<lb n="2AMA.060d:08"/>"À ma <rhyme>requeste</rhyme>,<l n=" 356"/>
+<lb n="2AMA.060d:09"/>Parlons d'amours\ un pou,\ et sans <rhyme>arreste</rhyme>
+<lb n="2AMA.060d:10"/>D'entre nous &#x95;iii&#x95;\ de devisier <rhyme>s'appreste</rhyme>
+<lb n="2AMA.060d:11"/>Son bon avis\ chacun,\ et s'amour <rhyme>preste</rhyme>
+<lb n="2AMA.060d:12"/>Plus joye ou <rhyme>mains</rhyme><l n=" 360"/>
+<lb n="2AMA.060d:13"/>Aux vrays amans,\ vous pry à joi<abbr type="n"/>tes <rhyme>mai<abbr type="n"/>s</rhyme>
+<lb n="2AMA.060d:14"/>Qu'en devision\ q<abbr type="ue"/> nul ne l'oye; au <rhyme>mai<abbr type="n"/>s</rhyme>
+<lb n="2AMA.060d:15"/>Pouons parler\ de ce dont joye o<abbr type="n"/>t <rhyme>mains</rhyme>.
+<lb n="2AMA.060d:16"/>¶ Si faisons <rhyme>conte</rhyme><l n=" 364"/>
+<lb n="2AMA.060d:17"/>Que c'est d'amer,\ de quoy vie<abbr type="n"/>t, n'à q<abbr type="uo"/>y <rhyme>mo<abbr type="n"/>te</rhyme>
+<lb n="2AMA.060d:18"/>Ycelle amour\ qui le cuer prent &amp; <rhyme>do<abbr type="m"/>pte</rhyme>,
+<lb n="2AMA.060d:19"/>À quoy c'est bon,\ s'onnour en vient ou <rhyme>ho<abbr type="n"/>te</rhyme>.
+<lb n="2AMA.060d:20"/>Chacun en <rhyme>die</rhyme><l n=" 368"/>
+<lb n="2AMA.060d:21"/>Ce qu'il en scet,\ ou se c'est <rhyme>maladie</rhyme>
+<lb n="2AMA.060d:22"/>Ou grant santé,\ ou se l'amant <rhyme>mendie</rhyme>
+<lb n="2AMA.060d:23"/>Qui dame sert.\ <c>l</c>e corps <name ref="God"><c>d</c>ieu</name> le <rhyme>maudie</rhyme>
+<lb n="2AMA.060d:24"/>Qui <rhyme>mentira</rhyme><l n=" 372"/>
+<lb n="2AMA.060d:25"/>De son avis\ et qui tout ne <rhyme>dira</rhyme>
+<lb n="2AMA.060d:26"/>Des tours d'<name ref="God+of+Love"><c>a</c>mours</name> ce qu'il en <rhyme>sentira</rhyme>.
+<lb n="2AMA.060d:27"/>Or y <g lemma="paroir" en="to appear" fr="apparaître" type="future 3">perra</g>,\ qui le mieulx en <rhyme>lira</rhyme>.
+<lb n="2AMA.060d:28"/>¶ Mais je <rhyme>conseil</rhyme><l n=" 376"/>
+<lb n="2AMA.060d:29"/>Que nous yssions\ trestous &#x95;iii&#x95; hors du <rhyme>sueil</rhyme>
+<lb n="2AMA.060d:30"/>De cel huis là,\ et alions en ce <rhyme>brueil</rhyme>,
+<lb n="2AMA.060d:31"/>Où il fait vert,\ nous sëoir en <rhyme>recueil</rhyme>
+<lb n="2AMA.060d:32"/><rhyme>joyeusement</rhyme><l n=" 380"/>
+<lb n="2AMA.060d:33"/>Pour deviser là\ plus <rhyme>secretem<abbr type="en"/>t</rhyme>;
+<lb n="2AMA.060d:34"/>Que nul n'oye\ l'amoureux <rhyme>plaidem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.060d:35"/>Fors que nous &#x95;iii&#x95;."\ <c>e</c>t adont <rhyme>vistem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.060d:36"/>Nous nous <rhyme>levasmes</rhyme>.<l n=" 384"/>
+<lb n="2AMA.060d:37"/>Mais par mon los\ une dame <rhyme>appellasmes</rhyme> <note>rising 's'</note>
+<lb n="2AMA.060d:38"/>Avecques nous,\ qui het mesdis et <rhyme>blasmes</rhyme>.
+<lb n="2AMA.060d:39"/>Encore avec,\ pour le mieulx, y <rhyme>menasmes</rhyme>
+<lb n="2AMA.060d:40"/>Une <rhyme>bourgoise</rhyme><l n=" 388"/>
+<!-- catchword 'belle plais|ant| g|ra|cieuse' -->
+<pb n="061" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.061r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">de</fw> <fw type="header2" place="column a" rend="centred">deux</fw> <fw type="header3" place="column b" rend="tabbed">amans&#x95;</fw> <fw type="header4" place="column b" rend="tabbed from right">x<del rend="erasure" reason="wrong item number">i</del>iii&#x95;</fw></hi>
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="2AMA.061a:01"/>Belle, plaisant,\ gracïeuse et <rhyme>courtoise</rhyme>.
+<lb n="2AMA.061a:02"/>Par mon conseil\ fu fait, car qui <rhyme>racoise</rhyme>
+<lb n="2AMA.061a:03"/>Des mesdisans\ le murmure et la <rhyme>noise</rhyme>,
+<lb n="2AMA.061a:04"/>Moult sages <rhyme>est</rhyme>.<l n=" 392"/>
+<lb n="2AMA.061a:05"/>Si partismes\ de là,\ et sans <rhyme>arrest</rhyme>
+<lb n="2AMA.061a:06"/>Oû bel verger\ entrasmes sans<note>expunctuated also</note>,\ qui fu <rhyme>prest</rhyme>
+<lb n="2AMA.061a:07"/>À deduire\ plus dru q'une <rhyme>forest</rhyme>
+<lb n="2AMA.061a:08"/>D'arbres moult <rhyme>beaulx</rhyme>,<l n=" 396"/>
+<lb n="2AMA.061a:09"/>Qui en saison\ portent bons fruis <rhyme>nouveaulx</rhyme>,<note>'a&#x95;' in gutter margin to show lines' correct place</note><note>ici, l'ordre est rétabli ; or, le ms. inverse les deux vers…</note>
+<lb n="2AMA.061a:10"/>Où en prin temps\ se deduisent <rhyme>oyseaulx</rhyme>, <note>'b&#x95;' in gutter margin to show lines' correct place</note>
+<lb n="2AMA.061a:11"/>Et en beau lieu,\ qui y fist ses <rhyme>aviaux</rhyme>,
+<lb n="2AMA.061a:12"/>Fumes <rhyme>assis</rhyme>.<l n=" 400"/>
+<lb n="2AMA.061a:13"/>¶ Adonc cellui\ qui fu le mains <rhyme>pensifs</rhyme>
+<lb n="2AMA.061a:14"/>Dit à l'autre\ qui ot plus de <rhyme>soulsis</rhyme>,
+<lb n="2AMA.061a:15"/>"Dictes, sire,\ car plus estes <rhyme>rassis</rhyme>
+<lb n="2AMA.061a:16"/>Et le plus <rhyme>sage</rhyme>,<l n=" 404"/>
+<lb n="2AMA.061a:17"/>Vo bon avis\ de l'amoureux <rhyme>servage</rhyme>,
+<lb n="2AMA.061a:18"/>S'il en vient preu,\ joye, honneur ou <rhyme>do<abbr type="m"/>mage</rhyme>."
+<lb n="2AMA.061a:19"/>Et cil respont,\ "<c>b</c>eaulx amis, c'est <rhyme>l'usage</rhyme>
+<lb n="2AMA.061a:20"/>Selon <rhyme>raison</rhyme>,<l n=" 408"/>
+<lb n="2AMA.061a:21"/>Qu'en trestous cas\ et en toute <rhyme>saison</rhyme>
+<lb n="2AMA.061a:22"/>Honneur porte aux\ dames tout gentilz <rhyme>hom</rhyme>;
+<lb n="2AMA.061a:23"/>Premier diront,\ beau sire, et nous <rhyme>taison</rhyme>.
+<lb n="2AMA.061a:24"/>Dites, ma <rhyme>dame</rhyme>,<l n=" 412"/>
+<lb n="2AMA.061a:25"/>Vo bon avis\ de l'amoureuse <rhyme>flame</rhyme>,
+<lb n="2AMA.061a:26"/>Se joye en vient\ ou dueil à ho<abbr type="m"/>me et <rhyme>fame</rhyme>."
+<lb n="2AMA.061a:27"/>Et celle dit\ et respont, "<c>p</c>ar mon <rhyme>ame</rhyme>,
+<lb n="2AMA.061a:28"/>Je ne <rhyme>saroye</rhyme><l n=" 416"/>
+<lb n="2AMA.061a:29"/>Qu'en dire au fort,\ qua<abbr type="n"/>t est de moy <g lemma="louer" en="to advise" fr="conseiller" type="cond. 1 shortened"><rhyme>louroye</rhyme></g>
+<lb n="2AMA.061a:30"/>Que vous dissiez\ et voulentiers <rhyme>l'orroye</rhyme>,
+<lb n="2AMA.061a:31"/>Car proprement,\ certes, n'en <rhyme>parleroye</rhyme>.
+<lb n="2AMA.061a:32"/>Dites, beau <rhyme>sire</rhyme>,<l n=" 420"/>
+<lb n="2AMA.061a:33"/>Car je sçay bien\ que mieulx en sariés <rhyme>dire</rhyme>."
+<lb n="2AMA.061a:34"/>Et cil respont, "<c>n</c>e vous doy <rhyme>contredire</rhyme>,
+<lb n="2AMA.061a:35"/>Ne vueille <name ref="God">dieux</name>\ qu'à ce ja mon cuer <rhyme>tire</rhyme>
+<lb n="2AMA.061a:36"/>Que vous\ <note>or sparator</note> <rhyme>desdie</rhyme>,<l n=" 424"/>
+<lb n="2AMA.061a:37"/><hi rend="cap2">P</hi>uis qu'il vous plaist,\ ma dame, q<abbr type="ue"/> je <rhyme>dye</rhyme>
+<lb n="2AMA.061a:38"/>Ce qu'il m'est vis,\  quoy qu'aut<abbr type="re"/> <rhyme>contredie</rhyme>,
+<lb n="2AMA.061a:39"/>Des fais d'<name ref="God+of+Love"><c>a</c>mours</name>\ et de la <rhyme>maladie</rhyme>
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="2AMA.061b:01"/>Qui vient <rhyme>d'amer</rhyme>,<l n=" 428"/>
+<lb n="2AMA.061b:02"/>Se plus en vient\ de doulx et moins <rhyme>d'amer</rhyme>,
+<lb n="2AMA.061b:03"/>Selon que sçay\ et que puis <rhyme>extimer</rhyme>,
+<lb n="2AMA.061b:04"/>Par essayer\ et par m'en\ <rhyme>informer</rhyme>,
+<lb n="2AMA.061b:05"/>J'en <rhyme>parleray</rhyme><l n=" 432"/>
+<lb n="2AMA.061b:06"/>Ce que j'en sens\ ne ja n'en <rhyme>mentiray</rhyme>.
+<lb n="2AMA.061b:07"/>Combien qu'autre\ trop mieulx que ne <rhyme>saray</rhyme>
+<lb n="2AMA.061b:08"/>En parleroit,\ toute foiz en <rhyme>diray</rhyme>
+<lb n="2AMA.061b:09"/>Tout mon <rhyme>advis</rhyme>,<l n=" 436"/>
+<lb n="2AMA.061b:10"/>S'onques je sos\ congnoistre ne ne <rhyme>vis</rhyme>
+<lb n="2AMA.061b:11"/>Les tours d'<name ref="God+of+Love"><c>a</c>mours</name>,\ par qui cuers sont <rhyme>ravis</rhyme>.
+<lb n="2AMA.061b:12"/>C'est un desir\ qui ja n'est <rhyme>assouvis</rhyme>,
+<lb n="2AMA.061b:13"/>Qui par <rhyme>plaisir</rhyme><l n=" 440"/>
+<lb n="2AMA.061b:14"/>En jeune cuer\ se vient mettre et <rhyme>choisir</rhyme>
+<lb n="2AMA.061b:15"/>Lui fait <name ref="God+of+Love"><c>a</c>mours</name>.\ <c>d</c>e ce\ naist <note>'a' overwritten ; semble-t-il, sur un 'e'</note> un <rhyme>desir</rhyme>
+<lb n="2AMA.061b:16"/>De franc vouloir / qui le cuer vient <rhyme>saisir</rhyme>
+<lb n="2AMA.061b:17"/>De tel <rhyme>nature</rhyme><l n=" 444"/>
+<lb n="2AMA.061b:18"/>Qu'il rent amant\ le cuer et plain <rhyme>d'ardure</rhyme>
+<lb n="2AMA.061b:19"/>Et desireux\ d'estre amé\ tant qu'il <rhyme>dure</rhyme>.
+<lb n="2AMA.061b:20"/>Mais tant est grant\ celle cuisant <note>over erasure ; ? correction 'dot'? ou réparation dans parchemin ?</note> <rhyme>pointure</rhyme>
+<lb n="2AMA.061b:21"/>Qu'elle <rhyme>bestourne</rhyme><l n=" 448"/>
+<lb n="2AMA.061b:22"/>Toute raison\ et tellement <rhyme>attourne</rhyme>
+<lb n="2AMA.061b:23"/>Cil qui est pris\ que du joyeux\ fait <rhyme>morne</rhyme>
+<lb n="2AMA.061b:24"/>Et le mornë en\ joyeuseté <rhyme>tourne</rhyme>;
+<lb n="2AMA.061b:25"/>Souvent <rhyme>avient</rhyme>.<l n=" 452"/>
+<lb n="2AMA.061b:26"/>¶ C'est une riens\ de quoy l'omme <rhyme>devie<abbr type="n"/>t</rhyme> <note>tilde bouclé important</note>
+<lb n="2AMA.061b:27"/>Tout tresmüé, si qu'il ne lui <rhyme>souvient</rhyme>
+<lb n="2AMA.061b:28"/>De nulle honneur, ne de preu ne lui <rhyme>tie<abbr type="n"/>t</rhyme> <note>tilde bouclé important</note>
+<lb n="2AMA.061b:29"/>Souventes <rhyme>fois</rhyme>.<l n=" 456"/>
+<lb n="2AMA.061b:30"/>Oublïer fait\ et coustumes et <rhyme>drois</rhyme>;
+<lb n="2AMA.061b:31"/>Fors voulenté\ n'i euvre en tous <rhyme>endrois</rhyme>.
+<lb n="2AMA.061b:32"/>C'est seraine\ qui endort à sa <rhyme>voix</rhyme>
+<lb n="2AMA.061b:33"/>Pour homme <rhyme>occire</rhyme>.<l n=" 460"/>
+<lb n="2AMA.061b:34"/>C'est un venim\ enveloppé de <rhyme>mirre</rhyme>
+<lb n="2AMA.061b:35"/>Et une paix\ qui en to<abbr type="us"/> temps <rhyme>s'aÿre</rhyme>,
+<lb n="2AMA.061b:36"/>Un dur lïen\ où desplaisir në <rhyme>yre</rhyme>
+<lb n="2AMA.061b:37"/>N'a nulle <rhyme>force</rhyme><l n=" 464"/>
+<lb n="2AMA.061b:38"/>Du deslïer.\ <c>c</c>'est vouloir qui <rhyme>s'efforce</rhyme>
+<lb n="2AMA.061b:39"/>De nuire à soy,\ une pensée <rhyme>amorse</rhyme>
+<!-- signature 'f j' in black ; loop in brown on bottom edge of leaf -->
+<pb n="061" ed="v"/><layout ruledLines="no"/><lb n="2AMA.061v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed"/>Le <fw type="header2" place="column c" rend="tabbed">Debat</fw> <fw type="header3" place="column c" rend="centred">de</fw></hi>
+<cb n="c"/><layout ruledLines="40" writtenLines="39"/>
+<lb n="2AMA.061c:01"/>À desirer\ par voye droite ou <rhyme>torse</rhyme> <note>elaborate 'A', 'd's and 'u'</note>
+<lb n="2AMA.061c:02"/>Avoir <rhyme>aysance</rhyme><l n=" 468"/>
+<lb n="2AMA.061c:03"/>De cë en quoy\ on a mis sa <rhyme>plaisance</rhyme>;
+<lb n="2AMA.061c:04"/>Et quant on l'a\ n'y a il <rhyme>souffisance</rhyme>,
+<lb n="2AMA.061c:05"/>Car le las cuer\ est toudis en <rhyme>balance</rhyme>
+<lb n="2AMA.061c:06"/>S'il aime <rhyme>fort</rhyme>.<l n=" 472"/>
+<lb n="2AMA.061c:07"/>Car s'il avient\ que l'amant tant <note>over erasure</note> au <rhyme>fort</rhyme>
+<lb n="2AMA.061c:08"/>Ait fait qu'il soit\ amé et <rhyme>reconfort</rhyme>
+<lb n="2AMA.061c:09"/>Lui soit donné,\ si me rens je bien <rhyme>fort</rhyme>
+<lb n="2AMA.061c:10"/>Qu'icelle <rhyme>joye</rhyme><l n=" 476"/>
+<lb n="2AMA.061c:11"/>N'yert ja si grant\ qu'<name ref="God+of+Love"><c>a</c>mours</name> ne lui <rhyme>e<abbr type="n"/>voye</rhyme> <note>tilde bouclé important</note>
+<lb n="2AMA.061c:12"/>Mille soucis\ contre une seule <rhyme>voye</rhyme>
+<lb n="2AMA.061c:13"/>D'avoir plaisir,\ ne que ja son cuer <rhyme>voye</rhyme>
+<lb n="2AMA.061c:14"/><rhyme>Asseüré</rhyme>.<l n=" 480"/>
+<lb n="2AMA.061c:15"/>Et tout soit il\ ou jenne ou <rhyme>meüré</rhyme>
+<lb n="2AMA.061c:16"/>Ou bel ou bon,\ ja si <rhyme>beneüré</rhyme>
+<lb n="2AMA.061c:17"/>Ne se verra\ que très mal <rhyme>eüré</rhyme>
+<lb n="2AMA.061c:18"/>Il ne se <rhyme>cla<add place="supralinear" evidence="" type="">i</add>me</rhyme><l n=" 484"/> <note>caret sublinéaire</note>
+<lb n="2AMA.061c:19"/>Souventes fois\ se parfaictem<abbr type="en"/>t<note>tilde bouclé important</note> <rhyme>aime</rhyme>.
+<lb n="2AMA.061c:20"/>Car <name ref="Fortune"><c>f</c>ortune</name>,\ qui les discordes <rhyme>seme</rhyme>,
+<lb n="2AMA.061c:21"/>En plus perilz\ que nef qui va à <rhyme>reme</rhyme>
+<lb n="2AMA.061c:22"/>Par maintes <rhyme>voies</rhyme><l n=" 488"/> <note>'u' sur grattage</note>
+<lb n="2AMA.061c:23"/>Le fichera;\ mais le las <rhyme>toutevoyes</rhyme>
+<lb n="2AMA.061c:24"/>Tout le peril\ ne prisera &#x95;ii&#x95; <rhyme>oyes</rhyme>,
+<lb n="2AMA.061c:25"/>Mais qu'il ne perde\ aucunes de ses <rhyme>joyes</rhyme>
+<lb n="2AMA.061c:26"/>Chier <rhyme>achetées</rhyme>.<l n=" 492"/>
+<lb n="2AMA.061c:27"/>¶ Haÿ vray <name ref="God"><c>d</c>ieux</name>,\ quantes douleurs <rhyme>portées</rhyme>
+<lb n="2AMA.061c:28"/>Sont ès las cuers\ où amours sont <rhyme>boutées</rhyme>! <note>rising 's'</note>
+<lb n="2AMA.061c:29"/>Quant m'en <note>'en' over erasure ; un espace comblé par retour du 'n'</note> souvient, de moy sont <rhyme>redoubtées</rhyme> <note>rising 's'</note>
+<lb n="2AMA.061c:30"/>Les dures <rhyme>larmes</rhyme>,<l n=" 496"/> <note>'la' ou 'a' sur grattage ?</note>
+<lb n="2AMA.061c:31"/>Les durs sanglous\ et li mortelz <rhyme>vouacarmes</rhyme>, <note>rising 's'</note>
+<lb n="2AMA.061c:32"/>Et les souspirs\ plus poignans q<abbr type="ue"/> <note>tilde bouclé</note> <rhyme>gisarmes</rhyme>.
+<lb n="2AMA.061c:33"/>Et se\ parler\ en doy comme clerc <rhyme>d'armes</rhyme>,
+<lb n="2AMA.061c:34"/>Ce scet bien <name ref="God"><rhyme><c>d</c>ieux</rhyme></name><l n=" 500"/>
+<lb n="2AMA.061c:35"/>Et quel dangier\ et quel tourm<abbr type="en"/>t <note>tilde bouclé. Remarque : de l'intérêt de les répertorier ?</note> <rhyme>mortieulx</rhyme>
+<lb n="2AMA.061c:36"/>Porte l'amant,\ ou soit jeunes ou <rhyme>vieulx</rhyme>,
+<lb n="2AMA.061c:37"/>Pour faire tant\ qu'il lui en soit de <rhyme>mieulx</rhyme>
+<lb n="2AMA.061c:38"/>Devers sa <rhyme>dame</rhyme>.<l n=" 504"/>
+<lb n="2AMA.061c:39"/>S'il est à droit\ espris de l'arda<abbr type="n"/>t <rhyme>flame</rhyme>
+<!-- 1 blank line here -->
+<cb n="d"/><layout ruledLines="40" writtenLines="39"/>
+<lb n="2AMA.061d:01"/>Qui par desir\ l'amant art et <rhyme>enflame</rhyme>,
+<lb n="2AMA.061d:02"/>Avant qu'il soit\ amé, je croy par <rhyme>m'ame</rhyme>
+<lb n="2AMA.061d:03"/>Qu'assez <rhyme>endure</rhyme><l n=" 508"/>
+<lb n="2AMA.061d:04"/>De griefs ennuys.\ <c>j</c>e ne sçay comme il <rhyme>dure</rhyme>
+<lb n="2AMA.061d:05"/>En tel tourment\ de si mortel <rhyme>pointure</rhyme>,
+<lb n="2AMA.061d:06"/>N'il n'a en soy\ <note>1 letter space ; grattage</note> autre <note>corrected from 'nautre'</note> soing n'autre <rhyme>cure</rhyme>
+<lb n="2AMA.061d:07"/>Que celle <rhyme>part</rhyme><l n=" 512"/>
+<lb n="2AMA.061d:08"/>Où il aime;\ si acquite sa <rhyme>part</rhyme>
+<lb n="2AMA.061d:09"/>De tous les biens\ que <name ref="Fortune"><c>f</c>ortune</name> <rhyme>depart</rhyme>
+<lb n="2AMA.061d:10"/>Pour cellui seul\ qui pou lui en <rhyme>espart</rhyme>
+<lb n="2AMA.061d:11"/>Certes peut <rhyme>estre</rhyme>.<l n=" 516"/>
+<lb n="2AMA.061d:12"/>Ainsi le las\ son paradis <rhyme>terrestre</rhyme>
+<lb n="2AMA.061d:13"/>A fait de ce\ qui son cuer plus <rhyme>empestre</rhyme>,
+<lb n="2AMA.061d:14"/>Et tout soit il\ roy ou duc ou gra<abbr type="n"/>t <rhyme>maistre</rhyme>,
+<lb n="2AMA.061d:15"/>Fault qu'il <rhyme>s'asserve</rhyme><l n=" 520"/>
+<lb n="2AMA.061d:16"/>Ou vueille ou non,\ et que sa dame <rhyme>serve</rhyme>
+<lb n="2AMA.061d:17"/>Et vraye amour,\ ains que joye <rhyme>dess<abbr type="er"/>ve</rhyme>.
+<lb n="2AMA.061d:18"/>Et puis y a\ encor plus dure <rhyme>verve</rhyme>
+<lb n="2AMA.061d:19"/>S'on <rhyme>l'escondit</rhyme>.<l n=" 524"/> <note>'s' initial sur grattage ?</note>
+<lb n="2AMA.061d:20"/>Or se tient mort\ le las, or se <rhyme>maudit</rhyme>,
+<lb n="2AMA.061d:21"/>Et puis <name ref="Hope"><c>e</c>spoir</name>\ autre chance lui <rhyme>dit</rhyme>, <note>'dit' sur grattage ou tache ?</note>
+<lb n="2AMA.061d:22"/>Puis <name ref="Despair"><c>d</c>esconfort</name>\ revient et l'en <rhyme>desdit</rhyme>;
+<lb n="2AMA.061d:23"/>Ainsi n'a <rhyme>paix</rhyme>.<l n=" 528"/>
+<lb n="2AMA.061d:24"/>En tous endrois\ le sert <choice><sic>deduis</sic><corr reason="sense, hpometric" resp="JCL" source="other MSS">de divers</corr></choice> <rhyme>mais</rhyme>
+<lb n="2AMA.061d:25"/>Ycelle amour\ qui ne laroit <rhyme>jamais</rhyme>
+<lb n="2AMA.061d:26"/>Avoir repos\ le cuer où est\ <rhyme>remais</rhyme>
+<lb n="2AMA.061d:27"/>Cellui <rhyme>vouloir</rhyme>.<l n=" 532"/>
+<lb n="2AMA.061d:28"/>¶ Mais supposé\ qu'à <note>'a' over erasure ; caret ; superscript 'a' erased? à vérifier</note> l'amant tant <rhyme>valoir</rhyme>
+<lb n="2AMA.061d:29"/>Lui vueille <name ref="God+of+Love"><c>a</c>mour<add place="supralinear" evidence="" type="">s</add></name> <note>rising 's'</note>\ que cause de <rhyme>douloir</rhyme>
+<lb n="2AMA.061d:30"/>N'ait en nul cas,\ ne lui doye <rhyme>chaloir</rhyme>
+<lb n="2AMA.061d:31"/>Fors de <rhyme>léece</rhyme>,<l n=" 536"/>
+<lb n="2AMA.061d:32"/>Et qu'à son gré\ du tout de sa <rhyme>maistresse</rhyme>
+<lb n="2AMA.061d:33"/>Il soit amé,\ qui lui tiengne <rhyme>promesse</rhyme>
+<lb n="2AMA.061d:34"/>Et loyauté,\ ne croyez qu'à <rhyme>destrece</rhyme>
+<lb n="2AMA.061d:35"/>Pour tant ne <rhyme>soit,</rhyme><l n=" 540"/>
+<lb n="2AMA.061d:36"/>Car <name ref="False+Guard"><c>f</c>aulx <c>a</c>gait</name>\ qui moult tost <rhyme>app<abbr type="er"/>çoit </rhyme>
+<lb n="2AMA.061d:37"/>Les couvine<choice><corr reason="agreement" resp="JCL">s</corr></choice>\ des amans et <rhyme>conçoit</rhyme>
+<lb n="2AMA.061d:38"/>Par leur semblans\ leur fait,\ co<abbr type="m"/>me<abbr type="n"/>t qu'il <rhyme>soit</rhyme>,
+<lb n="2AMA.061d:39"/>Ne s'en taist <rhyme>pas</rhyme>.<l n=" 544"/>
+<!-- 1 blank line here --><pb n="062" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.062r:01"/><hi rend="red"><fw type="header1" place="column a" rend="centred">de</fw> <fw type="header2" place="column a" rend="tabbed from right">deux</fw> <fw type="header3" place="column b" rend="tabbed from right">amans</fw> <fw type="header4" place="column b" rend="right aligned">xiiii</fw></hi>
+<cb n="a"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="2AMA.062a:01"/>Si resveille\ moult tost, plus que le <rhyme>pas</rhyme>,
+<lb n="2AMA.062a:02"/>Les mesdisans,\ cui <note>sur grattage ?</note> <name ref="God"><c>d</c>ieu</name> doint mau <rhyme>repas</rhyme>,
+<lb n="2AMA.062a:03"/>Qui font gaiter\ <name ref="Jealousy"><c>j</c>alousie</name> au <rhyme>trespas</rhyme>
+<lb n="2AMA.062a:04"/>Et mettre <rhyme>barres</rhyme><l n=" 548"/>
+<lb n="2AMA.062a:05"/>Ès <note>over erasure</note> doulx deduis <note>'s' in lighter ink written over 't'</note>\ des amans\ et <rhyme>enserres</rhyme>.
+<lb n="2AMA.062a:06"/>Lors commencent\ et murmures &amp; <rhyme>guerres</rhyme>
+<lb n="2AMA.062a:07"/>Souventes fois,\ trop plus grans q<abbr type="ue"/> po<abbr type="ur"/> <rhyme>t<abbr type="er"/>res</rhyme>
+<lb n="2AMA.062a:08"/>Ne pour <rhyme>avoir</rhyme>.<l n=" 552"/>
+<lb n="2AMA.062a:09"/>¶ Beaulx sire <name ref="God"><c>d</c>ieux</name>,\ <note>retour du 'x'</note> qui pourroit <rhyme>concevoir</rhyme>
+<lb n="2AMA.062a:10"/>Le grant tourment\ qu'il couvient <rhyme>recevoir</rhyme>
+<lb n="2AMA.062a:11"/>Au povre amant,\ qui ne peut b<abbr type="ie"/>n <rhyme>avoir</rhyme>
+<lb n="2AMA.062a:12"/>Pour le <rhyme>parler</rhyme><l n=" 556"/>
+<lb n="2AMA.062a:13"/>Des mesdisans\ qui lui tolent <rhyme>d'aler</rhyme>
+<lb n="2AMA.062a:14"/>Devers celle\ qu'il aime et veult <rhyme>celer</rhyme>.
+<lb n="2AMA.062a:15"/>Trop durement\ font l'amant <rhyme>adouler</rhyme>
+<lb n="2AMA.062a:16"/>Les <rhyme>mesdisans</rhyme><l n=" 560"/>
+<lb n="2AMA.062a:17"/>Ou le jaloux\ qui trop\ <note>or separator</note> lui est <rhyme>nuisans</rhyme>.
+<lb n="2AMA.062a:18"/>Ceulx lui tolent\ ses doulx biens <rhyme>deduisa<abbr type="n"/>s</rhyme>,
+<lb n="2AMA.062a:19"/>Dont tel dueil a\ qu'au lit en est <rhyme>gisans</rhyme>
+<lb n="2AMA.062a:20"/>En <rhyme>desespoir</rhyme><l n=" 564"/>
+<lb n="2AMA.062a:21"/>Souventes fois ou il se met <rhyme>apoir</rhyme>
+<lb n="2AMA.062a:22"/>En grant peril\ de mort. <c>s</c>'il n'a <rhyme>povoir</rhyme>
+<lb n="2AMA.062a:23"/>De soy chevir\ autrement, n'a\ <note>'a' over erasure</note> <rhyme>espoir</rhyme>
+<lb n="2AMA.062a:24"/>Qu'autrement <rhyme>puist</rhyme><l n=" 568"/>
+<lb n="2AMA.062a:25"/>Celle vëoir\ pour qui le cuer lui <rhyme>cuist</rhyme>.
+<lb n="2AMA.062a:26"/>¶ Encor y<supplied resp="JCL" reason="sense"> </supplied>a\ une chose qui <rhyme>nuist</rhyme>
+<lb n="2AMA.062a:27"/>Trop aux amans\ et qui à dueil les <rhyme>duist</rhyme>,
+<lb n="2AMA.062a:28"/>C'est <rhyme>jalousie</rhyme><l n=" 572"/>
+<lb n="2AMA.062a:29"/>Qui oublïer\ fait toute <rhyme>courtoisie</rhyme>
+<lb n="2AMA.062a:30"/>Au las amant <note>'t' over erasure</note>\ qui si fort se <rhyme>soucye</rhyme>
+<lb n="2AMA.062a:31"/>Qu'il est aussi\ comme homme en <rhyme>frenasie</rhyme>
+<lb n="2AMA.062a:32"/>Et loing et <rhyme>pres</rhyme>.<l n=" 576"/>
+<lb n="2AMA.062a:33"/>S'il s'apperçoit\ q'un autre ama<abbr type="n"/>t en <rhyme>grès</rhyme> <note>i.e. 'engrès'</note>
+<lb n="2AMA.062a:34"/>De celle amer\ soit, où son cuer est <rhyme>très</rhyme>,<note>'très', i.e. 'trais'</note>
+<lb n="2AMA.062a:35"/>Sachés de voir,\ s'il y voit nulx <rhyme>attrès</rhyme>
+<lb n="2AMA.062a:36"/>Qu'elle lui <rhyme>face</rhyme>,<l n=" 580"/>
+<lb n="2AMA.062a:37"/>Il en muera\ sens et couleur et <rhyme>face</rhyme>, <note>11 syllables ?; 'muera', 2 syllables ?; 1 ?</note>
+<lb n="2AMA.062a:38"/>Ne je ne cuid\ qu'autre meschief <rhyme>efface</rhyme>
+<lb n="2AMA.062a:39"/>Se <note>'i' overwritten</note> mortel soing,\ quoy qu'il se <rhyme>contreface</rhyme> <note>'Se', i.e. 'Ce'</note>
+<lb n="2AMA.062a:40"/>Joyeux ne <rhyme>lié</rhyme>.<l n=" 584"/>
+<cb n="b"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="2AMA.062b:01"/>C'est mort et dueil\ qui estre <rhyme>appallié</rhyme>
+<lb n="2AMA.062b:02"/>Certes ne <note>'nen' to 'ne' ; erasure; tail of 'e' extended to fill gap</note> peut,\ n'en paix estre <rhyme>alïé</rhyme>
+<lb n="2AMA.062b:03"/>Le cuer qui est\ de tel tourment <rhyme>lïé</rhyme>.
+<lb n="2AMA.062b:04"/>C'est une <rhyme>rage</rhyme><l n=" 588"/>
+<lb n="2AMA.062b:05"/>Trop amere\ qui met l'omme en <rhyme>courage</rhyme>
+<lb n="2AMA.062b:06"/>De faire assez\ de maulx et de <rhyme>do<abbr type="m"/>mage</rhyme>;
+<lb n="2AMA.062b:07"/>Plusieurs en ont\ honneur et <rhyme>heritage</rhyme>
+<lb n="2AMA.062b:08"/>Souvent <rhyme>perdu</rhyme>.<l n=" 592"/>
+<lb n="2AMA.062b:09"/>Qui jaloux est,\ à meschief c'est\ <rhyme>rendu</rhyme>:<note>'cest', i.e. 'sest'</note>
+<lb n="2AMA.062b:10"/>Mieulx lui vauldroit\ gesir mort <rhyme>estendu</rhyme>,
+<lb n="2AMA.062b:11"/>Mais grant amour\ lui a ce\ b<abbr type="ie"/>n <rhyme>rendu</rhyme>
+<lb n="2AMA.062b:12"/>En <rhyme>guerredon</rhyme>,<l n=" 596"/>
+<lb n="2AMA.062b:13"/>Car trop amer\ si empetre\ ce\ <rhyme>don</rhyme>
+<lb n="2AMA.062b:14"/>Au povre amant\ qui de son cuer fist <rhyme>don</rhyme>.
+<lb n="2AMA.062b:15"/>Si lui semble\ que trop perderoit <rhyme>don</rhyme> <note>syllable count of conditional</note>
+<lb n="2AMA.062b:16"/>S'un autre <rhyme>avoit</rhyme><l n=" 600"/>
+<lb n="2AMA.062b:17"/>Le bien que si\ cher comparer se <rhyme>voit</rhyme>.
+<lb n="2AMA.062b:18"/>Mais certes se\ le las mourir <rhyme>devoit</rhyme>,
+<lb n="2AMA.062b:19"/>N'en partiroit\ nez s'il ores <rhyme>savoit</rhyme>
+<lb n="2AMA.062b:20"/>Que <rhyme>relenqui</rhyme><l n=" 604"/>
+<lb n="2AMA.062b:21"/>Et delaissié\ l'eüst sa dame, en <rhyme>qui</rhyme>
+<lb n="2AMA.062b:22"/>Son <note>'S' repassé, tache ?</note> cuer a tout,\ puis<note>series of three  clauses modified by puis que</note> qu'<name ref="God+of+Love"><c>a</c>mours</name> le <rhyme>vainqui</rhyme>
+<lb n="2AMA.062b:23"/>Par un regart\ qui du doulx oeil <rhyme>nasqui</rhyme>
+<lb n="2AMA.062b:24"/>Quë il tant <rhyme>prise</rhyme>,<l n=" 608"/>
+<lb n="2AMA.062b:25"/>Et qu'à celle\ qui tant est b<abbr type="ie"/>n <rhyme>apprise</rhyme>,
+<lb n="2AMA.062b:26"/>Il s'est <note>'cest' to 'sest' - overwritten; dot under 'e'</note> donné\ et qu'elle a s'amour <rhyme>prise</rhyme>.
+<lb n="2AMA.062b:27"/>Jamais nul jour\ n'en doit estre <rhyme>desprise</rhyme>,
+<lb n="2AMA.062b:28"/>Comme il lui <rhyme>semble</rhyme>,<l n=" 612"/>
+<lb n="2AMA.062b:29"/>Pour riens qui soit,\ mais tous les maulx <rhyme>assemble</rhyme>
+<lb n="2AMA.062b:30"/>En son las cuer qui d'aÿr sue et <rhyme>tremble</rhyme>
+<lb n="2AMA.062b:31"/>Et souvent het\ et puis amour <rhyme>rassemble</rhyme>;
+<lb n="2AMA.062b:32"/>C'est dure <rhyme>dance</rhyme><l n=" 616"/>
+<lb n="2AMA.062b:33"/>Et moult estrange\ vie et <rhyme>concordance</rhyme>,
+<lb n="2AMA.062b:34"/>Et tout d'amour\ en vient la <rhyme>deppenda<abbr type="n"/>ce</rhyme>.
+<lb n="2AMA.062b:35"/>Ainsi en soy\ n'a ne paix <rhyme>n'acordance</rhyme>,
+<lb n="2AMA.062b:36"/>Ains derve <rhyme>d'ire</rhyme><l n=" 620"/>
+<lb n="2AMA.062b:37"/>Le las amant\ jaloux q<abbr type="ua"/>nt il oyt <rhyme>dire</rhyme>
+<lb n="2AMA.062b:38"/>Ou apperçoit\ qu'à autre amour se <rhyme>tire</rhyme>
+<lb n="2AMA.062b:39"/>Celle de qui\ ne peut oÿr <rhyme>mesdire</rhyme>
+<lb n="2AMA.062b:40"/>Et si le <rhyme>laisse</rhyme>.<l n=" 624"/>
+<!-- 1 blank line here -->
+<!-- signature 'f ii' -->
+<pb n="062" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.062v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column d" rend="left aligned"><c>d</c>ebat</fw> <fw type="header3" place="column d" rend="centred">de</fw></hi>
+<cb n="c"/><layout ruledLines="40" writtenLines="41, including inserted line"/>
+<lb n="2AMA.062c:01"/>Si est plus serf\ que chien c'om maine en <rhyme>laisse</rhyme>
+<lb n="2AMA.062c:02"/>Que le veneur\ tient\ n'aler ne le <rhyme>laisse</rhyme>,
+<lb n="2AMA.062c:03"/>Ainsi le tient\ celle qui pou <rhyme>l'eslaisse</rhyme>
+<lb n="2AMA.062c:04"/>En son <rhyme>danger</rhyme>.<l n=" 628"/>
+<lb n="2AMA.062c:05"/>¶ Ha, quel amour\ qu'on ne peut <rhyme>estranger</rhyme>
+<lb n="2AMA.062c:06"/>Du dolent cuer,\ tant sache <rhyme>dommager</rhyme>!
+<lb n="2AMA.062c:07"/>On s'en doit bien\ de dueil vif <rhyme>enrager</rhyme>
+<lb n="2AMA.062c:08"/>Que il <rhyme>couviengne</rhyme><l n=" 632"/>
+<lb n="2AMA.062c:09"/>À force amer\ ce\ dont fault que mal <rhyme>vie<abbr type="n"/>gne</rhyme>,
+<lb n="2AMA.062c:10"/>Et q<abbr type="ue"/> subgèt obeïss<abbr type="ant"/> se <rhyme>tiengne</rhyme> <note>whole line written in margin with 'plus sign' at beginning of line and 'plus sign' to show insertion point</note>
+<lb n="2AMA.062c:11"/>Le las amant,\ quelque mal qu'il <rhyme>soustie<abbr type="n"/>gne</rhyme>;
+<lb n="2AMA.062c:12"/>C'est grant <rhyme>merveille</rhyme>.<l n=" 636"/>
+<lb n="2AMA.062c:13"/><name ref="God+of+Love">Amours</name> <name ref="God+of+Love"><c>a</c>mours</name>,\ nul n'est qui ne s'en <rhyme>dueille</rhyme>!
+<lb n="2AMA.062c:14"/>Cil qui te sert\ pou repose et moult <rhyme>veille</rhyme>,
+<lb n="2AMA.062c:15"/>Et trop pener\ lui fault, vueille ou ne <rhyme>vueille</rhyme>,
+<lb n="2AMA.062c:16"/>Qui tu <rhyme>accointes</rhyme><l n=" 640"/>.
+<lb n="2AMA.062c:17"/>¶ Mais regardons\ encore\ les plus <rhyme>cointes</rhyme>,
+<lb n="2AMA.062c:18"/>Les mieulx amez\ et ceulx qui n'o<abbr type="n"/>t les <rhyme>poi<abbr type="n"/>tes</rhyme>
+<lb n="2AMA.062c:19"/>Qu'ont les jaloux,<note>retour du 'x'</note> qui sont d'am<abbr type="er"/>tume <rhyme>oi<abbr type="n"/>tes</rhyme>.
+<lb n="2AMA.062c:20"/>Sont ilz <rhyme>dehors</rhyme><l n=" 644"/>
+<lb n="2AMA.062c:21"/>Ses <note>'Ses', i.e. 'Ces'</note> grans meschiefs?\ <c>c</c>e croy q<abbr type="ue"/> no<abbr type="n"/> <rhyme>ancors</rhyme>,
+<lb n="2AMA.062c:22"/>Ains y perdent\ plusieurs et ame et <rhyme>corps</rhyme>
+<lb n="2AMA.062c:23"/>S'il m'en souvient\ et se j'en ay <rhyme>recors</rhyme>,
+<lb n="2AMA.062c:24"/>Quant sont <rhyme>perilz</rhyme><l n=" 648"/>
+<lb n="2AMA.062c:25"/>Par tel amour\ en <name ref="France"><c>f</c>rance</name> et à <name ref="Paris"><rhyme><c>p</c>aris</rhyme></name>
+<lb n="2AMA.062c:26"/>Et autre part.\ <c>a</c>insi furent <rhyme>meris</rhyme>
+<lb n="2AMA.062c:27"/>Jadis plusieurs\ amans meismes <note>rising 's'</note> <name ref="Paris"><rhyme>paris</rhyme></name>
+<lb n="2AMA.062c:28"/>Qui <name ref="Helen+of+Troy">dame <rhyme>helaine</rhyme></name><l n=" 652"/>
+<lb n="2AMA.062c:29"/>Ot ravie\ en <name ref="Greece"><c>g</c>rece</name>\ à moult g<abbr type="ra"/>nt <rhyme>peine</rhyme>,
+<lb n="2AMA.062c:30"/>Dont <name ref="Troy"><c>t</c>roye</name> qui\ tant fu\ cité <rhyme>haultaine</rhyme>
+<lb n="2AMA.062c:31"/>Fu puis arse,\ destruite et de dueil <rhyme>plaine</rhyme>,
+<lb n="2AMA.062c:32"/>Où fu <rhyme>perie</rhyme><l n=" 656"/>
+<lb n="2AMA.062c:33"/>La plus haulte\ et noble <rhyme>chevalerie</rhyme>
+<lb n="2AMA.062c:34"/>Qu'oû monde fust\ et si grant <rhyme>seigno<abbr type="ur"/>ie</rhyme>.
+<lb n="2AMA.062c:35"/>Mesmes à <name ref="Paris"><c>p</c>aris</name>\ durement fut <rhyme>merie</rhyme> <note>11 syllables, but signs before and after 'a' suggest that planned correction not made : but what was it ?</note>
+<lb n="2AMA.062c:36"/>L'amour sans <rhyme>faille</rhyme>,<l n=" 660"/>
+<lb n="2AMA.062c:37"/>Car <name ref=""><c>t</c>helamon</name>\ l'occist en la <rhyme>bataille</rhyme>.
+<lb n="2AMA.062c:38"/>Et &#x95;ii&#x95; amans\ autres,<note>sense of superscript mark between 'u' and 't' ?; 'autres' to 'aultres'? à vérifier</note> que je ne <rhyme>faille</rhyme>,
+<lb n="2AMA.062c:39"/>¶ Receurent mort / <note>sense of superscript mark between 'o' and 'r' ?; à vérifier</note> comme <name ref="">ovide</name> le <rhyme>baille</rhyme>
+<lb n="2AMA.062c:40"/>En un sien <name ref=""><rhyme>livre</rhyme></name><l n=" 664"/>
+<lb n="2AMA.062c:41"/>Pour celle <note>'c' repassé sur 't' ?</note> amour\ qui les folz cuers <note>sense of mark after 's' ?</note> <rhyme>enyvre</rhyme>
+<cb n="d"/><layout ruledLines="40"/>
+<lb n="2AMA.062d:01"/>Car moult souvent\ pour joyeusement <note>point sur 'y'</note> <rhyme>vivre</rhyme>
+<lb n="2AMA.062d:02"/>S'assembloient,\ et leur vouloir <rhyme>ensuivre</rhyme>,
+<lb n="2AMA.062d:03"/>En uns <rhyme>bocages</rhyme><l n=" 668"/>
+<lb n="2AMA.062d:04"/>Qu'a nom <name ref=""><c>l</c>imaulx</name><note>retour du 'x'</note> là les bestes <rhyme>sauvages</rhyme>
+<lb n="2AMA.062d:05"/>Devourerent\ l'amant dont fu <rhyme>dommages</rhyme>
+<lb n="2AMA.062d:06"/>¶ Et <name ref="">piramus\ l'enfant courtois et <rhyme>larges</rhyme></name>,
+<lb n="2AMA.062d:07"/>Et la très <rhyme>belle</rhyme><l n=" 672"/>
+<lb n="2AMA.062d:08"/>Doulce <name ref="">Thisbé,\ la jeunette <rhyme>pucelle</rhyme></name>
+<lb n="2AMA.062d:09"/>Ne s'occirent ilz sus la <rhyme>fontenelle</rhyme>
+<lb n="2AMA.062d:10"/>Soubz le murier\ blanc? <c>i</c>l mourut po<abbr type="ur"/> <rhyme>elle</rhyme>
+<lb n="2AMA.062d:11"/>Et elle <rhyme>aussi</rhyme><l n=" 676"/>
+<lb n="2AMA.062d:12"/>S'occist pour lui,\ dont le murier <rhyme>noircy</rhyme>
+<lb n="2AMA.062d:13"/>Pour la pitié\ dont moururent <rhyme>ainsi</rhyme>.
+<lb n="2AMA.062d:14"/>Ainsi grief mort\ les &#x95;ii&#x95; enfans <rhyme>quorsi</rhyme>
+<lb n="2AMA.062d:15"/>Par trop <rhyme>amer</rhyme><l n=" 680"/>
+<lb n="2AMA.062d:16"/>Piteusement <note>'t' repassé sur une autre lettre ?</note>\ aussi peri en <rhyme>mer</rhyme>
+<lb n="2AMA.062d:17"/>¶ <name ref="Leander"><c>l</c>ehander</name> qui\ pour garder de <rhyme>blasmer</rhyme>
+<lb n="2AMA.062d:18"/>Belle <name ref="Hero"><c>h</c>ero</name>\ qui le volt sien <rhyme>clamer</rhyme>.
+<lb n="2AMA.062d:19"/>Par nuit <rhyme>obscure</rhyme><l n=" 684"/>
+<lb n="2AMA.062d:20"/>Le las amant\ prenoit celle <rhyme>aventure</rhyme>
+<lb n="2AMA.062d:21"/>De mer passer\ en sa chemise <note>filler and odd 'p' ; donc grattage</note> <rhyme>pure</rhyme>,
+<lb n="2AMA.062d:22"/>Dont une fois\ <note>'s' overwritten ?</note> par grant <rhyme>mesaventure</rhyme><note>2 words, strictly speaking; is dot under first minim of first 'u' of no significance ?; tache ?</note>
+<lb n="2AMA.062d:23"/>Y fu <rhyme>noyez</rhyme><l n=" 688"/>
+<lb n="2AMA.062d:24"/>Par tempeste\ de temps.\ <c>v</c>oiez, <rhyme>voyez</rhyme>
+<lb n="2AMA.062d:25"/>Comment les las\ amans sont <rhyme>avoyez</rhyme>,
+<lb n="2AMA.062d:26"/>Qui par <name ref="God+of+Love"><c>a</c>mours</name> <note>tracé du 's' final ?</note>\ sont pris et <rhyme>convoyez</rhyme>.
+<lb n="2AMA.062d:27"/>Qu'ont ilz de <rhyme>peine</rhyme>!<l n=" 692"/>
+<lb n="2AMA.062d:28"/>¶ Et <name ref="Achilles"><c>a</c>chillés</name>\ aussi pour <name ref="Polyxena"><rhyme><c>p</c>olixene</rhyme></name>
+<lb n="2AMA.062d:29"/>Ne mourut il\ quant en promesse <rhyme>veine</rhyme>
+<lb n="2AMA.062d:30"/>Il se fïa,\ dont mort lui fu <rhyme>prochaine</rhyme>?
+<lb n="2AMA.062d:31"/>Ne fu dont <rhyme>mie</rhyme><l n=" 696"/>
+<lb n="2AMA.062d:32"/><name ref="Reason">Raison</name> en lui\ b<abbr type="ie"/>n morte et <rhyme>endormie</rhyme>
+<lb n="2AMA.062d:33"/>Quant il eslut\ pour sa dame et <rhyme>amie</rhyme>
+<lb n="2AMA.062d:34"/>Celle qui ert\ sa mortel <rhyme>anemie</rhyme>?
+<lb n="2AMA.062d:35"/>Mal lui en <rhyme>prist</rhyme><l n=" 700"/>
+<lb n="2AMA.062d:36"/>Ce fist <name ref="God+of+Love">amours</name>\ par qui maint en <rhyme>perist</rhyme>,
+<lb n="2AMA.062d:37"/>Mais quant mal vient\ aux gens, il s'en <rhyme>sourrist</rhyme>.
+<lb n="2AMA.062d:38"/>Et ceste amour\ trop dureme<abbr type="n"/>t <rhyme>surprist</rhyme> <note>qui du tracé entre 'r' et 'p' ?</note>
+<lb n="2AMA.062d:39"/>¶ <name ref=""><rhyme>Aésacus</rhyme></name>,<l n=" 704"/> <note>trait entre 'A' et 'e' ?</note>
+<lb n="2AMA.062d:40"/>Filz au <name ref="Priam">bon roy\ <c>p</c>rïa<abbr type="n"/>t</name> qui si <rhyme>vaincus</rhyme>
+<pb n="063" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.063r:01"/><hi rend="red"><fw type="header1" place="column a" rend="centred">de deux</fw> <fw type="header2" place="column b" rend="centred">amans  xiiii&#x95;</fw></hi>
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="2AMA.063a:01"/>Fu d'amer trop\ q<abbr type="ue"/> sans querir <rhyme>escus</rhyme> <note>elaborate 'F ce type de 'f' se rencontre également en cours de texte à l'initiale ; 'f' avec traits parallèles, nasal sign, 's'</note>
+<lb n="2AMA.063a:02"/>En mer sailli,\ comme trop <rhyme>yrascus</rhyme>
+<lb n="2AMA.063a:03"/>Que <rhyme>reffusé</rhyme><l n=" 708"/>
+<lb n="2AMA.063a:04"/>L'ot celle à\ qui long temps avoit <rhyme>musé</rhyme>,
+<lb n="2AMA.063a:05"/>Dont les fables,\ qui le cas <note>'s' and part of 'a' over erasure; correction dot?</note> <rhyme>encusé</rhyme>
+<lb n="2AMA.063a:06"/>Ont\ tesmoignent\ qu'en plungion fu <rhyme><c>R</c>usé</rhyme>
+<lb n="2AMA.063a:07"/>Et <rhyme>tresmüé</rhyme>.<l n=" 712"/>
+<lb n="2AMA.063a:08"/>Sicom ce fu\ dedens l'eaue <rhyme><c>R</c>üé</rhyme>, <note>'ce', i.e. 'se'</note>
+<lb n="2AMA.063a:09"/>En cel oysel\ fut tantost <rhyme>remüé</rhyme>.
+<lb n="2AMA.063a:10"/>Pour amours fu\ en tel forme <rhyme>müé</rhyme>;
+<lb n="2AMA.063a:11"/>En tel <rhyme>maniere</rhyme><l n=" 716"/>
+<lb n="2AMA.063a:12"/>Son corps gentil\ oncques n'ot autre <rhyme>biere</rhyme>.<note>quid de la place du 'b' dans l'espace et de l'encre plus foncée ?</note>
+<lb n="2AMA.063a:13"/>Vëoir le peut on en mainte <rhyme>riviere</rhyme>,
+<lb n="2AMA.063a:14"/>Où de noyer encore monstre <rhyme>maniere</rhyme>. <note>11 syllables</note>
+<lb n="2AMA.063a:15"/>Les <name ref="pagan gods">dieux</name> de <rhyme>lors</rhyme><l n=" 720"/>
+<lb n="2AMA.063a:16"/>Pour memoire changierent\ si son <rhyme>corps</rhyme>.
+<lb n="2AMA.063a:17"/>¶ Mais regardons\ d'autres amans <rhyme>encors</rhyme>
+<lb n="2AMA.063a:18"/>Qui pour amer furent peris &amp; <rhyme>mors</rhyme>
+<lb n="2AMA.063a:19"/>Et <rhyme>exillé</rhyme>.<l n=" 724"/>
+<lb n="2AMA.063a:20"/><name ref="">Ypys</name> <c>A</c>ussi en <note>dash over 3 letter spaces; le premier segment jusqu'ici transcrit sur grattage ?</note> fu tant <rhyme>traveillié</rhyme>
+<lb n="2AMA.063a:21"/>Par telle amour qui si l'ot <rhyme>bataillié</rhyme>
+<lb n="2AMA.063a:22"/>Qu'il s'en pendi\ comme mal <rhyme>conseillié</rhyme>
+<lb n="2AMA.063a:23"/>À l'uis de <rhyme>celle</rhyme><l n=" 728"/>
+<lb n="2AMA.063a:24"/>Qui reffusé à responce <rhyme>cruelle</rhyme>
+<lb n="2AMA.063a:25"/>L'ot durement,\ et pour celle <rhyme>nouvelle</rhyme>
+<lb n="2AMA.063a:26"/>Le las s'occist.\ <c>m</c>ais les <name ref="pagan gods">dieux</name> de la <rhyme>felle</rhyme>
+<lb n="2AMA.063a:27"/>Vengence en <rhyme>prirent</rhyme>,<l n=" 732"/>
+<lb n="2AMA.063a:28"/>Car ymage\ de pierre dure en <rhyme>firent</rhyme>
+<lb n="2AMA.063a:29"/>Son corps cruel\ devenir. <c>s</c>i la <rhyme>virent</rhyme>
+<lb n="2AMA.063a:30"/>Plusieurs dames\ qui exemplaire y <rhyme>prire<abbr type="n"/>t</rhyme>;
+<lb n="2AMA.063a:31"/>Ce fu <rhyme>raison</rhyme>.<l n=" 736"/>
+<lb n="2AMA.063a:32"/>¶ Et à <name ref="Rome"><c>r</c>omme</name>\ pour autelle <rhyme>achoison</rhyme>
+<lb n="2AMA.063a:33"/>Un jouvencel\ s'occist, qui sa <rhyme>raison</rhyme>
+<lb n="2AMA.063a:34"/>Ot\ comptée,\ ne sçay <note>oddly shaped 'a' ?; vérifier le tracé</note> en quel <rhyme>saison</rhyme>,
+<lb n="2AMA.063a:35"/>À son <rhyme>amée</rhyme>,<l n=" 740"/>
+<lb n="2AMA.063a:36"/>Mais la felle,\ comme mal <rhyme>informée</rhyme>,
+<lb n="2AMA.063a:37"/>Le refusa;\ et cil en la <rhyme>fumée</rhyme>
+<lb n="2AMA.063a:38"/>Tout devant elle\ a sa char <rhyme>entamée</rhyme>
+<lb n="2AMA.063a:39"/>D'agus <rhyme>couteaulx</rhyme>.<l n=" 744"/>
+<lb n="2AMA.063a:40"/>¶ Ainsi fina.\ <c>m</c>ais de temps plus <rhyme>nouveaulx</rhyme>
+<cb n="b"/><layout ruledLines="40"/>
+<lb n="2AMA.063b:01"/>Or regardons de\ <name ref="Tristan">Tristan</name> qui\ fu <rhyme>beaulx</rhyme>, <note>elaborate 'T', 'b', 'l'</note>
+<lb n="2AMA.063b:02"/>Preux et vaillant,\ amoureux et <rhyme>loyaulx</rhyme>,
+<lb n="2AMA.063b:03"/>Quelle la <rhyme>fin</rhyme><l n=" 748"/>
+<lb n="2AMA.063b:04"/>En fu, pour bien\ amer de vray\ cuer <rhyme>fin</rhyme>.
+<lb n="2AMA.063b:05"/>Ne le gaita\ son oncle à celle <rhyme>fin</rhyme>
+<lb n="2AMA.063b:06"/>Qu'il l'occisist,\ &amp; mort à la <rhyme>parfin</rhyme>
+<lb n="2AMA.063b:07"/>Il lui <rhyme>donna</rhyme>?<l n=" 752"/>
+<lb n="2AMA.063b:08"/>Mais celle amour\ <name ref="Iseut"><c>y</c>seult</name> si <rhyme>ordena</rhyme>
+<lb n="2AMA.063b:09"/>Qu'entre les bras\ de son ami <rhyme>fina</rhyme>.
+<lb n="2AMA.063b:10"/>Par mon serment,\ cy piteuse <rhyme>fin a</rhyme>
+<lb n="2AMA.063b:11"/>De &#x95;ii&#x95; <rhyme>amans</rhyme>.<l n=" 756"/>
+<lb n="2AMA.063b:12"/>¶ Et <name ref=""><c>q</c>uahedins</name>,\ <note>trait entre 'a' et 'h' ? proper name not immediately understood</note>\ sicom dit li <name ref="Romande+Tristan"><rhyme>ro<abbr type="m"/>mans</rhyme>,</name>
+<lb n="2AMA.063b:13"/>Ne mourut il\ plus noirci <rhyme>qu'arremens</rhyme>
+<lb n="2AMA.063b:14"/>Pour tel amour?\ <c>s</c>i fu ses <rhyme>testamens</rhyme>
+<lb n="2AMA.063b:15"/>Plain de <rhyme>pitié</rhyme>.<l n=" 760"/>
+<lb n="2AMA.063b:16"/>¶ Encor depuis,\ regardons <rhyme>l'amistié</rhyme>
+<lb n="2AMA.063b:17"/>Du <name ref="Châtelain+de+Couci"><c>c</c>hastellain\ de <c>c</c>oucy</name> se <rhyme>haitié</rhyme>
+<lb n="2AMA.063b:18"/>Il fu d'amours.\ <c>j</c>e croy qu'à grant <rhyme>daintié</rhyme>
+<lb n="2AMA.063b:19"/>En avoit <rhyme>bien</rhyme>.<l n=" 764"/>
+<lb n="2AMA.063b:20"/>Mais la <name ref="Dame+du+Fayel"><c>d</c>ame\ du <c>f</c>ayel</name> qui pour <rhyme>sien</rhyme>
+e<lb n="2AMA.063b:21"/>Tout le tenoit,\ je croy l'acheta <rhyme>bien</rhyme>,
+<lb n="2AMA.063b:22"/>Car, puis que mort\ le sçot, ne volt po<abbr type="ur"/> <rhyme><c>R</c>ien</rhyme>
+<lb n="2AMA.063b:23"/>Plus estre en <rhyme>vie</rhyme>.<l n=" 768"/>
+<lb n="2AMA.063b:24"/>¶ Et <name ref="Châtelaine+de+Vergi">du vergi\ la très belle <rhyme>assouvie</rhyme>
+<lb n="2AMA.063b:25"/>Chastellaine</name>\ qui de riens n'ot <rhyme>envie</rhyme>
+<lb n="2AMA.063b:26"/>Fors de cellui\ à qui avoit <rhyme>pleuvie</rhyme>
+<lb n="2AMA.063b:27"/>Amour <rhyme>loyale</rhyme>:<l n=" 772"/>
+<lb n="2AMA.063b:28"/>Mais elle et lui\ orent souldée <rhyme>male</rhyme>
+<lb n="2AMA.063b:29"/>Par trop amer,\ car mort en jurent <rhyme>palle</rhyme>.
+<lb n="2AMA.063b:30"/>Si ont fait maint,\ et\ en\ chambre &amp; en <rhyme>sale</rhyme>,
+<lb n="2AMA.063b:31"/>À grant <rhyme>doulour</rhyme>.<l n=" 776"/>
+<lb n="2AMA.063b:32"/>Par tel amour\ qui fait changer <rhyme>coulour</rhyme>
+<lb n="2AMA.063b:33"/>Souventes foiz,\ ou soit sens ou <rhyme>folour</rhyme>,
+<lb n="2AMA.063b:34"/>Süer en froit\ et trembler en <rhyme>chalour</rhyme>.
+<lb n="2AMA.063b:35"/>Mais je m'en <rhyme>passe</rhyme><l n=" 780"/>
+<lb n="2AMA.063b:36"/>Pour plus briefté,\ et se tous vo<abbr type="us"/> <rhyme>no<abbr type="m"/>masse</rhyme>,
+<lb n="2AMA.063b:37"/>G'y mettroye,\ je croy, b<abbr type="ie"/>n  an <rhyme>d'espace</rhyme>.
+<lb n="2AMA.063b:38"/>Mais des perilz\ <del rend="strikethrough" reason="hypermetric">ou</del> il y a si grant <rhyme>masse</rhyme>
+<lb n="2AMA.063b:39"/>Que c'est sans <rhyme>nombre</rhyme><l n=" 784"/>
+<lb n="2AMA.063b:40"/>Pour telle amour,\ qui passe co<abbr type="m"/>me un <rhyme>ombre</rhyme><note>gender</note>
+<!-- signature 'fiii' -->
+<pb n="063" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.063v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>d</c>ebat</fw> <fw type="header3" place="column d" rend="tabbed from right">de</fw></hi>
+<cb n="c"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="2AMA.063c:01"/>Et <s>l</s>e <s>l</s>as cuer\ s'y empec<s>h</s>e et <rhyme>encom<s>b
+</s>re</rhyme>
+<lb n="2AMA.063c:02"/>Que ses meschiefs\ il ne compte ne <rhyme>no<abbr type="m"/>bre</rhyme>!
+<lb n="2AMA.063c:03"/>¶ En quantes <rhyme>guises</rhyme><l n=" 788"/>
+<lb n="2AMA.063c:04"/>Sont les peines\ des amoureux <rhyme>assises</rhyme>!
+<lb n="2AMA.063c:05"/>Les uns si ont\ voyes couvertes <rhyme>quises</rhyme>
+<lb n="2AMA.063c:06"/>Pour bien avoir, mais douleurs o<abbr type="n"/>t <rhyme>acq<abbr type="ui"/>ses</rhyme> <note>rising 's'</note>
+<lb n="2AMA.063c:07"/><rhyme>Estrangement</rhyme>,<l n=" 792"/>
+<lb n="2AMA.063c:08"/>L'un pour rapport,\ l'autre po<abbr type="ur"/> <rhyme>changem<abbr type="en"/>t</rhyme>.
+<lb n="2AMA.063c:09"/>L'autre ne peut\ avoir <rhyme>allegement</rhyme>,
+<lb n="2AMA.063c:10"/>L'autre par non\ soy mener <rhyme>sageme<abbr type="n"/>t</rhyme>
+<lb n="2AMA.063c:11"/>En gist <rhyme>pasmé</rhyme>,<l n=" 796"/>
+<lb n="2AMA.063c:12"/>Par divers cas\ et tieulx q<abbr type="ui"/> ont <rhyme>amé</rhyme>
+<lb n="2AMA.063c:13"/>Trop haultement,\ dont ont esté <rhyme>clamé</rhyme>
+<lb n="2AMA.063c:14"/>Faulx, desloyaulx <note>retour du 'x'</note> et en chartre <rhyme>enfermé</rhyme>
+<lb n="2AMA.063c:15"/>Ou <rhyme>detranchez</rhyme>.<l n=" 800"/>
+<lb n="2AMA.063c:16"/>¶ Et de tieulx qui <choice><sic></sic><corr reason="hypometric" resp="JCL" source="Duke's MS">en</corr></choice> ont\ perdus les <rhyme>chiefs</rhyme>
+<lb n="2AMA.063c:17"/>Diversement,\ et mains autres <rhyme>meschiefs</rhyme>
+<lb n="2AMA.063c:18"/>En sont venus\ à ceulx qui <rhyme>atachez</rhyme>
+<lb n="2AMA.063c:19"/>En tel <rhyme>maniere</rhyme><l n=" 804"/>
+<lb n="2AMA.063c:20"/>Sont tous les jours;\ c'est chose <rhyme>coustumiere</rhyme>.
+<lb n="2AMA.063c:21"/>Pour tel amour\ sont maint porté en <rhyme>biere</rhyme>,
+<lb n="2AMA.063c:22"/>Qui comparent\ yceste amour trop <rhyme>chiere</rhyme>
+<lb n="2AMA.063c:23"/>En maint <rhyme>endroit</rhyme>.<l n=" 808"/>
+<lb n="2AMA.063c:24"/>¶ Qui tous les cas\ deviser en <rhyme>vouldroit</rhyme>
+<lb n="2AMA.063c:25"/>Qui aviennent,\ lonc temps y <rhyme>couvendroit</rhyme>,
+<lb n="2AMA.063c:26"/>Mais trop\ souvent\ avient, soit tort ou <rhyme>droit</rhyme>,
+<lb n="2AMA.063c:27"/>Dont c'est <rhyme>dommages</rhyme>.<l n=" 812"/>
+<lb n="2AMA.063c:28"/>¶ Quantes noises\ sourdent ès <rhyme>marïages</rhyme>
+<lb n="2AMA.063c:29"/>Pour ceste <note>tache ?</note> amour\ qui dompte folz &amp; <rhyme>sages</rhyme>,
+<lb n="2AMA.063c:30"/>Car où s'esprent\ il n'est si fors <rhyme>courages</rhyme>
+<lb n="2AMA.063c:31"/>Qu'elle ne <rhyme>change</rhyme>;<l n=" 816"/>
+<lb n="2AMA.063c:32"/>Si fait amer\ souvent le plus <rhyme>estrange</rhyme>
+<lb n="2AMA.063c:33"/>Et delaissier\ le privé en <rhyme>eschange</rhyme>.
+<lb n="2AMA.063c:34"/>Estrangement\ les cuers entre <rhyme>meslange</rhyme>
+<lb n="2AMA.063c:35"/>Sans que <rhyme>raison</rhyme><l n=" 820"/>
+<lb n="2AMA.063c:36"/>Clamée y soit;\ si n'y vise <rhyme>saison</rhyme>
+<lb n="2AMA.063c:37"/>Ne temp<subst><del rend="erasure" evidence="blurring"></del><add place="inline" evidence="blurring, trace of erased lettere">s ne lieu. <c>c</c>'est</add></subst> <note>'s ne lieu c'est l' over erasure</note> l'amoureux <rhyme>tison</rhyme>
+<lb n="2AMA.063c:38"/>Qui mesmement\ fait mainte <rhyme>mesprison</rhyme>
+<lb n="2AMA.063c:39"/>Faire au plus <rhyme>sage</rhyme>.<l n=" 824"/>
+<lb n="2AMA.063c:40"/>C'est le piteux <note>retour du 'x'</note> et mal <rhyme>pelerinage</rhyme>,
+<!-- 1 blank line here --><cb n="d"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="2AMA.063d:01"/>Là où <name ref="Pâris"><c>p</c>aaris</name>\ ala par mer à <rhyme>nage</rhyme>,
+<lb n="2AMA.063d:02"/>Où il ravi <note>tracé du 'r' ?</note>\ <name ref="Helen+of+Troy"><c>h</c>elaine au cler <rhyme>visage</rhyme></name>,
+<lb n="2AMA.063d:03"/>Qui <rhyme>comparée</rhyme><l n=" 828"/>
+<lb n="2AMA.063d:04"/>Fu durement\ par <name ref="Venus"><c>v</c>enus <rhyme>l'äourée</rhyme></name>,
+<lb n="2AMA.063d:05"/>Et <name ref="Cupid+son+of+Venus">Cupido,\ son filz</name>, qui <rhyme>procurée</rhyme>
+<lb n="2AMA.063d:06"/>A\ mainte amour,\ dont plusieurs la <g lemma="entrails" en="entrails" fr="coeur et viscères, entrailles"><rhyme>courée</rhyme></g>
+<lb n="2AMA.063d:07"/>E<subst><del rend="erasure"></del><add place="inline" evidence="darker ink, curved 't' plus bar">t</add></subst>\ les <rhyme>entrailles</rhyme><l n=" 832"/>
+<lb n="2AMA.063d:08"/>Ont eus<note>Avoir: plural past participle.</note> perciez.\ <c>n</c>e sont pas <rhyme>devinailles</rhyme>:
+<lb n="2AMA.063d:09"/>Quieulx que soient\ d'amours les <rhyme>co<abbr type="m"/>mençailles</rhyme>, <note>rising 's'</note><note>A cursive hand has inserted the abbreviation 'notandum' between columns c and d.</note>
+<lb n="2AMA.063d:10"/>Tous jours ya\ piteuses <rhyme>deffinailles</rhyme>
+<lb n="2AMA.063d:11"/>¶ Fuyez <rhyme>fuyez</rhyme><l n=" 836"/>
+<lb n="2AMA.063d:12"/>Yceste amour jeunes gens et <rhyme>voyez</rhyme>
+<lb n="2AMA.063d:13"/>Comment on est pour lui mal <rhyme>avoyez</rhyme>
+<lb n="2AMA.063d:14"/>Ses promesses pour <name ref="God"><c>d</c>ieu</name> point ne <rhyme>croyez</rhyme>
+<lb n="2AMA.063d:15"/>Car son <rhyme>attente</rhyme><l n=" 840"/>
+<lb n="2AMA.063d:16"/>Couste plus chier\ que ne fait nulle <rhyme>rente</rhyme>
+<lb n="2AMA.063d:17"/>Nul ne s'i met\ qu'après ne s'en <rhyme>repente</rhyme>
+<lb n="2AMA.063d:18"/>Car trop en est\ perilleuse la <rhyme>sente</rhyme>
+<lb n="2AMA.063d:19"/>Sachés sans <rhyme>doubte</rhyme><l n=" 844"/>
+<lb n="2AMA.063d:20"/>Et moult en est\ de leger la foy <rhyme><c>R</c>oute</rhyme>
+<lb n="2AMA.063d:21"/>C'est un trespas\ obscur on ne voit <rhyme>goute</rhyme>
+<lb n="2AMA.063d:22"/>Cil qui s'i fiert\ et nissement s'i <rhyme>boute</rhyme>
+<lb n="2AMA.063d:23"/>N'est pas <rhyme>mençonge</rhyme><l n=" 848"/>
+<lb n="2AMA.063d:24"/>Tant de meschiefs\ en vient que c'est un <rhyme>songe</rhyme>
+<lb n="2AMA.063d:25"/>Si tient plus court\ que l'esp<abbr type="er"/>vier la <rhyme>longe</rhyme>
+<lb n="2AMA.063d:26"/>Et mal en vient\ le plus de ce <rhyme>responge</rhyme>
+<lb n="2AMA.063d:27"/>C'est fait <rhyme>prouvé</rhyme><l n=" 852"/>
+<lb n="2AMA.063d:28"/>¶ Croyez cellui\ qui bien l'a <rhyme>esprouvé</rhyme>
+<lb n="2AMA.063d:29"/>Si ne suis je\ mie pour tant <rhyme>trouvé</rhyme>
+<lb n="2AMA.063d:30"/>Sage en ce cas\ mais nice et <rhyme>reprouvé</rhyme>
+<lb n="2AMA.063d:31"/>C'est mon <rhyme>dalmage</rhyme><l n=" 856"/>
+<lb n="2AMA.063d:32"/>Mais à la fois\ un fol avise un <rhyme>sage</rhyme>
+<lb n="2AMA.063d:33"/>Et qui esté\ a\ en lointain <rhyme>voyage</rhyme>
+<lb n="2AMA.063d:34"/>Peut bien compter\ comment on s'i <rhyme>hebarge</rhyme>
+<lb n="2AMA.063d:35"/>En mainte <rhyme>guise</rhyme><l n=" 860"/>
+<lb n="2AMA.063d:36"/>Qui s'i vouldra\ mirer je l'en <rhyme>avise</rhyme>
+<lb n="2AMA.063d:37"/>Car tous les jours\ avient par tel <rhyme>devise</rhyme>
+<lb n="2AMA.063d:38"/>Mais du peril\ ne se gaite ny <rhyme>vise</rhyme>
+<lb n="2AMA.063d:39"/>L'amant <rhyme>musart</rhyme><l n=" 864"/>
+<lb n="2AMA.063d:40"/>Qui sa vie\ met en si fait <rhyme>hasart</rhyme> <note>point sur le 1er 'a', grattage ?</note>
+<!-- 1 blank line here -->
+
+
+<pb n="064" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.064r:01"/><hi rend="red"><fw type="header1" place="column a" rend="centred">de deux</fw> <fw type="header2" place="column b" rend="centred">amans xiiii&#x95;</fw> </hi>
+
+<cb n="a"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="2AMA.064a:01"/>Et n'eschive\ le grant feu et tout <rhyme>s'art</rhyme>
+<lb n="2AMA.064a:02"/>Ainçois le suit\ et celle amour de sa\ <rhyme>art</rhyme> <note>sic</note><note>11 syllables</note>
+<lb n="2AMA.064a:03"/>L'amant <rhyme>esprent</rhyme><l n=" 868"/>
+<lb n="2AMA.064a:04"/>Par le plaisir\ qui à amer le <rhyme>prent</rhyme>
+<lb n="2AMA.064a:05"/>Si le tient si\ qu'il ne scet s'il <rhyme>mesprent</rhyme>
+<lb n="2AMA.064a:06"/>Ou s'il fait bien\ et s'aucun l'en <rhyme>reprent</rhyme>
+<lb n="2AMA.064a:07"/>Il s'en <rhyme>courrouce</rhyme><l n=" 872"/>
+<lb n="2AMA.064a:08"/>Ne gré n'en scet\ tant a plaines de <rhyme>mousse</rhyme>
+<lb n="2AMA.064a:09"/>Ses oreilles\ qui de raison <rhyme>escousse</rhyme>
+<lb n="2AMA.064a:10"/>Sont si que ouÿr\ lui semble chose <rhyme>doulce</rhyme>
+<lb n="2AMA.064a:11"/>De chose <rhyme>amere</rhyme><l n=" 876"/>
+<lb n="2AMA.064a:12"/>Et sa marrastre\ il retient pour sa <rhyme>mere</rhyme>
+<lb n="2AMA.064a:13"/>Felicité lui\ semble estre <rhyme>misere</rhyme>
+<lb n="2AMA.064a:14"/>Et de misere\ et de <note>also expunctuated ; encre plus pâle</note> servage se <rhyme>pere</rhyme>
+<lb n="2AMA.064a:15"/>Est il bien <rhyme>bugle</rhyme><l n=" 880"/>
+<lb n="2AMA.064a:16"/>¶ Ainsi <name ref="God+of+Love"><c>a</c>mours</name>\ fait devenir <rhyme>avugle</rhyme>
+<lb n="2AMA.064a:17"/>Le fol amant\ qui se cueuvre d'un <rhyme>cruble</rhyme>
+<lb n="2AMA.064a:18"/>Et bien cuide\ vëoir en temps de <rhyme>nuble</rhyme>
+<lb n="2AMA.064a:19"/>Le cler <rhyme>souleil</rhyme><l n=" 884"/>
+<lb n="2AMA.064a:20"/>Et juge bon\ ce qui lui plaist à <rhyme>l'ueil</rhyme>
+<lb n="2AMA.064a:21"/>Ainsi est il\ pour tant dire ne <rhyme>vueil</rhyme>
+<lb n="2AMA.064a:22"/>Ce que je di\ pour ce que n'aye <rhyme>vueil</rhyme>
+<lb n="2AMA.064a:23"/>D'<name ref="God+of+Love"><c>a</c>mours</name> <rhyme>servir</rhyme><l n=" 888"/>
+<lb n="2AMA.064a:24"/>Ne pour blasmer\ qui s'i veult <rhyme>asservir</rhyme>
+<lb n="2AMA.064a:25"/>Mais pour dire <note>tache sur le 'd' ?</note>\ comme il s'i fault <rhyme>chevir</rhyme>
+<lb n="2AMA.064a:26"/>Qui à <name ref="God+of+Love"><c>a</c>mours</name> veult\ loyauté <rhyme>pleuvir</rhyme>
+<lb n="2AMA.064a:27"/>De cuer <rhyme>certains</rhyme><l n=" 892"/>
+<lb n="2AMA.064a:28"/>¶ Ainsi ma dame\ et vous beau doulx <rhyme>co<abbr type="m"/>pai<abbr type="n"/>s</rhyme>
+<lb n="2AMA.064a:29"/>Ouÿr pouez\ que l'amant a trop <rhyme>mains</rhyme>
+<lb n="2AMA.064a:30"/>De ses plaisirs\ s'il est à droit <rhyme>attains</rhyme>
+<lb n="2AMA.064a:31"/>Qu'il n'a de <rhyme>joye</rhyme><l n=" 896"/>
+<lb n="2AMA.064a:32"/>Ce scevent ceulx qu'<name ref="God+of+Love"><c>a</c>mours</name> destrai<abbr type="n"/>t &amp; <rhyme>loye</rhyme>
+<lb n="2AMA.064a:33"/>En ses lïens\ où maint homme <rhyme>foloye</rhyme>
+<lb n="2AMA.064a:34"/>Savoir le doy <note>retour du 'y' ?</note> car griefment m'en <rhyme>douloye</rhyme>
+<lb n="2AMA.064a:35"/>Quant en ce <rhyme>point</rhyme><l n=" 900"/>
+<lb n="2AMA.064a:36"/>Estoye pris\ encor n'en suis je <rhyme>point</rhyme>
+<lb n="2AMA.064a:37"/>Quitte du tout\ dont dessoubz <note>'z' squeezed in to correct spelling</note><abbr type=" "/>mon <rhyme>po<abbr type="ur"/>poi<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064a:38"/>Couvertement\ ay souffert mai<abbr type="n"/>t dur <rhyme>poi<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064a:39"/>À grant <rhyme>hachée</rhyme><l n=" 904"/>
+<lb n="2AMA.064a:40"/>Mais je croy quë <note>small oval hole or filler ?; à voir</note> à nul si b<abbr type="ie"/>n\ en <rhyme>chée</rhyme>
+<!-- 1 blank line here -->
+
+<cb n="b"/>
+<layout ruledLines="41" writtenLines="40"/>
+<lb n="2AMA.064b:01"/>Que tel peine\ ne lui soit <rhyme>approuchée</rhyme> <note>'Q' 'l' 's' et 'h' montants</note>
+<lb n="2AMA.064b:02"/>Com je vous ay <note>retour du 'y' ?</note> ycy dicte et <rhyme>preschée</rhyme>
+<lb n="2AMA.064b:03"/>¶ Ce n'est pas <rhyme>fable</rhyme><l n=" 908"/>
+<lb n="2AMA.064b:04"/>Quant le courtois\ chevalier <rhyme>amïable</rhyme>
+<lb n="2AMA.064b:05"/>Ot finée\ sa parole <rhyme>nottable</rhyme>
+<lb n="2AMA.064b:06"/>Que li plusieurs\ tendroient <rhyme>veritable</rhyme>
+<lb n="2AMA.064b:07"/>Et bien <rhyme>comptée</rhyme><l n=" 912"/>
+<lb n="2AMA.064b:08"/>¶ Dite à beaulx trais\ ne peu ne trop <rhyme>hastée</rhyme>
+<lb n="2AMA.064b:09"/>La <note>jambage supplémentaire au 'a' barré ?</note> dame adont\  qui bien l'ot <rhyme>escoutée</rhyme>
+<lb n="2AMA.064b:10"/>Recommença\ et dit se j'ay <rhyme>nottée</rhyme>
+<lb n="2AMA.064b:11"/>Vostre <rhyme>parole</rhyme><l n=" 916"/>
+<lb n="2AMA.064b:12"/>Bien à son droit\ <name ref="God+of+Love"><c>a</c>mours</name> à dure <rhyme>escolle</rhyme>
+<lb n="2AMA.064b:13"/>Tient les amans\ qui n'est doulce ne <rhyme>molle</rhyme>
+<lb n="2AMA.064b:14"/>Sicom j'entens\ et qui maint ho<abbr type="m"/>me <rhyme>affolle</rhyme>
+<lb n="2AMA.064b:15"/>Sans <rhyme>achoison</rhyme><l n=" 920"/>
+<lb n="2AMA.064b:16"/>Mais quant à moy\ tiens q<abbr type="ue"/> mie <rhyme>foison</rhyme>
+<lb n="2AMA.064b:17"/>Ne sont d'amans\ pris en tele <rhyme>prison</rhyme>
+<lb n="2AMA.064b:18"/>Tout non obstant que plusieurs leur <rhyme>raison</rhyme>
+<lb n="2AMA.064b:19"/>Vont <rhyme>racontant</rhyme><l n=" 924"/>
+<lb n="2AMA.064b:20"/>Puis ça\ puis là\ aux dames mais <note>'maj' and rising 's' over erasure</note> po<abbr type="ur"/> <rhyme>ta<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064b:21"/>N'y ont le cuer\ ne ne sont <rhyme>arrestant</rhyme>
+<lb n="2AMA.064b:22"/>En un seul <note>grattage sous le 'l'?</note> lieu\ combien qu'assez <rhyme>gasta<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064b:23"/>À longue <rhyme>verve</rhyme><l n=" 928"/>
+<lb n="2AMA.064b:24"/>De leur mos vont\ mais que nul s'i <rhyme>asserve</rhyme>
+<lb n="2AMA.064b:25"/>Si durement\ ne croy ne que ja <rhyme>s<abbr type="er"/>ve</rhyme>
+<lb n="2AMA.064b:26"/>Si loyaument\ de pensée si <rhyme>serve</rhyme>
+<lb n="2AMA.064b:27"/><name ref="God+of+Love">Amours</name> et <rhyme>dame</rhyme><l n=" 932"/>
+<lb n="2AMA.064b:28"/>Et sauve soit\ vostre grace par <rhyme>m'ame</rhyme>
+<lb n="2AMA.064b:29"/>Ne croy que nul\ tant espris de tele <rhyme>flame</rhyme> <note>11 syllables</note>
+<lb n="2AMA.064b:30"/>Soit qu'il ait\ tant de griefs <note>no expunctuation</note> doulours po<abbr type="ur"/> <rhyme>fe<abbr type="m"/>me</rhyme> <note>9 syllables</note><l n=" 936"/>
+<lb n="2AMA.064b:31"/>Mais c'est un <rhyme>compte</rhyme>
+<lb n="2AMA.064b:32"/>Assez commun\ que <note>'e' over erasure, 2 letter space filled by extended 'e' cornu, et 'a' avec amorce sous forme d'un trait</note> aux fe<abbr type="m"/>mes on <rhyme>racompte</rhyme>
+<lb n="2AMA.064b:33"/>Pour leur donner\ à croire et tout ne <rhyme>monte</rhyme>
+<lb n="2AMA.064b:34"/>Chose qui soit\ et celle qui <rhyme>aconte</rhyme>
+<lb n="2AMA.064b:35"/>À tel <rhyme>lengage</rhyme><l n=" 940"/>
+<lb n="2AMA.064b:36"/>À la parfin\ on la tient à pou <rhyme>sage</rhyme>
+<lb n="2AMA.064b:37"/>Et quant à moy <note>retour du 'y'</note> tiens que ce n'est q<abbr type="ue"/> <rhyme>usage</rhyme>
+<lb n="2AMA.064b:38"/>D'ainsi parler\ d'amours par <rhyme><c>R</c>igolage</rhyme>
+<lb n="2AMA.064b:39"/>Et passer <rhyme>temps</rhyme><l n=" 944"/>
+<lb n="2AMA.064b:40"/>Et s'il fu voir ce que dire <rhyme>J'entens</rhyme>
+<!-- 1 blank line here -->
+<!-- signature 'f iiii' in fine black ink ; top of letter in brown ink, cut by binder -->
+
+
+<pb n="064" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.064v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>d</c>ebat</fw> <fw type="header3" place="column d" rend="centred">de</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="41"/>
+<lb n="2AMA.064c:01"/>Qu'ainsi fussent vray en l'ancïen <rhyme>temps</rhyme> <note>elaborate 's', 'y', very tall 'l'</note>
+<lb n="2AMA.064c:02"/>Li amoureux\ il a plus de cent <rhyme>ans</rhyme>
+<lb n="2AMA.064c:03"/>Au mien <rhyme>cuidier</rhyme><l n=" 948"/>
+<lb n="2AMA.064c:04"/>Que ce n'avint\ ce n'est ne d'ui ne <rhyme>d'yer</rhyme>
+<lb n="2AMA.064c:05"/>Qu'ainsi attains\ soient\ mais p<abbr type="ar"/> <rhyme>plaidier</rhyme>
+<lb n="2AMA.064c:06"/>Et bien parler\ ce scevent bien <rhyme>aydier</rhyme> <note>'ce', i.e. 'se'</note>
+<lb n="2AMA.064c:07"/>Li <rhyme>amoureux</rhyme><l n=" 952"/>
+<lb n="2AMA.064c:08"/>Et se jadis\ et mors et <rhyme>langoureux</rhyme>
+<lb n="2AMA.064c:09"/>Ilz en furent\ et mains maulx <rhyme>doulereux</rhyme>
+<lb n="2AMA.064c:10"/>Endurerent\ mesmes les plus <rhyme>eureux</rhyme>
+<lb n="2AMA.064c:11"/>Comme vous <rhyme>dites</rhyme><l n=" 956"/>
+<lb n="2AMA.064c:12"/>Je croy qu'adès\ leurs douleurs so<abbr type="n"/>t <rhyme>petites</rhyme> <note>'s' final avec corne</note>
+<lb n="2AMA.064c:13"/>Mais ès rommans\ sont trouvées <rhyme>escriptes</rhyme>
+<lb n="2AMA.064c:14"/>À droit souhaid\ et proprem<abbr type="en"/>t <rhyme>descriptes</rhyme>
+<lb n="2AMA.064c:15"/>À longue <rhyme>prose</rhyme><l n=" 960"/>
+<lb n="2AMA.064c:16"/>Bien en parla\ le <name ref="Romance+of+the+Rose"><c>r</c>ommant de la <rhyme>Rose</rhyme></name>
+<lb n="2AMA.064c:17"/>À grant procès\ et auques ainsi <rhyme>glose</rhyme>
+<lb n="2AMA.064c:18"/>Ycelle amour\ com vous avez <rhyme>desclose</rhyme>
+<lb n="2AMA.064c:19"/>En ceste <rhyme>place</rhyme><l n=" 964"/>
+<lb n="2AMA.064c:20"/>Ou <name ref="Romance+of+the+Rose">chapitre\ <c>r</c>aison</name> qui moult <rhyme>menace</rhyme>
+<lb n="2AMA.064c:21"/>Le <name ref=""><c>f</c>ol <c>a</c>mant</name>\ qui tel amour <rhyme>enlace</rhyme>
+<lb n="2AMA.064c:22"/>Et trop bien dit\ que pou vault et tost <rhyme>passe</rhyme>
+<lb n="2AMA.064c:23"/>La plus grant\ <rhyme>joye</rhyme><l n=" 968"/>
+<lb n="2AMA.064c:24"/>D'icelle amour\ <add place="supralinear" evidence="" type="">&amp;</add> <note>1 caret plus un '\'</note> conseille la <rhyme>voye</rhyme>
+<lb n="2AMA.064c:25"/>De s'en oster\ et bien dit <rhyme>toutevoye</rhyme>
+<lb n="2AMA.064c:26"/>Que c'est chose\ qui trop l'amant <rhyme>desvoye</rhyme>
+<lb n="2AMA.064c:27"/>Et dur <rhyme>fléaulx</rhyme><l n=" 972"/>
+<lb n="2AMA.064c:28"/>Et que c'est là\ desloyauté <rhyme>loyaulx</rhyme>
+<lb n="2AMA.064c:29"/>Et loyauté\ qui est trop <rhyme>desloyaulx</rhyme>
+<lb n="2AMA.064c:30"/>Un grant peril\ où nobles et <rhyme>royaulx</rhyme>
+<lb n="2AMA.064c:31"/>Et toute <rhyme>gent</rhyme><l n=" 976"/>
+<lb n="2AMA.064c:32"/>Sont perillé\ s'ilz en vont <rhyme>approucha<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064c:33"/>Ainsi fu dit\ mais je croy <rhyme>qu'acrocha<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064c:34"/>Pou s'i <note>over erasure ?</note> vont mais\ tous n'aime<abbr type="n"/>t fors <rhyme>arge<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064c:35"/>Et vivre à <rhyme>ayse</rhyme><l n=" 980"/>
+<lb n="2AMA.064c:36"/>Et qui pourroit <note>trace d'un ancien '\' ?</note> ainsi <note>over erasure</note> vivre oû <note>over erasure</note> <rhyme>mesaise</rhyme>
+<lb n="2AMA.064c:37"/>Qu'avez compté\ je croy par <name ref="Saint+Nicaise">saint <rhyme><c>n</c>icaise</rhyme></name>
+<lb n="2AMA.064c:38"/>Qu'omme vivant\ n'est\ à nul <rhyme>desplaise</rhyme> <note>9 syllables</note>
+<lb n="2AMA.064c:39"/>Qui peust <rhyme>porter</rhyme><l n=" 984"/>
+<lb n="2AMA.064c:40"/>Tant <note>over erasure</note> soit il <note>'l'  sur grattage avec 'fo' suivant ?</note> fort\ les maulx q<abbr type="ue"/> <rhyme>racont<abbr type="er"/></rhyme>
+<lb n="2AMA.064c:41"/>Vous oy ycy\ sans la mort en <rhyme>gouster</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="41"/>
+<lb n="2AMA.064d:01"/>Mais je n'ay point où sont ouÿ <rhyme>compter</rhyme> <note>elaborate 'M'</note>
+<lb n="2AMA.064d:02"/>Li <rhyme>cemetiere</rhyme><l n=" 988"/>
+<lb n="2AMA.064d:03"/>Où enfouÿ\ sont ceulx qu'<name ref="God+of+Love"><c>a</c>mours <rhyme>entiere</rhyme></name>
+<lb n="2AMA.064d:04"/>A mis à mort\ et qui pour tel <rhyme>matiere</rhyme>
+<lb n="2AMA.064d:05"/>Ont gieu au lit où porté en <rhyme>litiere</rhyme>
+<lb n="2AMA.064d:06"/>Soient au <rhyme>saint</rhyme><l n=" 992"/>
+<lb n="2AMA.064d:07"/>Dont le mal vient\ et quoy que dïe<abbr type="n"/>t <rhyme>ma<abbr type="in"/>t</rhyme>
+<lb n="2AMA.064d:08"/>Je croy que nul\ fors à son aise <rhyme>n'aimt</rhyme>
+<lb n="2AMA.064d:09"/>Pour desdire\ <note>trait repassé ?</note> voz dis et vo <rhyme>complaint</rhyme>
+<lb n="2AMA.064d:10"/>Ne le dy <rhyme>pas</rhyme><l n=" 996"/>
+<lb n="2AMA.064d:11"/>Sauve vo paix\ ne je ne me <rhyme>debas</rhyme>
+<lb n="2AMA.064d:12"/>Qu'estre ne puist\ mais je croy qu'à lent <rhyme>pas</rhyme>
+<lb n="2AMA.064d:13"/>Sont trouvez ceulx\ qui ont si mal <rhyme>repas</rhyme>
+<lb n="2AMA.064d:14"/>Par trop <rhyme>amer</rhyme><l n="1000"/>
+<lb n="2AMA.064d:15"/>Adont cellui\ qui ja n'esteut <rhyme>no<abbr type="m"/>mer</rhyme>
+<lb n="2AMA.064d:16"/>C'est l'escuyer\ où n'ot goute <rhyme>d'amer</rhyme>
+<lb n="2AMA.064d:17"/>Parla ainsi\ com m'orrés <rhyme>affermer</rhyme>
+<lb n="2AMA.064d:18"/>Et briefment <rhyme>dire</rhyme><l n="1004"/>
+<lb n="2AMA.064d:19"/><hi rend="cap2">B</hi>eau doulx compains\ et amis et cher <rhyme>sire</rhyme>
+<lb n="2AMA.064d:20"/><c>j</c>e me merveil\ n'il ne me peut <rhyme>souffire</rhyme>
+<lb n="2AMA.064d:21"/>Dont vous dites\ que c'est des maulx le <rhyme>pire</rhyme>
+<lb n="2AMA.064d:22"/>Que cil qui <rhyme>vient</rhyme><l n="1008"/>
+<lb n="2AMA.064d:23"/>De par amours\ amer\ s'il m'en <rhyme>souvie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064d:24"/>Vous avez dit\ que l'amant tout <rhyme>devie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064d:25"/>Morne et pensif\ quant celle amo<abbr type="ur"/> <rhyme>survie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.064d:26"/>En ses <rhyme>pensées</rhyme><l n="1012"/>
+<lb n="2AMA.064d:27"/>Et qu'aux plus lyez ses joyes sont <rhyme>passées</rhyme>
+<lb n="2AMA.064d:28"/>Souventes fois\ et doulours <rhyme>amassées</rhyme>
+<lb n="2AMA.064d:29"/>En lieu\ de ris\ et de vous sont <rhyme>taussées</rhyme>
+<lb n="2AMA.064d:30"/>Moult pou les <note>over erasure</note> <rhyme>joyes</rhyme><l n="1016"/>
+<lb n="2AMA.064d:31"/>Qui à l'amant\ viennent par maintes <rhyme>voyes</rhyme>
+<lb n="2AMA.064d:32"/>Par doulx desirs\ et par pensées <rhyme>quoyes</rhyme>
+<lb n="2AMA.064d:33"/>Et en mains cas\ autres et <rhyme>toutevoyes</rhyme>
+<lb n="2AMA.064d:34"/>Tout le <rhyme>plaisir</rhyme><l n="1020"/>
+<lb n="2AMA.064d:35"/>Envers le mal\ qui avie<abbr type="n"/>t par <rhyme>desir</rhyme>
+<lb n="2AMA.064d:36"/>Et par servir\ sa dame à lonc <rhyme>loisir</rhyme>
+<lb n="2AMA.064d:37"/>Petit prisiez\ qui vous orroit <rhyme>choisir</rhyme>
+<lb n="2AMA.064d:38"/>Il <rhyme>sembleroit</rhyme><l n="1024"/>
+<lb n="2AMA.064d:39"/>Que <add place="supralinear" evidence="" type="">le</add> <note>caret</note> loyal amant\ qui <rhyme>aimeroit</rhyme>
+<lb n="2AMA.064d:40"/>De tout son cuer\ jamais <note>hole under 'm'</note> nul b<abbr type="ie"/>n <rhyme>n'aroit</rhyme>
+<lb n="2AMA.064d:41"/>Espoventé\ seroit qui vous <rhyme>orroit</rhyme>
+
+
+<pb n="065" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.065r:01"/><hi rend="red"><fw type="header1" place="column a" rend="centred">deux</fw> <fw type="header2" place="column b" rend="left aligned"><c>A</c>mans</fw> <fw type="header3" place="column b" rend="tabbed from right">xiiii</fw></hi>
+
+<cb n="a"/><layout ruledLines="41" writtenLines="42, including insertion"/>
+<lb n="2AMA.065a:01"/>D'amer à <rhyme>certes</rhyme><l n="1028"/>
+<lb n="2AMA.065a:02"/>Quant si payé\ seroit de ses <rhyme>dessertes</rhyme>
+<lb n="2AMA.065a:03"/>S'ainsi estoit\ ja nul n'aimeroit <rhyme>certes</rhyme>
+<lb n="2AMA.065a:04"/>Quant tieulx <note>retour du 'x' ?</note> peines lui seroient <rhyme>offertes</rhyme>
+<lb n="2AMA.065a:05"/>Et nul <rhyme>loyer</rhyme><l n="1032"/>
+<lb n="2AMA.065a:06"/>Homs ne <note>2 words over erasure, then 3 letter space filled by dash</note> seroit qui se voulsist <rhyme>loyer</rhyme> <note>next two lines crammed into space for one line, perhaps over erasure</note>
+<lb n="2AMA.065a:07"/>En tel lïen mieu<add place="supralinear" evidence="" type="">l</add>x <note>'ieux' over erasure</note> lui vauldroit <rhyme>noyer</rhyme>
+<lb n="2AMA.065a:08"/>Que soy aler soubmettre &amp; <rhyme>avoyer</rhyme>
+<lb n="2AMA.065a:09"/>À tel <rhyme>contraire</rhyme><l n="1036"/>
+<lb n="2AMA.065a:10"/>Mais de tout ce\ que ouÿ vous ay <rhyme>retraire</rhyme>
+<lb n="2AMA.065a:11"/>Sauve vo paix\ je tien tout le <rhyme>contraire</rhyme>
+<lb n="2AMA.065a:12"/>Et que plus bien\ par amer sans <rhyme>retraire</rhyme>
+<lb n="2AMA.065a:13"/>Il peut <rhyme>venir</rhyme><l n="1040"/>
+<lb n="2AMA.065a:14"/>Au vray amant\ que mal\ qui <rhyme>maintenir</rhyme>
+<lb n="2AMA.065a:15"/>S'i veult à droit\ et loyauté <rhyme>tenir</rhyme>
+<lb n="2AMA.065a:16"/>Quant est de moy\ je tiens et vueil <rhyme>tenir</rhyme>
+<lb n="2AMA.065a:17"/>Que d'amours <rhyme>viennent</rhyme><l n="1044"/>
+<lb n="2AMA.065a:18"/>Tous les plaisirs\ qui homme en joye <rhyme>tie<abbr type="n"/>ne<abbr type="n"/>t</rhyme>
+<lb n="2AMA.065a:19"/>Et tous les biens\ qui aux bons <rhyme>appartie<abbr type="n"/>ne<abbr type="n"/>t</rhyme>
+<lb n="2AMA.065a:20"/>En sont appris\ et tout honneur <rhyme>retienne<abbr type="n"/>t</rhyme>
+<lb n="2AMA.065a:21"/>Li amant <rhyme>fin</rhyme><l n="1048"/>
+<lb n="2AMA.065a:22"/>Qui loyaument\ aiment à celle <rhyme>fin</rhyme>
+<lb n="2AMA.065a:23"/>De mieulx valoir\ et d'avoir en la <rhyme>fin</rhyme>
+<lb n="2AMA.065a:24"/>Joye et plaisir\ ne croy qu'à la <rhyme>parfin</rhyme>
+<lb n="2AMA.065a:25"/>Mal leur <rhyme>aviengne</rhyme><l n="1052"/>
+<lb n="2AMA.065a:26"/>¶ Je consens bien\ que de franc vouloir <rhyme>vie<abbr type="n"/>gne</rhyme>
+<lb n="2AMA.065a:27"/>Ycelle amour\ mais que l'amoureux <rhyme>tiengne</rhyme>
+<lb n="2AMA.065a:28"/>Morne et dolent\ n'est drois qu'il <rhyme>appartiengne</rhyme>
+<lb n="2AMA.065a:29"/>Et <rhyme>supposé</rhyme><l n="1056"/>
+<lb n="2AMA.065a:30"/>Q'amé ne soit\ ne <note>'n' repassé et formé à partir d'une autre lettre présente au départ ?</note> tant ne soit <rhyme>osé</rhyme>
+<lb n="2AMA.065a:31"/>Qu'à celle en qui\ tout son cuer a\ <rhyme>posé</rhyme>
+<lb n="2AMA.065a:32"/>Le dië et que\ ja ne soit <rhyme>reposé</rhyme>
+<lb n="2AMA.065a:33"/>D'amer sans <rhyme>ruse</rhyme><l n="1060"/>
+<lb n="2AMA.065a:34"/>S'il fait le droit\ n'est raison qu'il <rhyme>s'amuse</rhyme>
+<lb n="2AMA.065a:35"/>À dueil mener\ poson qu'on le <rhyme>reffuse</rhyme>
+<lb n="2AMA.065a:36"/>Quant en ce cas\ se de raison <rhyme>n'abuse</rhyme>
+<lb n="2AMA.065a:37"/>Bonne <rhyme>esperance</rhyme><l n="1064"/>
+<lb n="2AMA.065a:38"/>Le doit tenir\ où qu'il soit en <rhyme>souffrance</rhyme>
+<lb n="2AMA.065a:39"/>Ne doit pour tant\ s'enfouïr hors de <name ref="France"><rhyme><c>f</c>rance</rhyme></name>
+<lb n="2AMA.065a:40"/>Ou par despoir\ son corps mettre à <rhyme>oultra<abbr type="n"/>ce</rhyme>
+<lb n="2AMA.065a:41"/>De mort <rhyme>obscure</rhyme><l n="1068"/>
+<lb n="2AMA.065a:42"/>¶ Si ne vient point tant <note>odd mark above initial 't'</note> de male <rhyme>aventure</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="41"/>
+<lb n="2AMA.065b:01"/>Sauf vostre honneur\ ne reçoit tant <rhyme>d'injure</rhyme> <note>elaborate 'u', 'd'</note>
+<lb n="2AMA.065b:02"/>À homs qui met\ en bien amer sa <rhyme>cure</rhyme>
+<lb n="2AMA.065b:03"/>Comme vous <rhyme>dites</rhyme><l n="1072"/>
+<lb n="2AMA.065b:04"/>Ainçois <name ref="God+of+Love"><c>a</c>mours</name>\ paye si grans <note>over erasure ; rising 's'</note> <rhyme>merites</rhyme>
+<lb n="2AMA.065b:05"/>À ses servans\ que toutes sont <rhyme>petites</rhyme>
+<lb n="2AMA.065b:06"/>Leurs peines vers\ les <note>malformed 's' ; 2 letter space &amp; filler ; corrected from 'leurs ?</note> grans joyes <rhyme>eslites</rhyme>
+<lb n="2AMA.065b:07"/>Qu'il leur en <rhyme>rent</rhyme><l n="1076"/>
+<lb n="2AMA.065b:08"/>Car quant l'amant\ à vraye amour se <rhyme>rent</rhyme>
+<lb n="2AMA.065b:09"/>Qui le reçoit et lui promet <rhyme>garent</rhyme>
+<lb n="2AMA.065b:10"/>Contre tous maulx\ comme prochain <rhyme>pare<abbr type="n"/>t</rhyme>
+<lb n="2AMA.065b:11"/>Il le <rhyme>remplist</rhyme><l n="1080"/>
+<lb n="2AMA.065b:12"/>D'un doulx penser\ qui trop lui <rhyme>abelist</rhyme>
+<lb n="2AMA.065b:13"/>Qui ramentoit\ la belle qu'il <rhyme>eslist</rhyme>
+<lb n="2AMA.065b:14"/>À sa dame et\ la doulçour qui d'elle <rhyme>ist</rhyme>
+<lb n="2AMA.065b:15"/>Et tous ses <rhyme>fais</rhyme><l n="1084"/>
+<lb n="2AMA.065b:16"/>Là est l'amant\ de joye tous <rhyme>reffais</rhyme>
+<lb n="2AMA.065b:17"/>Quant lui souvient\ du gent corps très <rhyme>p<abbr type="ar"/>fais</rhyme>
+<lb n="2AMA.065b:18"/>De la très belle et c'est ce qui le <rhyme>fais</rhyme> <note>'fais', i.e. burden</note>
+<lb n="2AMA.065b:19"/>D'amour <rhyme>parfaicte</rhyme><l n="1088"/>
+<lb n="2AMA.065b:20"/>Lui fait porter\ <add place="supralinear" evidence="" type="">&amp;</add> <note>no caret</note> espoir qui l'a <rhyme>faite</rhyme>
+<lb n="2AMA.065b:21"/>Et qui lui dist\ qu'encore sera <rhyme>faite</rhyme>
+<lb n="2AMA.065b:22"/>L'acointance\ sans ja estre <rhyme>deffaite</rhyme>
+<lb n="2AMA.065b:23"/>De lui et <rhyme>d'elle</rhyme><l n="1092"/>
+<lb n="2AMA.065b:24"/>¶ Et ainsi sert\ en esperant la <rhyme>belle</rhyme>
+<lb n="2AMA.065b:25"/>Et <name ref="True+Love"><c>b</c>onne <c>a</c>mour</name>\ qui souvent <rhyme>renouvelle</rhyme>
+<lb n="2AMA.065b:26"/>Ses doulx plaisirs\ car se quelq<abbr type="ue"/> <rhyme>nouvelle</rhyme>
+<lb n="2AMA.065b:27"/>Ouÿr il <rhyme>peut</rhyme><l n="1096"/>
+<lb n="2AMA.065b:28"/>Dont esperer puit\ avoir ce qu'il <rhyme>veult</rhyme>
+<lb n="2AMA.065b:29"/>Ou regardé\ en soit plus qu'il ne <rhyme>seult</rhyme>
+<lb n="2AMA.065b:30"/>Sachés de vray\ que ja si ne s'en <rhyme>deult</rhyme>
+<lb n="2AMA.065b:31"/>Que le <rhyme>confort</rhyme><l n="1100"/>
+<lb n="2AMA.065b:32"/>Ne soit plus grant\ que tout le <rhyme>desconfort</rhyme>
+<lb n="2AMA.065b:33"/>Ne ja <name ref="Desire"><c>d</c>esir</name> ne le poindra si <rhyme>fort</rhyme>
+<lb n="2AMA.065b:34"/>Qu'il n'ait <name ref="Hope"><c>e</c>spoir</name>\ et <name ref="Doux+Penser"><c>d</c>oulx <c>p</c>enser</name> au <rhyme>fort</rhyme>
+<lb n="2AMA.065b:35"/>Qui le <rhyme>conforte</rhyme><l n="1104"/>
+<lb n="2AMA.065b:36"/>¶ <note>ou ¶ devant Qui ?</note> Ycelle amour\ toute pensée <rhyme>torte</rhyme>
+<lb n="2AMA.065b:37"/>¶ Tolt à l'amant\ et tout bien lui <rhyme>ennorte</rhyme>
+<lb n="2AMA.065b:38"/>Si met grant peine à estre de la <rhyme>sorte</rhyme>
+<lb n="2AMA.065b:39"/>Aux bons <rhyme>vaillans</rhyme><l n="1108"/>
+<lb n="2AMA.065b:40"/>S'il aime à droit\ courtois et <rhyme>accueilla<abbr type="n"/>s</rhyme>
+<lb n="2AMA.065b:41"/>En devendra\ et à to<abbr type="us"/> bien <rhyme>vueillans</rhyme>
+
+
+<pb n="065" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.065v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">Le</fw> <fw type="header2" place="column c" rend="centred"><c>d</c>ebat&#x95;&#x95;</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.065c:01"/>Si het orgueil\ në il n'est <rhyme>deffaillans</rhyme>
+<lb n="2AMA.065c:02"/>En nul <rhyme>endroit</rhyme><l n="1112"/>
+<lb n="2AMA.065c:03"/>Nul villain tour\ ja faire ne <rhyme>vouldroit</rhyme>
+<lb n="2AMA.065c:04"/>Tous vices het\ si est larges à <rhyme>droit</rhyme>
+<lb n="2AMA.065c:05"/>Joyeux et gay\ cointe appert et <rhyme>adroit</rhyme>
+<lb n="2AMA.065c:06"/>Est <rhyme>devenu</rhyme><l n="1116"/>
+<lb n="2AMA.065c:07"/>Je n'ara tant\ esté\ rude <rhyme>tenu</rhyme>
+<lb n="2AMA.065c:08"/>Qu'il ne lui soit\ lors si bien <rhyme>avenu</rhyme>
+<lb n="2AMA.065c:09"/>Quë on dira\ que de tout vice est <rhyme>nu</rhyme>
+<lb n="2AMA.065c:10"/>Et de <rhyme>rudece</rhyme><l n="1120"/>
+<lb n="2AMA.065c:11"/>Si est appris\ en toute <rhyme>gentillece</rhyme>
+<lb n="2AMA.065c:12"/>Et aime honneur\ et vaillance et <rhyme>proëce</rhyme>
+<lb n="2AMA.065c:13"/>Et la poursuit\ affin que sa <rhyme>maistresse</rhyme>
+<lb n="2AMA.065c:14"/>Oye bien <rhyme>dire</rhyme><l n="1124"/>
+<lb n="2AMA.065c:15"/>De tous ses fais\ son cuer est vuidé <rhyme>d'ire</rhyme>
+<lb n="2AMA.065c:16"/>Et du peché\ d'avarice qui <rhyme>tire</rhyme>
+<lb n="2AMA.065c:17"/>À maint meschiefs\ et gentement <rhyme>s'atire</rhyme>
+<lb n="2AMA.065c:18"/>En <rhyme>vestement</rhyme><l n="1128"/>
+<lb n="2AMA.065c:19"/>Et entre gent\ se tient <rhyme>honnestement</rhyme>
+<lb n="2AMA.065c:20"/>Liez et appert\ &amp; saillant <rhyme>vistement</rhyme>
+<lb n="2AMA.065c:21"/>Joyeux rÿant\ gracïeux <rhyme>p<abbr type="re"/>stement</rhyme>
+<lb n="2AMA.065c:22"/><rhyme>Appareillié</rhyme><l n="1132"/>
+<lb n="2AMA.065c:23"/>Est à tous biens\ songneux et <rhyme>resveillié</rhyme>
+<lb n="2AMA.065c:24"/>Et vous dites\ qu'il est si <rhyme>traveillié</rhyme>
+<lb n="2AMA.065c:25"/>Par celle amour\ qui l'a <rhyme>desconseillié</rhyme>
+<lb n="2AMA.065c:26"/>Et mis en <rhyme>trace</rhyme><l n="1136"/>
+<lb n="2AMA.065c:27"/>D'estre plus serf\ que chien qui suit à <rhyme>trace</rhyme>
+<lb n="2AMA.065c:28"/>Plain de meschief\ mais <name ref="">sire</name> sauf vo <rhyme>grace</rhyme>
+<lb n="2AMA.065c:29"/>Ains est entré\ en voye plaine et <rhyme>grace</rhyme>
+<lb n="2AMA.065c:30"/>Et <rhyme>plantureuse</rhyme><l n="1140"/>
+<lb n="2AMA.065c:31"/>De tous les biens\ beneurée <note>'eur' over erasure et deuxième 'e' ?</note> &amp; <rhyme>eureuse</rhyme>
+<lb n="2AMA.065c:32"/>Doulce plaisant\ très sade et <rhyme>savoureuse</rhyme>
+<lb n="2AMA.065c:33"/>¶ Ne fu il dit\ de la vie <rhyme>amoureuse</rhyme>
+<lb n="2AMA.065c:34"/>Très <rhyme>assouvie</rhyme><l n="1144"/>
+<lb n="2AMA.065c:35"/>En amer a\ plaisant\ et doulce <rhyme>vie</rhyme>
+<lb n="2AMA.065c:36"/>Jolye qui\ bien la scet sans <rhyme>envie</rhyme>
+<lb n="2AMA.065c:37"/>Maintenir qui\ le vray amant <rhyme>re<abbr type="n"/>vie</rhyme>
+<lb n="2AMA.065c:38"/>À tous <rhyme>soulas</rhyme><l n="1148"/>
+<lb n="2AMA.065c:39"/>Et il y pert\ car ja si fort le <rhyme>las</rhyme>
+<lb n="2AMA.065c:40"/>N'estraint l'amant\ quë il puit estre <rhyme>las</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.065d:01"/>D'icelle amour\ combien qu'il dye <rhyme>helas</rhyme> <note>elaborated 'l'</note>
+<lb n="2AMA.065d:02"/>Tant lui <rhyme>agrée</rhyme><l n="1152"/>
+<lb n="2AMA.065d:03"/>La pensée\ très loyale et <rhyme>secrée</rhyme>
+<lb n="2AMA.065d:04"/>Qu'il a au cuer\ qui tant lui est <rhyme>sucrée</rhyme>
+<lb n="2AMA.065d:05"/>Qu'il ne vouldroit\ pour riens q<abbr type="ue"/> <rhyme>desancrée</rhyme>
+<lb n="2AMA.065d:06"/>De lui ja <rhyme>fust</rhyme><l n="1156"/>
+<lb n="2AMA.065d:07"/>¶ C'est un doulx mal\ chacun amer <rhyme>deüst</rhyme>
+<lb n="2AMA.065d:08"/>Ne blasmée\ se le monde le <rhyme>sceust</rhyme>
+<lb n="2AMA.065d:09"/>N'en deust estre\ femme qui m'en <rhyme>creüst</rhyme>
+<lb n="2AMA.065d:10"/>Car c'est <rhyme>plaisance</rhyme><l n="1160"/>
+<lb n="2AMA.065d:11"/>Trop avenant\ et de gaye <rhyme>naissance</rhyme>
+<lb n="2AMA.065d:12"/>Vient celle amour\ qui oste <rhyme>desplaisance</rhyme>
+<lb n="2AMA.065d:13"/>Du jolis cuer\ et remplist tout <rhyme>d'aisance</rhyme>
+<lb n="2AMA.065d:14"/>Et de <rhyme>baudour</rhyme><l n="1164"/>
+<lb n="2AMA.065d:15"/>¶ <name ref="God">Beaulx sire <c>d</c>ieux</name>\ quel très souëve <rhyme>ardour</rhyme>
+<lb n="2AMA.065d:16"/>Rend <name ref="Doux+Regard"><c>d</c>oulx <c>r</c>egart</name>\ au vray cuer <rhyme>amadour</rhyme>
+<lb n="2AMA.065d:17"/>Quant il s'espart sus l'amant ou q<abbr type="ue"/>\ <rhyme>oudeur</rhyme> <note>error ?</note>
+<lb n="2AMA.065d:18"/>Tant <rhyme>precïeuse</rhyme><l n="1168"/>
+<lb n="2AMA.065d:19"/>Ne fu à corps\ d'omme si <rhyme>gracïeuse</rhyme>
+<lb n="2AMA.065d:20"/>Ne vïande tant fust <rhyme>delicïeuse</rhyme>
+<lb n="2AMA.065d:21"/>Si n'en doit pas\ estre <rhyme>avaricïeuse</rhyme>
+<lb n="2AMA.065d:22"/>À son <rhyme>amant</rhyme><l n="1172"/>
+<lb n="2AMA.065d:23"/>Dame qui paist\ cellui en elle <rhyme>amant</rhyme>
+<lb n="2AMA.065d:24"/>Qu'elle a s'amour\ tire com <rhyme>l'aÿmant</rhyme>
+<lb n="2AMA.065d:25"/>Attrait le fer\ et com le <rhyme>dÿament</rhyme>
+<lb n="2AMA.065d:26"/>Est <rhyme>affermé</rhyme><l n="1176"/>
+<lb n="2AMA.065d:27"/>En seue amour\ et des armes <rhyme>armé</rhyme>
+<lb n="2AMA.065d:28"/>Qu'<name ref="God+of+Love"><c>a</c>mours</name> depart\ à ceulx qu'il a <rhyme>charmé</rhyme>
+<lb n="2AMA.065d:29"/>Pour lui servir\ et du tout <rhyme>confermé</rhyme>
+<lb n="2AMA.065d:30"/>¶ Mais or <rhyme>dison</rhyme><l n="1180"/>
+<lb n="2AMA.065d:31"/>Quelle joye\ reçoit le gentilz <rhyme>hom</rhyme>
+<lb n="2AMA.065d:32"/>Le fin amant\ qui est en la <rhyme>prison</rhyme>
+<lb n="2AMA.065d:33"/>De sa dame sans avoir <rhyme>mesprison</rhyme>
+<lb n="2AMA.065d:34"/>En riens <rhyme>commise</rhyme><l n="1184"/>
+<lb n="2AMA.065d:35"/>Së\ il avient\ qu'il ait tel peine <rhyme>mise</rhyme>
+<lb n="2AMA.065d:36"/>Que sa dame\ son bon vouloir <rhyme>avise</rhyme>
+<lb n="2AMA.065d:37"/>Tant que s'amour\ lui donne par <rhyme>franchise</rhyme>
+<lb n="2AMA.065d:38"/>En <rhyme>guerredon</rhyme><l n="1188"/>
+<lb n="2AMA.065d:39"/>Je croy qu'il soit\ b<abbr type="ie"/>n enrichi <rhyme>adon</rhyme>
+<lb n="2AMA.065d:40"/>Car plus joye a\ se <name ref="God"><c>d</c>ieux</name> me doint <rhyme>p<abbr type="ar"/>don</rhyme>
+
+
+<pb n="066" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.066r:01"/><hi rend="red"><fw type="header1" place="column a" rend="centred">deux</fw> <fw type="header2" place="column b" rend="tabbed"><c>A</c>mans</fw> <fw type="header3" place="column " rend="tabbed from right">xiiii&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="42" writtenLines="41"/>
+<lb n="2AMA.066a:01"/>Je croy que s'il eust le monde à <rhyme>bandon</rhyme>
+<lb n="2AMA.066a:02"/>Voire plus <rhyme>certes</rhyme><l n="1192"/>
+<lb n="2AMA.066a:03"/>S'il aime bien\ et la desire à <rhyme>certes</rhyme>
+<lb n="2AMA.066a:04"/>Or est il bien\ meri de ses <rhyme>dessertes</rhyme>
+<lb n="2AMA.066a:05"/>Car ne prise\ ne ses deulx ne ses <rhyme>pertes</rhyme>
+<lb n="2AMA.066a:06"/>Or est il <rhyme>ayse</rhyme><l n="1196"/>
+<lb n="2AMA.066a:07"/>¶ Quelle est la riens\ qui peust <note>'s' squeezed in, in response to faint superscript 's', préparation de correction</note> mettre à <rhyme>mesaise</rhyme>
+<lb n="2AMA.066a:08"/>Le fin amant que sa dame <rhyme>rappaise</rhyme>
+<lb n="2AMA.066a:09"/>Et\ doulcement\ l'embrace et puis le <rhyme>baise</rhyme>
+<lb n="2AMA.066a:10"/>Que lui fault <rhyme>il</rhyme><l n="1200"/>
+<lb n="2AMA.066a:11"/>N'est il ayse\ n'a il plus de cent <rhyme>mil</rhyme>
+<lb n="2AMA.066a:12"/>De doulx plaisirs\ je le tendroie à <rhyme>vil</rhyme>
+<lb n="2AMA.066a:13"/>Se plus vouloit certes eureux est <rhyme>cil</rhyme>
+<lb n="2AMA.066a:14"/>Qui en tel <rhyme>cas</rhyme><l n="1204"/>
+<lb n="2AMA.066a:15"/>A eu pour lui\ <name ref="God+of+Love"><c>a</c>mours</name> pour <rhyme>avocas</rhyme>
+<lb n="2AMA.066a:16"/>Il n'a garde\ d'estre flati à <rhyme>cas</rhyme>
+<lb n="2AMA.066a:17"/>Joyeux est cil\ ne doit pas parler <rhyme>cas</rhyme>
+<lb n="2AMA.066a:18"/>Ne <rhyme>enroué</rhyme><l n="1208"/>
+<lb n="2AMA.066a:19"/>Bien l'a gari\ le saint où c'est <rhyme>voué</rhyme>
+<lb n="2AMA.066a:20"/>¶ Mais dit avez\ se ne l'ay <rhyme>controuvé</rhyme> <note>error ?</note>
+<lb n="2AMA.066a:21"/>Que <name ref="Faux+Agait"><c>f</c>aulx <c>a</c>gait</name> qui <note>'que' au départ ? 'e' gratté en 'i' ?</note> maint ho<abbr type="m"/>me a <rhyme>trouvé</rhyme>
+<lb n="2AMA.066a:22"/>En <rhyme>recellée</rhyme><l n="1212"/>
+<lb n="2AMA.066a:23"/>Par qui mainte\ grant oeuvre est <rhyme>decellée</rhyme>
+<lb n="2AMA.066a:24"/>Ne s'en taist pas\ par lui est pou <rhyme>cellée</rhyme>
+<lb n="2AMA.066a:25"/>La chose\ car\ parlant à la <rhyme>vollée</rhyme>
+<lb n="2AMA.066a:26"/>L'amant <rhyme>accuse</rhyme><l n="1216"/>
+<lb n="2AMA.066a:27"/>Si resveille\ <name ref="Jalousie"><c>j</c>alousie</name> qui <rhyme>muse</rhyme>
+<lb n="2AMA.066a:28"/>Pour agaitier\ et à l'amant <rhyme>refuse</rhyme>
+<lb n="2AMA.066a:29"/>Son doulx solas\ si ne le tient à <rhyme><c>R</c>use</rhyme>
+<lb n="2AMA.066a:30"/>Ne s'en <rhyme>depporte</rhyme><l n="1220"/>
+<lb n="2AMA.066a:31"/>Ainçois le las\ amant s'en <rhyme>desconforte</rhyme>
+<lb n="2AMA.066a:32"/>Que joye et paix dedens son cuer est <rhyme>morte</rhyme>
+<lb n="2AMA.066a:33"/>Et mesdisans\ qui resont à la <rhyme>porte</rhyme>
+<lb n="2AMA.066a:34"/>De l'autre <rhyme>part</rhyme><l n="1224"/>
+<lb n="2AMA.066a:35"/>Le grievent tant\ qu'il a petite <rhyme>part</rhyme>
+<lb n="2AMA.066a:36"/>De ses soulas\ et ainsi lui <rhyme>depart</rhyme>
+<lb n="2AMA.066a:37"/><name ref="God+of+Love">Amours</name> cent maulx\ pour un tout seul <rhyme>esp<abbr type="ar"/>t</rhyme>
+<lb n="2AMA.066a:38"/>De ses <rhyme>desirs</rhyme><l n="1228"/>
+<lb n="2AMA.066a:39"/>¶ Quant en ce cas\ je consens que <rhyme>souspirs</rhyme>
+<lb n="2AMA.066a:40"/>Au povre ama<abbr type="n"/>t\ sourde<abbr type="n"/>t et <rhyme>desplaisirs</rhyme>
+<lb n="2AMA.066a:41"/>Quant empeschié lui sont ses doulx <rhyme>plaisirs</rhyme>
+<!-- 1 blank line here -->
+
+<cb n="b"/>
+<layout ruledLines="42" writtenLines="41"/>
+<lb n="2AMA.066b:01"/>¶ Mais <rhyme>vrayement</rhyme><l n="1232"/>
+<lb n="2AMA.066b:02"/>Quant il bien pense et scet <rhyme>certainem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.066b:03"/>Que sa dame\ l'aime très <rhyme>loyaument</rhyme>
+<lb n="2AMA.066b:04"/>Ce\ reconfort\ lui fait\ <rhyme>pacïemment</rhyme>
+<lb n="2AMA.066b:05"/>Porter son <rhyme>dueil</rhyme><l n="1236"/>
+<lb n="2AMA.066b:06"/>Et s'un doulx ris regardant de doulx <rhyme>oeil</rhyme>
+<lb n="2AMA.066b:07"/>Lui fait de loing\ par gracïeux <rhyme>accueil</rhyme>
+<lb n="2AMA.066b:08"/>Il souffit bien\ pour avoir joyeux <rhyme>vueil</rhyme>
+<lb n="2AMA.066b:09"/>Qui mieulx ne <rhyme>peut</rhyme><l n="1240"/>
+<lb n="2AMA.066b:10"/>Si est trop folz\ l'amant qui ta<abbr type="n"/>t se <rhyme>deult</rhyme>
+<lb n="2AMA.066b:11"/>Com vous dites\ car en tous cas s'il <rhyme>veult</rhyme>
+<lb n="2AMA.066b:12"/>Assez de bien\ et de doulçour <rhyme>recuelt</rhyme>
+<lb n="2AMA.066b:13"/>Pour <rhyme>s'esjouÿr</rhyme><l n="1244"/>
+<lb n="2AMA.066b:14"/>¶ Mais merveilles\ je puis de vous <rhyme>ouÿr</rhyme>
+<lb n="2AMA.066b:15"/>S'ainsi estoit\ mieulx s'en vauldroit <rhyme>fouÿr</rhyme>
+<lb n="2AMA.066b:16"/>Qu'en tel langour\ son cuer laisser <rhyme>rouÿr</rhyme>
+<lb n="2AMA.066b:17"/>N'en tel <rhyme>courroux</rhyme><l n="1248"/>
+<lb n="2AMA.066b:18"/>Que nous dites\ que l'amant est <rhyme>jaloux</rhyme>
+<lb n="2AMA.066b:19"/>S'il aime bien\ et plus dervé q<abbr type="ue"/> uns <rhyme>loups</rhyme>
+<lb n="2AMA.066b:20"/>S'il voit qu'autre pourchace ses biens <rhyme>doulx</rhyme>
+<lb n="2AMA.066b:21"/>Et <rhyme>souspeçon</rhyme><l n="1252"/>
+<lb n="2AMA.066b:22"/>Sur sa dame a\ dont a tel <rhyme>cuisançon</rhyme>
+<lb n="2AMA.066b:23"/>Qu'ester ne peut\ n'en rue n'en <rhyme>maison</rhyme>
+<lb n="2AMA.066b:24"/>Et dont il lit\ mainte laide <rhyme>leçon</rhyme>
+<lb n="2AMA.066b:25"/>Sans <rhyme>courtoisie</rhyme><l n="1256"/>
+<lb n="2AMA.066b:26"/>Si suis dolent\ quant vous tel <rhyme>heresie</rhyme>
+<lb n="2AMA.066b:27"/>¶ Sur vraye amour\ mettez\ qui <rhyme>jalousie</rhyme>
+<lb n="2AMA.066b:28"/>Y adjoustez\ qui tant est <rhyme>desprisie</rhyme>
+<lb n="2AMA.066b:29"/>Et tant <rhyme>maudite</rhyme><l n="1260"/>
+<lb n="2AMA.066b:30"/>Si nous avez\ or tel parole <rhyme>dite</rhyme>
+<lb n="2AMA.066b:31"/>Que d'amours vient\ jalousie <rhyme>despite</rhyme>
+<lb n="2AMA.066b:32"/><name ref="God">Dieu</name> de l'amour\ certes elle est <rhyme>petite</rhyme>
+<lb n="2AMA.066b:33"/>Ne sçay <rhyme>entendre</rhyme><l n="1264"/>
+<lb n="2AMA.066b:34"/>Qu'estre ce puist\ ne je ne puis <rhyme>comp<abbr type="re"/>ndre</rhyme>
+<lb n="2AMA.066b:35"/>Que souspeçon\ et amour on puist <rhyme>p<abbr type="re"/>ndre</rhyme>
+<lb n="2AMA.066b:36"/>Parfaictement\ ensemble sans <rhyme>mesp<abbr type="re"/>ndre</rhyme>
+<lb n="2AMA.066b:37"/>Vers amours <rhyme>fine</rhyme><l n="1268"/>
+<lb n="2AMA.066b:38"/>Car vraye amour\ toute souspeçon <rhyme>fine</rhyme>
+<lb n="2AMA.066b:39"/>Et qui mescroit\ certes l'amour <rhyme>deffine</rhyme>
+<lb n="2AMA.066b:40"/>Car loyauté\ qui tout bon cuer <rhyme>affine</rhyme>
+<lb n="2AMA.066b:41"/>On doit <rhyme>penser</rhyme><l n="1272"/>
+<!-- 1 blank line here -->
+
+
+<pb n="066" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.066v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>d</c>ebat</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="41" writtenLines="40"/>
+<lb n="2AMA.066c:01"/>Estre en celle\ qu'on aime sans <rhyme>cesser</rhyme>
+<lb n="2AMA.066c:02"/>Et qu'en nul cas\ ne daigneroit <rhyme>fausser</rhyme>
+<lb n="2AMA.066c:03"/>Ne tel penser\ en son cuer <rhyme>amasser</rhyme>
+<lb n="2AMA.066c:04"/>En nulle <rhyme>guise</rhyme><l n="1276"/>
+<lb n="2AMA.066c:05"/>Amant ne doit\ car chacun croit\ et <rhyme>prise</rhyme>
+<lb n="2AMA.066c:06"/>Ce qu'il aime\ c'est communal <rhyme>devise</rhyme>
+<lb n="2AMA.066c:07"/>Si est bien droit\ qu'à l'amant il <rhyme>souffise</rhyme>
+<lb n="2AMA.066c:08"/>Sans autre <rhyme>preuve</rhyme><l n="1280"/>
+<lb n="2AMA.066c:09"/>¶ Et que d'<name ref="God+of+Love"><c>a</c>mours</name>\ ne viengne\ je vo<abbr type="us"/> <rhyme>p<abbr type="re"/>uve</rhyme>
+<lb n="2AMA.066c:10"/>Jalousie\ que tout homme <rhyme>repreuve</rhyme>
+<lb n="2AMA.066c:11"/>Ouÿr\ <note> ?</note> pourrés\ la raison que g'i <rhyme>treuve</rhyme>
+<lb n="2AMA.066c:12"/>Sans <rhyme>varïance</rhyme><l n="1284"/>
+<lb n="2AMA.066c:13"/>Chacun vëoir\ peut\ par <rhyme>experïence</rhyme>
+<lb n="2AMA.066c:14"/>Que mains maris plains de <rhyme>contrarïe<abbr type="n"/>ce</rhyme>
+<lb n="2AMA.066c:15"/>Rudes et maulx et de grant <rhyme>tarïence</rhyme>
+<lb n="2AMA.066c:16"/>Sont et <rhyme>divers</rhyme><l n="1288"/>
+<lb n="2AMA.066c:17"/>À leurs femmes\ et jaloux plus que <rhyme>vers</rhyme>
+<lb n="2AMA.066c:18"/>Sont ou que chien\ et tous jours en <rhyme>trav<abbr type="er"/>s</rhyme> <note>sense of 'ou' ?</note>
+<lb n="2AMA.066c:19"/>Leur giettent mos\ et frappent à <rhyme>revers</rhyme>
+<lb n="2AMA.066c:20"/>Et tant les <rhyme>battent</rhyme><l n="1292"/>
+<lb n="2AMA.066c:21"/>Souventes fois\ qu'à leurs piez les <note>rising 's'</note> <rhyme>abate<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066c:22"/>Tant sont jaloux\ et non obstant <rhyme>s'esbate<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066c:23"/>D'autres femmes\ et en mains lieux <rhyme>s'e<abbr type="m"/>bate<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066c:24"/>De vilté <rhyme>plains</rhyme><l n="1296"/>
+<lb n="2AMA.066c:25"/>Diront ilz puis\ ma femme je vo<abbr type="us"/> <rhyme>aims</rhyme>
+<lb n="2AMA.066c:26"/>Mais vo gibet\ sire très ort <rhyme>villains</rhyme>
+<lb n="2AMA.066c:27"/>Respondre doit\ et s'elle n'ose au <rhyme>mains</rhyme>
+<lb n="2AMA.066c:28"/>Penser le <rhyme>peut</rhyme><l n="1300"/>
+<lb n="2AMA.066c:29"/>Doncque <note>1 letter space ; 'Doncques' corrected</note> est ce amour <note>1 letter space ; 'amours' corrected</note>\ qui ainsi les <rhyme>esmeut</rhyme>
+<lb n="2AMA.066c:30"/>Mais tele amour\ tire à soy\ qui se <rhyme>veult</rhyme>
+<lb n="2AMA.066c:31"/>Car quant à moy\ celle dont on se <rhyme>deult</rhyme>
+<lb n="2AMA.066c:32"/>Je n'en prens <rhyme>point</rhyme><l n="1304"/>
+<lb n="2AMA.066c:33"/>¶ Si vous respons\ pour vray dessus ce <rhyme>point</rhyme>
+<lb n="2AMA.066c:34"/>Que qui bien aime et est d'amours <rhyme><abbr type="com"/>poi<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066c:35"/>Je ne cuide\ que coup ne buffe <rhyme>doint</rhyme>
+<lb n="2AMA.066c:36"/>Ne nul mal <rhyme>face</rhyme><l n="1308"/>
+<lb n="2AMA.066c:37"/>À soy mesmes\ n'à autre dont <rhyme>defface</rhyme>
+<lb n="2AMA.066c:38"/>Ycelle amour\ qui lui tient cuer &amp; <rhyme>face</rhyme>
+<lb n="2AMA.066c:39"/>Joyeux et lyé\ ne que ja tant <rhyme>mefface</rhyme>
+<lb n="2AMA.066c:40"/>Que jaloux <rhyme>soit</rhyme><l n="1312"/>
+<!-- 1 blank line here -->
+
+<cb n="d"/>
+<layout ruledLines="41"/>
+<lb n="2AMA.066d:01"/>De celle dont\ <note>'t' corrected ?</note> maint plaisant b<abbr type="ie"/>n <rhyme>reçoit</rhyme> <note>elaborate 'l', 'b'</note>
+<lb n="2AMA.066d:02"/>Et toute riens\ à bonne fin <rhyme>conçoit</rhyme>
+<lb n="2AMA.066d:03"/>Quanqu'elle fait\ et s'ores <rhyme>s'apperçoit</rhyme>
+<lb n="2AMA.066d:04"/>Quë un ou <rhyme>deux</rhyme><l n="1316"/>
+<lb n="2AMA.066d:05"/>Ou mains autres\ en soyent <rhyme>amoureux</rhyme>
+<lb n="2AMA.066d:06"/>N'en ara il\ ne pesance ne <rhyme>deulx</rhyme> <note>sur grattage</note>
+<lb n="2AMA.066d:07"/>Ains pensera\ qu'il est amé tous <rhyme>seulx</rhyme>
+<lb n="2AMA.066d:08"/>Et que <rhyme>léece</rhyme><l n="1320"/>
+<lb n="2AMA.066d:09"/>Doit bien avoir\ quant il a tel <rhyme>maistresse</rhyme>
+<lb n="2AMA.066d:10"/>En qui tel bien et tel beauté <rhyme>s'adresse</rhyme>
+<lb n="2AMA.066d:11"/>Que chacun veult\ amer pour sa <rhyme>noblesse</rhyme>
+<lb n="2AMA.066d:12"/>Et grant <rhyme>valour</rhyme><l n="1324"/>
+<lb n="2AMA.066d:13"/>¶ Si n'a l'amant\ ne cause ne <rhyme>coulour</rhyme>
+<lb n="2AMA.066d:14"/>D'estre jaloux\ ne de vivre en <rhyme>doulour</rhyme>
+<lb n="2AMA.066d:15"/>Pour bien amer\ mais mai<abbr type="n"/>t p<abbr type="ar"/> le<abbr type="ur"/> <rhyme>folour</rhyme>
+<lb n="2AMA.066d:16"/>Mettent la <rhyme>rage</rhyme><l n="1328"/>
+<lb n="2AMA.066d:17"/>Sus à amours\ mais c'est leur fol <rhyme>corage</rhyme>
+<lb n="2AMA.066d:18"/>Qui recevoir\ ne prendre <rhyme>l'avantage</rhyme>
+<lb n="2AMA.066d:19"/>Ne scet d'amours\ si sont de tel <rhyme>plumage</rhyme>
+<lb n="2AMA.066d:20"/>Et de tel <rhyme>sorte</rhyme><l n="1332"/>
+<lb n="2AMA.066d:21"/>Et puis dïent\ qu'en eulx est joye <rhyme>morte</rhyme>
+<lb n="2AMA.066d:22"/>Par trop amer\ qui tant les <rhyme>desconforte</rhyme>
+<lb n="2AMA.066d:23"/>Mais ce n'est que\ <note> ?</note> leur condicïon <rhyme>torte</rhyme>
+<lb n="2AMA.066d:24"/>Qui si les <rhyme>tient</rhyme><l n="1336"/>
+<lb n="2AMA.066d:25"/>Si à grant tort\ sanz faille qui <rhyme>mai<abbr type="n"/>tie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066d:26"/>Que doulce amour\ à qui joye <rhyme>app<abbr type="ar"/>tie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066d:27"/>Rende l'amant\ jaloux car point ne <rhyme>vie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066d:28"/>Tel <rhyme>maladie</rhyme><l n="1340"/>
+<lb n="2AMA.066d:29"/>Fors de failli <note>'i', lettre repassée ?</note>\ lache cuer quoy q<abbr type="ue"/> on <rhyme>die</rhyme>
+<lb n="2AMA.066d:30"/>Et d'envie\ <note>dash above final 'e'</note> triste\ et <rhyme>accouardie</rhyme>
+<lb n="2AMA.066d:31"/>Qui personne\ fait estre pou <rhyme>hardie</rhyme>
+<lb n="2AMA.066d:32"/>Et <rhyme>mescréant</rhyme><l n="1344"/>
+<lb n="2AMA.066d:33"/>Et soucïer\ fait l'omme de <rhyme>néa<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066d:34"/>Si cuide estre\ plus lourt et pis <rhyme>séa<abbr type="n"/>t</rhyme>
+<lb n="2AMA.066d:35"/>Que les autres\ et quant il est <rhyme>véant</rhyme>
+<lb n="2AMA.066d:36"/>Jolis et <rhyme>gays</rhyme><l n="1348"/>
+<lb n="2AMA.066d:37"/>Jeunes hommes\ lors est en male <rhyme>paix</rhyme>
+<lb n="2AMA.066d:38"/>Car il cuidë estre de tous plus <rhyme>lais</rhyme>
+<lb n="2AMA.066d:39"/>Si ne lui plaist ne souffreroit <rhyme>jamais</rhyme>
+<lb n="2AMA.066d:40"/>Qu'acointés <rhyme>fussent</rhyme><l n="1352"/>
+<lb n="2AMA.066d:41"/>De ses amours\ de päour que plus <rhyme>plussent</rhyme>
+
+
+<pb n="067" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.067r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">Deux</fw> <fw type="header2" place="column b" rend="tabbed">Amans</fw> <fw type="header3" place="column b" rend="tabbed from right">xiiii&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.067a:01"/>Si <note>'i' corrected, then 1 letter space</note> sont tristes <note>rising 's'</note>\ tieulx gens et se <rhyme>demussent</rhyme>
+<lb n="2AMA.067a:02"/>Pour agaitier\ qu'apperceü ne <rhyme>fusse<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067a:03"/>Dont par nul <rhyme>tour</rhyme><l n="1356"/>
+<lb n="2AMA.067a:04"/>Ne dites que\ jalousie <rhyme>d'amour</rhyme>
+<lb n="2AMA.067a:05"/>Viengne ainçois vient\ de cuer plain <add place="supralinear" evidence="" type="">de</add> <note>writen over cursive 'de' ? small caret</note> <rhyme>cremour</rhyme>
+<lb n="2AMA.067a:06"/>Où souspeçon\ et desdaing fait <rhyme>demour</rhyme>
+<lb n="2AMA.067a:07"/>Par mal <rhyme>vouloir</rhyme><l n="1360"/>
+<lb n="2AMA.067a:08"/>Pour ce qu'autre\ ne cuident <note>dot above 'e' ; 't' squeezed in ; cursive 'nt' superscript</note> pas <rhyme>valoir</rhyme>
+<lb n="2AMA.067a:09"/>Et c'est ce qui\ le cuer fait tant <rhyme>douloir</rhyme>
+<lb n="2AMA.067a:10"/>Au mal eureux\ <note>retour du 'x'</note> qui n'a aut<abbr type="re"/> <rhyme>chaloir</rhyme>
+<lb n="2AMA.067a:11"/>Par <rhyme>follïance</rhyme><l n="1364"/>
+<lb n="2AMA.067a:12"/>¶ Aussi <note>tache de cire ?</note> ne doy\ pas mettre en <rhyme>oublïance</rhyme>
+<lb n="2AMA.067a:13"/>Ce qu'avez dit\ qu'amoureuse <rhyme>alïance</rhyme>
+<lb n="2AMA.067a:14"/>A fait perir\ par sa <rhyme>contralïence</rhyme>
+<lb n="2AMA.067a:15"/>Maint vaillant <rhyme>homme</rhyme><l n="1368"/>
+<lb n="2AMA.067a:16"/>Oû temps jadis\ et en <name ref="France"><c>f</c>rance</name> et à <name ref=""><rhyme>ro<abbr type="m"/>me</rhyme></name>
+<lb n="2AMA.067a:17"/>Et autre part\ si en nommez gra<abbr type="n"/>t <rhyme>so<abbr type="m"/>me</rhyme>
+<lb n="2AMA.067a:18"/>Qui dure mort\ receurent toute <rhyme>somme</rhyme>
+<lb n="2AMA.067a:19"/>Com vous <rhyme>comptez</rhyme><l n="1372"/>
+<lb n="2AMA.067a:20"/>Par tele amour\ mais un pou <rhyme>m'escoutez</rhyme>
+<lb n="2AMA.067a:21"/>Je di pour vray\ et de ce ne <rhyme>doubtez</rhyme>
+<lb n="2AMA.067a:22"/>Que s'il fust vray\ que ainsi fusse<abbr type="n"/>t <rhyme>matez</rhyme>
+<lb n="2AMA.067a:23"/>Et mis en <rhyme>biere</rhyme><l n="1376"/>
+<lb n="2AMA.067a:24"/>Blasme n'en doit\ en nesune <rhyme>maniere</rhyme> <note>rhyme ?</note>
+<lb n="2AMA.067a:25"/><name ref="God+of+Love">Amour</name> avoir\ car leur fole <rhyme>maniere</rhyme>
+<lb n="2AMA.067a:26"/>Les fist mourir\ non pas amour <rhyme>entiere</rhyme>
+<lb n="2AMA.067a:27"/>Je vous <rhyme>demande</rhyme><l n="1380"/>
+<lb n="2AMA.067a:28"/>¶ N'est pas bonne\ doulce et sade <rhyme>l'amande</rhyme>
+<lb n="2AMA.067a:29"/>Mais <add place="supralinear" evidence="" type="">se</add> <note>caret</note> cellui qui la veult et la <note>also expunctuated</note> <rhyme>demande</rhyme>
+<lb n="2AMA.067a:30"/>S'en ront le col\ ou à l'arbre se <rhyme>pende</rhyme>
+<lb n="2AMA.067a:31"/>Vault elle <rhyme>pis</rhyme><l n="1384"/>
+<lb n="2AMA.067a:32"/>¶ Le vin est bon\ mais s'aucun ta<abbr type="n"/>t ou <rhyme>pis</rhyme>
+<lb n="2AMA.067a:33"/>S'en est fiché\ qu'yvre soit <rhyme>accrouppis</rhyme>
+<lb n="2AMA.067a:34"/>Ou comme mort <note>correction to 'porc' begun, but not completed ; manque le grattage du jambage du 'p' pour être complet</note> gisant <note>'a' repassé ?</note> com par <rhyme>despis</rhyme>
+<lb n="2AMA.067a:35"/>Ou une <rhyme>bigne</rhyme><l n="1388"/>
+<lb n="2AMA.067a:36"/>Se fait oû front\ par yvrece <rhyme>folligne</rhyme>
+<lb n="2AMA.067a:37"/>Ou il s'occist\ ou un autre <rhyme>l'engigne</rhyme>
+<lb n="2AMA.067a:38"/>En doit je croy\ pour ce arracher la <rhyme>vigne</rhyme>
+<lb n="2AMA.067a:39"/>Qui tel fruit <rhyme>donne</rhyme><l n="1392"/>
+<lb n="2AMA.067a:40"/>Ne peut on <note>scrappy correction ; ancien 'y' ?</note> pas de toute \ chose\ <rhyme>bonne</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.067b:01"/>Très mal user\ de une bonne <rhyme>personne</rhyme> <note>elaborate 'T', 's's, 'u' ; very elaborate 'l'</note>
+<lb n="2AMA.067b:02"/>Peut venir mal\ à qui mal s'en <rhyme>ordonne</rhyme>
+<lb n="2AMA.067b:03"/>Ainsi sans <rhyme>faille</rhyme><l n="1396"/>
+<lb n="2AMA.067b:04"/>Est il d'<name ref="God+of+Love"><c>a</c>mours</name>\ ce n'est pas <rhyme>controuvaille</rhyme>
+<lb n="2AMA.067b:05"/>Car il n'est chose oû monde qui ta<abbr type="n"/>t <rhyme>vaille</rhyme>
+<lb n="2AMA.067b:06"/>Mais cil est folz\ qui tel robe s'en <rhyme>taille</rhyme>
+<lb n="2AMA.067b:07"/>Dont pis lui <rhyme>viengne</rhyme><l n="1400"/>
+<lb n="2AMA.067b:08"/>C'est droit qu'amant à une amo<abbr type="ur"/> <note>abbréviation à l'encre plus pâle ?</note> se <rhyme>tiengne</rhyme>
+<lb n="2AMA.067b:09"/>De tout son cuer\ aime et toudis <rhyme>maintiengne</rhyme>
+<lb n="2AMA.067b:10"/>Foy loyauté\ et verité <rhyme>soustiengne</rhyme>
+<lb n="2AMA.067b:11"/>Mais pour ce <rhyme>faire</rhyme><l n="1404"/>
+<lb n="2AMA.067b:12"/>N'est pas besoing\ s'occire et soy <rhyme>deffaire</rhyme>
+<lb n="2AMA.067b:13"/>Amour faite <note>corrected ? 1 letter space and filler</note>\ fu pour l'omme <rhyme>p<abbr type="ar"/>faire</rhyme>
+<lb n="2AMA.067b:14"/>Et non pas pour\ lui grever &amp; <rhyme>meffaire</rhyme>
+<lb n="2AMA.067b:15"/>C'est chose <rhyme>voire</rhyme><l n="1408"/>
+<lb n="2AMA.067b:16"/>¶ Mais pour ce que\ ramenteu mainte <rhyme>histoire</rhyme>
+<lb n="2AMA.067b:17"/>Avez ycy\ que li comptes <rhyme>avoire</rhyme>
+<lb n="2AMA.067b:18"/>Des vrays amans\ dignes de gra<abbr type="n"/>t <rhyme>memoire</rhyme>
+<lb n="2AMA.067b:19"/>Qui moult <rhyme>souffrirent</rhyme><l n="1412"/>
+<lb n="2AMA.067b:20"/>Par grant amour\ et qui à mort <rhyme>s'offrire<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067b:21"/>Ainsi compter\ vueil de ceulx qui <note>sur grattage ?</note> <rhyme>eslire<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067b:22"/>Le mieulx du gieu\ et po<abbr type="ur"/> amours ta<abbr type="n"/>t <rhyme>fire<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067b:23"/>Que <rhyme>renommée</rhyme><l n="1416"/>
+<lb n="2AMA.067b:24"/>Par le monde\ fu de leur bien <rhyme>semée</rhyme>
+<lb n="2AMA.067b:25"/>Par vaillans fais\ en mainte gra<abbr type="n"/>t <rhyme>armée</rhyme>
+<lb n="2AMA.067b:26"/>Faire\ par quoy\ à tous jours mais <rhyme>semée</rhyme>
+<lb n="2AMA.067b:27"/>Sera leur <rhyme>grace</rhyme><l n="1420"/>
+<lb n="2AMA.067b:28"/>Très honorable et <c>R</c>ien n'est qui ne <rhyme>passe</rhyme>
+<lb n="2AMA.067b:29"/>Fors bon renom\ mais après q<abbr type="ue"/> on <rhyme>t<abbr type="re"/>spasse</rhyme>
+<lb n="2AMA.067b:30"/>Demeure loz\ sages est qui <rhyme>l'amasse</rhyme>
+<lb n="2AMA.067b:31"/>¶ Or <rhyme>regardons</rhyme><l n="1424"/>
+<lb n="2AMA.067b:32"/>Se <name ref="Lancelot+du+Lac"><c>l</c>ancelot\ du <c>l</c>ac</name> qui si <rhyme>preudoms</rhyme>
+<lb n="2AMA.067b:33"/>Fu en armes\ receut de nobles <rhyme>dons</rhyme>
+<lb n="2AMA.067b:34"/>Pour celle amour\ de quoy adès <rhyme>plaido<abbr type="n"/>s</rhyme>
+<lb n="2AMA.067b:35"/>Fu il <rhyme>vaillant</rhyme><l n="1428"/>
+<lb n="2AMA.067b:36"/>Qu'en dites vous\ s'ala il <rhyme>exillant</rhyme>
+<lb n="2AMA.067b:37"/>Pour celle amour\ ne son corps <rhyme>besilla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067b:38"/>Je croy que non\ ains plus q<abbr type="ue"/> son <rhyme>vailla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067b:39"/>Lui fu <rhyme>valable</rhyme><l n="1432"/>
+<lb n="2AMA.067b:40"/>Sur toute <note>correction over erasure, 3 letter space, partly filled by extended 'e' and a dash</note> <c>R</c>iens et bo<abbr type="n"/>ne et <rhyme>prouffitable</rhyme>
+<!-- parchment is flecked with blood at foot of column b -->
+
+
+<pb n="067" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.067v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">Le </fw> <fw type="header2" place="column c" rend="centred">Debat</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="42" writtenLines="41"/>
+<lb n="2AMA.067c:01"/>Car par ce fu\ vaillant et <rhyme>agréable</rhyme> <note>elaborate 'u' ; interlaced 'l's</note>
+<lb n="2AMA.067c:02"/>Dont ne Lui fu\ ne male ne <rhyme>nuisable</rhyme>
+<lb n="2AMA.067c:03"/>Je croy au <rhyme>mains</rhyme><l n="1436"/>
+<lb n="2AMA.067c:04"/>Si ne s'occist\ ne fu par autres <rhyme>mains</rhyme>
+<lb n="2AMA.067c:05"/>Mort ne blecié ains de joye en fut <rhyme>plains</rhyme>
+<lb n="2AMA.067c:06"/>Aussi d'autres\ encores <note>rising 's', squeezed in to make the line regular</note> est <rhyme>mains</rhyme>
+<lb n="2AMA.067c:07"/>¶ Et <rhyme>mesmement</rhyme><l n="1440"/>
+<lb n="2AMA.067c:08"/><name ref="Tristan">Tristan</name> de qui\ parlastes <rhyme>ensem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.067c:09"/>En devint preux\ se l'istoire ne <rhyme>ment</rhyme>
+<lb n="2AMA.067c:10"/>Pour amours vint le bon <rhyme>commencem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.067c:11"/>De sa <rhyme>prouëce</rhyme><l n="1444"/>
+<lb n="2AMA.067c:12"/>Et non obstant\ qu'il mouru à <rhyme>destresse</rhyme>
+<lb n="2AMA.067c:13"/>Par <name ref="Fortune"><c>f</c>ortune</name>\ qui maint meschiefs <rhyme>adresse</rhyme>
+<lb n="2AMA.067c:14"/>Tant de bien fist\ pour sa dame &amp; <rhyme>maistresse</rhyme>
+<lb n="2AMA.067c:15"/>Qu'à tous jours <rhyme>mais</rhyme><l n="1448"/>
+<lb n="2AMA.067c:16"/>Sera parlé\ de ses haultains b<abbr type="ie"/>n <rhyme>fais</rhyme>
+<lb n="2AMA.067c:17"/>Ce fist <name ref="God+of+Love"><c>a</c>mours</name>\ par qui il fu <rhyme>p<abbr type="ar"/>fais</rhyme>
+<lb n="2AMA.067c:18"/>Si avez dit\ que de l'amoureux <rhyme>fais</rhyme>
+<lb n="2AMA.067c:19"/>Fors mal ne <rhyme>vient</rhyme><l n="1452"/>
+<lb n="2AMA.067c:20"/>Or regardons\ po<abbr type="ur"/> <note>1 letter space and filler ; 'par' to 'pour'?</note> <name ref="">dieu</name> s'il m'en <rhyme>souvie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067c:21"/>Së à chacun d'amours si <rhyme>mesavient</rhyme>
+<lb n="2AMA.067c:22"/>¶ <name ref="Jason">Jason</name> jadis\ sicom l'istoire <rhyme>tient</rhyme>
+<lb n="2AMA.067c:23"/>Fu <rhyme>reschappé</rhyme><l n="1456"/>
+<lb n="2AMA.067c:24"/>De dure mort\ où estoit <rhyme>entrappé</rhyme>
+<lb n="2AMA.067c:25"/>Se du peril\ ne l'eüst <rhyme>destrappé</rhyme>
+<lb n="2AMA.067c:26"/><name ref="Medea">Medée</name> qui\ de s'amour ot <rhyme>frappé</rhyme>
+<lb n="2AMA.067c:27"/>Le cuer si <rhyme>fort</rhyme><l n="1460"/>
+<lb n="2AMA.067c:28"/>Que le garda\ <note> ?, retour du 'a' ?</note> et restora de <rhyme>mort</rhyme>
+<lb n="2AMA.067c:29"/>Quant la toison\ d'or conquist\ p<abbr type="ar"/> le <rhyme>sort</rhyme>
+<lb n="2AMA.067c:30"/>Que lui apprist\ en <name ref="Colchos"><c>c</c>olcos</name> quant au <rhyme>port</rhyme>
+<lb n="2AMA.067c:31"/>Fu <note>4 letter space and filler - hole in parchment</note> <rhyme>arrivé</rhyme><l n="1464"/>
+<lb n="2AMA.067c:32"/>Qui qu'en mourust\ cellui fu <rhyme>avivé</rhyme> <note>sic</note>
+<lb n="2AMA.067c:33"/>Par tele amour mais trop fu <rhyme>desrivé</rhyme>
+<lb n="2AMA.067c:34"/>Quant faulte fist\ à celle qui <rhyme>privé</rhyme>
+<lb n="2AMA.067c:35"/>L'ot de <rhyme>peril</rhyme><l n="1468"/>
+<lb n="2AMA.067c:36"/>Et <name ref="Theseus+King+of+Athens"><c>t</c>heseüs</name>\ du <name ref="King+of+Athens">roy d'<c>a</c>thenes</name> <rhyme>fil</rhyme>
+<lb n="2AMA.067c:37"/>Quant envoyé\ fu en <name ref="Crete"><c>c</c>rete</name> en <rhyme>exil</rhyme>
+<lb n="2AMA.067c:38"/><name ref="Ariadne">Adrïane</name>\ par son engin <rhyme>soubtil</rhyme>
+<lb n="2AMA.067c:39"/>Le <rhyme>reschappa</rhyme><l n="1472"/>
+<lb n="2AMA.067c:40"/>De dure mort\ si le <rhyme>desveloppa</rhyme>
+<lb n="2AMA.067c:41"/>De la prison\ <name ref="Minos">Minos</name> quant <rhyme>s'agrappa</rhyme> <note>1er 'a' sur grattage ?</note>
+<!-- 1 blank line here -->
+
+<cb n="d"/>
+<layout ruledLines="42" writtenLines="41"/>
+<lb n="2AMA.067d:01"/>À son fillé et la gorge <rhyme>coppa</rhyme> <note>'u'? - above first 'p', preparation for correction not carried out</note>
+<lb n="2AMA.067d:02"/>Au cruel <rhyme>monstre</rhyme><l n="1476"/>
+<lb n="2AMA.067d:03"/>Ne nuisi pas\ <name ref="God+of+Love"><c>a</c>mours</name> je le vous <rhyme>monstre</rhyme>
+<lb n="2AMA.067d:04"/>À cestui cy\ car l'istoire <rhyme>demonstre</rhyme>
+<lb n="2AMA.067d:05"/>Qu'il eschappa\ par mer plus tost q<abbr type="ue"/> <rhyme>loustre</rhyme>
+<lb n="2AMA.067d:06"/>Gué\ ne <rhyme>trespasse</rhyme><l n="1480"/>
+<lb n="2AMA.067d:07"/>¶ Et <name ref="Aeneas"><c>e</c>néas</name>\ après qu'ot esté <rhyme>arse</rhyme>
+<lb n="2AMA.067d:08"/><name ref="Troy">La grant cité\ de <c>t</c>roye</name> à qui <rhyme>reverse</rhyme>
+<lb n="2AMA.067d:09"/>Fu <name ref="Fortune"><c>f</c>ortune</name> qui maint royaume <rhyme>verse</rhyme>
+<lb n="2AMA.067d:10"/>Quant il par <rhyme>mer</rhyme><l n="1484"/>
+<lb n="2AMA.067d:11"/>Aloit vagant\ à cuer triste &amp; <rhyme>amer</rhyme>
+<lb n="2AMA.067d:12"/>Ne ne finoit\ de ses <name ref="God"><c>d</c>ieux</name> <rhyme>reclamer</rhyme>
+<lb n="2AMA.067d:13"/>Mais <name ref="Good+Hope">bon <c>s</c>ecours</name>\  lui survint po<abbr type="ur"/> <rhyme>amer</rhyme>
+<lb n="2AMA.067d:14"/>Car <rhyme>accueilli</rhyme><l n="1488"/>
+<lb n="2AMA.067d:15"/>Fu de <name ref="Dido"><c>d</c>ido\ la belle</name> et <rhyme>recueilli</rhyme>
+<lb n="2AMA.067d:16"/>S'elle ne fust\ esté eust <rhyme>maubailli</rhyme>
+<lb n="2AMA.067d:17"/>Dont ot grant tort\ quant vers elle <rhyme>failli</rhyme>
+<lb n="2AMA.067d:18"/>Si n'en <rhyme>moururent</rhyme><l n="1492"/>
+<lb n="2AMA.067d:19"/>Mie ces &#x95;iii&#x95; ains eschappez en <rhyme>fure<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067d:20"/>Et mains autres\ assez de biens en <rhyme>eure<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067d:21"/>¶ Et si est vray\ com les histoires <rhyme>jure<abbr type="n"/>t</rhyme>
+<lb n="2AMA.067d:22"/>Que <name ref="Theseus"><rhyme><c>t</c>heseüs</rhyme></name><l n="1496"/>
+<lb n="2AMA.067d:23"/>Dont j'ay parlé\ qui tant fu <rhyme>esleüs</rhyme>
+<lb n="2AMA.067d:24"/>Qu'avec le fort\ <name ref="Hercules"><c>h</c>erculés</name> fu <rhyme>veüs</rhyme>
+<lb n="2AMA.067d:25"/>En grans effors\ en mains lieux fu <rhyme>sceüs</rhyme>
+<lb n="2AMA.067d:26"/>Quant <rhyme>enfançon</rhyme><l n="1500"/>
+<lb n="2AMA.067d:27"/>Estoit petit\ il estoit lait <rhyme>garçon</rhyme>
+<lb n="2AMA.067d:28"/>Boçu maufait\ sicom dit la <name ref="Romance+of+Theseus"><rhyme>chançon</rhyme>
+<lb n="2AMA.067d:29"/>De l'istoire</name>\ mais il changia <rhyme>façon</rhyme>
+<lb n="2AMA.067d:30"/>Pour <name ref="Helen">belle <rhyme>helaine</rhyme></name><l n="1504"/>
+<lb n="2AMA.067d:31"/>Pour lui fu preux\ et emprist mai<abbr type="n"/>te <rhyme>peine</rhyme>
+<lb n="2AMA.067d:32"/>Vous le véez\ en ces tappis de <rhyme>laine</rhyme>
+<lb n="2AMA.067d:33"/>En un aygle d'or\ qu'on conduit et <rhyme>maine</rhyme>
+<lb n="2AMA.067d:34"/>Où fu <rhyme>mucié</rhyme><l n="1508"/>
+<lb n="2AMA.067d:35"/>Tant qu'il se fu\ à la belle <rhyme>annoncié</rhyme>
+<lb n="2AMA.067d:36"/>Puis la ravi dont furent <rhyme>corroucié</rhyme>
+<lb n="2AMA.067d:37"/>Tous ses parens\ si ne lui fu <rhyme>laissié</rhyme>
+<lb n="2AMA.067d:38"/>L'amener <rhyme>loings</rhyme><l n="1512"/>
+<lb n="2AMA.067d:39"/>¶ Si n'est on pas\ exillié de tous <rhyme>poins</rhyme>
+<lb n="2AMA.067d:40"/>Pour ceste amour\ quant on appre<abbr type="n"/>t <note>'t' sur grattage</note> les <rhyme>poins</rhyme> <note>rising 's'</note>
+<lb n="2AMA.067d:41"/>D'estre vaillant\ p<abbr type="ar"/> honnourables <rhyme>soings</rhyme>
+<!-- 1 blank line here -->
+
+
+<pb n="068" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.068r:01"/><hi rend="red"><fw type="header1" place="column a" rend="centred">deux</fw> <fw type="header2" place="column b" rend="tabbed">amans xiiii&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40" writtenLines="39"/>
+<lb n="2AMA.068a:01"/>¶ Autres <rhyme>histoires</rhyme><l n="1516"/>
+<lb n="2AMA.068a:02"/>Si racontent\ assez de choses <rhyme>voires</rhyme>
+<lb n="2AMA.068a:03"/>Des vrays amans\ dont les haultes <rhyme>memoir<abbr type="es"/></rhyme> <note>odd abbreviation</note>
+<lb n="2AMA.068a:04"/>À tous jours mais\ seront par tout <rhyme>nottoires</rhyme>
+<lb n="2AMA.068a:05"/>Et <name ref="Florimont+d'Albanie"><rhyme><c>f</c>lorimont</rhyme><l n="1520"/>
+<lb n="2AMA.068a:06"/>D'<c>a</c>lbanië</name>\ il n'ot en tout le <rhyme>mond</rhyme>
+<lb n="2AMA.068a:07"/>Nul plus vaillant\ mais dont lui vint tel <rhyme>mo<abbr type="n"/>t</rhyme>
+<lb n="2AMA.068a:08"/>De vaillances\ fors d'<name ref="God+of+Love"><c>a</c>mours</name> q<abbr type="ui"/> <rhyme>semont</rhyme>
+<lb n="2AMA.068a:09"/>Ses <rhyme>serviteurs</rhyme><l n="1524"/>
+<lb n="2AMA.068a:10"/>À estre bons\ tant\ anoblist les <rhyme>cuers</rhyme>
+<lb n="2AMA.068a:11"/>Pour <name ref="Queen+of+Naples">roine\ de <c>n</c>aples</name> mains grans <note>mot biffé d'un trait à l'encre pâle ?</note> <rhyme>labeurs</rhyme>
+<lb n="2AMA.068a:12"/>Il endura\ non obstant à tous <rhyme>fuers</rhyme>
+<lb n="2AMA.068a:13"/>Il <rhyme>conquestoit</rhyme><l n="1528"/>
+<lb n="2AMA.068a:14"/>Pris et honneur\ son temps dont ne <rhyme>gastoit</rhyme>
+<lb n="2AMA.068a:15"/>En bien amer\ par qui il <rhyme>acquestoit</rhyme>
+<lb n="2AMA.068a:16"/>Les vaillances\ qu'<name ref="God+of+Love"><c>a</c>mours</name> lui <rhyme>apprestoit</rhyme>
+<lb n="2AMA.068a:17"/>¶ Et <name ref="Durmart+le+Gallois">le <rhyme><c>g</c>allois</rhyme><l n="1532"/>
+<lb n="2AMA.068a:18"/>Durmas vaillant</name>\ qui fu filz au bon <name ref="King+of+Denmark"><rhyme>roys</rhyme>
+<lb n="2AMA.068a:19"/>Danemarchois</name>\ cellui ot si grant <rhyme>voix</rhyme>
+<lb n="2AMA.068a:20"/>De prouëces\ que plus n'en ore<abbr type="n"/>t&#x95; <note>dot - voulait-elle écrire '&#x95;iii&#x95;' ?</note> <rhyme>trois</rhyme>
+<lb n="2AMA.068a:21"/>Je vous <rhyme>demande</rhyme><l n="1536"/>
+<lb n="2AMA.068a:22"/>Quë il perdi\ quant <name ref="Fénice+Queen+of+Ireland">roÿne <rhyme>d'<c>i</c>rlande</rhyme></name>
+<lb n="2AMA.068a:23"/>Prist à amer\ et tout en sa <rhyme>commande</rhyme>
+<lb n="2AMA.068a:24"/>Il se soubsmist\ dont passa mai<abbr type="n"/>te <rhyme>lande</rhyme>
+<lb n="2AMA.068a:25"/>Pour lui <rhyme>conquerre</rhyme><l n="1540"/>
+<lb n="2AMA.068a:26"/>Son royaume\ et demena si gra<abbr type="n"/>t <rhyme>guerre</rhyme>
+<lb n="2AMA.068a:27"/>Qu'il le conquist\ et lui rendi sa <rhyme>terre</rhyme>
+<lb n="2AMA.068a:28"/>Dont il dot b<abbr type="ie"/>n\ par droit honneur <rhyme>acq<abbr type="ue"/>rre</rhyme>
+<lb n="2AMA.068a:29"/>¶ <name ref="Cléomades"><rhyme>Cléomadès</rhyme></name><l n="1544"/>
+<lb n="2AMA.068a:30"/>Fu il vaillant\ po<abbr type="ur"/> <name ref="God+of+Love"><c>a</c>mours</name> et <rhyme>adès</rhyme>
+<lb n="2AMA.068a:31"/>Armes suivoit\ aussi <name ref="Palamedes"><rhyme><c>p</c>allamedès</rhyme></name>
+<lb n="2AMA.068a:32"/>Vous souvient il des proëces et <rhyme>des</rhyme>
+<lb n="2AMA.068a:33"/>Grans <rhyme>vaillantises</rhyme><l n="1548"/>
+<lb n="2AMA.068a:34"/>Qu'on dit de lui\ assez en maintes <rhyme>guises</rhyme>
+<lb n="2AMA.068a:35"/>Tout pour <name ref="God+of+Love"><c>a</c>mours</name>\ faisoit ses <rhyme>entreprises</rhyme> <note>qui du 'n' ?</note>
+<lb n="2AMA.068a:36"/>Si vous suppli\ ne soient voz <rhyme>devises</rhyme>
+<lb n="2AMA.068a:37"/>Que mal en <note>'nen' changé en 'en' - erasure, leaving a gap</note> <rhyme>preigne</rhyme><l n="1552"/>
+<lb n="2AMA.068a:38"/>¶ Aussi <name ref="Arthur+of+Britanny"><c>a</c>rtus\ qui fu duc de <rhyme><c>b</c>retaigne</rhyme></name>
+<lb n="2AMA.068a:39"/>Pour <name ref="Florence"><c>f</c>lourance</name>\ qui puis fu sa <rhyme>compaigne</rhyme>
+<!-- 1 blank line here -->
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.068b:01"/>Il chevaucha\ et <name ref="France"><c>f</c>rance</name> et <name ref="Germany"><rhyme><c>a</c>llemaigne</rhyme></name> <note>elaborated 'l' 'h', du moins hastes</note>
+<lb n="2AMA.068b:02"/>Et maintes <rhyme>terres</rhyme><l n="1556"/>
+<lb n="2AMA.068b:03"/>En mains beaulx fais\ et en maintes grans <rhyme>guerres</rhyme> <note>rising 's'</note>
+<lb n="2AMA.068b:04"/>Tout pour <name ref="God+of+Love"><c>a</c>mours</name>\ qui le mettoit ès <rhyme>erres</rhyme>
+<lb n="2AMA.068b:05"/>D'avoir honneur\ pour ce emprenoit ses <rhyme>erres</rhyme>
+<lb n="2AMA.068b:06"/>¶ Mais sans <rhyme>aler</rhyme><l n="1560"/>
+<lb n="2AMA.068b:07"/>Plus loing querir\ encor pouo<abbr type="n"/>s <rhyme>parler</rhyme>
+<lb n="2AMA.068b:08"/>De n<abbr type="ost"/>re temps\ ne devons pas <rhyme>celer</rhyme>
+<lb n="2AMA.068b:09"/>Les bons vaillans\ qui sans eulx <rhyme>affoller</rhyme>
+<lb n="2AMA.068b:10"/>Në eulx mal <rhyme>mettre</rhyme><l n="1564"/>
+<lb n="2AMA.068b:11"/>Vouldrent leur cuers\ en p<abbr type="ar"/>faite amo<abbr type="ur"/> <rhyme>mettre</rhyme>
+<lb n="2AMA.068b:12"/>Ne me fault ja\ autre preuve <rhyme>promettre</rhyme>
+<lb n="2AMA.068b:13"/>N'autre escript pour\ tesmoi<abbr type="n"/>g në aut<abbr type="re"/> <rhyme>l<abbr type="ett"/>re</rhyme>
+<lb n="2AMA.068b:14"/>Car <rhyme>veritable</rhyme>-<l n="1568"/>
+<lb n="2AMA.068b:15"/>Ment le scet\ on\ le vaillant <rhyme>connestable</rhyme>
+<lb n="2AMA.068b:16"/>De <name ref="France"><c>f</c>rance</name> dont <name ref="God"><c>d</c>ieux</name> ait l'ame <rhyme>acceptable</rhyme>
+<lb n="2AMA.068b:17"/><name ref="Bertran+du+Guesclin">Le bon <c>b</c>ertran\ le preux et le <rhyme>valable</rhyme>
+<lb n="2AMA.068b:18"/>Du <rhyme><choice><sic>gué aquin</sic><corr reason="spelling" resp="JCL"><c>g</c>uéaquin</corr></choice></rhyme></name> <note>The spelling is unusual.</note><l n="1572"/>
+<lb n="2AMA.068b:19"/>Qui aux <name ref="Englishmen"><c>a</c>nglois</name>\ fist maint div<abbr type="er"/>s <note>tracé du 's' ?</note> <rhyme>hutin</rhyme>
+<lb n="2AMA.068b:20"/>Dont ot honneur\ leur chasteaulx à <rhyme>butin</rhyme>
+<lb n="2AMA.068b:21"/>Mettoit souvent\ ou fust soir ou <rhyme>matin</rhyme>
+<lb n="2AMA.068b:22"/>Et <rhyme>renommé</rhyme><l n="1576"/>
+<lb n="2AMA.068b:23"/>Sera tous jours\ et des bons <rhyme>reclamé</rhyme>
+<lb n="2AMA.068b:24"/>Premierement po<abbr type="ur"/> <name ref="God+of+Love"><c>a</c>mours</name> fu <rhyme>armé</rhyme>
+<lb n="2AMA.068b:25"/>Ce disoit il\ et desir d'estre <rhyme>amé</rhyme>
+<lb n="2AMA.068b:26"/>Le fist <rhyme>vaillant</rhyme><l n="1580"/>
+<lb n="2AMA.068b:27"/>De bonne heure\ le fist si <rhyme>traveilla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.068b:28"/><name ref="God+of+Love">Amours</name> qui fait\ chacun bon cuer <rhyme>veilla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.068b:29"/>À poursuivrë\ honneur s'il est <rhyme>vueilla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.068b:30"/>Loz qui mieulx <rhyme>vault</rhyme><l n="1584"/>
+<lb n="2AMA.068b:31"/>Que riens qui soit\ et le bon <name ref="Boucicaut"><rhyme><c>b</c>oursicault</rhyme></name> <note>NB spelling, pronunciation</note>
+<lb n="2AMA.068b:32"/>Le mareschal\ qui fu preux sage et <rhyme>cault</rhyme>
+<lb n="2AMA.068b:33"/>Tout po<abbr type="ur"/> <name ref="God+of+Love"><c>a</c>mours</name>\ fu vailla<abbr type="n"/>t large et <rhyme>bault</rhyme>
+<lb n="2AMA.068b:34"/>Ce <rhyme>devenir</rhyme><l n="1588"/>
+<lb n="2AMA.068b:35"/>Le fist ytel\ celle voye <rhyme>tenir</rhyme>
+<lb n="2AMA.068b:36"/>Ces &#x95;ii&#x95; enfans\ veulent et <rhyme>maintenir</rhyme> <note>'Ces', i.e. 'Ses'</note>
+<lb n="2AMA.068b:37"/>D'armes le faiz\ pour le temps <rhyme>avenir</rhyme>
+<lb n="2AMA.068b:38"/>Louange <rhyme>acquerre</rhyme><l n="1592"/>
+<lb n="2AMA.068b:39"/>¶ Et à present\ ancore vit sur <rhyme>terre</rhyme>
+<lb n="2AMA.068b:40"/><name ref="God">Dieu</name> lui tiengne <name ref="Louis+de+Sancerre">le vaillant de <rhyme><c>s</c>ancerre</rhyme></name>
+
+
+<pb n="068" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.068v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>d</c>ebat</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.068c:01"/><name ref="Louis+de+Sancerre">Connestable</name>\ si ne couvient <rhyme>enquerre</rhyme>
+<lb n="2AMA.068c:02"/>De <rhyme>chevalier</rhyme><l n="1596"/> 
+<lb n="2AMA.068c:03"/>Meilleur de lui\ en son temps <rhyme>batailler</rhyme>
+<lb n="2AMA.068c:04"/>L'a fait <name ref="God+of+Love"><c>a</c>mours</name>\ qui moult bon <rhyme><abbr type="con"/>seill<abbr type="ie"/>r</rhyme>
+<lb n="2AMA.068c:05"/>Lui a esté\ quant par soy <rhyme>travailler</rhyme>
+<lb n="2AMA.068c:06"/>A tant <rhyme>conquis</rhyme><l n="1600"/>
+<lb n="2AMA.068c:07"/>Quë il a loz\ entre les bons <rhyme>acquis</rhyme>
+<lb n="2AMA.068c:08"/>Sa fait <name ref="God+of+Love"><c>a</c>mours</name>\ qui lui a ce <rhyme>pourquis</rhyme>
+<lb n="2AMA.068c:09"/>¶ Aussi d'autres\ sicom j'en ay <rhyme>enquis</rhyme>
+<lb n="2AMA.068c:10"/>En ce <rhyme>regné</rhyme><l n="1604"/>
+<lb n="2AMA.068c:11"/>En a esté\ qu'<name ref="God+of+Love"><c>a</c>mours</name> a <rhyme>gouverné</rhyme>
+<lb n="2AMA.068c:12"/>Encore en est\ le gieu n'est pas <rhyme>finé</rhyme>
+<lb n="2AMA.068c:13"/>Qui en armes\ se sont si bien <rhyme>mené</rhyme>
+<lb n="2AMA.068c:14"/>Qu'à tous jours <rhyme>mais</rhyme><l n="1608"/>
+<lb n="2AMA.068c:15"/>Sera retrait\ de leurs beaulx &amp; bo<abbr type="n"/>s <note>double nasal abbreviation</note> <rhyme>faiz</rhyme>
+<lb n="2AMA.068c:16"/>¶ Des chevaliers\ ne sçay pourquoy me <rhyme>tais</rhyme>
+<lb n="2AMA.068c:17"/>Qui sont adès en vie qui le <rhyme>fais</rhyme>
+<lb n="2AMA.068c:18"/>D'armes <rhyme>porter</rhyme><l n="1612"/>
+<lb n="2AMA.068c:19"/>Pour bien amer\ a fait en pris <rhyme>monter</rhyme>
+<lb n="2AMA.068c:20"/>¶ Des trespassez / Encore puis <rhyme>compter</rhyme>
+<lb n="2AMA.068c:21"/>Du <name ref="Oton+de+Granson">bon <c>o</c>the de <c>g</c>rançon</name> <rhyme>racompter</rhyme>
+<lb n="2AMA.068c:22"/>Avez <rhyme>assez</rhyme><l n="1616"/>
+<lb n="2AMA.068c:23"/>Ouÿ comment\ onc\ <note>sic</note> de b<abbr type="ie"/>n ne fu <rhyme>lassez</rhyme>
+<lb n="2AMA.068c:24"/>En lui furent\ tous les biens <rhyme>amassez</rhyme>
+<lb n="2AMA.068c:25"/>¶ <name ref="Hutin+de+Vermeilles">De <c>v</c>ermelles <c>h</c>utin</name> mie <rhyme>effacez</rhyme>
+<lb n="2AMA.068c:26"/>D'entre les <rhyme>bons</rhyme><l n="1620"/>
+<lb n="2AMA.068c:27"/>Ne doit estre\ <name ref="God"><c>d</c>ieu</name> lui face <rhyme>pardons</rhyme>
+<lb n="2AMA.068c:28"/>¶ Mais aux vivans chevaliers <rhyme>regardo<abbr type="n"/>s</rhyme>
+<lb n="2AMA.068c:29"/>S'il en y a\ qui doivent grans <rhyme>guerredo<abbr type="n"/>s</rhyme> <note>11 syllables</note>
+<lb n="2AMA.068c:30"/>Par <rhyme>esprouver</rhyme><l n="1624"/>
+<lb n="2AMA.068c:31"/>À bonne amour\ que l'en peut bo<abbr type="n"/>s <rhyme>trouver</rhyme>
+<lb n="2AMA.068c:32"/>Vaillans\ <note> ?</note> sages\ courtois et no<abbr type="n"/> <rhyme>aver</rhyme>
+<lb n="2AMA.068c:33"/>¶ Le <name ref="Jean+de+Chateaumorand">bon <choice><sic>chasteau morant</sic><corr reason="name mistaken" resp="JCL"><c>c</c>hasteau morant</corr></choice></name> que <name ref="God"><c>d</c>ieu</name> <rhyme>sauver</rhyme>
+<lb n="2AMA.068c:34"/>Et garder <rhyme>vueille</rhyme><l n="1628"/>
+<lb n="2AMA.068c:35"/>Qui en armes\ sur les <name ref="Saracens"><c>s</c>arrasins</name> <rhyme>veille</rhyme>
+<lb n="2AMA.068c:36"/>En <name ref="Constantinople">la cité <c>c</c>onstantin</name> qu'il <rhyme>conseille</rhyme>
+<lb n="2AMA.068c:37"/>Ayde et garde\ pour la foy <name ref="God"><c>d</c>ieu</name> <rhyme>traveille</rhyme>
+<lb n="2AMA.068c:38"/>Cil doit <rhyme>avoir</rhyme><l n="1632"/>
+<lb n="2AMA.068c:39"/>Pris et honneur\ car il fait son <rhyme>devoir</rhyme>
+<lb n="2AMA.068c:40"/>Et ceulx qui sont o lui\ à dire <rhyme>voir</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.068d:01"/>Loz acquiere<abbr type="n"/>t qui trop mieulx vault <rhyme>qu'avoir</rhyme>
+<lb n="2AMA.068d:02"/>Et aux <name ref="Frenchmen"><rhyme><c>f</c>rançois</rhyme></name><l n="1636"/>
+<lb n="2AMA.068d:03"/>Font grant honneur\ et encor <rhyme>m'apperçois</rhyme>
+<lb n="2AMA.068d:04"/>De maint vaillant\ sages en to<abbr type="us"/> <rhyme>endrois</rhyme>
+<lb n="2AMA.068d:05"/>Qu'<name ref="God+of+Love"><c>a</c>mours</name> a fais bons courtois et à <rhyme>drois</rhyme>
+<lb n="2AMA.068d:06"/>Et <rhyme>honnourables</rhyme><l n="1640"/>
+<lb n="2AMA.068d:07"/>¶ Bon chevalier\ est <name ref="l'Hermite+de+la+Faye">l'<c>e</c>rmite et <rhyme>valables</rhyme>
+<lb n="2AMA.068d:08"/>De la <c>f</c>aye</name>\ et d'autres tieulx <rhyme>semblables</rhyme>
+<lb n="2AMA.068d:09"/>En est assez\ de vaillans et <rhyme>louables</rhyme>
+<lb n="2AMA.068d:10"/>Mais pour <rhyme>briefté</rhyme><l n="1644"/>
+<lb n="2AMA.068d:11"/>M'en tais  <note> ?</note> mais se\ <name ref="God"><c>d</c>ieu</name> vous envoit <rhyme>santé</rhyme>
+<lb n="2AMA.068d:12"/>¶ Or regardons\ s'en trouvero<abbr type="n"/>s <rhyme>planté</rhyme>
+<lb n="2AMA.068d:13"/>De plus jones qui plus bien q<abbr type="ue"/> <rhyme>griefté</rhyme>
+<lb n="2AMA.068d:14"/>Ont et <rhyme>conduis</rhyme><l n="1648"/>
+<lb n="2AMA.068d:15"/>Sont pour <name ref="God+of+Love"><c>a</c>mours</name> qui si bien les a <rhyme>duis</rhyme>
+<lb n="2AMA.068d:16"/>Qu'à toute honneur\ poursuivre so<abbr type="n"/>t <rhyme>aduis</rhyme>
+<lb n="2AMA.068d:17"/>Courtoisie vaillance est leur <rhyme>reduis</rhyme>
+<lb n="2AMA.068d:18"/>Ce n'est pas <rhyme>fable</rhyme><l n="1652"/>
+<lb n="2AMA.068d:19"/>¶ De <name ref="Charles+d'Albret">mon seigneur\ d'<c>a</c>lebret très <rhyme>valable</rhyme>
+<lb n="2AMA.068d:20"/>Charles</name> qui est\ à chacun <rhyme>agréable</rhyme>
+<lb n="2AMA.068d:21"/>Qu'en dites vous\ vous semble il poi<abbr type="n"/>t <rhyme>louable</rhyme>
+<lb n="2AMA.068d:22"/>Ne que son <rhyme>pris</rhyme><l n="1656"/>
+<lb n="2AMA.068d:23"/>Soit bien digne\ qu'il soit en tout <rhyme>pourpris</rhyme>
+<lb n="2AMA.068d:24"/>Ramenteü est il sage &amp; <rhyme>appris</rhyme>
+<lb n="2AMA.068d:25"/>Duit aux armes peut il estre <rhyme>repris</rhyme>
+<lb n="2AMA.068d:26"/>En nul <rhyme>endroit</rhyme><l n="1660"/>
+<lb n="2AMA.068d:27"/>Qui vouldroit mieulx\ souhaiter il <rhyme>fauldroit</rhyme>
+<lb n="2AMA.068d:28"/>Je croy que lui car raison aime et <rhyme>droit</rhyme>
+<lb n="2AMA.068d:29"/>Et tout bon fait\ <name ref="God+of+Love"><c>a</c>mours</name> lui a à <rhyme>droit</rhyme>
+<lb n="2AMA.068d:30"/>Et <rhyme>avoyez</rhyme><l n="1664"/>
+<lb n="2AMA.068d:31"/>¶ Le <name ref="Jean+de+Werchin">Seneschal de <c>h</c>aynau</name> or <rhyme>voyez</rhyme>
+<lb n="2AMA.068d:32"/>Est il d'amours\ à droit b<abbr type="ie"/>n <rhyme><abbr type="con"/>voyez</rhyme>
+<lb n="2AMA.068d:33"/>Ses jeunes jours\ sont ilz b<abbr type="ie"/>n <rhyme>employez</rhyme>
+<lb n="2AMA.068d:34"/>Est il <rhyme>oyseux</rhyme><l n="1668"/>
+<lb n="2AMA.068d:35"/>Va il suivant armes est il <rhyme>p<abbr type="ar"/>ceux</rhyme>
+<lb n="2AMA.068d:36"/>Que vous semble il\ n'est il b<abbr type="ie"/>n <rhyme>angoisseux</rhyme>
+<lb n="2AMA.068d:37"/>D'acquerir loz\ <name ref="God"><c>d</c>ieu</name> lui doi<abbr type="n"/>t &amp; à <rhyme>ceulx</rhyme>
+<lb n="2AMA.068d:38"/>Qui lui <rhyme>ressemblent</rhyme><l n="1672"/>
+<lb n="2AMA.068d:39"/>Je croy qu'en lui\ assez de b<abbr type="ie"/>ns <rhyme>s'assemble<abbr type="n"/>t</rhyme>
+<lb n="2AMA.068d:40"/>Courtoisie\ valeur ne s'en <rhyme>dessemble<abbr type="n"/>t</rhyme>
+<!-- Catchword 'n'est pas de ceulx' ; cursive -->
+
+
+<pb n="069" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.069r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">de</fw> <fw type="header2" place="column a" rend="tabbed from right">deux</fw> <fw type="header3" place="column b" rend="tabbed"><c><s>A</s></c>mans</fw> <fw type="header4" place="column b" rend="tabbed from right">xiiii&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.069a:01"/>N'est pas de ceulx à qui tous les cuers <rhyme>tre<abbr type="m"/>ble<abbr type="n"/>t</rhyme>
+<lb n="2AMA.069a:02"/>De <rhyme>couardie</rhyme><l n="1676"/>
+<lb n="2AMA.069a:03"/>¶ Et de <name ref="Raoul+de+Gaucourt"><c>g</c>aucourt</name>\ que voulez que je <rhyme>die</rhyme>
+<lb n="2AMA.069a:04"/>Il m'est advis\ qu'en maniere <rhyme>hardie</rhyme>
+<lb n="2AMA.069a:05"/>Armes poursuit\ nul n'est qui en <rhyme>mesdie</rhyme>
+<lb n="2AMA.069a:06"/>Tant bien s'i <rhyme>porte</rhyme><l n="1680"/>
+<lb n="2AMA.069a:07"/>Ce fait <name ref="God+of+Love"><c>a</c>mours</name>\ qui lui euvre la <rhyme>porte</rhyme>
+<lb n="2AMA.069a:08"/>De vaillantise et tout par autel <rhyme>sorte</rhyme>
+<lb n="2AMA.069a:09"/>Le bon <name ref="Charles+de+Savoisy">Charles de <c>s</c>avoisi</name> <rhyme>ennorte</rhyme>
+<lb n="2AMA.069a:10"/>Et fait <rhyme>vaillant</rhyme><l n="1684"/>
+<lb n="2AMA.069a:11"/>Si que son corps\ n'espargne ne <rhyme>vailla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.069a:12"/>Pour avoir loz\ com preux et <rhyme>traveilla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.069a:13"/>Ou soit de lance ou d'espée <rhyme>tailla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.069a:14"/>En armes <rhyme>faire</rhyme> <note>NB</note><l n="1688"/>
+<lb n="2AMA.069a:15"/>¶ <name ref="Bernard+de+Castelbajac"><choice><sic>Castel béart</sic><corr reason="name mistaken" resp="JCL" source="Roy">Castelbéart</corr></choice></name>\ et autres plus d'un <rhyme>paire</rhyme>
+<lb n="2AMA.069a:16"/>En qui bonté\ et vaillance <rhyme>repaire</rhyme>
+<lb n="2AMA.069a:17"/>Ce fait <name ref="God+of+Love"><c>a</c>mours</name>\ qui leur fait tout ce <rhyme>faire</rhyme>
+<lb n="2AMA.069a:18"/>Pour loz <rhyme>aquerre</rhyme><l n="1692"/>
+<lb n="2AMA.069a:19"/>Car chevaliers meilleurs ne couvie<abbr type="n"/>t <rhyme>q<abbr type="ue"/>rre</rhyme>
+<lb n="2AMA.069a:20"/>¶ Aussi <name ref="Clignet+de+Breban">Clignet\ de <c>b</c>reban</name>\ qui <rhyme>enquerre</rhyme>
+<lb n="2AMA.069a:21"/>Vouldroit de lui en <name ref="France"><c>f</c>rance</name> et autre <rhyme>terre</rhyme>
+<lb n="2AMA.069a:22"/>Est <rhyme>renommé</rhyme><l n="1696"/>
+<lb n="2AMA.069a:23"/>Car en mains lieux\ pour <name ref="God+of+Love"><c>a</c>mours</name> c'est <rhyme>armé</rhyme> <note>'c'est', i.e. 's'est'</note>
+<lb n="2AMA.069a:24"/>Par quoy il est\ et <note>'l', 't et' corrected ? - parchemin plus encre ?</note> sera <rhyme>renommé</rhyme>
+<lb n="2AMA.069a:25"/>Si sont jolis jeunes et <rhyme>assesmé</rhyme>
+<lb n="2AMA.069a:26"/>Et pour leur <rhyme>dames</rhyme><l n="1700"/>
+<lb n="2AMA.069a:27"/>Vont com vaillans\ en mains lieux faisa<abbr type="n"/>t <rhyme>arm<abbr type="e"/>s</rhyme> <note>rising 's'</note>
+<lb n="2AMA.069a:28"/>Dont quant les corps s<abbr type="er"/>ont dessoubz les <rhyme>lames</rhyme> <note>rising 's'</note>
+<lb n="2AMA.069a:29"/>D'eulx remaindra <note>'re' corrected ?; plutôt encre plus parchemin ?</note> louange<add place="supralinear" evidence="" type="">s</add> <note>rising 's' added to make line regular</note> &amp; grans <rhyme>fames</rhyme>
+<lb n="2AMA.069a:30"/>En tout <rhyme>empire</rhyme><l n="1704"/>
+<lb n="2AMA.069a:31"/>Mais que tousdis se garde<abbr type="n"/>t de <rhyme>mesdire</rhyme>
+<lb n="2AMA.069a:32"/>Car c'est chose qui trop noble ho<abbr type="m"/>me <rhyme>empire</rhyme>
+<lb n="2AMA.069a:33"/>Si feront ilz\ car leur bon cuer ne <rhyme>tire</rhyme>
+<lb n="2AMA.069a:34"/>Qu'à fuïr <rhyme>vice</rhyme><l n="1708"/>
+<lb n="2AMA.069a:35"/>Et à fuïr <note>'r' corrected ?; tache dans parchemin ? cire ou graisse ?</note> toute chose <rhyme>propice</rhyme>
+<lb n="2AMA.069a:36"/><name ref="God+of+Love">Amours</name> le fait\ car c'est son droit <rhyme>office</rhyme>
+<lb n="2AMA.069a:37"/>Dont leur rendra\ loyer et <rhyme>benefice</rhyme>
+<lb n="2AMA.069a:38"/>S'ilz le <rhyme>desserve<abbr type="n"/>t</rhyme><l n="1712"/>
+<lb n="2AMA.069a:39"/>¶ Si ne dites jamais qu'ama<abbr type="n"/>s <rhyme>s'ass<abbr type="er"/>ve<abbr type="n"/>t</rhyme>
+<lb n="2AMA.069a:40"/>Pour b<abbr type="ie"/>n amer qua<abbr type="n"/>t un tel maist<abbr type="re"/> <rhyme>s<abbr type="er"/>ve<abbr type="n"/>t</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.069b:01"/>Qui les fait bons\ et se bien le <rhyme>perserve<abbr type="n"/>t</rhyme>
+<lb n="2AMA.069b:02"/>Sachés de <rhyme>voir</rhyme><l n="1716"/>
+<lb n="2AMA.069b:03"/>Qu'ilz acquerront\ en faisant leur <rhyme>devoir</rhyme>
+<lb n="2AMA.069b:04"/>Proëce honneur\ sens louange et <rhyme>avoir</rhyme>
+<lb n="2AMA.069b:05"/>¶ De tieulx assez\ ce pouez vous <rhyme>savoir</rhyme>
+<lb n="2AMA.069b:06"/>En est sans <rhyme>doubte</rhyme><l n="1720"/>
+<lb n="2AMA.069b:07"/>Mais qui vouldroit\ nommer la so<abbr type="m"/>me <rhyme>toute</rhyme>
+<lb n="2AMA.069b:08"/>Des bons et beaulx amans toute la <rhyme>route</rhyme>
+<lb n="2AMA.069b:09"/>Dureroit trop\ car souvent qui <rhyme>escoute</rhyme>
+<lb n="2AMA.069b:10"/>Un trop lonc <rhyme>compte</rhyme><l n="1724"/>
+<lb n="2AMA.069b:11"/>Il ennuye mais ceulz dont je vous <rhyme>compte</rhyme>
+<lb n="2AMA.069b:12"/>Et d'autres tant\ dont je n'en sçay le <rhyme>co<abbr type="m"/>pte</rhyme>
+<lb n="2AMA.069b:13"/>Sont gracïeux\ car il n'est duc ne <rhyme>conte</rhyme>
+<lb n="2AMA.069b:14"/>Prince ne <rhyme>roy</rhyme><l n="1728"/>
+<lb n="2AMA.069b:15"/>S'il aime à droit\ qu'il ne\ hée <rhyme>desroy</rhyme>
+<lb n="2AMA.069b:16"/>Et tout mesdit\ et qu'en tout son <rhyme>arroy</rhyme>
+<lb n="2AMA.069b:17"/>Ne vaille mieulx <note>retour du 'x'</note> car l'amoureux <rhyme>conroy</rhyme>
+<lb n="2AMA.069b:18"/>Les fait <rhyme>apprendre</rhyme><l n="1732"/>
+<lb n="2AMA.069b:19"/>¶ Donc beaulx <name ref="The+Squire">amis</name>\ se bien voulez <rhyme>ente<abbr type="n"/>dre</rhyme>
+<lb n="2AMA.069b:20"/>Ouÿr pouez\ que se l'amant veult <rhyme>tendre</rhyme>
+<lb n="2AMA.069b:21"/>À joye avoir\ <name ref="God+of+Love"><c>a</c>mours</name> lui est plus <rhyme>tendre</rhyme>
+<lb n="2AMA.069b:22"/>Qu'elle n'est <rhyme>dure</rhyme><l n="1736"/>
+<lb n="2AMA.069b:23"/>Se doulcement\ et quoyement <rhyme>endure</rhyme>
+<lb n="2AMA.069b:24"/>En esperant\ combien que ycelle <rhyme>ardure</rhyme>
+<lb n="2AMA.069b:25"/>Lui soit poignant\ mais trop fait gra<abbr type="n"/>t <rhyme>laidure</rhyme>
+<lb n="2AMA.069b:26"/>Qui tant <rhyme>mesprent</rhyme><l n="1740"/>
+<lb n="2AMA.069b:27"/>Que le mieulx voit\ et le pis po<abbr type="ur"/> soy <rhyme>p<abbr type="re"/>nt</rhyme>
+<lb n="2AMA.069b:28"/>Si ay prouvé\ qu'en amours on <rhyme>appre<abbr type="n"/>t</rhyme>
+<lb n="2AMA.069b:29"/>Bien et honneur et à faire on se <rhyme>prent</rhyme>
+<lb n="2AMA.069b:30"/>Toute <rhyme>vaillance</rhyme><l n="1744"/>
+<lb n="2AMA.069b:31"/>Si ne dites plus que si grant <rhyme>dueilla<abbr type="n"/>ce</rhyme>
+<lb n="2AMA.069b:32"/>Ait en amours\ et tele <rhyme>deffaillance</rhyme>
+<lb n="2AMA.069b:33"/>De reconfort\ ne si grant <rhyme>traveillance</rhyme>
+<lb n="2AMA.069b:34"/>Ne si <rhyme>penible</rhyme><l n="1748"/>
+<lb n="2AMA.069b:35"/><hi rend="cap2">Q</hi>uant <note>preparatory 'q'</note> l'escuyer\ qui fu sage et <rhyme>sensible</rhyme>
+<lb n="2AMA.069b:36"/><c>q</c>ui verité ot dit co<abbr type="m"/>me la <name ref="Bible"><rhyme><c>b</c>ible</rhyme></name>
+<lb n="2AMA.069b:37"/>Ce lui <note>'e l' over erasure, 'e' extended; corrected from 'Cellui' or 'Cestui'?</note> <add place="supralinear" evidence="" type="">sembla</add> <note>caret</note> adoncques fu <rhyme>taysible</rhyme>
+<lb n="2AMA.069b:38"/>Sans plus mot <rhyme>dire</rhyme><l n="1752"/>
+<lb n="2AMA.069b:39"/>Le chevalier\ un pou prist à <rhyme>soubsrire</rhyme>
+<lb n="2AMA.069b:40"/>Et en pensant\ sans parler le <rhyme><c>R</c>emire</rhyme>
+<!-- large, black signature 'I'; second, smaller, browner signature 'b' on edge of parchment with trace of Roman numbers after -->
+
+
+<pb n="069" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.069v:01"/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>d</c>ebat</fw></hi>
+
+<layout ruledLines="40"/>
+<cb n="c"/><note>Column 069c is ruled with 41 lines, column 069d with 40.</note>
+<lb n="2AMA.069c:01"/>Et puis vers lui\ courtoisem<abbr type="en"/>t se <rhyme>tire</rhyme>
+<lb n="2AMA.069c:02"/>Et dist à <rhyme>trait</rhyme><l n="1756"/>
+<lb n="2AMA.069c:03"/>¶ Par <name ref="God"><c>d</c>ieu</name> <note>'par d' sur grattage</note> sire\ vous avez cy <rhyme>retrait</rhyme>
+<lb n="2AMA.069c:04"/>Grans merveilles\ et qui vers vous se <rhyme>trait</rhyme> <note>quelques lettres à l'encre plus pâle</note>
+<lb n="2AMA.069c:05"/>Pour medicine avoir et po<abbr type="ur"/> <note>sic</note> bon <rhyme>trait</rhyme> <note>9 syllables ?</note>
+<lb n="2AMA.069c:06"/>À tost <rhyme>tarir</rhyme><l n="1760"/>
+<lb n="2AMA.069c:07"/>Les maulx d'amours\ bien en savez <rhyme>garir</rhyme> <note>'a' sur grattage ?</note>
+<lb n="2AMA.069c:08"/>Et bon conseil donner\ pour tost <rhyme>perir</rhyme>
+<lb n="2AMA.069c:09"/>Toute doulour\ pour servant <rhyme>remerir</rhyme>
+<lb n="2AMA.069c:10"/>Bien à son <rhyme>ayse</rhyme><l n="1764"/>
+<lb n="2AMA.069c:11"/>Mais qu'on vous creust\ mais de petit <rhyme>s'apaise</rhyme>
+<lb n="2AMA.069c:12"/>Qui pou a dueil\ et qui n'a nul <rhyme>mesaise</rhyme>
+<lb n="2AMA.069c:13"/>Ainsi l'avez gaigné\ mais q<abbr type="ue"/> je <rhyme>tayse</rhyme>
+<lb n="2AMA.069c:14"/>Sanz mot <rhyme>sonner</rhyme><l n="1768"/>
+<lb n="2AMA.069c:15"/>Les grans raisons\ que je puis <rhyme>assener</rhyme>
+<lb n="2AMA.069c:16"/>Contre les dis\ que vous oys <rhyme>raisonner</rhyme>
+<lb n="2AMA.069c:17"/>Car vous voulez\ droitement <rhyme>ordonn<abbr type="er"/></rhyme>
+<lb n="2AMA.069c:18"/>À droit <rhyme>souhaid</rhyme><l n="1772"/>
+<lb n="2AMA.069c:19"/>Les fais d'amours\ et chacun à son <rhyme>haid</rhyme>
+<lb n="2AMA.069c:20"/>Pou ou assez\ à voulenté en <rhyme>ait</rhyme>
+<lb n="2AMA.069c:21"/>Si que le bien\ en <note>letter erased ; 'e' also over erasure ?; correction dot above 'e'?</note> preigne et le mal <note>oddly shaped 'a'</note>\ <rhyme>lait</rhyme>
+<lb n="2AMA.069c:22"/>Ne plus ne <rhyme>mains</rhyme><l n="1776"/>
+<lb n="2AMA.069c:23"/>¶ Mettre voulez\ et la tenir aux <rhyme>mains</rhyme>
+<lb n="2AMA.069c:24"/>Bride <note>'d' over erasure ? ; comparer avec 7 et 8 lignes plus haut : semble constant pour cette lettre ; quantité d'encre ? réaction acide ? perforation du parchemin sous l'effet de la plume ? idem pour les 'S' majuscules qui semblent repassés</note> à <name ref="God+of+Love"><c>a</c>mours</name>\ et fors en poi<abbr type="n"/>s <rhyme>certai<abbr type="n"/>s</rhyme>
+<lb n="2AMA.069c:25"/>Le faire aler\ et qu'on n'en soit <rhyme>atai<abbr type="n"/>s</rhyme>
+<lb n="2AMA.069c:26"/>Fors à sa <rhyme>poste</rhyme><l n="1780"/>
+<lb n="2AMA.069c:27"/>Autrement va\ compains q<abbr type="ui"/> a tel <rhyme>hoste</rhyme> <note>striking sequence of 4 capital 'A's</note>
+<lb n="2AMA.069c:28"/>À son vouloir\ ne le met pas <rhyme>decoste</rhyme>
+<lb n="2AMA.069c:29"/>Avez vous cuer\ qui joye met <note>point au dessus du 't' ?</note>  et <rhyme>oste</rhyme>
+<lb n="2AMA.069c:30"/>À <rhyme>voulenté</rhyme><l n="1784"/> <note>over erasure ?</note>
+<lb n="2AMA.069c:31"/>Dont n'amez <note>trace du grattage sur le 'm' ?</note> vous\ dire l'ose <rhyme>planté</rhyme>
+<lb n="2AMA.069c:32"/>Aussi <note>tracé particulier du 'A'</note> ne font tous seulz q<abbr type="ui"/> sont <rhyme>renté</rhyme> <note>'seulz', i.e. 'ceulz ? ; lettre 'c' suscrite au dessus du mot</note>
+<lb n="2AMA.069c:33"/>de <note> ?</note> tel plaisir\ com vous avez <rhyme>compté</rhyme>
+<lb n="2AMA.069c:34"/>Sans dueil <rhyme>avoir</rhyme><l n="1788"/>
+<lb n="2AMA.069c:35"/>Estre ne peut\ il est bon à <rhyme>savoir</rhyme>
+<lb n="2AMA.069c:36"/>Que qui aime de cuer sans <rhyme>decevoir</rhyme>
+<lb n="2AMA.069c:37"/>Perfaictement\ qu'il ne lui faille <rhyme>avoir</rhyme>
+<lb n="2AMA.069c:38"/>Mainte <rhyme>durté</rhyme><l n="1792"/>
+<lb n="2AMA.069c:39"/>Ou vueille ou non\ ja si bien <rhyme>ahurté</rhyme>
+<lb n="2AMA.069c:40"/>Ne se sera\ qu'il y ait\ <rhyme>seürté</rhyme>
+<!-- 1 blank line here -->
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.069d:01"/>Et que toudis\ il ait <rhyme>beneürté</rhyme>
+<lb n="2AMA.069d:02"/>En sa <rhyme>querelle</rhyme><l n="1796"/>
+<lb n="2AMA.069d:03"/>Mais vous comptez\ cy d'une <note>sur grattage ?</note> amour <rhyme>nouvelle</rhyme>
+<lb n="2AMA.069d:04"/>À vo vouloir\ ne sçay comme on <rhyme>l'appelle</rhyme>
+<lb n="2AMA.069d:05"/>Dont nous avez\ compté longue <rhyme>nouvelle</rhyme>
+<lb n="2AMA.069d:06"/>¶ Mais ancor <rhyme>dis je</rhyme><l n="1800"/>
+<lb n="2AMA.069d:07"/>Que l'amant qui\ est vray et subgièt <rhyme>lige</rhyme>
+<lb n="2AMA.069d:08"/>Très grant amour\ son cuer si fort <rhyme>oblige</rhyme>
+<lb n="2AMA.069d:09"/>Qu'estre le fait\ jaloux et tant <rhyme>engrige</rhyme> <note>Next three stanzas copied twice ; no sign that the mistake was noticed</note>
+<lb n="2AMA.069d:10"/>Celle grief <rhyme>peine</rhyme><l n="1804"/>
+<lb n="2AMA.069d:11"/>Qu'il n'a repos\ nul jour de la <rhyme>semaine</rhyme>
+<lb n="2AMA.069d:12"/>S'il s'apperçoit\ que un autre amant se <rhyme>peine</rhyme>
+<lb n="2AMA.069d:13"/>À acquerir\ l'amour qui le <rhyme>demaine</rhyme>
+<lb n="2AMA.069d:14"/>En maint <rhyme>endroit</rhyme><l n="1808"/>
+<lb n="2AMA.069d:15"/>¶ Et vous cuidez\ nous prouver cy <rhyme>endroit</rhyme>
+<lb n="2AMA.069d:16"/>Que qui jaloux\ seroit amours <rhyme>fauldroit</rhyme>
+<lb n="2AMA.069d:17"/>Et je vous di\ qu'<name ref="God+of+Love"><c>a</c>mours</name> ne peut à <rhyme>droit</rhyme>
+<lb n="2AMA.069d:18"/>Sans <rhyme>jalousie</rhyme><l n="1812"/>
+<lb n="2AMA.069d:19"/>Si soit de vous\ vo pensée <rhyme>accoisie</rhyme>
+<lb n="2AMA.069d:20"/>Car je vous dy\ que trop plus se <rhyme>soussie</rhyme>
+<lb n="2AMA.069d:21"/>Un cuer amant\ et mains est <rhyme>adoulcie</rhyme>
+<lb n="2AMA.069d:22"/>Sa griefve <rhyme>peine</rhyme><l n="1804"/>
+<lb n="2AMA.069d:23"/>Qu'il n'a repos\ nul jour de la <rhyme>sepmaine</rhyme>
+<lb n="2AMA.069d:24"/>S'il s'apperçoit\ que un autre ama<abbr type="n"/>t se <rhyme>peine</rhyme>
+<lb n="2AMA.069d:25"/>À acquerir\ l'amour qui le <rhyme>demaine</rhyme>
+<lb n="2AMA.069d:26"/>En maint <rhyme>endroit</rhyme><l n="1808"/>
+<lb n="2AMA.069d:27"/>¶ Et vous cuidez\ nous prouver cy <rhyme>endroit</rhyme>
+<lb n="2AMA.069d:28"/>Que qui jaloux\ seroit amours <rhyme>fauldroit</rhyme>
+<lb n="2AMA.069d:29"/>Et je vous dy\ qu'<name ref="God+of+Love"><c>a</c>mours</name> ne peut à <rhyme>droit</rhyme>
+<lb n="2AMA.069d:30"/>Sans <rhyme>jalousie</rhyme><l n="1812"/>
+<lb n="2AMA.069d:31"/>Si soit de ce\ vo pensée <rhyme>accoisie</rhyme>
+<lb n="2AMA.069d:32"/>Car je vous di\ que trop plus se <rhyme>soussie</rhyme>
+<lb n="2AMA.069d:33"/>Un cuer amant\ et mains est <rhyme>adoulcie</rhyme>
+<lb n="2AMA.069d:34"/>Sa peine <rhyme>grieve</rhyme><l n="1816"/><note>Twelve lines repeated.</note>
+<lb n="2AMA.069d:35"/>Quë un autre\ qui de leger s'en <rhyme>lieve</rhyme>
+<lb n="2AMA.069d:36"/>Mais vous parlez\ d'une amour q<abbr type="ui"/> pou <rhyme>grieve</rhyme>
+<lb n="2AMA.069d:37"/>De qui ne chault\ s'elle est ou longue ou <rhyme>brieve</rhyme>
+<lb n="2AMA.069d:38"/>Et se tost <rhyme>passe</rhyme><l n="1820"/>
+<lb n="2AMA.069d:39"/>Mais elle sert\ de dire <name ref="God+of+Love"><c>a</c>mours</name> <rhyme>m'enlace</rhyme>
+<lb n="2AMA.069d:40"/>J'en suis jolis\ de servir ne me <rhyme>lasse</rhyme>
+
+
+<pb n="070" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.070r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">de</fw> <fw type="header2" place="column a" rend="tabbed from right">deux</fw> <fw type="header3" place="column b" rend="tabbed">amans</fw> <fw type="header4" place="column b" rend="centred">xiiii&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.070a:01"/>Et si n'en ay\ nulle pensée <rhyme>lasse</rhyme>
+<lb n="2AMA.070a:02"/>C'est <rhyme>avantage</rhyme><l n="1824"/>
+<lb n="2AMA.070a:03"/>¶ Adont respont\ l'autre et ront le <rhyme>lengage</rhyme>
+<lb n="2AMA.070a:04"/>Et dit par <name ref="God"><c>d</c>ieu</name>\ estre cuidez trop <rhyme>sage</rhyme>
+<lb n="2AMA.070a:05"/>Aultrement va\ et tout d'autre <rhyme>plumage</rhyme>
+<lb n="2AMA.070a:06"/>Sont amours <rhyme>fines</rhyme><l n="1828"/>
+<lb n="2AMA.070a:07"/>Et nous serions\ ycy jusqu'à <rhyme>matines</rhyme> <note>'m' corrected ?; ? trace de cire ?</note>
+<lb n="2AMA.070a:08"/>Mais je vous di\ que plus sont <rhyme>enterines</rhyme>
+<lb n="2AMA.070a:09"/>Vrayes amours\ et mieulx en sont les <rhyme>signes</rhyme> <note>rising 's'</note>
+<lb n="2AMA.070a:10"/>Et plus <rhyme>certains</rhyme><l n="1832"/>
+<lb n="2AMA.070a:11"/>Quant un amant\ qui d'amours est <rhyme>atai<abbr type="n"/>s</rhyme>
+<lb n="2AMA.070a:12"/>Est liez et bault\ et de gayeté <rhyme>plains</rhyme>
+<lb n="2AMA.070a:13"/>Pour la joye\ qu'il a dont est <rhyme>attains</rhyme>
+<lb n="2AMA.070a:14"/>D'amours <rhyme>loyale</rhyme><l n="1836"/>
+<lb n="2AMA.070a:15"/>Quant lui souvient\ de la haulte <rhyme>royale</rhyme>
+<lb n="2AMA.070a:16"/>Dame qu'il sert\ toute pensée <rhyme>male</rhyme>
+<lb n="2AMA.070a:17"/>Pour sa valeur\ de son cuer se <rhyme><c>R</c>avalle</rhyme> <note>sur grattage ?</note>
+<lb n="2AMA.070a:18"/>Si s'en tient <rhyme>gay</rhyme><l n="1840"/>
+<lb n="2AMA.070a:19"/>Et envoysiez\ en avril et en <rhyme>may</rhyme>
+<lb n="2AMA.070a:20"/>Et en tout temps\ si n'a doulour <rhyme>n'esmay</rhyme>
+<lb n="2AMA.070a:21"/>Par vraye amour\ qui de son luisa<abbr type="n"/>t <rhyme>ray</rhyme>
+<lb n="2AMA.070a:22"/>Tout <rhyme>l'enlumine</rhyme><l n="1844"/>
+<lb n="2AMA.070a:23"/>¶ Quoy que dissiés\ encor dy et <rhyme>termine</rhyme>
+<lb n="2AMA.070a:24"/>Que c'est plus grant\ et trop plus p<abbr type="ar"/>fait <rhyme>signe</rhyme>
+<lb n="2AMA.070a:25"/>De grant amour\ parfaicte et <rhyme>enterine</rhyme>
+<lb n="2AMA.070a:26"/>De <note>trace de grattage ou tache ?</note> soy <rhyme>fÿer</rhyme><l n="1848"/>
+<lb n="2AMA.070a:27"/>En ses amours\ que de s'en <rhyme>deffïer</rhyme>
+<lb n="2AMA.070a:28"/>N'estre jaloux\ j'ose bien <rhyme>affïer</rhyme>
+<lb n="2AMA.070a:29"/>Que plus aime\ cil qui sans <rhyme>soussïer</rhyme>
+<lb n="2AMA.070a:30"/>Argent ou <rhyme>or</rhyme><l n="1852"/>
+<lb n="2AMA.070a:31"/>Baille à garder\ ou aucun gra<abbr type="n"/>t <rhyme>tresor</rhyme>
+<lb n="2AMA.070a:32"/>À un autre\ <add place="supralinear" evidence="" type="">et</add> <note>caret</note> si lui dist très <rhyme>or</rhyme>
+<lb n="2AMA.070a:33"/>Me fie en vous\ garde vous fais <rhyme>encor</rhyme>
+<lb n="2AMA.070a:34"/>De mon <rhyme>avoir</rhyme><l n="1856"/>
+<lb n="2AMA.070a:35"/>Que cil qui veult\ grant seürté <rhyme>avoir</rhyme>
+<lb n="2AMA.070a:36"/>Et le conte veult\ chacun jour <rhyme>savoir</rhyme>
+<lb n="2AMA.070a:37"/>Qu'on fait du sien\ de päour q<abbr type="ue"/> <rhyme>decevoir</rhyme>
+<lb n="2AMA.070a:38"/>L'autre le <rhyme>vueille</rhyme><l n="1860"/>
+<lb n="2AMA.070a:39"/>Ainsi est il\ à qui que plaise ou <rhyme>dueille</rhyme>
+<lb n="2AMA.070a:40"/>Du fait d'amours\ car cil qui se\ <rhyme>despueille</rhyme>
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.070b:01"/>De son vray cuer\ et tel fïance <rhyme>accueille</rhyme>
+<lb n="2AMA.070b:02"/>Quë il le <rhyme>donne</rhyme><l n="1864"/>
+<lb n="2AMA.070b:03"/>À un autre et\ du tout lui <rhyme>abandonne</rhyme>
+<lb n="2AMA.070b:04"/>Sans marchander\ ne que plus en <rhyme>s<abbr type="er"/>mo<abbr type="n"/>ne</rhyme>
+<lb n="2AMA.070b:05"/>C'est mieulx signe\ que la p<abbr type="er"/>sonne a <rhyme>bo<abbr type="n"/>ne</rhyme>
+<lb n="2AMA.070b:06"/>Il tient sans <rhyme>faille</rhyme><l n="1868"/>
+<lb n="2AMA.070b:07"/>Que cellui qui\ en marchanda<abbr type="n"/>t le <rhyme>baille</rhyme>
+<lb n="2AMA.070b:08"/>Et qui tous jours\ se doubte que on lui <rhyme>faille</rhyme>
+<lb n="2AMA.070b:09"/>Ou que bonté\ et loyauté <rhyme>deffaille</rhyme>
+<lb n="2AMA.070b:10"/><rhyme>Aucunement</rhyme><l n="1872"/>
+<lb n="2AMA.070b:11"/>Car qui aime\ se fie <rhyme>entierem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.070b:12"/>Comme j'ay dit\ ne seroit <rhyme>autrem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.070b:13"/>Parfaite amour\ et le vray <rhyme>jugem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.070b:14"/>En ose <rhyme>attendre</rhyme><l n="1876"/>
+<lb n="2AMA.070b:15"/>S'il est aucun\ qui sache b<abbr type="ie"/>n <rhyme>entendre</rhyme>
+<lb n="2AMA.070b:16"/>Noz &#x95;ii&#x95; raisons\ et tous les poins <rhyme><abbr type="com"/>p<abbr type="re"/>ndre</rhyme>
+<lb n="2AMA.070b:17"/>¶ Si vous suppli\ que juge vueillés <rhyme>p<abbr type="re"/>ndre</rhyme>
+<lb n="2AMA.070b:18"/>Tout à vo <rhyme>guise</rhyme><l n="1880"/>
+<lb n="2AMA.070b:19"/>Et tout sur lui\ soit ceste cause <rhyme>mise</rhyme>
+<lb n="2AMA.070b:20"/>¶ Le chevalier\ respont et sans <rhyme>faintise</rhyme>
+<lb n="2AMA.070b:21"/>Le jugement\ conseil à vo <rhyme>devise</rhyme>
+<lb n="2AMA.070b:22"/>Soit juge <rhyme>pris</rhyme><l n="1884"/>
+<lb n="2AMA.070b:23"/>Et esleü\ mais qu'en lui ait tel <rhyme>pris</rhyme>
+<lb n="2AMA.070b:24"/>Qu'il soit vaillant\ preux <note>retour du 'x'</note> sage et b<abbr type="ie"/>n <rhyme>appris</rhyme>
+<lb n="2AMA.070b:25"/>Noble et gentil\ et des amans <rhyme>surpris</rhyme>
+<lb n="2AMA.070b:26"/>Sache <rhyme>juger</rhyme><l n="1888"/>
+<lb n="2AMA.070b:27"/>Et quant à moy\ sans plus ta<abbr type="n"/>t <rhyme>lengag<abbr type="er"/></rhyme>
+<lb n="2AMA.070b:28"/>Je dis et tiens\ que plus comparer <rhyme>cher</rhyme>
+<lb n="2AMA.070b:29"/>Le bien d'amours\ couvient sans <rhyme>aleger</rhyme>
+<lb n="2AMA.070b:30"/>C'on n'en a <rhyme>joye</rhyme><l n="1892"/>
+<lb n="2AMA.070b:31"/>Et pour un bien\ plus de cent maulx <rhyme>envoye</rhyme>
+<lb n="2AMA.070b:32"/>Et que l'omme qui à amer <rhyme>s'avoye</rhyme>
+<lb n="2AMA.070b:33"/>De tous perilz\ il se met en la <rhyme>voye</rhyme>
+<lb n="2AMA.070b:34"/>Et du <rhyme>seurplus</rhyme><l n="1896"/>
+<lb n="2AMA.070b:35"/>Je di ancor\ que cellui aime <rhyme>plus</rhyme>
+<lb n="2AMA.070b:36"/>Qui pour amours\ devient mate et <rhyme>reclus</rhyme>
+<lb n="2AMA.070b:37"/>Pensif pali\ morne\ taysant et <rhyme>mus</rhyme>
+<lb n="2AMA.070b:38"/>Que cil qui <rhyme>lyez</rhyme><l n="1900"/>
+<lb n="2AMA.070b:39"/>Plus en devient\ ne point\ n'est si\ <rhyme>lïez</rhyme>
+<lb n="2AMA.070b:40"/>Le cuer qui <note>'i' expunctuated ? ; tache dans parchemin ? </note> à\ joye c'est <rhyme>alÿez</rhyme> <note>'c'est', i.e. 's'est'</note>
+<!-- small signature 'ii' in brown/black ink ; large signature 'I ii' in black ink ; top of 'I' ?, in brown ink visible at the edge of the leaf -->
+
+
+<pb n="070" ed="v"/><layout ruledLines="no"/>
+<lb n="2AMA.070v:01"/><hi rend="red"><fw type="header1" place="column c" rend="centred">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>d</c>ebat</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.070c:01"/>Comme est cellui\ qui est <rhyme>contralïé</rhyme>
+<lb n="2AMA.070c:02"/>Par tel <rhyme>amour</rhyme><l n="1904"/>
+<lb n="2AMA.070c:03"/>Et qu'il couvient\ qu'on lui face <rhyme>demour</rhyme>
+<lb n="2AMA.070c:04"/><name ref="Jealousy">Jalousie</name>\ dont les yeulx plains <rhyme>d'umour</rhyme>
+<lb n="2AMA.070c:05"/>On a souvent\ faisant mainte <rhyme>clamour</rhyme>
+<lb n="2AMA.070c:06"/>Se sanz <rhyme>retraire</rhyme><l n="1908"/>
+<lb n="2AMA.070c:07"/>Il aime à droit\ tel mal lui couvient <note>quid tracé de ce mot ?</note> <rhyme>traire</rhyme>
+<lb n="2AMA.070c:08"/>Et vous dites\ et tenez le <rhyme>contraire</rhyme>
+<lb n="2AMA.070c:09"/>Or nous doint <name ref="God"><c>d</c>ieux</name> vers loial juge <rhyme>traire</rhyme>
+<lb n="2AMA.070c:10"/><rhyme>Prochainement</rhyme><l n="1912"/>
+<lb n="2AMA.070c:11"/>¶ A2dont les &#x95;ii&#x95; / amans leur <rhyme>parlement</rhyme>
+<lb n="2AMA.070c:12"/><c>o</c>nt affiné\ mais en grant <rhyme>pensem<abbr type="en"/>t</rhyme>
+<lb n="2AMA.070c:13"/>De juge avoir\ furent qui <rhyme>proprement</rhyme>
+<lb n="2AMA.070c:14"/>Sentence à <rhyme>droit</rhyme><l n="1916"/>
+<lb n="2AMA.070c:15"/>Leur sceust donner\ justem<abbr type="en"/>t selon <rhyme>droit</rhyme>
+<lb n="2AMA.070c:16"/>Maint hault baron\ choisirent là <rhyme>endroit</rhyme>
+<lb n="2AMA.070c:17"/>Maint chevalier\ cointe appert et à <rhyme>droit</rhyme>
+<lb n="2AMA.070c:18"/>Gay et <rhyme>jolis</rhyme><l n="1920"/>
+<lb n="2AMA.070c:19"/>Y nommerent\ et de la flour de <rhyme>lis</rhyme> <note>Next two lines inverted, as compared with Duke's MS</note>
+<lb n="2AMA.070c:20"/>Eslisoient\ de tieulx qui sont <rhyme>palis</rhyme>
+<lb n="2AMA.070c:21"/>Par fort amer do<abbr type="n"/>t n'ont pas to<abbr type="us"/> delis
+<lb n="2AMA.070c:22"/>Soubs leur <rhyme>chappeaulx</rhyme><l n="1924"/>
+<lb n="2AMA.070c:23"/>Pour ce que pas\ ne font to<abbr type="us"/> leurs <rhyme>aveaulx</rhyme>
+<lb n="2AMA.070c:24"/>Ès fais d'<name ref="God+of+Love"><c>a</c>mours</name>\ qui depart ses <rhyme>to<abbr type="ur"/>teaulx</rhyme>
+<lb n="2AMA.070c:25"/>Diversement\ et amaigrir les <rhyme>peaulx</rhyme>
+<lb n="2AMA.070c:26"/>Fait à maint <rhyme>bons</rhyme><l n="1928"/>
+<lb n="2AMA.070c:27"/>Souventes fois\ et ainsi à leurs <rhyme>bons</rhyme>
+<lb n="2AMA.070c:28"/>Choisissoient\ et nommoient les <rhyme>noms</rhyme>
+<lb n="2AMA.070c:29"/>De maint vaillant\ disant cellui <rhyme>arons</rhyme>
+<lb n="2AMA.070c:30"/>Et puis <rhyme>disoient</rhyme><l n="1932"/>
+<lb n="2AMA.070c:31"/>Que mieulx valoit\ un autre qu'ilz <rhyme>no<abbr type="m"/>moie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.070c:32"/>Et quant je vy\ qu'en tel descort <rhyme>estoie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.070c:33"/>Qu'à leur droit gré\ nul juge ne <rhyme>trouvoie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.070c:34"/>Lors <rhyme>m'avisay</rhyme><l n="1936"/>
+<lb n="2AMA.070c:35"/>Tout en pensant\ et pris mon avis <rhyme>ay</rhyme>
+<lb n="2AMA.070c:36"/>Que pour leur fait\ un bon juge <rhyme>visay</rhyme>
+<lb n="2AMA.070c:37"/>Quant pensé l'oz\ ainsi leur <rhyme>devisay</rhyme>
+<lb n="2AMA.070c:38"/>Com vous <rhyme>pourrés</rhyme><l n="1940"/>
+<lb n="2AMA.070c:39"/>Ycy ouïr\ si me tiray plus <rhyme>pres</rhyme>
+<lb n="2AMA.070c:40"/>Et si leur dis\ s'il vous plaist vo<abbr type="us"/> <rhyme>orrés</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.070d:01"/>Ce qu'il m'est vis et me <rhyme>pardonnerés</rhyme> <note>elaborate 'u' et 'd' ?</note>
+<lb n="2AMA.070d:02"/>Se je <rhyme>m'avance</rhyme><l n="1944"/>
+<lb n="2AMA.070d:03"/>De mettre accort\ en l'amoureuse <rhyme>tence</rhyme>
+<lb n="2AMA.070d:04"/>Dont vous plaidiés\ et croyez sans <rhyme>doubta<abbr type="n"/>ce</rhyme>
+<lb n="2AMA.070d:05"/>Que j'en desir <note>tracé du 'd' ?</note> droituriere <rhyme>sentence</rhyme>
+<lb n="2AMA.070d:06"/>Et si le <rhyme>fais</rhyme><l n="1948"/>
+<lb n="2AMA.070d:07"/>À bonne fin et se charger le <rhyme>fais</rhyme>
+<lb n="2AMA.070d:08"/>Et ce descort\ voulez et soit <rhyme>parfais</rhyme>
+<lb n="2AMA.070d:09"/>Selon mon los\ vous en serés <rhyme>reffais</rhyme>
+<lb n="2AMA.070d:10"/>Et tous <rhyme>contens</rhyme><l n="1952"/>
+<lb n="2AMA.070d:11"/>Et assouvis\ à droit gré à tous <rhyme>temps</rhyme>
+<lb n="2AMA.070d:12"/>Se le très hault\ noble duc q<abbr type="ue"/> <rhyme>j'entens</rhyme>
+<lb n="2AMA.070d:13"/>S'en veult charger\ et estre <rhyme>consentans</rhyme>
+<lb n="2AMA.070d:14"/>De ce\ juge <rhyme>estre</rhyme><l n="1956"/>
+<lb n="2AMA.070d:15"/>¶ Bon juge arés\ vailla<abbr type="n"/>t sage et gra<abbr type="n"/>t <rhyme>maistre</rhyme>
+<lb n="2AMA.070d:16"/>S'est le <add place="supralinear" evidence="" type="">tres</add>hault <note>caret</note> puissant de noble <rhyme>ancestre</rhyme>
+<lb n="2AMA.070d:17"/><name ref="Louis+d'Orléans">Duc d'<c>o</c>rlïens</name>\ qui ait joye <rhyme>terrestre</rhyme>
+<lb n="2AMA.070d:18"/>Et <rhyme>paradis</rhyme><l n="1960"/>
+<lb n="2AMA.070d:19"/>Cellui est bon\ sage en fais et en <rhyme>dis</rhyme>
+<lb n="2AMA.070d:20"/>Juste loyal\ &amp; aux bons de <rhyme>jadis</rhyme>
+<lb n="2AMA.070d:21"/>Veult ressembler\ car maintenir <rhyme>toudis</rhyme>
+<lb n="2AMA.070d:22"/>Lui plaist <rhyme>justice</rhyme><l n="1964"/>
+<lb n="2AMA.070d:23"/>Si est humain\ humble doulx et <rhyme>propice</rhyme>
+<lb n="2AMA.070d:24"/>En trestous cas\ et meismes en <rhyme>l'office</rhyme>
+<lb n="2AMA.070d:25"/>De droit jugier\ si n'est mie si <rhyme>nice</rhyme>
+<lb n="2AMA.070d:26"/>Qu'il n'ait <rhyme>appris</rhyme><l n="1968"/>
+<lb n="2AMA.070d:27"/>Les tours d'<name ref="God+of+Love"><c>a</c>mours</name>\ non obsta<abbr type="n"/>t son hault <rhyme>p<abbr type="ri"/>s</rhyme>
+<lb n="2AMA.070d:28"/>Si vous <abbr type="con"/>seil\ q<abbr type="ue"/> de vous il soit <rhyme>pris</rhyme>
+<lb n="2AMA.070d:29"/>Et esleü\ à juge et bien <rhyme>empris</rhyme>
+<lb n="2AMA.070d:30"/>Arés sans <rhyme>faille</rhyme><l n="1972"/>
+<lb n="2AMA.070d:31"/>Car je ne cuid que nul autre le <rhyme>vaille</rhyme>
+<lb n="2AMA.070d:32"/>Mais qu'il lui plaise et q<abbr type="ue"/> ta<abbr type="n"/>t en <rhyme>travaille</rhyme>
+<lb n="2AMA.070d:33"/>Son noble cuer\ que sentence il en <rhyme>baille</rhyme>
+<lb n="2AMA.070d:34"/>Ne pourriés <rhyme>mieulx</rhyme><l n="1976"/>
+<lb n="2AMA.070d:35"/>¶ Adont les &#x95;ii&#x95; amans haulçans les <note>rising 's'</note> <rhyme>yeulx</rhyme>
+<lb n="2AMA.070d:36"/>Respondirent\ et louez en soit <name ref="God"><rhyme><c>d</c>ieux</rhyme></name>
+<lb n="2AMA.070d:37"/>Vous nous avez\ assis en noble <rhyme>lieux</rhyme>
+<lb n="2AMA.070d:38"/>Et <rhyme>ramenteu</rhyme><l n="1980"/>
+<lb n="2AMA.070d:39"/>Juge loyal\ et p<abbr type="ar"/> no<abbr type="us"/> <note>abbréviation à l'encre plus pâle ?</note> <rhyme>esleü</rhyme>
+<lb n="2AMA.070d:40"/>Se il lui plaist\ s<abbr type="er"/>a <note>à l'encre plus pâle ?</note> le cas <rhyme>veü</rhyme>
+
+
+<pb n="071" ed="r"/><layout ruledLines="no"/>
+<lb n="2AMA.071r:01"/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">de</fw> <fw type="header2" place="column a" rend="centred">deux</fw> <fw type="header3" place="column b" rend="centred"><s>A</s>mans xiiii&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.071a:01"/>En jugera à son vueil et <rhyme>sceü</rhyme> <note>very elaborate 'u' with scroll</note>
+<lb n="2AMA.071a:02"/>S'à gré lui <rhyme>vient</rhyme><l n="1984"/>
+<lb n="2AMA.071a:03"/>¶ Si vous prïons puis que tant vo<abbr type="us"/> <rhyme>souvie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.071a:04"/>De n<abbr type="ost"/>re bien\ que vous <note>first 'u' remodelled</note> à qui <rhyme>avient</rhyme>
+<lb n="2AMA.071a:05"/>Et bien et bel\ faire dis dont <rhyme>seurvie<abbr type="n"/>t</rhyme>
+<lb n="2AMA.071a:06"/>En mainte <rhyme>place</rhyme><l n="1988"/>
+<lb n="2AMA.071a:07"/>Maint grant plaisir\ que de vo bonne <rhyme>grace</rhyme>
+<lb n="2AMA.071a:08"/>Faciés un dit\ du fait et de <rhyme>l'espace</rhyme>
+<lb n="2AMA.071a:09"/>De no debat\ si nous ferés grant <rhyme>grace</rhyme>
+<lb n="2AMA.071a:10"/>Et grant <rhyme>léece</rhyme><l n="1992"/>
+<lb n="2AMA.071a:11"/>¶ Adont respons je ne suis pas <rhyme>maistresse</rhyme>
+<lb n="2AMA.071a:12"/>De faire dis\ non po<abbr type="ur"/> tant sans <rhyme>parece</rhyme>
+<lb n="2AMA.071a:13"/>Je le feray\ pour la haulte <rhyme>noblece</rhyme>
+<lb n="2AMA.071a:14"/>Du bon <rhyme>vaillant</rhyme><l n="1996"/>
+<lb n="2AMA.071a:15"/>Prince <note>blot ? above</note> royal\ qui nul temps n'est <rhyme>failla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.071a:16"/>De bien <note>pen-trials above this word ? taches ?</note> juger\ d'estre bien <rhyme>conseilla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.071a:17"/>Et en tous fais\ à droit et <rhyme>traveilla<abbr type="n"/>t</rhyme>
+<lb n="2AMA.071a:18"/>Pour mettre en <rhyme>joye</rhyme><l n="2000"/>
+<lb n="2AMA.071a:19"/>Son noble cuer\ se il daigne qu'il <rhyme>l'oye</rhyme>
+<lb n="2AMA.071a:20"/>Or me doint <name ref="God"><c>d</c>ieux</name>\ ainsi com je <rhyme>vouldroie</rhyme>
+<lb n="2AMA.071a:21"/>Faire chose\ dont esjouïr se <rhyme>doye</rhyme>
+<lb n="2AMA.071a:22"/>Et faire <rhyme>feste</rhyme><l n="2004"/>
+<lb n="2AMA.071a:23"/>¶ Et ainsi <name ref="Louis+d'Orléans">hault\ prince</name> de noble\ <rhyme>geste</rhyme>
+<lb n="2AMA.071a:24"/>Mon redoubté seigneur\ à qui <name ref="God"><c>d</c>ieu</name>\ <rhyme>p<abbr type="re"/>ste</rhyme>
+<lb n="2AMA.071a:25"/>Longuë vië\ et\ puis à l'ame <rhyme>appreste</rhyme> <note>double hiatus</note>
+<lb n="2AMA.071a:26"/>Sa vraye <rhyme>gloire</rhyme><l n="2008"/>
+<lb n="2AMA.071a:27"/>Ce dictié fis\ pour vous duire à <rhyme>memoire</rhyme>
+<lb n="2AMA.071a:28"/>Joye et solas\ par <note>2 ? letter spaces - erasure ?</note> ouÿr ceste <rhyme>histoire</rhyme>
+<lb n="2AMA.071a:29"/>Qui d'amours fait\ mencïon &amp; <rhyme>memoire</rhyme>
+<lb n="2AMA.071a:30"/>Dont je <rhyme>supplie</rhyme><l n="2012"/>
+<lb n="2AMA.071a:31"/>Vo haultece\ qu'elle tant <rhyme>s'umilie</rhyme>
+<lb n="2AMA.071a:32"/>Qu'en bon gré l'ait\ ne le tiengne à <rhyme>folie</rhyme>
+<lb n="2AMA.071a:33"/>Car voulenté\ et vray desir me <rhyme>lie</rhyme>
+<lb n="2AMA.071a:34"/>À moy <rhyme>pener</rhyme><l n="2016"/>
+<lb n="2AMA.071a:35"/>De vous servir\ si g'i sceusse <rhyme>assener</rhyme>
+<lb n="2AMA.071a:36"/>Et or est temps\ de mon oeuvre <rhyme>affiner</rhyme>
+<lb n="2AMA.071a:37"/>Mais de trouver\ s'aucun au <rhyme>deffiner</rhyme>
+<lb n="2AMA.071a:38"/>A <rhyme>voulenté</rhyme><l n="2020"/>
+<lb n="2AMA.071a:39"/>Quel est mon nom\ sans le <note>'ns' remodelled from 'vo', 'le' very roughly corrected over erasure</note> q<abbr type="ue"/>rir <rhyme>planté</rhyme>
+<lb n="2AMA.071a:40"/>S'il <note>'l' inserted</note> le cerche trouver le peut <rhyme>lenté</rhyme> <note>or is it 'enté' - 'l' partially erased</note>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="2AMA.071b:01"/>En tous les lieux\ où est <rhyme><abbr type="crist"/>ïenté</rhyme><l n="2023"/>
+<!-- 3 blank lines here -->
+<lb n="2AMA.071b:05"/>Explicit le debat <note>centred</note>
+<lb n="2AMA.071b:06"/>des &#x95;ii&#x95; amans <note>centred ; elaborate 'i'</note>
+<!-- 34 blank lines here -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

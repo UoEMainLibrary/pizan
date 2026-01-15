@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<!--?xml-stylesheet href="glossary.xsl" type="text/xsl" -->
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+
+<text>
+<body>
+<p>
+<div1 n="Un Autre Lay (Lay2)" type="Item">
+<lb n="LAY2.027a:25"/>Lay <hi rend="red">&#x95; vi &#x95;</hi>
+<lb n="LAY2.027a:26"/><hi rend="cap2">S</hi>e je ne finoye de <rhyme>dire</rhyme>
+<lb n="LAY2.027a:27"/>Et <rhyme>d'escripre</rhyme>,
+<lb n="LAY2.027a:28"/>Je ne pourroye <rhyme>souffire</rhyme>,
+<lb n="LAY2.027a:29"/><name ref="The Lover">Amis</name>, pour louer <rhyme>assez</rhyme><l n="  4"/>
+<lb n="LAY2.027a:30"/>En cent ans voire <rhyme>passez</rhyme>
+<lb n="LAY2.027a:31"/>Vostre bonté ne <rhyme>descripre</rhyme>
+<lb n="LAY2.027a:32"/>Vo valour, <note>over erasure</note> où l'en se <rhyme>mire</rhyme>
+<lb n="LAY2.027a:33"/>N'à <g lemma="redire" en="to criticise, reproach" fr="critiquer, reprocher"><rhyme>redire</rhyme></g><l n="  8"/>
+<lb n="LAY2.027a:34"/>N'y a.\ <c>s</c>i sont <rhyme>amassez</rhyme>
+<lb n="LAY2.027a:35"/>En vous tous biens <rhyme>entassez</rhyme>
+<lb n="LAY2.027a:36"/>Où <name ref="Grace"><c>g</c>race</name> et <name ref="Honour"><c>h</c>onneur</name><g lemma="tirer" en="to move towards" fr="se diriger"> se <rhyme>tire</rhyme></g>,
+<!-- 1 blank line  -->
+<lb n="LAY2.027a:38"/>N'il n'est royaume <rhyme>n'empire</rhyme><l n=" 12"/>
+<lb n="LAY2.027a:39"/>Où <rhyme>eslire</rhyme>
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="LAY2.027b:01"/>On peüst tel;\ n'ouÿ <rhyme>lire</rhyme>
+<lb n="LAY2.027b:02"/>N'ay des vaillans <rhyme>trespassez</rhyme>
+<lb n="LAY2.027b:03"/>Tant de biens. <c>v</c>ous <rhyme>effacez</rhyme><l n=" 16"/>
+<lb n="LAY2.027b:04"/>Leur grant vaillance, <name ref="The Lover"><c>b</c>eau <rhyme><c>s</c>ire</rhyme></name>,
+<lb n="LAY2.027b:05"/>Car le monde <g lemma="remirer" en="to take as an example" fr="prendre comme exemple" type="relexive form not in DMF">s'i <rhyme>remire</rhyme></g>
+<lb n="LAY2.027b:06"/>Et <rhyme>desire</rhyme>
+<lb n="LAY2.027b:07"/>Vous qui tous vices <rhyme>cassez</rhyme>;<l n=" 20"/>
+<lb n="LAY2.027b:08"/>Ne du bien n'estes <rhyme>lassez</rhyme>
+<lb n="LAY2.027b:09"/>Nul temps, n'on n'en peut <rhyme>mesdire</rhyme>.
+<!-- 1 blank line  -->
+<lb n="LAY2.027b:11"/>¶ Et quant vous estes si <rhyme>parfait</rhyme>
+<lb n="LAY2.027b:12"/>Que chacun loe vostre <rhyme>fait</rhyme><l n=" 24"/>
+<lb n="LAY2.027b:14"/>Në oncques nul n'y vid <rhyme>meffait</rhyme>,
+<lb n="LAY2.027b:13"/>Et dit que vous n'avez <rhyme>pareil</rhyme>
+<lb n="LAY2.027b:15"/>Mais cil qui les <g lemma="dépris1" en="words of scorn" fr="mépris">despris</g> <rhyme>reffait</rhyme>,
+<lb n="LAY2.027b:16"/>Plain de sens et de bon <rhyme>conseil</rhyme>,<l n=" 28"/>
+<lb n="LAY2.027b:17"/>Enluminant com le <rhyme>souleil</rhyme>
+<lb n="LAY2.027b:18"/>Qui toutes tenebres <rhyme>deffait</rhyme>,
+<lb n="LAY2.027b:19"/>Et où <name ref="Prowess"><c>p</c>rouëce</name> <note>squashed</note> \ a son <g lemma="recueil" en="favourable reception" fr="accueil favorable"><rhyme>recueil</rhyme></g>,
+<lb n="LAY2.027b:20"/>La porte de joye et le <rhyme>sueil</rhyme>,<l n=" 32"/>
+<lb n="LAY2.027b:21"/>Et cil qui les nobles <rhyme>reffait</rhyme>,
+<!-- 1 blank line  -->
+<lb n="LAY2.027b:23"/>Ne vous doy je de cuer <rhyme>parfaict</rhyme>
+<lb n="LAY2.027b:24"/>Amer et m'esjouïr de <rhyme>fait</rhyme>
+<lb n="LAY2.027b:25"/>D'avoir amy si à mon <rhyme>vueil</rhyme>,<l n=" 36"/>
+<lb n="LAY2.027b:26"/>Bon, noble et preux, qui het tort <rhyme>fait</rhyme>
+<lb n="LAY2.027b:27"/>Ne qui n'a riens de <rhyme>contrefait</rhyme>,
+<lb n="LAY2.027b:28"/>Bel, jeune et doulx, plaisant à <rhyme>l'ueil</rhyme>,
+<lb n="LAY2.027b:29"/>Franc, courtois et de doulx <rhyme>accueil</rhyme>,<l n=" 40"/>
+<lb n="LAY2.027b:30"/>Si bon que où monde n'a si <rhyme>fait</rhyme>
+<lb n="LAY2.027b:31"/>Humain, très humble sans <rhyme>orgueil</rhyme>?
+<lb n="LAY2.027b:32"/>Si puis dire – nul n'en ait <rhyme>dueil</rhyme> -
+<lb n="LAY2.027b:33"/>Cil qui tout bien met à <rhyme>effait</rhyme>.<l n=" 44"/>
+<!-- 1 blank line  -->
+<lb n="LAY2.027b:35"/>¶ Et se m'amour vous doy <rhyme>nommer</rhyme>
+<lb n="LAY2.027b:36"/>N'ami <rhyme>clamer</rhyme>
+<lb n="LAY2.027b:37"/>Et <rhyme>reclamer</rhyme>,
+<lb n="LAY2.027b:38"/>Sachés que j'en fais mon <rhyme>devoir</rhyme><l n=" 48"/>
+<lb n="LAY2.027b:39"/>Si bien qu'on ne m'en doit <rhyme>blamer</rhyme>,
+<pb n="027" ed="v"/><layout ruledLines="yes" rend="above ruling"/>
+<lb n="LAY2.027v:01"/><fw type="header1" place="column c" rend="raligned"><hi rend="red"><c><s>u</s></c>n autre lay</hi></fw> <fw type="header2" place="intercolumn" rend="centred"><hi rend="red">&#x95; <s>v</s>i &#x95;</hi></fw>
+<cb n="c"/><layout ruledLines="41"/>
+<lb n="LAY2.027c:01"/>Car <rhyme>affermer</rhyme>
+<lb n="LAY2.027c:02"/>Et <rhyme>confermer</rhyme>
+<lb n="LAY2.027c:03"/><name ref="God+of+Love">Amours</name> a fait <g lemma="estovoir" en="necessarily, by compulsion" fr="par nécessité, obligatoirement">par <rhyme><choice><sic>esconnoir</sic><corr reason="sense" resp="JL" source="SATF, DMF">estouvoir</corr></choice></rhyme></g><l n=" 52"/>
+<lb n="LAY2.027c:04"/>Mon cuer en vous, si que <rhyme>mouvoir</rhyme>
+<lb n="LAY2.027c:05"/>Pour nul <rhyme>avoir</rhyme>
+<lb n="LAY2.027c:06"/>Cellui <rhyme>vouloir</rhyme>
+<!-- 1 blank line  -->
+<lb n="LAY2.027c:08"/>Je ne pourroye, ains à la <rhyme>mer</rhyme><l n=" 56"/>
+<lb n="LAY2.027c:09"/>Osteroie trestout <rhyme>l'amer</rhyme>
+<lb n="LAY2.027c:10"/>Doulçour <rhyme>avoir</rhyme>
+<lb n="LAY2.027c:11"/>Et <g lemma="remouvoir" en="to remove" fr="enlever"><rhyme>remouvoir</rhyme></g> <note>'plus sign' in margin</note>
+<lb n="LAY2.027c:12"/>Sa nature par droit <rhyme>devoir</rhyme>,<l n=" 60"/> <note>this line and next, copied in lighter ink over erasure?</note>
+<lb n="LAY2.027c:13"/>S'on veult bien chanter &amp; <rhyme><c>R</c>imer</rhyme>,
+<!-- 1 blank line  -->
+<lb n="LAY2.027c:15"/>Et son flo qu'on voit <rhyme>escumer</rhyme>
+<lb n="LAY2.027c:16"/>Toute <rhyme>semer</rhyme>
+<lb n="LAY2.027c:17"/>Et <rhyme>enflamer</rhyme><l n=" 64"/>
+<lb n="LAY2.027c:18"/><choice><sic>Sa rene</sic><corr reason="sense" resp="JL" source="SATF, DMF">S'<g lemma="arène" en="sand" fr="sable">arene</g></corr></choice> <note>'n' overwritten?</note> et, que fable fust <rhyme>voir</rhyme>,
+<lb n="LAY2.027c:19"/>Le monde de nouvel <rhyme>former</rhyme>
+<lb n="LAY2.027c:20"/><g lemma="soudre" en="to transform, resolve" fr="résoudre">Souldre</g>, <note>first 3/4 letters in lighter ink over erasure</note> <rhyme>entamer</rhyme>
+<lb n="LAY2.027c:21"/>Et <rhyme>refformer</rhyme><l n=" 68"/>
+<lb n="LAY2.027c:22"/>Pierres dures et feu <rhyme>plouvoir</rhyme>, <note>last 5 letters underlined</note>
+<lb n="LAY2.027c:23"/>Les estoilles toutes <g lemma="firmer" en="to fix, attach" fr="attacher, fixer"><rhyme>frimer</rhyme></g>
+<lb n="LAY2.027c:24"/>Et <g lemma="estimer" en="to calculate, estimate" fr="calculer, estimer"><rhyme>extimer</rhyme></g>
+<lb n="LAY2.027c:25"/>Sans <g lemma="réprimer" en="to reduce, diminish" fr="réduire, diminuer"><rhyme>reprimer</rhyme></g>,<l n=" 72"/>
+<lb n="LAY2.027c:26"/><c>t</c>outes <note>added in lighter ink in gutter margin</note> <c>S</c>cïences <note>preceded by caret sign</note> <rhyme>concevoir</rhyme>
+<lb n="LAY2.027c:27"/>Et tout l'umain siecle <rhyme>affamer</rhyme>; <note>2nd 'a' corrected?</note>
+<lb n="LAY2.027c:28"/>Le ciel <g lemma="fermer" en="to gird, enclose" fr="enclore, entourer"><rhyme>fermer</rhyme></g>
+<lb n="LAY2.027c:29"/>Sans <g lemma="desfermer" en="to open" fr="ouvrir"><rhyme>deffermer</rhyme></g><l n=" 76"/>
+<lb n="LAY2.027c:30"/>Feroie ainçois que <g lemma="démouvoir" en="to abandon, leave" fr="abandonner, renocner à"><rhyme>desmouvoir</rhyme></g>
+<lb n="LAY2.027c:31"/>Me peüsse de vous <rhyme>amer</rhyme>,
+<!-- 1 blank line  -->
+<lb n="LAY2.027c:33"/>¶ Car vous estes la <rhyme>joye</rhyme>
+<lb n="LAY2.027c:34"/>Qui me <rhyme>resjoye</rhyme><l n=" 80"/>
+<lb n="LAY2.027c:35"/>Et <rhyme>avoye</rhyme>
+<lb n="LAY2.027c:36"/>À tout <rhyme>bien</rhyme>,
+<lb n="LAY2.027c:37"/>Et sans vous ne <rhyme>pourroie</rhyme>
+<lb n="LAY2.027c:38"/>Et ne <rhyme>vouldroie</rhyme><l n=" 84"/>
+<lb n="LAY2.027c:39"/>Ne <rhyme>saroie</rhyme>
+<lb n="LAY2.027c:40"/>Valoir <rhyme>rien</rhyme>,
+<lb n="LAY2.027c:41"/>Et pour ce à vous <rhyme>employe</rhyme>
+
+<cb n="d"/><layout ruledLines="41"/>
+<lb n="LAY2.027d:01"/>Toute et <rhyme>ottroye</rhyme><l n=" 88"/>
+<lb n="LAY2.027d:02"/>L'amour <rhyme>moye</rhyme>,
+<lb n="LAY2.027d:03"/>Car sçay <rhyme>bien</rhyme>
+<lb n="LAY2.027d:04"/>Que vous estes la <rhyme>voye</rhyme>
+<lb n="LAY2.027d:05"/>Qui me <rhyme>ravoye</rhyme>.<l n=" 92"/>
+<lb n="LAY2.027d:06"/>Ne <rhyme>m'<g lemma="éjouir" en="to please, give pleasure" fr="réjouir">esjoye</g></rhyme>
+<lb n="LAY2.027d:07"/>Autre <rhyme>rien</rhyme>,
+<lb n="LAY2.027d:08"/>Et c'est ce qui <rhyme>m'<g lemma="appuyer" en="to support, sustain" fr="soutenir" type="3 pres. ind.">apoye</g></rhyme>,
+<lb n="LAY2.027d:09"/>Où que je <rhyme>soye</rhyme>,<l n=" 96"/>
+<lb n="LAY2.027d:10"/><g lemma="mais1" en="provided that" fr="pourvu que" type="plus subj.">Mais que</g> <rhyme>voye</rhyme>
+<lb n="LAY2.027d:11"/>Vo <rhyme>maintien</rhyme>.
+<!-- 2 blank lines here -->
+<lb n="LAY2.027d:14"/>¶ Si n'en <g lemma="cuider" en="to believe" fr="croire, tenir pour vrai">cuide</g> estre <rhyme>deceüe</rhyme>,
+<lb n="LAY2.027d:15"/>Car je me suis <rhyme>apperceüe</rhyme><l n="100"/>
+<lb n="LAY2.027d:16"/>Que vous m'amez de cuer <rhyme>entier</rhyme>,
+<lb n="LAY2.027d:17"/>Car par lonc temps m'avez <rhyme>sceüe</rhyme>
+<lb n="LAY2.027d:18"/>Et quant j'ay bien l'amour <rhyme>sceüe</rhyme>,
+<lb n="LAY2.027d:19"/>Qui n'est pas depuis avant <rhyme><g lemma="hier1" en="yesterday" fr="hier">yer</g></rhyme><l n="104"/>
+<lb n="LAY2.027d:20"/><g lemma="encommencer" en="to begin" fr="commencer, débuter">Encommenciée</g>, et que <rhyme>mestier</rhyme>
+<lb n="LAY2.027d:21"/>Vous estoit que fust <rhyme>receüe</rhyme>
+<lb n="LAY2.027d:22"/>Vostre amour, où pou <rhyme>exploitier</rhyme>
+<lb n="LAY2.027d:23"/>Postes lonc temps par nul <rhyme>sentier</rhyme>,<l n="108"/>
+<lb n="LAY2.027d:24"/>Lors fu vostre amour <rhyme>conceüe</rhyme>
+<lb n="LAY2.027d:25"/>Et moy qui si bien m'a <note>erasure, causing 1 letter gap?</note> <rhyme>seüe</rhyme>
+<lb n="LAY2.027d:26"/>Que mon cuer de joye est <rhyme>rentier</rhyme>,
+<!-- 2 blank lines here -->
+<lb n="LAY2.027d:29"/>¶ Car par seulement la <rhyme>veüe</rhyme><l n="112"/>
+<lb n="LAY2.027d:30"/>Avoir de vous je suis <rhyme>peüe</rhyme>
+<lb n="LAY2.027d:31"/>De quanque on pourroit <rhyme>souhaidier</rhyme>
+<lb n="LAY2.027d:32"/>D'autre bien, car j'ay <rhyme>esleüe</rhyme>
+<lb n="LAY2.027d:33"/>Ma joye en vous - chose est <rhyme>deüe</rhyme> -<l n="116"/>
+<lb n="LAY2.027d:34"/>De vous amer, c'est doulx <rhyme>mestier</rhyme>
+<lb n="LAY2.027d:35"/>Où l'on apprent à <rhyme><g lemma="accointer" en="to get to know, become acquainted with" fr="connaître, fréquenter">accointier</g></rhyme>
+<lb n="LAY2.027d:36"/>Tout honneur, si suis <rhyme>pourveüe</rhyme>
+<lb n="LAY2.027d:37"/>D'ami loyal au mien <rhyme><g lemma="cuider" en="opinion" fr="opinion, avis" type="verbal substantive">cuidier</g></rhyme><l n="120"/>
+<lb n="LAY2.027d:38"/>Qui de moy fait tout mal <rhyme>vuidier</rhyme>,
+<lb n="LAY2.027d:39"/>S'en <g lemma="louer" en="to praise" fr="louer" type="1 pres.ind."
+>lo</g> <name ref="God+of+Love"><c>a</c>mours</name> par qui <rhyme>eüe</rhyme>
+<lb n="LAY2.027d:40"/>Ay vostre amour et qui <rhyme><choice><sic>meü</sic><corr reason="rhyme" resp="JL" source="rhyme-scheme">meüe</corr></choice></rhyme> 
+<lb n="LAY2.027d:41"/>M'a à l'amer <rhyme>encommencier</rhyme>.<l n="124"/>
+<cb n="w"/> 
+<lb n="LAY2.027w:01"/><fw type="catchword" rend="texthand" size="smaller">Et puis qu'amours</fw>
+<pb n="028" ed="r"/><layout ruledLines="yes" rend="above ruling"/>
+<lb n="LAY2.028r:01"/><fw type="header1" place="column a" rend="raligned"><hi rend="red"><c><s>u</s></c>n autre <c>L</c>ay</hi></fw> <fw type="header2" place="intercolumn" rend="centred"><hi rend="red">&#x95; <s>v</s>i &#x95;</hi></fw>
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="LAY2.028a:01"/>¶ Et puis qu'<name ref="God+of+Love"><c>a</c>mours</name> nous a <rhyme>joins</rhyme>
+<lb n="LAY2.028a:02"/>Ensemble &amp; <rhyme>co<abbr type="n"/>joins</rhyme>, <note>correction: '&amp; c<abbr type="o"/>' in darker ink</note>
+<lb n="LAY2.028a:03"/>Soient noz <rhyme>soins</rhyme>
+<lb n="LAY2.028a:04"/>Et pres et <rhyme>loins</rhyme>,<l n="128"/>
+<lb n="LAY2.028a:05"/><name ref="The+Lover">Amis</name>, de <rhyme>loyaument</rhyme>
+<lb n="LAY2.028a:06"/>Nous entramer. <c>e</c>t tous <rhyme>besoins</rhyme>
+<lb n="LAY2.028a:07"/>Et tous amers <rhyme>poins</rhyme>,
+<lb n="LAY2.028a:08"/>Se sommes <rhyme><g lemma="poindre" en="to prick, sting" fr="piquer" type="past part.">poins</g></rhyme>,<l n="132"/>
+<!-- Not as in Duke's MS, line missing? -->
+<lb n="LAY2.028a:09"/>Nous porterons <rhyme>doulcement</rhyme>
+<lb n="LAY2.028a:10"/>Et très <rhyme>lïement</rhyme>,
+<lb n="LAY2.028a:11"/><rhyme>Gayement</rhyme>,
+<lb n="LAY2.028a:12"/>Car nous serons <rhyme><g lemma="enoindre" en="to anoint" fr="oindre">enoins</g></rhyme><l n="136"/>
+<lb n="LAY2.028a:13"/>De <name ref="Sweet+Thought"><c>d</c>oulx <c>p</c>enser</name> qui <rhyme>finement</rhyme>
+<lb n="LAY2.028a:14"/>Et très <rhyme>purement</rhyme>
+<lb n="LAY2.028a:15"/>Nous soustendra <g lemma="point" en="fittingly, appropriately" fr="comme il convient">à ses <rhyme>poins</rhyme></g>.
+<!-- 1 blank line  -->
+<lb n="LAY2.028a:17"/>¶ Et d'ainsi noz jours <rhyme>user</rhyme><l n="140"/>
+<lb n="LAY2.028a:18"/>Sans mal <rhyme>user</rhyme>
+<lb n="LAY2.028a:19"/>Nulx ne pourra <rhyme>accuser</rhyme>
+<lb n="LAY2.028a:20"/>De nul meffait n<abbr type="ost"/>re <rhyme>vie</rhyme>,
+<lb n="LAY2.028a:21"/>Ne sur nous nul mal <rhyme>causer</rhyme><l n="144"/>
+<lb n="LAY2.028a:22"/>Ne <rhyme>gloser</rhyme>,
+<lb n="LAY2.028a:23"/>Car sur nul n'arons <rhyme>envie</rhyme>
+<lb n="LAY2.028a:24"/>Ne vouloir d'autre <rhyme>accuser</rhyme> <note>rhyme?</note>
+<lb n="LAY2.028a:25"/>Pour nous <rhyme>excuser</rhyme>,<l n="148"/>
+<!-- 1 blank line  -->
+<lb n="LAY2.028a:27"/>Car de tous poins <rhyme>assouvie</rhyme>
+<lb n="LAY2.028a:28"/><name ref="Joy">Léece</name> en n<abbr type="ost"/>re <rhyme>penser</rhyme>
+<lb n="LAY2.028a:29"/>Sera, par quoy ert <note>correction in darker ink; over erasure?</note> <rhyme>ravie</rhyme>
+<lb n="LAY2.028a:30"/>Sans nul <rhyme>offenser</rhyme><l n="152"/>
+<lb n="LAY2.028a:31"/><name ref="Sadness">Tristece</name>, qui gent <rhyme><g lemma="dévier2" en="" fr="tuer">devie</g></rhyme>,
+<lb n="LAY2.028a:32"/>De nous qui sans <rhyme>faulser</rhyme>
+<lb n="LAY2.028a:33"/>Ne voulons,\ ainçois <rhyme><g lemma="plevir" en="to pledge" fr="s'engager">pleuvie</g></rhyme>
+<lb n="LAY2.028a:34"/>Sans nul jour <rhyme><g lemma="casser" en="to break (a promise)" fr="rompre (un engagement)">casser</g></rhyme><l n="156"/>
+<lb n="LAY2.028a:35"/>Avons foy vraye <rhyme><g lemma="assouvir" en="perfect" fr="parfait" type="past part.">assouvie</g></rhyme>.
+<!-- 1 blank line  -->
+<lb n="LAY2.028a:37"/>¶ Et pour tant, se <rhyme>mesdisans</rhyme>
+<lb n="LAY2.028a:38"/>Pour nous <rhyme>grever</rhyme>
+<lb n="LAY2.028a:39"/>Vont disant leurs mos <rhyme><g lemma="cuire" en="wounding, painful" fr="blessant, qui fait souffrir">cuisans</g></rhyme><l n="160"/>
+<lb n="LAY2.028a:40"/>Par <rhyme><g lemma="controuver" en="to invent (falsely)" fr="inventer (mensongèrement)">controuver</g></rhyme>,
+
+<cb n="b"/><layout ruledLines="40"/>
+<lb n="LAY2.028b:01"/>Ne devons pas estre <rhyme><g lemma="avare" en="greedy" fr="avide">aver</g></rhyme>
+<lb n="LAY2.028b:02"/>Des tresors doulx <rhyme><g lemma="aduire" en="pleasing, agreeable" fr="agréable">aduisans</g></rhyme>
+<lb n="LAY2.028b:03"/>Qu'<name ref="God+of+Love"><c>a</c>mours</name> aux amans <rhyme>trouver</rhyme><l n="164"/>
+<lb n="LAY2.028b:04"/>Par <rhyme>esprouver</rhyme>
+<lb n="LAY2.028b:05"/>Fait sur tous biens <rhyme>reluisans</rhyme>,
+<lb n="LAY2.028b:06"/>Et qui <rhyme>sauver</rhyme>
+<!-- 1 blank line  -->
+<lb n="LAY2.028b:08"/>Pevent de tous maulx <rhyme>nuisans</rhyme><l n="168"/>
+<lb n="LAY2.028b:09"/>Sans <rhyme><g lemma="emblaver" en="to reap, harvest" fr="récolter, moissonnner">emblaver</g></rhyme>.
+<lb n="LAY2.028b:10"/>Si n'en soyons pas <rhyme>exens</rhyme>,
+<lb n="LAY2.028b:11"/>Pour quoy <rhyme>laver</rhyme>
+<lb n="LAY2.028b:12"/>Nous en devons, quant <rhyme>lever</rhyme><l n="172"/>
+<lb n="LAY2.028b:13"/>En joye plus de dix <rhyme>ans</rhyme>
+<lb n="LAY2.028b:14"/>Nous peut li mains <rhyme><g lemma="suffisant" en="large, important" fr="important, grand">souffisans</g></rhyme>
+<lb n="LAY2.028b:15"/>Des biens. <rhyme><c>p</c>rouver</rhyme>
+<lb n="LAY2.028b:16"/>Le puis par tous <rhyme>poursuivans</rhyme><l n="176"/> <note>correction in darker ink over erasure</note>
+<lb n="LAY2.028b:17"/>Sans <rhyme>controuver</rhyme>.
+<!-- 1 blank line  -->
+<lb n="LAY2.028b:19"/>Et s'en contrée <rhyme>lontaine</rhyme>
+<lb n="LAY2.028b:20"/>Vostre noblece vous <rhyme>maine</rhyme>
+<lb n="LAY2.028b:21"/>Et la prouëce <rhyme>haultaine</rhyme><l n="180"/>
+<lb n="LAY2.028b:22"/>Qui vo noble cuer <rhyme><g lemma="démener" en="to lead, direct" fr="conduire, diriger" type="3 0res. ind.">demaine</g></rhyme>,
+<lb n="LAY2.028b:23"/>Ce me sera moult grant <rhyme>peine</rhyme>,
+<lb n="LAY2.028b:24"/>Mais je prendray <rhyme>reconfort</rhyme>
+<lb n="LAY2.028b:25"/>En ce que je \ suis <rhyme>certaine</rhyme><l n="184"/>
+<lb n="LAY2.028b:26"/>Que de vraye amour <rhyme>certaine</rhyme>
+<lb n="LAY2.028b:27"/>Plus qu'aultre chose <rhyme>mondaine</rhyme>,
+<lb n="LAY2.028b:28"/>Ne que <name ref="Paris+son+of+Priam"><c>p</c>aris</name> <name ref="Helen+of+Troy">belle <rhyme><c>h</c>elaine</rhyme></name>,
+<lb n="LAY2.028b:29"/>Comme dame <rhyme>souveraine</rhyme><l n="188"/>
+<lb n="LAY2.028b:30"/>M'amez de tout vostre <rhyme>effort</rhyme>.
+<!-- 1 blank line  -->
+<lb n="LAY2.028b:32"/>Et combien que de dueil <rhyme>plaine</rhyme>
+<lb n="LAY2.028b:33"/>Seray nuit, jour et <rhyme>semaine</rhyme>
+<lb n="LAY2.028b:34"/>Et tout le temps triste et <rhyme>vaine</rhyme><l n="192"/>
+<lb n="LAY2.028b:35"/>Sans estre liée ne <rhyme>saine</rhyme>,
+<lb n="LAY2.028b:36"/>En pire point qu'en <rhyme><g lemma="quartaine" en="quartan fever" fr="fièvre quarte">cartaine</g></rhyme>,
+<lb n="LAY2.028b:37"/>Ce me soustendra au <rhyme>fort</rhyme>
+<lb n="LAY2.028b:38"/>Que se <name ref="God"><c>d</c>ieu</name> tost vous <rhyme>ramaine</rhyme><l n="196"/>
+<lb n="LAY2.028b:39"/>Oncques si joyeuse <rhyme>estraine</rhyme>
+<lb n="LAY2.028b:40"/>N'ot dame noble ou <rhyme>villaine</rhyme>
+<!-- signature 'bj' above repair to parchment -->
+<pb n="028" ed="v"/><layout ruledLines="yes" rend="above ruling"/>
+<lb n="LAY2.028v:01"/><fw type="header1" place="column c" rend="centred"><hi rend="red"><s>U</s>ng</hi></fw> <fw type="header2" place="column c" rend="tabbed from left"><hi rend="red">autre</hi></fw> <fw type="header3" place="column d" rend="tabbed"><hi rend="red">lay &#x95; <s>v</s>i &#x95;</hi></fw>
+<cb n="c"/><layout ruledLines="39"/>
+<lb n="LAY2.028c:01"/>Com <c><s>J</s></c>'aray <subst><del rend="erasure" evidence="ruling erased, paler ink"></del><add place="inline" evidence="dash fills extra space">ne</add></subst> <rhyme>chastellaine</rhyme>,
+<lb n="LAY2.028c:02"/>Quant tendray en mon <rhyme>demaine</rhyme><l n="200"/>
+<lb n="LAY2.028c:03"/>Vous que j'aim sur tous très <rhyme>fort</rhyme>.
+<!-- 1 blank line  -->
+<lb n="LAY2.028c:05"/>Si vous pry, <name ref="The Lover">ma vraye <rhyme>amour</rhyme></name>,
+<lb n="LAY2.028c:06"/>Ma <rhyme>doulçour</rhyme>,
+<lb n="LAY2.028c:07"/>Mon bien, ma paix, ma <rhyme>vigour</rhyme>,<l n="204"/>
+<lb n="LAY2.028c:08"/>Mon <rhyme>retour</rhyme>,
+<lb n="LAY2.028c:09"/>La <g lemma="rien" en="person" fr="personne">riens</g> que j'aime le <rhyme>mieulx</rhyme>,
+<lb n="LAY2.028c:10"/>Qu'en tous <rhyme>lieux</rhyme>
+<lb n="LAY2.028c:11"/>Gay, jolis, joyeus <rhyme>toujour</rhyme><l n="208"/>
+<lb n="LAY2.028c:12"/>Sans mal <rhyme>tour</rhyme>
+<lb n="LAY2.028c:13"/>Soiés et plain de <rhyme>baudour</rhyme>
+<lb n="LAY2.028c:14"/>Pour <rhyme>m'amour</rhyme>,
+<lb n="LAY2.028c:15"/>Car <g lemma="aider" en="so help me God" fr="Dieu aidant" type="3 pres. subj.">se m'ayst <name ref="God"><rhyme><c>d</c>ieux</rhyme></name></g><l n="212"/>
+<!-- 1 blank line  -->
+<lb n="LAY2.028c:17"/>Pour vous sera mon <rhyme>atour</rhyme>
+<lb n="LAY2.028c:18"/>Par <rhyme>honnour</rhyme>
+<lb n="LAY2.028c:19"/>Gay, jolis, gent et <rhyme>joyeux</rhyme>,
+<lb n="LAY2.028c:20"/>Si me tendray sans <rhyme>tristour</rhyme><l n="216"/>
+<lb n="LAY2.028c:21"/>Ne <rhyme>doulour</rhyme>,
+<lb n="LAY2.028c:22"/>Car voz amoureus beaulx <rhyme>yeulx</rhyme>
+<lb n="LAY2.028c:23"/>Tous mes <rhyme><g lemma="dueil" en="suffering, sorrow" fr="souffrance, chagrin">dieux</g></rhyme>
+<lb n="LAY2.028c:24"/>Gariront par <note>'ar', darker ink? followed by dash; corrected?</note> leur <rhyme>vigour</rhyme><l n="220"/>;
+<lb n="LAY2.028c:25"/>De vous vendra la <rhyme>saveur</rhyme>
+<lb n="LAY2.028c:26"/>Par quoy mes jours seront <rhyme><g lemma="tel" en="the same" fr="pareil, semblable">tieulx</g></rhyme>.
+<!-- 1 blank line  -->
+<lb n="LAY2.028c:28"/>¶ <name ref="The+Lover">Amis</name>, de mes maulx le <rhyme>mire</rhyme>,
+<lb n="LAY2.028c:29"/>Qui sans <rhyme>yre</rhyme><l n="224"/>
+<lb n="LAY2.028c:30"/>Me tenez et sans <rhyme><g lemma="défrire" en="to be impatient" fr="être impatient">defrire</g></rhyme>,
+<lb n="LAY2.028c:31"/>De qui les grans biens <rhyme><g lemma="taxer" en="evaluate, measure" fr="évaluer, estimer">taussez</g></rhyme>
+<lb n="LAY2.028c:32"/>Ne pourroient ne <rhyme><g lemma="penser" en="to imagine, conceive" fr="imaginer, concevoir">pensez</g></rhyme>
+<lb n="LAY2.028c:33"/>Estre, car tout <note>darker ink, followed by dash</note> tire  <rhyme>tire</rhyme> <note>last 2 words in darker ink</note><l n="228"/>
+<lb n="LAY2.028c:34"/>Vostre bon cuer les <rhyme>atire</rhyme>
+<lb n="LAY2.028c:35"/>Où <rhyme><g lemma="remire" en="remedy, solace" fr="remède, soulagement">remire</g></rhyme>
+<lb n="LAY2.028c:36"/>Ont <note>darker ink, over erasure?</note> tous ceulx qui <rhyme>oppressez</rhyme>
+<lb n="LAY2.028c:37"/>Sont et de dueil <rhyme><g lemma="empresser" en="to overwhelm, harass" fr="presser, harceler">empressez</g></rhyme>,<l n="232"/>
+<lb n="LAY2.028c:38"/>Cui <rhyme>martire</rhyme>
+<!-- 1 blank line  -->
+
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="LAY2.028d:01"/>Et le mal qui les fait <rhyme><g lemma="frire" en="to be consumed with grief" fr="se consumer de douleur">frire</g></rhyme>
+<lb n="LAY2.028d:02"/>Confortez par vo doulx <rhyme>rire</rhyme>,
+<lb n="LAY2.028d:03"/>Et le mien cuer <rhyme><g lemma="enlacer" en="" fr="serrer">enlassez</g></rhyme>.<l n="236"/>
+<lb n="LAY2.028d:04"/>Je vous pry ja ne <rhyme>cessez</rhyme>
+<lb n="LAY2.028d:05"/>D'estre en l'amoureus <rhyme>navire</rhyme>
+<lb n="LAY2.028d:06"/>Qui vers toute joye <rhyme>tire</rhyme>
+<lb n="LAY2.028d:07"/>Et <rhyme>n'empire</rhyme>,<l n="240"/>
+<lb n="LAY2.028d:08"/>Ne ja ne vous en <rhyme>lassez</rhyme>
+<lb n="LAY2.028d:09"/>Et vous serés <rhyme><g lemma="surhausser" en="to elevate, raise" fr="élever">surhaulsez</g></rhyme>
+<lb n="LAY2.028d:10"/>Sur tous bons sans <rhyme>contredire</rhyme>.<l n="243"/>
+<!-- 2 blank lines here -->
+<lb n="LAY2.028d:13"/>Explicit <c>l</c>ay.
+<!-- 2 blank lines here -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

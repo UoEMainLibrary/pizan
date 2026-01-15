@@ -1,0 +1,194 @@
+<html>
+<head>
+<title>Loups for Gloss</title>
+<style>
+a: {text-decoration: none; color: #054d27;}
+a:link {text-decoration: none; color: #054d27;}
+a:visited {text-decoration: none; color:#f5f5dc;}
+a:active {text-decoration: none; color: #054d27;}
+a:hover {text-decoration: underline; color: #ff0000;}
+body {background-color: #eae2c8; font-family: Verdana, sans-serif; font-size: 4.0mm;}
+pre  {font-family: Verdana, sans-serif; font-size: 4.0mm;}
+hr   {color: #888833; }
+code {color: blue; }
+h1   {color: red; }
+h3   {color: purple; }
+tt   {color: green; font-family: Verdana, sans-serif; font-size: 4.0mm; }
+.lines  {color: purple; position:absolute; right:124mm; padding:1mm; background-color: #f5f5dc; font-family: Lucida Console, sans-serif; font-size: 2.7mm;}
+.loupage  {z-index:2; word-wrap:break-word; position:fixed; max-width:80mm; max-height:60mm; overflow:scroll; right:2mm; top:2mm; border:0.5mm solid gray; padding:1mm; background-color: #f5f5dc; font-family: Verdana, sans-serif; font-size: 3.7mm;}
+.numero   {color: green; font-family: Verdana, sans-serif; font-size: 2.7mm; }
+.savant   {color: #0000ff; font-family: Verdana, sans-serif; font-size: 5.6mm; }
+.rubrics {color: #e10034; background-color: #eae2c8; font-family: Verdana, Arial, sans-serif; font-size: 4.1mm;}
+.names {font-size: 4.0mm;}
+.notes {color: #eae2c8; font-family: Verdana, Arial, sans-serif; font-size: 0mm;}
+.braces {font-size: 4.5mm; position: relative; top:-3px; }
+.dropcap {float:left; margin-top:0px; color:black; padding-top:.2em; font-size:36pt; height:1em; font-weight:bold; font-family:"times","Times New Roman";} 
+.quire {color: blue }
+.tiny {color: green; font-family: Verdana, sans-serif; font-size: 2.7mm;}
+.glossed {background-color:#f5f5dc;}
+</style>
+<script type="text/javascript">
+var lamb='<span class="tiny">GLOSSES - Ctrl R REMOVES</span><br />';
+var french="", english="";
+function doLoup(mf, french, english)
+{
+thisform=document.dataIn;
+{
+lamb='<b>'+mf+'</b>'+'<span class="tiny"> FR </span>'+french+'<span class="tiny"> EN </span>'+english+'<br />'+lamb;
+if (document.getElementById)  document.getElementById("loups").innerHTML=lamb;
+if (document.all) document.all['loups'].innerHTML=lamb; // v4 browsers
+}
+}
+</script>
+</head>
+<body>
+<div id="loups" class="loupage" onmousedown="dragStart(event)">
+GLOSSES
+</div>
+<pre>
+PROL.003a:01 	  Tr&egrave;s excellent de grant <a onmouseover="
+javascript:doLoup('haultesse','altesse','highness')"><span class="glossed">haultesse</span></a>
+
+PROL.003a:02 	  Couronn&eacute;e, poissant princesse,
+PROL.003a:03 	  Tresnoble ro&yuml;ne de France,
+PROL.003a:04 	  Le corps enclin vers vous m'adresce.<span class="lines">   4</span>
+PROL.003a:05 	  En sal&uuml;ant par grant <a onmouseover="
+javascript:doLoup('humblece','humilit&eacute;','humility')">humblece</a>,
+PROL.003a:06 	  Pry Dieu qu'il vous tiengne <a onmouseover="
+javascript:doLoup('en souffrance','en paix','tranquil')">en souffrance</a>
+PROL.003a:07 	  Lonc temps vive; et apr&egrave;s l'<a onmouseover="
+javascript:doLoup('oultrance','la derni&egrave;re extr&eacute;mit&eacute;','the last extremity')">oultrance</a>
+PROL.003a:08 	  De la mort vous <a onmouseover="
+javascript:doLoup('doint','donne','give, grant')">doint</a> la richece<span class="lines">   8</span>
+
+PROL.003a:09 	  De paradis qui point ne cesse,
+PROL.003a:10 	  Et au monde <a onmouseover="
+javascript:doLoup('sanz decevrance','ininterrompu, continu','undivided, uninterrupted')">sanz decevrance</a>
+PROL.003a:11 	  Paix, joye et toute <a onmouseover="
+javascript:doLoup('recouvrance','reprise','recovery')">recouvrance</a>
+PROL.003a:12 	  De <a onmouseover="
+javascript:doLoup('quanqu','tout ce qui','all that')">quanqu&#x27;</a>il <a onmouseover="
+javascript:doLoup('affiert','convenir','be fitting')">affiert</a> &agrave; <a onmouseover="
+javascript:doLoup('l&eacute;ece','','joy, gaiety')">l&eacute;ece</a>.<span class="lines">  12</span>
+
+PROL.003a:13 	  Haulte dame en qui sont tous biens
+PROL.003a:14 	  Et ma tressouvrainne, je viens (In the manuscript the line is hypermetric. 'Tressouverainne' has been corrected to make a regular octosyllable.)
+PROL.003a:15 	  Vers vous comme vo cr&eacute;ature
+
+
+PROL.003b:01 	  Pour ce livre cy que je tiens<span class="lines">  16</span>
+PROL.003b:02 	  Vous presenter, o&ugrave; il n'a riens
+PROL.003b:03 	  En <a href="
+javascript:doLoup('histoire','miniature','miniature')">histoire</a> n'en escripture
+PROL.003b:04 	  Que n'aye en ma pens&eacute;e pure
+PROL.003b:05 	  Pris o&ucirc; stile que je <a href="
+javascript:doLoup('detiens','tenir en sa poss&eacute;der','possess')">detiens</a>,<span class="lines">  20</span>
+
+PROL.003b:06 	  Du ('Dun' corrected to 'Du' by erasure.) seul <a href="
+javascript:doLoup('sentement','inspiration, sentiments','inspiration, feeling')">sentement</a> que retiens
+PROL.003b:07 	  Des dons de Dieu et de Nature,
+PROL.003b:08 	  Quoy que mainte aultre cr&eacute;ature
+PROL.003b:09 	  En ait plus en fait et <a href="
+javascript:doLoup('maintiens','comportement, conduite','conduct, behaviour')">maintiens</a>;<span class="lines">  24</span>
+PROL.003b:10 	  Et sont o&ucirc; volume compris
+PROL.003b:11 	  <a href="
+javascript:doLoup('Plusieurs','maint','many')">Plusieurs</a> livres <a href="
+javascript:doLoup('&egrave;squieulx','dans lesquels','in which')">&egrave;squieulx</a> j'ay <a href="
+javascript:doLoup('pris','commencer &agrave;','begin to')">pris</a>
+
+PROL.003b:12 	  &Agrave; parler en maintes manieres
+PROL.003b:13 	  Differens et pour ce l'<a href="
+javascript:doLoup('empris','entreprendre','undertake')">empris</a><span class="lines">  28</span>
+PROL.003b:14 	  Qu&euml; on (hiatus) en devient plus <a href="
+javascript:doLoup('appris','habile, instruit','educated, able')">appris</a>
+PROL.003b:15 	  D'<a href="
+javascript:doLoup(' o&yuml;r','X','hear')"> o&yuml;r</a> de diverses matieres,
+
+________________________________________
+
+PROL.003c:01 	  Unes pesans, aultres legieres,
+PROL.003c:02 	  &Agrave; qui <a href="
+javascript:doLoup('se delitte ','prendre plaisir','take delight')">se delitte </a> o&ucirc; <a href="
+javascript:doLoup(' pourpris','jardin, domaine','garden, domain')"> pourpris</a><span class="lines">  32</span>
+
+PROL.003c:03 	  Des livres qui maint ont en <a href="
+javascript:doLoup('pris','valeur, r&eacute;putation','worth, reputation')">pris</a> ('empris' corrected to 'en pris' by the erasure of a minim)
+PROL.003c:04 	  Fait monter et prendre manieres
+PROL.003c:05 	  Belles. Si doit on avoir chieres
+PROL.003c:06 	  Escriptures, non en <a href="
+javascript:doLoup('despris','m&eacute;pris','contempt')">despris</a>,<span class="lines">  36</span>
+PROL.003c:07 	  Car <a href="
+javascript:doLoup('si que','comme','just as')">si que</a> les sages tesmoignent
+PROL.003c:08 	  En leurs escrips, les gens qui <a href="
+javascript:doLoup('songnent','avoir souci de, se pr&eacute;occuper de X','take care to, attach importance to')">songnent</a>
+PROL.003c:09 	  De lire en livres voulentiers,
+PROL.003c:10 	  Ne peut qu'aucunement n'eslongnent('They must to some degree dispel Ignorance'. Literally, 'it cannot be that they do not...')<span class="lines">  40</span>
+
+PROL.003c:11 	  Ygnorence que ceulx <a href="
+javascript:doLoup('ressongnent','craindre','fear')">ressongnent</a>
+PROL.003c:12 	  Qui de sens suivent les sentiers.
+PROL.003c:13 	  Si en valent mieulx ceulx le tiers &#150;
+PROL.003c:14 	  Voire plus &#150; qui s'en embesongnent<span class="lines">  44</span>
+PROL.003c:15 	  Et qui la peine ne ressongnent
+PROL.003c:16 	  D'apprendre. Il n'est si beaulx mestiers
+PROL.003c:17 	  Ne qui face gens si entiers,
+PROL.003c:18 	  Quoy que les folz, peut estre, en grongnent.<span class="lines">  48</span>
+PROL.003c:19 	  Si l'ay fait, ma dame, ordener,
+PROL.003c:20 	  Depuis que je sceus que assener
+PROL.003c:21 	  Le devoye &agrave; vous, si que ay sceu
+PROL.003c:22 	  Tout au mieulx, et le parfiner<span class="lines">  52</span>
+
+PROL.003c:23 	  D'escripre et bien enluminer
+PROL.003c:24 	  D&egrave;s que vo command en receu, 
+PROL.003c:25 	  Selons qu'en mon cuer j'ay conceu
+PROL.003c:26 	  Qu'il faloit des choses finer<span class="lines">  56</span>
+PROL.003c:27 	  Pour bien richement l'affiner,
+PROL.003c:28 	  Affin que fust apperce&uuml;
+PROL.003c:29 	  Que je mets povoir, force et sceu
+PROL.003c:30 	  Pour vo bon vueil enteriner	.<span class="lines">  60</span>
+PROL.003c:31 	  Dont vous plaise, tr&egrave;s haulte et digne,
+PROL.003c:32 	  Le prendre en gr&eacute;, tout soye indigne
+PROL.003c:33 	  Que mon euvre estre present&eacute;e
+PROL.003c:34 	  Vous doye, mais vostre benigne<span class="lines">  64</span>
+
+PROL.003c:35 	  Condic&iuml;on qui ne decline
+PROL.003c:36 	  D'umilit&eacute;, tresredoubt&eacute;e
+PROL.003c:37 	  Dame, tout soi&eacute;z hault ('ha' and 'l' corrected over erasure) mont&eacute;e,
+PROL.003c:38 	  Ne vous seuffre en fait n&euml; en (hiatus) signe <span class="lines">  68</span>
+
+
+
+PROL.003d:01 	  Que ne soy&eacute;z comme ro&yuml;ne 
+PROL.003d:02 	  Doit estre, humaine et arrest&eacute;e.
+PROL.003d:03 	  Et pour ce ne me suis doubt&eacute;e
+PROL.003d:04 	  Que vous l'ay&eacute;s &agrave; ce termine<span class="lines">  72</span>
+
+PROL.003d:05 	  De mon labour et lonc travail
+PROL.003d:06 	  Du livre que m&egrave;s (i.e. 'mets'; cf. v. 59) en vo bail,
+PROL.003d:07 	  Qui contient grant euvre et penible.
+PROL.003d:08 	  Combien que, peut estre, g'y fail<span class="lines">  76</span>
+PROL.003d:09 	  En maint lieux par ce  que je vail
+PROL.003d:10 	  Trop pou en sens &#150; bien est possible.
+PROL.003d:11 	  Ne vueill&eacute;z pas, dame sensible,
+PROL.003d:12 	  Pour tant prendre garde au deffail,<span class="lines">  80</span>
+PROL.003d:13 	  Mais &agrave; ce que je me travail
+PROL.003d:14 	  Voulentiers de ce que possible
+PROL.003d:15 	  M'est &agrave; faire en chose loisible
+PROL.003d:16 	  Qu'&agrave; haulte gent voulentiers bail.<span class="lines">  84</span>
+
+PROL.003d:17 	  Si suppli en conclus&iuml;on,
+PROL.003d:18 	  Haulte dame d'atract&iuml;on
+PROL.003d:19 	  D'empereurs de digne memoire,
+PROL.003d:20 	  Qu'en benigne devoc&iuml;on<span class="lines">  88</span>
+PROL.003d:21 	  Vous plaise mon entenc&iuml;on
+PROL.003d:22 	  Prendre en gr&eacute;, qui loyale et voire
+PROL.003d:23 	  Est et sera; et si notoire
+PROL.003d:24 	  Ceste mienne posic&iuml;on<span class="lines">  92</span>
+PROL.003d:25 	  Vous soit qu'&agrave; tousjours menc&iuml;on
+PROL.003d:26 	  Soit de moy en vostre memoire,
+PROL.003d:27 	  Si que vostre grace m'avoire
+PROL.003d:28 	  Qu'ay&eacute;s &agrave; moy affect&iuml;on.<span class="lines">  96</span>
+
+</pre>
+</body>
+</html>

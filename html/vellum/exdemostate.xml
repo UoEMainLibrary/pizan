@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vvstate version="1">
+ <general languagefile="http://cbers.shef.ac.uk/manuscripts/languages.xml" language="English" menubar="true" thumbnails="true" threads="2"/>
+ <catalogue filename="http://www.pizan.lib.ed.ac.uk/vellum/images.xml">
+  <colselector width="280" height="120"/>
+ </catalogue>
+</vvstate>

@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>feuillets Dynamic Style Property Changer by Charlie Mansfield June 2006</title>
+	<meta http-equiv="content-type" 
+		content="text/html;charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+<style type="text/css">
+.chooser {color: #669999; font-family: Verdana, Arial, sans-serif; font-size: 3.0mm;}
+pre {color: #000000; font-family: Verdana, Arial, sans-serif; font-size: 4.1mm;}
+.corpus {color: #000000; font-family: Verdana, Arial, sans-serif; font-size: 3.4mm; text-decoration:none;}  
+.sidebar { float:right; margin-right:15px; margin-bottom:5px; }
+.numero  {color: #000099; font-family: Times, Arial, sans-serif; font-size: 2.0mm; text-decoration:none;}
+</style>
+<script type="text/javascript">
+
+function stilo()
+{
+thisform=document.dataIn;
+mm=thisform.field1.value+"mm";
+colour=thisform.field2.value;
+document.getElementsByTagName("d").style.color = colour;
+document.getElementsByTagName("d").style.fontSize = mm;
+
+mm=thisform.field3.value+"mm";
+colour=thisform.field4.value;
+document.getElementById("e").style.color = colour;
+document.getElementById("e").style.fontSize = mm;
+}
+</script>
+</head>
+<body>
+
+<div class="chooser">
+feuillets By Charlie Mansfield 05-Jun-2006.  <br />
+Uses JavaScript to make Document Object Model [DOM] calls to change Cascading Style Sheet attribute settings in XHTML 1 under user control.
+</div>
+
+<div class="chooser">
+<form name="dataIn" action=""> 
+NUMERO Size in mm  <input type="text" name="field1" size="4"> 
+Color <input type="text" name="field2" size="5" value="#000000"> 
+<br />
+CORPUS Size in mm  <input type="text" name="field3" size="4"> 
+Color <input type="text" name="field4" size="5" value="#000000"> 
+<br />
+<a href="javascript:stilo()">Submit</a>
+</form>
+</div>
+
+<span id="e" class="corpus">corpus id test</span> 
+
+<span name="d" class="numero">59a:1</span>	Ilz uous chargent noble \ duc debonnaire 
+<span name="d" class="numero">59a:2</span>	Et si se tiennent
+<span name="d" class="numero">59a:3</span>	&Agrave; uostre dit \ car bien sceue<sup>n</sup>t et tie<sup>n</sup>nent
+
+
+<br />
+List of Web-Safe Colours to Help Selection - 
+re-type color name or hex in input box above
+
+<div class="sidebar">
+    * azimuth
+    * background
+    * backgroundAttachment
+    * backgroundColor
+    * backgroundImage
+    * backgroundPosition
+    * backgroundRepeat
+    * border
+    * borderBottom
+    * borderBottomColor
+    * borderBottomStyle
+    * borderBottomWidth
+    * borderCollapse
+    * borderColor
+    * borderLeft
+    * borderLeftColor
+    * borderLeftStyle
+    * borderLeftWidth
+    * borderRight
+    * borderRightColor
+    * borderRightStyle
+    * borderRightWidth
+    * borderSpacing
+    * borderStyle
+    * borderTop
+    * borderTopColor
+    * borderTopStyle
+    * borderTopWidth
+    * borderWidth
+    * bottom
+    * captionSide
+    * clear
+    * clip
+    * color
+    * content
+    * counterIncrement
+    * counterReset
+    * cssFloat
+    * cssText
+    * cue
+    * cueAfter
+    * onBefore
+    * cursor
+    * direction
+    * displays
+    * elevation
+    * emptyCells
+    * font
+    * fontFamily
+    * fontSize
+    * fontSizeAdjust
+    * fontStretch
+    * fontStyle
+    * fontVariant
+    * fontWeight
+    * height
+    * left
+    * length
+    * letterSpacing
+    * lineHeight
+    * listStyle
+    * listStyleImage
+    * listStylePosition
+    * listStyleType
+    * margin
+    * marginBottom
+    * marginLeft
+    * marginRight
+    * marginTop
+    * markerOffset
+    * marks
+    * maxHeight
+    * maxWidth
+    * minHeight
+    * minWidth
+    * MozBinding
+    * MozOpacity
+    * orphans
+    * outline
+    * outlineColor
+    * outlineStyle
+    * outlineWidth
+    * overflow
+    * padding
+    * paddingBottom
+    * paddingLeft
+    * paddingRight
+    * paddingTop
+    * page
+    * pageBreakAfter
+    * pageBreakBefore
+    * pageBreakInside
+    * parentRule
+    * pause
+    * pauseAfter
+    * pauseBefore
+    * pitch
+    * pitchRange
+    * playDuring
+    * position
+    * quotes
+    * richness
+    * right
+    * size
+    * speak
+    * speakHeader
+    * speakNumeral
+    * speakPunctuation
+    * speechRate
+    * stress
+    * tableLayout
+    * textAlign
+    * textDecoration
+    * textIndent
+    * textShadow
+    * textTransform
+    * top
+    * unicodeBidi
+    * verticalAlign
+    * visibility
+    * voiceFamily
+    * volume
+    * whiteSpace
+    * widows
+    * width
+    * wordSpacing
+    * zIndex 
+</div>
+
+<TABLE WIDTH="70%" CELLPADDING="3" CELLSPACING="0" CLASS="insidetable" TITLE="HTML color names with corresponding web safe colors in both hexadecimal and RGB codes">
+<TR>
+<TH WIDTH="20%" CLASS="ith">Color Name</TD>
+<TH WIDTH="40%" ALIGN="CENTER" CLASS="ith">Associated color code<BR>R-G-B</TD>
+<TH WIDTH="40%" ALIGN="CENTER" CLASS="ith">Equivalent Websafe color<BR>R-G-B</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">ALICEBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F0F8FF">"#F0F8FF"<BR>240-248-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">ANTIQUEWHITE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FAEBD7">"#FAEBD7"<BR>250-235-215</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">AQUA</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FFFF">"#00FFFF"<BR>0-255-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FFFF">"#00FFFF"<BR>0 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">AQUAMARINE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #7FFFD4">"#7FFFD4"<BR>127-255-212</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #66FFCC">"#66FFCC"<BR>102 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">AZURE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F0FFFF">"#F0FFFF"<BR>240-255-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BEIGE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F5F5DC">"#F5F5DC"<BR>245-245-220</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BISQUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFE4C4">"#FFE4C4"<BR>255-228-196</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BLACK</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #000000"><SPAN STYLE="color: #FFFFFF;">"#000000"<BR>0-0-0</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #000000"><SPAN STYLE="color: #FFFFFF;">"#000000"<BR>0 - 0 - 0</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BLANCHEDALMOND</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFEBCD">"#FFEBCD"<BR>255-255-205</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #0000FF">"#0000FF"<BR>0-0-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #0000FF">"#0000FF"<BR>0 - 0 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BLUEVIOLET</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #8A2BE2">"#8A2BE2"<BR>138-43-226</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9933FF">"#9933FF"<BR>153 - 51 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BROWN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #A52A2A"><SPAN STYLE="color: #FFFFFF;">"#A52A2A"<BR>165-42-42</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #993333"><SPAN STYLE="color: #FFFFFF;">"#993333"<BR>153 - 51 - 51</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">BURLYWOOD</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #DEB887">"#DEB887"<BR>222-184-135</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCC99">"#CCCC99"<BR>204 - 204 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CADETBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #5F9EA0">"#5F9EA0"<BR>95-158-160</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #669999">"#669999"<BR>102 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CHARTREUSE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #7FFF00">"#7FFF00"<BR>127-255-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #66FF00">"#66FF00"<BR>102 - 255 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CHOCOLATE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #D2691E">"#D2691E"<BR>210-105-30</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC6633">"#CC6633"<BR>204 - 102 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CORAL</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF7F50">"#FF7F50"<BR>255-127-80</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF6666">"#FF6666"<BR>255 - 102 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CORNFLOWERBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #6495ED">"#6495ED"<BR>100-149-237</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #6699FF">"#6699FF"<BR>102 - 153 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CORNSILK</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFF8DC">"#FFF8DC"<BR>255-248-220</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CRIMSON</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #DC143C">"#DC143C"<BR>220-20-60</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC0033">"#CC0033"<BR>204 - 0 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">CYAN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FFFF">"#00FFFF"<BR>0-255-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FFFF">"#00FFFF"<BR>0 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00008B"><SPAN STYLE="color: #FFFFFF;">"#00008B"<BR>0-0-139</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #000099"><SPAN STYLE="color: #FFFFFF;">"#000099"<BR>0 - 0 - 153</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKCYAN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #008B8B">"#008B8B"<BR>0-139-139</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #009999">"#009999"<BR>0 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKGOLDENROD</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #B8860B">"#B8860B"<BR>184-134-11</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC9900">"#CC9900"<BR>204 - 153 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKGRAY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #A9A9A9">"#A9A9A9"<BR>169-169-169</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #999999">"#999999"<BR>153 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #006400"><SPAN STYLE="color: #FFFFFF;">"#006400"<BR>0-100-0</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #006600"><SPAN STYLE="color: #FFFFFF;">"#006600"<BR>0 - 102 - 0</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKKHAKI</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #BDB76B">"#BDB76B"<BR>189-183-107</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCC66">"#CCCC66"<BR>204 - 204 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKMAGENTA</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #8B008B">"#8B008B"<BR>139-0-139</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #990099">"#990099"<BR>153 - 0 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKOLIVEGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #556B2F"><SPAN STYLE="color: #FFFFFF;">"#556B2F"<BR>85-107-47</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #666633"><SPAN STYLE="color: #FFFFFF;">"#666633"<BR>102 - 102 - 51</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKORANGE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF8C00">"#FF8C00"<BR>255-140-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF9900">"#FF9900"<BR>255 - 153 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKORCHID</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9932CC">"#9932CC"<BR>153-50-204</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9933CC">"#9933CC"<BR>153 - 51 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKRED</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #8B0000"><SPAN STYLE="color: #FFFFFF;">"#8B0000"<BR>139-0-0</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #990000"><SPAN STYLE="color: #FFFFFF;">"#990000"<BR>153 - 0 - 0</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKSALMON</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #E9967A">"#E9967A"<BR>233-150-122</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF9966">"#FF9966"<BR>255 - 153 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKSEAGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #8FBC8F">"#8FBC8F"<BR>143-188-143</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99CC99">"#99CC99"<BR>153 - 204 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKSLATEBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #483D8B"><SPAN STYLE="color: #FFFFFF;">"#483D8B"<BR>72-61-139</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #333399"><SPAN STYLE="color: #FFFFFF;">"#333399"<BR>51 - 51 - 153</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKSLATEGRAY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #2F4F4F"><SPAN STYLE="color: #FFFFFF;">"#2F4F4F"<BR>47-79-79</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #336666"><SPAN STYLE="color: #FFFFFF;">"#336666"<BR>51 - 102 - 102</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKTURQUOISE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00CED1">"#00CED1"<BR>0-206-209</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00CCCC">"#00CCCC"<BR>0 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DARKVIOLET</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9400D3">"#9400D3"<BR>148-0-211</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9900CC">"#9900CC"<BR>153 - 0 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DEEPPINK</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF1493">"#FF1493"<BR>255-20-147</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF0099">"#FF0099"<BR>255 - 0 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DEEPSKYBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00BFFF">"#00BFFF"<BR>0-191-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00CCFF">"#00CCFF"<BR>0 - 204 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DIMGRAY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #696969"><SPAN STYLE="color: #FFFFFF;">"#696969"<BR>105-105-105</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #666666"><SPAN STYLE="color: #FFFFFF;">"#666666"<BR>102 - 102 - 102</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">DODGERBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #1E90FF">"#1E90FF"<BR>30-144-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #3399FF">"#3399FF"<BR>51 - 153 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">FIREBRICK</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #B22222"><SPAN STYLE="color: #FFFFFF;">"#B22222"<BR>178-34-34</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #993333"><SPAN STYLE="color: #FFFFFF;">"#993333"<BR>153 - 51 - 51</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">FLORALWHITE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFAF0">"#FFFAF0"<BR>255-250-240</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">FORESTGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #228B22">"#228B22"<BR>34-139-34</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #339933">"#339933"<BR>51 - 153 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">FUCHSIA</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF00FF">"#FF00FF"<BR>255-0-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF00FF">"#FF00FF"<BR>255 - 0 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">GAINSBORO</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #DCDCDC">"#DCDCDC"<BR>220-220-220</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCCCC">"#CCCCCC"<BR>204 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">GHOSTWHITE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F8F8FF">"#F8F8FF"<BR>248-248-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">GOLD</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFD700">"#FFD700"<BR>255-215-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCC00">"#FFCC00"<BR>255 - 204 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">GOLDENROD</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #DAA520">"#DAA520"<BR>218-165-32</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC9933">"#CC9933"<BR>204 - 153 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">GRAY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #BEBEBE">"#BEBEBE"<BR>128-128-128</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #999999">"#999999"<BR>153 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">GREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #008000"><SPAN STYLE="color: #FFFFFF;">"#008000"<BR>0-128-0</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #009900"><SPAN STYLE="color: #FFFFFF;">"#009900"<BR>0 - 153 - 0</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">GREENYELLOW</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #ADFF2F">"#ADFF2F"<BR>173-255-47</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99FF33">"#99FF33"<BR>153 - 255 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">HONEYDEW</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F0FFF0">"#F0FFF0"<BR>240-255-240</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">HOTPINK</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF69B4">"#FF69B4"<BR>255-105-180</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF66CC">"#FF66CC"<BR>255 - 102 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">INDIANRED</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CD5C5C">"#CD5C5C"<BR>205-92-92</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC6666">"#CC6666"<BR>204 - 102 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">INDIGO</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #4B0082"><SPAN STYLE="color: #FFFFFF;">"#4B0082"<BR>75-0-130</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #330099"><SPAN STYLE="color: #FFFFFF;">"#330099"<BR>51 - 0 - 153</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">IVORY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFF0">"#FFFFF0"<BR>255-240-240</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">KHAKI</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F0D58C">"#F0D58C"<BR>240-230-140</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFF99">"#FFFF99"<BR>255 - 255 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LAVENDER</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #E6E6FA">"#E6E6FA"<BR>230-230-250</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LAVENDERBLUSH</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFF0F5">"#FFF0F5"<BR>255-240-245</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LAWNGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #7CFC00">"#7CFC00"<BR>124-252-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #66FF00">"#66FF00"<BR>102 - 255 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LEMONCHIFFON</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFACD">"#FFFACD"<BR>255-250-205</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #ADD8E6">"#ADD8E6"<BR>173-216-230</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99CCFF">"#99CCFF"<BR>153 - 204 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTCORAL</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F08080">"#F08080"<BR>240-128-128</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF9999">"#FF9999"<BR>255 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTCYAN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #E0FFFF">"#E0FFFF"<BR>224-255-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCFFFF">"#CCFFFF"<BR>204 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTGOLDENRODYELLOW</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FAFAD2">"#FAFAD2"<BR>250-250-210</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #90EE90">"#90EE90"<BR>144-238-144</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99FF99">"#99FF99"<BR>153 - 255 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTGREY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #D3D3D3">"#D3D3D3"<BR>211-211-211</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCCCC">"#CCCCCC"<BR>204 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTPINK</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFB6C1">"#FFB6C1"<BR>255-182-193</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCCCC">"#FFCCCC"<BR>255 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTSALMON</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFA07A">"#FFA07A"<BR>255-160-122</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF9966">"#FF9966"<BR>255 - 153 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTSEAGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #20B2AA">"#20B2AA"<BR>32-178-170</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #339999">"#339999"<BR>51 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTSKYBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #87CEFA">"#87CEFA"<BR>135-206-250</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99CCFF">"#99CCFF"<BR>153 - 204 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTSLATEGRAY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #778899">"#778899"<BR>119-136-153</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #669999">"#669999"<BR>102 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTSTEELBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #B0C4DE">"#B0C4DE"<BR>176-196-222</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99CCCC">"#99CCCC"<BR>153 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIGHTYELLOW</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFE0">"#FFFFE0"<BR>255-255-224</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIME</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FF00">"#00FF00"<BR>0-255-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FF00">"#00FF00"<BR>0 - 255 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LIMEGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #32CD32">"#32CD32"<BR>50-205-50</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #33CC33">"#33CC33"<BR>51 - 204 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">LINEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FAF0E6">"#FAF0E6"<BR>250-240-230</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MAGENTA</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF00FF">"#FF00FF"<BR>255-0-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF00FF">"#FF00FF"<BR>255 - 0 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MAROON</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #800000"><SPAN STYLE="color: #FFFFFF;">"#800000"<BR>128-0-0</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #990000"><SPAN STYLE="color: #FFFFFF;">"#990000"<BR>153 - 0 - 0</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMAQUAMARINE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #66CDAA">"#66CDAA"<BR>102-205-170</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #66CC99">"#66CC99"<BR>102 - 204 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #0000CD">"#0000CD"<BR>0-0-205</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #0000CC">"#0000CC"<BR>0 - 0 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMORCHID</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #BA55D3">"#BA55D3"<BR>186-85-211</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC66CC">"#CC66CC"<BR>204 - 102 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMPURPLE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9370DB">"#9370DB"<BR>147-112-219</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9966CC">"#9966CC"<BR>153 - 102 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMSEAGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #3CB371">"#3CB371"<BR>60-179-113</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #33CC66">"#33CC66"<BR>51 - 204 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMSLATEBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #7B68EE">"#7B68EE"<BR>123-104-238</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #6666FF">"#6666FF"<BR>102 - 102 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMSPRINGGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FA9A">"#00FA9A"<BR>0-250-154</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FF99">"#00FF99"<BR>0 - 255 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMTURQUOISE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #48D1CC">"#48D1CC"<BR>72-209-204</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #33CCCC">"#33CCCC"<BR>51 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MEDIUMVIOLETRED</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #C71585">"#C71585"<BR>199-21-133</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC0066">"#CC0066"<BR>204 - 0 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MIDNIGHTBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #191970"><SPAN STYLE="color: #FFFFFF;">"#191970"<BR>25-25-112</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #000066"><SPAN STYLE="color: #FFFFFF;">"#000066"<BR>0 - 0 - 102</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MINTCREAM</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F5FFFA">"#F5FFFA"<BR>245-255-250</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MISTYROSE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFE4E1">"#FFE4E1"<BR>255-228-225</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCCFF">"#FFCCFF"<BR>255 - 204 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">MOCCASIN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFE4B5">"#FFE4B5"<BR>255-228-181</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCCCC">"#FFCCCC"<BR>255 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">NAVAJOWHITE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFDEAD">"#FFDEAD"<BR>255-222-173</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCC99">"#FFCC99"<BR>255 - 204 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">NAVY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #000080"><SPAN STYLE="color: #FFFFFF;">"#000080"<BR>0-0-128</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #009999"><SPAN STYLE="color: #FFFFFF;">"#000099"<BR>0 - 0 - 153</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">OLDLACE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FDF5E6">"#FDF5E6"<BR>253-245-230</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">OLIVE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #808000">"#808000"<BR>128-128-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #999900">"#999900"<BR>153 - 153 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">OLIVEDRAB</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #6B8E23">"#6B8E23"<BR>107-142-35</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #669933">"#669933"<BR>102 - 153 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">ORANGE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFA500">"#FFA500"<BR>255-165-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF9900">"#FF9900"<BR>255 - 153 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">ORANGERED</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF4500">"#FF4500"<BR>255-69-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF3300">"#FF3300"<BR>255 - 51 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">ORCHID</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #DA70D6">"#DA70D6"<BR>218-112-214</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC66CC">"#CC66CC"<BR>204 - 102 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PALEGOLDENROD</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #EEE8AA">"#EEE8AA"<BR>238-232-170</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFF99">"#FFFF99"<BR>255 - 255 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PALEGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #98FB98">"#98FB98"<BR>152-251-152</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99FF99">"#99FF99"<BR>153 - 255 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PALETURQUOISE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #AFEEEE">"#AFEEEE"<BR>175-238-238</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99FFFF">"#99FFFF"<BR>153 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PALEVIOLETRED</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #DB7093">"#DB7093"<BR>219-112-147</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC6699">"#CC6699"<BR>204 - 102 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PAPAYAWHIP</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFEFD5">"#FFEFD5"<BR>255-239-213</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFCC">"#FFFFCC"<BR>255 - 255 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PEACHPUFF</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFDAB9">"#FFDAB9"<BR>255-218-185</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCCCC">"#FFCCCC"<BR>255 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PERU</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CD853F">"#CD853F"<BR>205-133-63</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC9933">"#CC9933"<BR>204 - 153 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PINK</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFC0CB">"#FFC0CB"<BR>255-192-203</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCCCC">"#FFCCCC"<BR>255 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PLUM</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #DDA0DD">"#DDA0DD"<BR>221-160-221</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC99CC">"#CC99CC"<BR>204 - 153 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">POWDERBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #B0E0E6">"#B0E0E6"<BR>176-224-230</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCCFF">"#CCCCFF"<BR>204 - 204 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">PURPLE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #800080"><SPAN STYLE="color: #FFFFFF;">"#800080"<BR>128-0-128</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #990099"><SPAN STYLE="color: #FFFFFF;">"#990099"<BR>153 - 0 - 153</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">RED</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF0000">"#FF0000"<BR>255-0-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF0000">"#FF0000"<BR>255 - 0 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">ROSYBROWN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #BC8F8F">"#BC8F8F"<BR>188-143-143</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CC9999">"#CC9999"<BR>204 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">ROYALBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #4169E1">"#4169E1"<BR>65-105-225</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #3366CC">"#3366CC"<BR>51 - 102 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SADDLEBROWN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #8B4513"><SPAN STYLE="color: #FFFFFF;">"#8B4513"<BR>139-69-19</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #993300"><SPAN STYLE="color: #FFFFFF;">"#993300"<BR>153 - 51 - 0</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SALMON</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FA8072">"#FA8072"<BR>250-128-114</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF9966">"#FF9966"<BR>255 - 153 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SANDYBROWN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F4A460">"#F4A460"<BR>244-164-96</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF9966">"#FF9966"<BR>255 - 153 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SEAGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #2E8B57">"#2E8B57"<BR>46-139-87</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #339966">"#339966"<BR>51 - 153 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SEASHELL</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFF5EE">"#FFF5EE"<BR>255-245-238</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SIENNA</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #A0522D"><SPAN STYLE="color: #FFFFFF;">"#A0522D"<BR>160-82-45</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #996633"><SPAN STYLE="color: #FFFFFF;">"#996633"<BR>153 - 102 - 51</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SILVER</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #C0C0C0">"#C0C0C0"<BR>192-192-192</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCCCC">"#CCCCCC"<BR>204 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SKYBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #87CEEB">"#87CEEB"<BR>135-206-235</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99CCFF">"#99CCFF"<BR>153 - 204 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SLATEBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #6A5ACD">"#6A5ACD"<BR>106-90-205</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #6666CC">"#6666CC"<BR>102 - 102 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SLATEGRAY</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #708090"><SPAN STYLE="color: #FFFFFF;">"#708090"<BR>112-128-144</SPAN></TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #669999"><SPAN STYLE="color: #FFFFFF;">"#669999"<BR>102 - 153 - 153</SPAN></TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SNOW</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFAFA">"#FFFAFA"<BR>255-250-250</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">SPRINGGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FF7F">"#00FF7F"<BR>0-255-127</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #00FF66">"#00FF66"<BR>0 - 255 - 102</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">STEELBLUE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #4682B4">"#4682B4"<BR>70-130-180</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #3399CC">"#3399CC"<BR>51 - 153 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">TAN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #D2B48C">"#D2B48C"<BR>210-180-140</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCC99">"#CCCC99"<BR>204 - 204 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">TEAL</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #008080">"#008080"<BR>0-128-128</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #009999">"#009999"<BR>0 - 153 - 153</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">THISTLE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #D8BFD8">"#D8BFD8"<BR>216-191-216</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #CCCCCC">"#CCCCCC"<BR>204 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">TOMATO</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF6347">"#FF6347"<BR>253-99-71</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF6633">"#FF6633"<BR>255 - 102 - 51</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">TURQUOISE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #40E0D0">"#40E0D0"<BR>64-224-208</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #33CCCC">"#33CCCC"<BR>51 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">VIOLET</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #EE82EE">"#EE82EE"<BR>238-130-238</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FF99FF">"#FF99FF"<BR>255 - 153 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">WHEAT</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F5DEB3">"#F5DEB3"<BR>245-222-179</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFCCCC">"#FFCCCC"<BR>255 - 204 - 204</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">WHITE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255-255-255</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">WHITESMOKE</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #F5F5F5">"#F5F5F5"<BR>245-245-245</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFFFF">"#FFFFFF"<BR>255 - 255 - 255</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">YELLOW</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFF00">"#FFFF00"<BR>255-255-0</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #FFFF00">"#FFFF00"<BR>255 - 255 - 0</TD>
+</TR>
+<TR>
+<TD CLASS="tcb">YELLOWGREEN</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #9ACD32">"#9ACD32"<BR>154-205-50</TD>
+<TD CLASS="tcb" ALIGN="CENTER" STYLE="background-color: #99CC33">"#99CC33"<BR>153 - 204 - 51</TD>
+</TR>
+</TABLE>
+
+Categories: DOM
+</p>
+</body>
+</html>

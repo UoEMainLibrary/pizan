@@ -1,0 +1,1 @@
+java -Xmx512m -classpath vv.jar VirtualVellum -state "local_state.xml"

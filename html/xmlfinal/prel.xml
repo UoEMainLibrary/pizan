@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Preliminary Leaves" type="Item">
+<pb n="001" ed="r"/>
+<lb n="PREL.001r:01"/><note>The page is unruled; it contains three devices, all associated with names and in different hands, and one ex-libris.</note>
+<cb n="a"/>
+<!-- 5 blank line(s) here -->
+<lb n="PREL.001a:06"/>sur tous autres <note>The device of Jacquette of Luxembourg, Duchess of Bedford.</note>
+<lb n="PREL.001a:07"/><name ref="Jacquette of Luxembourg, Duchesse of Bedford">Jaquete</name>
+<!-- 3 blank line(s) here -->
+<lb n="PREL.001a:11"/>Plus est en vous<note>The device of Louis de Bruges, seigneur de la Gruthuyse († 1492)</note> <note>Preceded and followed by a paraph.</note>
+<lb n="PREL.001a:12"/><name ref="Louis de Bruges, seigneur de la Gruthuyse († 1492)"><c>g</c>ruthuse</name> <note>Preceded and followed by a paraph.</note>
+<!-- 4 blank line(s) here -->
+<lb n="PREL.001a:17"/><name ref="Henry Cavendish, Second Duke of Newcastle († 1691)"><foreign xml:lang="en">Duke of Newcastle</foreign></name>
+<lb n="PREL.001a:18"/><foreign xml:lang="en">his booke</foreign> 1676 <note>The ex-libris is written on a rectangle of paper pasted on to the parchment, and spanning the width of the page.</note><cb n="b"/>
+<!-- 5 blank line(s) here -->
+<lb n="PREL.001b:06"/>M <note>A decorative 'M' is centred above the device.</note>
+<lb n="PREL.001b:07"/>NULLE LA VAULT <note>The device of Anthony Woodville, Second Earl Rivers.</note>
+<lb n="PREL.001b:08"/><name ref="Anthony Woodville, Second Earl Rivers ">ARIVIERES</name> <note>The names is centred below the device.</note>
+<pb n="001" ed="v"/> <note>The page shows traces of ruling in plummet.</note>
+<pb n="002" ed="r"/><note>The page is ruled in plummet, probably with 39 lines. A 'X' can be seen in the top right-hand corner ogf the page.</note>>
+</div1>
+</p>
+</body>
+</text>
+</TEI>

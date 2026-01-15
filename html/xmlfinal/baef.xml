@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+
+<div1 n="Balades d'Estrange Façon" type="item"></div1>
+<!-- BAEF 1 -->
+<lb n="BAEF.024b:28"/>Balade retrograde qui se <note>centred</note>
+<lb n="BAEF.024b:29"/>dit à droit et à rebours <note>centred</note>
+<!-- 2 blank line(s) here -->
+<lb n="BAEF.024b:32"/><hi rend="cap2">D</hi>oulçour <note>preparatory 'd' partly visible</note> bonté <rhyme>gentillece</rhyme>
+<lb n="BAEF.024b:33"/>noblece <note>small 'n'</note> beauté grant <rhyme>honnour</rhyme>
+<lb n="BAEF.024b:34"/>Valour et maintien <rhyme>sagece</rhyme>
+<lb n="BAEF.024b:35"/>Humblece en doulx plaisant <rhyme>atour</rhyme>
+<lb n="BAEF.024b:36"/>Confortaresse en <rhyme>savour</rhyme>
+<lb n="BAEF.024b:37"/>Dueil angoisseux <rhyme>secourable</rhyme>
+<lb n="BAEF.024b:38"/>Accueil bel &amp; <rhyme>agréable</rhyme>
+<!-- 1 blank line(s) here --><pb n="024" ed="v"/>
+<lb n="BAEF.024v:01"/><hi rend="red">L <note>'ivre' largely erased; all towards right of column c</note> de <note>centred over column d</note></hi><cb n="c"/>
+<!-- 38 ruled lines -->
+<lb n="BAEF.024c:01"/>Flour <note>elaborate 'F'</note> plaisant de grant / <rhyme>haultece</rhyme>
+<lb n="BAEF.024c:02"/>Princesse ma prisiée <rhyme>amour</rhyme>
+<lb n="BAEF.024c:03"/>Tour forte noble <rhyme>forterece</rhyme> <note>8 syllables</note> 
+<lb n="BAEF.024c:04"/>Largece en honneste <rhyme>sejour</rhyme>
+<lb n="BAEF.024c:05"/>Déesse estoile cler <rhyme>jour</rhyme>
+<lb n="BAEF.024c:06"/>Oeil mirouër <rhyme>amïable</rhyme>
+<lb n="BAEF.024c:07"/>Accueil bel et <rhyme>agréable</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024c:09"/>Coulour fine vraye <rhyme>adrece</rhyme>
+<lb n="BAEF.024c:10"/>Tresse blonde et bonne <rhyme>odour</rhyme>
+<lb n="BAEF.024c:11"/>Ardour souëve <add place="supralinear" type="" evidence="">en</add> <rhyme>simplece</rhyme> <note>préparation de correction which corresponds to reading in the Duke's MS, indicated by superscript dot and rapid cursive 'en' under 'odour'</note>
+<lb n="BAEF.024c:12"/>Parece sans nulle <rhyme>foulour</rhyme>
+<lb n="BAEF.024c:13"/><name ref="">Lucrece</name> de simple <rhyme>cremour</rhyme>
+<lb n="BAEF.024c:14"/>Brueil de solas <rhyme>delictable</rhyme>
+<lb n="BAEF.024c:15"/>Accueil bel &amp;c
+<!-- 1 blank line(s) here -->
+<!-- No envoi -->
+<!-- 1 blank line(s) here -->
+<!-- BAEF 2 -->
+<lb n="BAEF.024c:18"/>Balade à rimes reprises
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024c:20"/><hi rend="cap2">F</hi>lour <note>no preparatory 'f'</note> de beauté \ en valour <rhyme>souverain</rhyme>
+<lb n="BAEF.024c:21"/>Raim de bonté \ plante de toute <rhyme>grace</rhyme>
+<lb n="BAEF.024c:22"/>Grace d'avoir \ sur tous le pris à <rhyme>plain</rhyme>
+<lb n="BAEF.024c:23"/>Plain de savoir \ et qui to<abbr type="us"/> maulx <rhyme>efface</rhyme>
+<lb n="BAEF.024c:24"/>Face plaisant \ corps digne de <rhyme>louange</rhyme>
+<lb n="BAEF.024c:25"/>Ange en semblant \ où il n'a q<abbr type="ue"/> <rhyme>redire</rhyme>
+<lb n="BAEF.024c:26"/>D'ire vuidié \ à vous des preux oû <rhyme>renge</rhyme>
+<lb n="BAEF.024c:27"/>Renge mon cuer \ qui fors vo<abbr type="us"/> ne <rhyme>desire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024c:29"/>Et j'ay espoir \ qu'il soit en vostre <rhyme>main</rhyme>
+<lb n="BAEF.024c:30"/>Main jour et nuit \ en gracïeux <rhyme>espace</rhyme>
+<lb n="BAEF.024c:31"/>Passe le temps \ car ja à bien <rhyme>haultain</rhyme>
+<lb n="BAEF.024c:32"/>Attain par vous \ et <name ref="">amours</name> q<abbr type="ui"/> <rhyme>m'enlace</rhyme>
+<lb n="BAEF.024c:33"/>Lasse mon cuer \ qui du vostre en <rhyme>escha<abbr type="n"/>ge</rhyme>
+<lb n="BAEF.024c:34"/>Change vous fais \ de lui qui vo<abbr type="us"/> <rhyme>remire</rhyme>
+<lb n="BAEF.024c:35"/>Mire plaisant \ à vous qui joye <rhyme>arrenge</rhyme>
+<lb n="BAEF.024c:36"/>Renge mon cuer \ qui fors vo<abbr type="us"/> ne <rhyme>desire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024c:38"/>Si me contraint \ à l'amour \ do<abbr type="n"/>t vo<abbr type="us"/> <rhyme>aim</rhyme>
+<lb n="BAEF.024c:39"/>L'aim de voz yeulx \ où g<abbr type="ra"/>nt doulço<abbr type="ur"/> <rhyme>s'amasse</rhyme><cb n="d"/>
+<!-- 38 ruled lines -->
+<lb n="BAEF.024d:01"/>Masse d'onnour \ où J'ay <note>elaborate 'J' with inverted commas</note> tout mon <rhyme>reclaim</rhyme>
+<lb n="BAEF.024d:02"/>Claim des vaillans \ dont nul te<abbr type="m"/>ps ne me <rhyme>lasse</rhyme>
+<lb n="BAEF.024d:03"/>Lasse comment \ or à prime m'y <rhyme>prenge</rhyme>
+<lb n="BAEF.024d:04"/>Prens ge en amer \ riens qui mon b<abbr type="ie"/>n <rhyme>desire</rhyme>
+<lb n="BAEF.024d:05"/>Sire en vo main \ qui des bons ne <rhyme>desrenge</rhyme>
+<lb n="BAEF.024d:06"/>Renge mon cuer &amp;c <note>no envoi</note>
+<!-- 1 blank line(s) here -->
+<!-- BAEF 3 -->
+<lb n="BAEF.024d:08"/>Balade à responces
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024d:10"/><hi rend="cap2">M</hi>on <note>preparatory 'm' partly visible</note> doulx ami \ ma chiere <rhyme>dame</rhyme>
+<lb n="BAEF.024d:11"/>s'acoute <note>small 's'</note> à \ moy \ très <rhyme>voulentiers</rhyme>
+<lb n="BAEF.024d:12"/>M'aimes tu bien \ oÿl par <rhyme>m'ame</rhyme>
+<lb n="BAEF.024d:13"/>Si fais je toy \ c'est doulx <rhyme>mestiers</rhyme>
+<lb n="BAEF.024d:14"/>De quoy \ d'amer \ voire sans <rhyme>tiers</rhyme>
+<lb n="BAEF.024d:15"/>Deux cuers en un \ sans <rhyme>decepvoir</rhyme>
+<lb n="BAEF.024d:16"/>Voire aux loyaulx \ tu as dit <rhyme>voir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024d:18"/>Dame sans per \ amy <note>point sur le 'y'</note> sans <rhyme>blame</rhyme>
+<lb n="BAEF.024d:19"/>Quant vous verray \ t'est il <rhyme>mestiers</rhyme>
+<lb n="BAEF.024d:20"/>Oÿl tost soit \ je crain <rhyme>diffame</rhyme>
+<lb n="BAEF.024d:21"/>Qui le saroit \ les <rhyme>nouvelliers</rhyme>
+<lb n="BAEF.024d:22"/>Occïons les \ ilz sont trop <rhyme>fiers</rhyme>
+<lb n="BAEF.024d:23"/>Nuysent ilz doncques \ oÿl <rhyme>voir</rhyme>
+<lb n="BAEF.024d:24"/>Voire aux loyaulx \ tu as dit <rhyme>voir</rhyme> <note>sewn repair over thrée lines</note>
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024d:26"/>Je sens le dart et moy la <rhyme>flame</rhyme> <note>whole line in darker ink over erasure</note>
+<lb n="BAEF.024d:27"/>De qui d'amours \ voire et <rhyme>dongiers</rhyme>
+<lb n="BAEF.024d:28"/>Elle m'art tout \ et moy <rhyme>entame</rhyme>
+<lb n="BAEF.024d:29"/>Que ferons nous  \ soyons <rhyme>entiers</rhyme>
+<lb n="BAEF.024d:30"/>Sans reconfort \ nennil \ <rhyme>mestiers</rhyme>
+<lb n="BAEF.024d:31"/>A aux amans \ quoy \ bon <note>followed by 2 ? letter spaces</note> <rhyme>espoir</rhyme>
+<lb n="BAEF.024d:32"/>Voire aux loyaulx &amp;c
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.024d:34"/>Dame ottroyez \ ami <rhyme>requiers</rhyme>
+<lb n="BAEF.024d:35"/>Que \ vous voye \ quier les <rhyme>sentiers</rhyme>
+<lb n="BAEF.024d:36"/>Peine y mettray c'est le <rhyme>devoir</rhyme>
+<lb n="BAEF.024d:37"/>Voire aux &amp;c
+<!-- 1 blank line(s) here --><pb n="025" ed="r"/>
+<lb n="BAEF.025r:01"/><hi rend="red">plusieurs façons  &#x95; iiii &#x95;</hi> <note>left aligned over column a</note><cb n="a"/>
+<!-- 39 ruled lines -->
+<!-- BAEF 4 -->
+<lb n="BAEF.025a:01"/>Balade à vers à responces
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.025a:03"/><name ref="">A2mours</name> <note>no preparatory 'a' visible</note> escoute ma <rhyme>complainte</rhyme>
+<lb n="BAEF.025a:04"/>Or dis \ qu'as tu de quoy te <rhyme>plains</rhyme>
+<lb n="BAEF.025a:05"/>De toy par qui je suis <rhyme>estrainte</rhyme>
+<lb n="BAEF.025a:06"/>Tort as quant de ce te <rhyme>complains</rhyme>
+<lb n="BAEF.025a:07"/>Non ay voir car ma joye <rhyme>estains</rhyme>
+<lb n="BAEF.025a:08"/>Joye en aras s'en toy ne <rhyme>tient</rhyme>
+<lb n="BAEF.025a:09"/>Trop craing le grant mal qui en <rhyme>vie<abbr type="n"/>t</rhyme>
+<lb n="BAEF.025a:10"/>Pense au bien nompas au <rhyme>do<abbr type="m"/>mage</rhyme>
+<lb n="BAEF.025a:11"/>Vueille ou non d'un seul me <rhyme>souvie<abbr type="n"/>t</rhyme>
+<lb n="BAEF.025a:12"/>Aime ley si feras que <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.025a:14"/>Veulx tu que j'aime est ce <rhyme>contrainte</rhyme>
+<lb n="BAEF.025a:15"/>C'est droit quant ton cuer est <rhyme>attains</rhyme>
+<lb n="BAEF.025a:16"/>Sera ce cil qui m'a <rhyme>destrainte</rhyme>
+<lb n="BAEF.025a:17"/>Oÿl car de tout bien est <rhyme>plains</rhyme>
+<lb n="BAEF.025a:18"/>Je n'ay donc pas tort si je <rhyme>l'aims</rhyme>
+<lb n="BAEF.025a:19"/>Non \ car chacun à bon le <rhyme>tient</rhyme>
+<lb n="BAEF.025a:20"/>Et se mon honneur ne <rhyme>soustient</rhyme>
+<lb n="BAEF.025a:21"/>Si fera voir c'est son <rhyme>usage</rhyme>
+<lb n="BAEF.025a:22"/>Or m'en dis ce qu'il <rhyme>appartient</rhyme>
+<lb n="BAEF.025a:23"/>Ayme ley si feras que <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.025a:25"/><name ref="">Raison</name> me \ met en trop gra<abbr type="n"/>t <rhyme>crainte</rhyme>
+<lb n="BAEF.025a:26"/>Ne la crois joye tolt à <rhyme>mains</rhyme>
+<lb n="BAEF.025a:27"/>Tu m'as vers elle en guerre <rhyme>empainte</rhyme>
+<lb n="BAEF.025a:28"/>Desconfis la joing moy les <rhyme>mains</rhyme>
+<lb n="BAEF.025a:29"/>Honneur dit qu'en vauldroye <rhyme>mains</rhyme>
+<lb n="BAEF.025a:30"/>Il ment chacun bon en <rhyme>devient</rhyme>
+<lb n="BAEF.025a:31"/>Fait et dont amer me <rhyme>couvient</rhyme>
+<lb n="BAEF.025a:32"/>Ce te sera grant <rhyme>avantage</rhyme>
+<lb n="BAEF.025a:33"/>Que feray appartient dont se cil <rhyme>revient</rhyme>
+<lb n="BAEF.025a:34"/>Aime ley &amp;c
+<!-- 1 blank line(s) here -->
+<lb n="BAEF.025a:36"/>Princes gentilz <name ref="">amours</name> me <rhyme>tie<abbr type="n"/>t</rhyme>
+<lb n="BAEF.025a:37"/>Il appartient b<abbr type="ie"/>n à ton <rhyme>aage</rhyme>
+<lb n="BAEF.025a:38"/>Un bel ami mon cuer <rhyme>retient</rhyme>
+<lb n="BAEF.025a:39"/>Ayme <note>'y' with long tail</note> ley &amp;c<cb n="b"/>
+<!-- 39 lines --></div1>
+
+</p>
+</body>
+</text>
+</TEI>

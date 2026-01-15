@@ -1,0 +1,299 @@
+<!ENTITY nbsp "&#160;">
+
+<!ELEMENT a  ( #PCDATA )>
+<!ATTLIST a
+href CDATA #REQUIRED
+>
+
+<!ELEMENT abbr  EMPTY>
+<!ATTLIST abbr
+type CDATA #REQUIRED
+>
+
+
+<!ELEMENT add  ( #PCDATA | abbr | c | choice  | corr | emph | fw | g | hi | l | lb | name | note | num | rhyme | s | sic | title | vs)*>
+<!ATTLIST add
+place CDATA #REQUIRED
+evidence CDATA #REQUIRED
+reason CDATA #IMPLIED
+type CDATA #IMPLIED
+>
+
+<!ELEMENT author  ( #PCDATA )>
+
+<!ELEMENT authority  ( #PCDATA )>
+
+<!ELEMENT availability  ( p )>
+<!ATTLIST availability
+status CDATA #REQUIRED
+>
+
+<!ELEMENT biblFull  ( titleStmt | publicationStmt )*>
+
+<!ELEMENT body  ( p )>
+<!ATTLIST background>
+<!-- the element <c> changes a lower case letter to upper-case and vice versa -->
+<!ELEMENT c  ( #PCDATA | s | vs )*>
+
+<!ELEMENT cb  EMPTY>
+<!ATTLIST cb
+n CDATA #REQUIRED
+ed CDATA #IMPLIED
+l CDATA #IMPLIED>
+
+<!--  <choice> is the parent element of the elements <corr> and <sic> -->
+<!ELEMENT choice  ( abbr | add | c | corr | emph | hi | del | lb | orig | reg | rhyme | sic )*>
+<!ELEMENT corr  ( #PCDATA | c | g | hi | name | rhyme | title )*>
+<!ATTLIST corr
+reason CDATA #REQUIRED
+rend CDATA #IMPLIED
+resp CDATA #REQUIRED
+source CDATA #IMPLIED
+>
+
+<!ELEMENT date  ( #PCDATA )>
+
+<!-- Used to to mark deletions made during the preparation of the manuscript, i.e. shortly before 1414 -->
+<!ELEMENT del  ( #PCDATA  | abbr | add | c | div2 | emph | fw | group | hi | lb | name | note | rhyme | s | title | vs )*>
+<!ATTLIST del
+evidence CDATA #IMPLIED
+rend CDATA #REQUIRED
+reason CDATA #IMPLIED
+type CDATA #IMPLIED
+>
+
+<!-- Used to delimit each of the fascicules in the manuscript -->
+<!ELEMENT div0 ( #PCDATA  | abbr |  add | c | cb | choice | corr | del | div1 | div2 | div3| div4 | div9 | emph| figure | foreign | fw | g | gb | group | hi | layout | l | lb | lg | msDesc | name | note | num | orig | p | pb | pre | ref | reg | rhyme |  s | subst | supplied | title | vs )*>
+<!ATTLIST div0
+n CDATA #REQUIRED
+type CDATA #REQUIRED
+>
+
+<!-- Used to delimit each of the items (i.e. texts/works by Christine) in the manuscript -->
+<!ELEMENT div1 ( #PCDATA  | abbr |  add | c | cb | choice | corr | del | div0 | div2 | div3| div4 | div9 | emph| figure | foreign | fw | g | gb | group | hi | layout | l | lb | lg | msDesc | name | note | num | orig | p | pb | pre | ref | reg | rhyme |  s | subst | supplied | title | vs )*>
+<!ATTLIST div1
+n CDATA #REQUIRED
+type CDATA #REQUIRED
+>
+
+<!-- Used to number each of the items in a collection, e.g. of lyrics -->
+<!ELEMENT div2  ( #PCDATA |  abbr | add | c | cb | choice | corr | del | div2 | emph | figure | foreign | fw | g | gb | group | hi | layout | l | lb | lg | name | note | num | orig | reg | pb |  rhyme |  s | subst | supplied | title | vs )*>
+<!ATTLIST div2
+type CDATA #IMPLIED
+metre CDATA #IMPLIED
+length CDATA #IMPLIED
+n CDATA #REQUIRED
+satfno CDATA #IMPLIED
+stanza CDATA #IMPLIED
+envoi CDATA #IMPLIED
+rhyme CDATA #IMPLIED
+refrain CDATA #IMPLIED
+>
+
+<!-- Used to tag individual 'intermèdes lyriques' -->
+<!ELEMENT div3  ( #PCDATA |  abbr | add | c | cb | choice | corr | del | div2 | emph | figure | foreign | fw | g | gb |glyph | hi | layout | l | lb | lg | name | note | num | pb |  rhyme |  s |  
+subst | supplied | title | vs )*>
+<!ATTLIST div3
+type CDATA #IMPLIED
+metre CDATA #IMPLIED
+length CDATA #IMPLIED
+n CDATA  #IMPLIED
+stanza CDATA #IMPLIED
+envoi CDATA #IMPLIED
+rhyme CDATA #IMPLIED
+refrain CDATA #IMPLIED
+>
+
+<!-- Used to delimit paragraphs in Front Matter -->
+<!ELEMENT div4  ( #PCDATA  | a | emph | title  )*>
+
+<!-- Used to group the paragraphs in Front Matter  for CSS purposes -->
+<!ELEMENT div9 ( #PCDATA  | div4 | emph | title )*>
+
+<!-- A formatting element used to mark a portion of text to be rendered in italic in HTML-->
+<!ELEMENT emph  ( #PCDATA | abbr | add | c | choice | corr | del | emph | fw | g | hi | l | lb | name | note | rhyme | s | sic | subst | supplied | title  | vs )*>
+<!ATTLIST emph
+rend CDATA #REQUIRED
+>
+
+<!-- Used to give details of a miniature in the manuscript, where it occurs, and how many ruled lines it occupies -->
+<!ELEMENT figure  EMPTY>
+<!ATTLIST figure
+place CDATA #REQUIRED
+ref CDATA #REQUIRED
+>
+
+<!ELEMENT fileDesc  ( titleStmt | publicationStmt | sourceDesc )*>
+
+<!-- Used to mark words in a language other than French, mainly Latin but also a very few English words,  -->
+<!ELEMENT foreign ( #PCDATA | abbr | add | c | cb | choice| corr | del | div1 | div2 | div3 | emph | figure | foreign| fw | g | gb | glyph |group | hi | layout | l | lb | lg | name | note | num | orig | reg | pb | rhyme | s | sic |subst | supplied | title | vs)*>
+<!ATTLIST foreign
+xml:lang CDATA #REQUIRED
+rend CDATA #IMPLIED
+>
+
+<!ELEMENT fw  ( #PCDATA | hi | s | abbr | add | del | c | choice | emph | foreign | g | glyph | l |rhyme | name | note | lb | num | orig | reg | subst | supplied | title | vs )*>
+<!ATTLIST fw
+type CDATA #IMPLIED
+place CDATA #IMPLIED
+rend CDATA #IMPLIED
+size CDATA #IMPLIED
+>
+
+<!-- A 'temporary' element used to list lemmas and build a glossary with meanings in English and French -->
+<!ELEMENT g  ( #PCDATA | abbr | add | c | choice| corr | del | emph | fw | l | lb |  name | note | rhyme | s | sic | subst | supplied | title | vs )*>
+<!ATTLIST g
+lemma CDATA #REQUIRED
+en CDATA #REQUIRED
+fr CDATA #REQUIRED
+type CDATA #IMPLIED
+>
+
+<!-- 'Gathering begins', used to mark where a gathering (quire) begins; 'n' numbers the quires in sequence; 'rend' indicates the number of leaves in the quire. -->
+<!ELEMENT gb  EMPTY>
+<!ATTLIST gb
+n CDATA #REQUIRED
+rend CDATA #REQUIRED
+type CDATA #IMPLIED
+>
+
+<!ELEMENT glyph ( #PCDATA | abbr | add | c | cb | corr | choice | del | fw | g | glyph | hi | layout | l | lb | name | note | num | orig | pb | reg | s | sic | subst | supplied | vs )*>
+
+<!ATTLIST glyph
+type CDATA #REQUIRED
+>
+
+<!ELEMENT group  EMPTY>
+<!ATTLIST group
+n CDATA #REQUIRED
+>
+
+<!-- <hi> = 'high rendition' marks the way(s) in which a letter, word or short passage of text has been highlighted during the preparation of the manuscript -->
+<!ELEMENT hi  ( #PCDATA | abbr | add | c | cb | corr | choice | del | fw | g | glyph | hi | foreign | layout | l | lb | name | note | num | orig | pb | reg | s | sic | subst | supplied | vs )*>
+<!ATTLIST hi
+rend CDATA #REQUIRED
+type CDATA #IMPLIED
+>
+
+<!ELEMENT idno  ( #PCDATA )>
+<!ATTLIST idno
+type CDATA #REQUIRED
+>
+
+<!-- Line number -->
+<!ELEMENT l  EMPTY>
+<!ATTLIST l
+n CDATA #REQUIRED
+>
+
+<!-- <layout> indicates how many ruled lines are contained in a column of the manuscript -->
+<!ELEMENT layout  EMPTY>
+<!ATTLIST layout
+ruledLines CDATA #REQUIRED
+rend CDATA #IMPLIED
+writtenLines CDATA #IMPLIED
+>
+
+<!-- Used to mark a page break -->
+<!ELEMENT lb  EMPTY>
+<!ATTLIST lb
+n CDATA #REQUIRED
+>
+
+<!--  a group of lines or a stanza. The element is reserved for future use, <div2> being used for this purpose for the moment -->
+<!ELEMENT lg  ( #PCDATA | hi | g | lb | rhyme | name | l | choice | note | cb | layout | del | pb | s | c | abbr | add | vs )*>
+<!ATTLIST lg
+n CDATA #REQUIRED
+type CDATA #REQUIRED
+>
+
+<!ELEMENT msDesc  ( div0 | div1 | div2 | div3 | div4 )*>
+
+<!-- Used to mark proper names: names of people or places; personifications etc  -->
+<!ELEMENT name  ( #PCDATA | abbr | add | c | cb | choice | corr | del | emph | foreign | fw | g | hi | l | layout | lb | name | note | num  | rhyme | s | sic | subst | title | vs )*>
+<!ATTLIST name
+ref CDATA #IMPLIED
+>
+
+<!ELEMENT note  ( #PCDATA  | abbr | add | emph | hi | name | title )*>
+
+<!ELEMENT num ( #PCDATA | fw | choice | lb | abbr | note | s | name | vs )*>
+<!ATTLIST num
+type CDATA #REQUIRED
+>
+
+<!-- the element <orig> is used in conjunction with <reg> to change '&' to 'et'   -->
+<!ELEMENT orig  ( #PCDATA )>
+
+<!ELEMENT p  ( #PCDATA | div0 | div1 | emph | gb | ref | title)*>
+
+<!-- Used to mark a page break -->
+<!ELEMENT pb  EMPTY>
+<!ATTLIST pb
+n CDATA #REQUIRED
+ed CDATA #REQUIRED
+l CDATA #IMPLIED
+>
+<!ELEMENT pre  ( #PCDATA | div4 )*>
+
+<!ELEMENT publicationStmt  ( authority | availability | date | publisher | pubPlace | idno )*>
+
+<!ELEMENT publisher  ( #PCDATA )>
+
+<!ELEMENT pubPlace  ( #PCDATA )>
+
+<!ELEMENT ref  ( #PCDATA )>
+<!ATTLIST ref
+type CDATA #REQUIRED
+>
+
+<!-- see <orig> -->
+<!ELEMENT reg  ( #PCDATA | s )*>
+
+<!ELEMENT resp  ( #PCDATA )>
+
+<!ELEMENT respStmt  ( resp | name )*>
+
+<!ELEMENT rhyme  ( #PCDATA | c | abbr | choice | corr | foreign | g | s | lb | num | sic | subst | add | note |  name | del | title | vs )*>
+
+<!-- <s> 'special', used to mark an exuberant, elaborate or unusually formed letter which is extended, generally into the upper or lower margin. Values of 'rend' include 'arabesque', 'banderole', 'commas', 'flattened', 'point' and 'trumpet'. -->
+<!ELEMENT s  ( #PCDATA | c | abbr | reg )*>
+<!ATTLIST s
+rend CDATA #IMPLIED
+>
+
+<!ELEMENT sourceDesc  ( biblFull )>
+
+<!-- Used to mark a portion of the text in Harley 4431 which the modern transcriber/editoris considers to be incorrect -->
+<!ELEMENT sic  ( #PCDATA | abbr | add | c | del | fw | hi | lb | name | s  | vs)*>
+
+
+
+<!ELEMENT subst  ( #PCDATA | abbr | del | add )*>
+
+<!ELEMENT supplied ( #PCDATA | c | del | fw | group | hi | lb | name | note | title )*>
+<!ATTLIST supplied
+reason CDATA #REQUIRED
+rend CDATA #IMPLIED
+resp CDATA #REQUIRED
+source CDATA #IMPLIED
+>
+
+<!ELEMENT TEI  ( teiHeader | text )*>
+
+<!ELEMENT teiHeader  ( fileDesc )>
+
+<!ELEMENT text  ( body )>
+
+<!ELEMENT title   ( #PCDATA | abbr | add | c | cb | choice | corr | del | emph | fw | g | hi | l | layout | lb | name | note | num  | rhyme | s | sic | subst | vs  )*>
+<!ATTLIST title
+type CDATA #IMPLIED
+>
+
+<!ELEMENT titleStmt  ( title | author | respStmt )*>
+
+<!-- <vs>, 'very special', used to mark a particularly exuberant, elaborate or unusually formed letter which is extended, generally into the upper or lower) margin. Values of 'rend' include 'arabesque', 'banderole', 'commas', 'flattened', 'point' and 'trumpet'. -->
+<!ELEMENT vs  ( #PCDATA | c | abbr )*>
+<!ATTLIST vs
+rend CDATA #IMPLIED
+>

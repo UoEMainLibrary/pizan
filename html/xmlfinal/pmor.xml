@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Proverbes Moraux" type="item">
+<lb n="PMOR.259v:01"/><hi rend="red">Proverbes <note>première colonne</note> moraulx xxiiii &#x95; <note>deuxième colonne</note></hi><cb n="c"/>
+<!-- 38 lines -->
+<figure ref="259c" place="15"></figure><!-- miniature extends 15 lines here -->
+<lb n="PMOR.259c:16"/><hi rend="red">Ci commencent proverbes moraulx xxxiiii &#x95;</hi>
+<lb n="PMOR.259c:17"/><hi rend="cap2">L</hi>es <note>avec prolongements marginaux à vignettes</note> bonnes meurs et les sages <rhyme>notables</rhyme> <note>'s' long, rajouté ?</note>
+<lb n="PMOR.259c:18"/>Ramentevoir souvent sont <rhyme>proufitables</rhyme> <note>'s' long, rajouté ?</note>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259c:20"/>¶ Prudence apprent l'omme à vivre en <rhyme>raison</rhyme>
+<lb n="PMOR.259c:21"/>Là où elle est eureuse est la <rhyme>maison</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259c:23"/>¶ Homs attrempez froit et <rhyme>amesurez</rhyme>
+<lb n="PMOR.259c:24"/>Estre ne peut longuement <rhyme>meseurez</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259c:26"/>¶ Courage froit confiant et <rhyme>affermé</rhyme>
+<lb n="PMOR.259c:27"/>N'est de leger ne tost mal <rhyme>informé</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259c:29"/>¶ Paix <note>'Payr' transformé en 'Paix' ?</note> oû lieu où justice ne <rhyme>regne</rhyme>
+<lb n="PMOR.259c:30"/>Ne peut lonc temps durer tant soit gra<abbr type="n"/>t <rhyme>regne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259c:32"/>¶ Impossible est sans foy à <rhyme>créature</rhyme>
+<lb n="PMOR.259c:33"/>Estre plaisant à <name ref="">dieu</name> dist <name ref=""><rhyme>l'escripture</rhyme></name>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259c:35"/>¶ Propice au monde et à <name ref="">dieu</name> <rhyme>acceptable</rhyme>
+<lb n="PMOR.259c:36"/>Estre ne peut homs s'il n'est <rhyme>charitable</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259c:38"/>¶ Esperance conduit les fais <rhyme>humains</rhyme><cb n="d"/>
+<!-- 38 lines -->
+<lb n="PMOR.259d:01"/>Mais ne tient pas ses promesses à <rhyme>mai<abbr type="n"/>s</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:03"/>¶ En grant estat ne gist mie la <rhyme>gloire</rhyme>
+<lb n="PMOR.259d:04"/>Mais en vertu est double la <rhyme>memoire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:06"/>¶ Prince crüel et rapineur <rhyme>d'argent</rhyme>
+<lb n="PMOR.259d:07"/>Je tiens <note>grattage ?</note> à fol s'il se fie en sa <rhyme>gent</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:09"/>¶ Donner à point sagement <rhyme>retenir</rhyme>
+<lb n="PMOR.259d:10"/>Fait en estat le riche homme <rhyme>tenir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:12"/>¶ Louer autrui puis blasmer par <rhyme>usage</rhyme>
+<lb n="PMOR.259d:13"/>D'estre inconstant est signe et petit <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:15"/>¶ Court de seigneur sans prudent <rhyme>gouv<abbr type="er"/>ne<abbr type="ur"/></rhyme> <note>'e' proche du 't' ; gouv<abbr type="er"/>nt transformé en 'gouv<abbr type="er"/>nt<abbr type="ur"/>'</note>
+<lb n="PMOR.259d:16"/>Estre ne peut maintenue en <rhyme>honneur</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:18"/>¶ Diligence grant soing et <rhyme>souvenir</rhyme>
+<lb n="PMOR.259d:19"/>Homme souvent fait à grant b<abbr type="ie"/>n <rhyme>venir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:21"/>¶ Homs qui est fol ne prise autre une <rhyme>plume</rhyme>
+<lb n="PMOR.259d:22"/>Mais sage est cil qui de soy pou <rhyme>p<abbr type="re"/>sume</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:24"/>¶ Prince poissant à qui d'estre <rhyme>repris</rhyme>
+<lb n="PMOR.259d:25"/>Ne lui desplait est signe de grant <rhyme>pris</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:27"/>¶ Cil est prudent qui au temps futur <rhyme>vise</rhyme>
+<lb n="PMOR.259d:28"/>S'il y pourvoit et son meilleur <rhyme>avise</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:30"/>¶ Homme orgueilleux en cuider <rhyme>affichez</rhyme>
+<lb n="PMOR.259d:31"/>Ne craint peril mais tost y est <rhyme>fichez</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:33"/>¶ La terre est moult eureuse do<abbr type="n"/>t le <rhyme>sire</rhyme>
+<lb n="PMOR.259d:34"/>Est sage et bon et bien vivre <rhyme>desire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.259d:36"/>¶ Trop de legier croire et amer <rhyme>flateurs</rhyme>
+<lb n="PMOR.259d:37"/>Engendre erreur ce die<abbr type="n"/>t les <rhyme>aucteurs</rhyme>
+<!-- 1 blank line(s) here --><pb n="260" ed="r"/>
+<lb n="PMOR.260r:01"/><hi rend="red">moraulx xxiiii &#x95; </hi> <note>'mo', première colonne, 'raulx', deuxième colonne</note><cb n="a"/>
+<!-- 38 lines -->
+<lb n="PMOR.260a:01"/>¶ Cil est <add place="supralinear" type="" evidence="">trop</add> <note>caret sublinéaire ; encre claire</note> folz qui cuide avoir <rhyme>seür</rhyme>
+<lb n="PMOR.260a:02"/>Estat pour tant s'il a propice <rhyme>eür</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:04"/>¶ Le vray repos \ ne gist mie en <rhyme>l'avoir</rhyme>
+<lb n="PMOR.260a:05"/>Mais seulement \ en souffisance <rhyme>avoir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:07"/>¶ Hanter les bons \ et le mauvais <rhyme>banyr</rhyme>
+<lb n="PMOR.260a:08"/>Fait homme en sens et en bonté <rhyme>tenir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:10"/>¶ Prince où il a clemence et bonnes <rhyme>meurs</rhyme>
+<lb n="PMOR.260a:11"/>De ses subgès et d'autres trait les <rhyme>cuers</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:13"/>¶ Cil est eureux \ qui peut et a <rhyme>valoir</rhyme>
+<lb n="PMOR.260a:14"/>De son prochain \ aydier qu'il voit <rhyme>douloir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:16"/>¶ Homs qui ne craint <name ref="">fortune</name> n'est pas <rhyme>sage</rhyme>
+<lb n="PMOR.260a:17"/>Car moult souvent \ conduit à dur <rhyme>passage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:19"/>¶ Trop enquerir n'est mie <rhyme>prouffitable</rhyme>
+<lb n="PMOR.260a:20"/>Ne d'aultruy fait \ trop estre <rhyme>entremetable</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:22"/>¶ Cuidier deçoit souventes fois <rhyme>avient</rhyme>
+<lb n="PMOR.260a:23"/>Par trop fïer \ moult souvent gra<abbr type="n"/>t mal <rhyme>vie<abbr type="n"/>t</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:25"/>¶ Homme bourdeur \ de mentir <rhyme>mescreü</rhyme>
+<lb n="PMOR.260a:26"/>Quant il dit voir \ à peinë est <rhyme>creü</rhyme> <note>hiatus</note>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:28"/>¶ Cil sages est \ qui son yre peut <rhyme>fraindre</rhyme>
+<lb n="PMOR.260a:29"/>Et en courrous \ sa lengue scet <rhyme>refraindre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:31"/>¶ Cuer saoul ne croit \ le jeun qui se <rhyme>guerme<abbr type="n"/>te</rhyme>
+<lb n="PMOR.260a:32"/>De sa grant fain \ ainçois cuide qu'il <rhyme>mente</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:34"/>¶ Fallace n'est \ nulle à peine si <rhyme>caulte</rhyme>
+<lb n="PMOR.260a:35"/>Qu'apperceue \ ne soit d'aucun sanz <rhyme>faulte</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260a:37"/>¶ C'est un renom \ qui dure à <rhyme>herité</rhyme>
+<lb n="PMOR.260a:38"/>Que d'avoir loz \ de tenir <rhyme>verité</rhyme><cb n="b"/>
+<!-- 38 lines -->
+<lb n="PMOR.260b:01"/>¶ À grant peine \ peut homs changier ses <rhyme>meurs</rhyme>
+<lb n="PMOR.260b:02"/>Puis qu'il est ja viellart chanus et <rhyme>meurs</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:04"/>¶ Cil qui desir a \ de monter en <rhyme>pris</rhyme>
+<lb n="PMOR.260b:05"/>Il fault qu'il ait \ à b<abbr type="ie"/>n souffrir <rhyme>appris</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:07"/>¶ Faveur deçoit \ et moult souvent <rhyme>destourne</rhyme>
+<lb n="PMOR.260b:08"/>À bien jugier \ et droit en tort <rhyme>retourne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:10"/>¶ Le temps perdu \ on ne peut <rhyme>recouvrer</rhyme>
+<lb n="PMOR.260b:11"/>Pour ce tandis \ qu'on la doit on <rhyme>ouvrer</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:13"/>¶ Petit soucy ou trop grant soing fait <rhyme>estre</rhyme>
+<lb n="PMOR.260b:14"/>L'omme oublïeux qui de mains fais <rhyme>s'e<abbr type="m"/>pestre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:16"/>¶ Viellece où sens n'abite et beau <rhyme>maintien</rhyme>
+<lb n="PMOR.260b:17"/>Est un vaissel \ sans vertu \ com je <rhyme>tien</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:19"/>¶ Trouver souvent \ sur autrui à <rhyme>Redire</rhyme>
+<lb n="PMOR.260b:20"/>Donne achoison \ d'ouÿr de soy <rhyme>mesdire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:22"/>¶ Gentillece vraye n'est autre <rhyme>chose</rhyme>
+<lb n="PMOR.260b:23"/>Fors le vaissel où vertu se <rhyme>repose</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:25"/>¶ Cil est eureux qui dispose sa <rhyme>vie</rhyme>
+<lb n="PMOR.260b:26"/>En simple estat juste sanz autre <rhyme>envie</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:28"/>¶ Pacïence \ fait vaincre mains grans <rhyme>fais</rhyme>
+<lb n="PMOR.260b:29"/>Et de legier soustenir pesant <rhyme>fais</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:31"/>¶ Croire conseil \ des sages ès grans <rhyme>cures</rhyme>
+<lb n="PMOR.260b:32"/>Fait traire à cler maintes chos<abbr type="es"/> <rhyme>obscures</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:34"/>¶ Gieux dissolus \ quelqu'en soit la <rhyme>plaisance</rhyme>
+<lb n="PMOR.260b:35"/>À la parfin \ tournent à <rhyme>desplaisance</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260b:37"/>¶ Pou d'achoison \ souvent meut grant <rhyme>debat</rhyme>
+<lb n="PMOR.260b:38"/>Et petite pluye grant vent <rhyme>rabat</rhyme><pb n="260" ed="v"/>
+<lb n="PMOR.260v:01"/><hi rend="red">Proverbes <note>'Prover' première colonne, 'bes' deuxième colonne</note></hi><cb n="c"/>
+<!-- 37 lines -->
+<lb n="PMOR.260c:01"/>¶ Li jones homs \ qui se tient en <rhyme>oyseuse</rhyme> <note>point sur le 'y'</note>
+<lb n="PMOR.260c:02"/>Legierement<abbr type=" "/>chiet \ en voye <rhyme>noyseuse</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:04"/>¶ Les biens mondains \ acquerir mal <rhyme>apoi<abbr type="n"/>t</rhyme>
+<lb n="PMOR.260c:05"/>Font ame et corps \ souvent mettre en dur <rhyme>poi<abbr type="n"/>t</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:07"/>¶ Mieulx vault honneur \ bonne grace et bon <rhyme>los</rhyme>
+<lb n="PMOR.260c:08"/>Qu'avoir flourins \ mal acquis dire <rhyme>l'os</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:10"/>¶ Estre avisié \ sur les choses <rhyme>doubtables</rhyme>
+<lb n="PMOR.260c:11"/>Fait prendre soing \ sur les plus <rhyme>prouffitables</rhyme> <note>rising 's'</note>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:13"/>¶ Honneur mondains \ sont des gens cher <rhyme>ten<abbr type="us"/></rhyme>
+<lb n="PMOR.260c:14"/>Mais quant on meurt \ on n'en emporte <rhyme>nulz</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:16"/>¶ Parler à point \ et contenance <rhyme>sage</rhyme>
+<lb n="PMOR.260c:17"/>Est de prudent \ homme signe et <rhyme>message</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:19"/>¶ Yvrece occit \ le sens l'ame et le <rhyme>corps</rhyme>
+<lb n="PMOR.260c:20"/>Et fait chëoir l'omme en vilains <rhyme>accors</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:22"/>¶ Homme prudent \ qui le sien bien <rhyme>dispe<abbr type="n"/>se</rhyme>
+<lb n="PMOR.260c:23"/>Souventes fois \ prent garde à sa <rhyme>despence</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:25"/>¶ Le jeunes homs \ qui voulentiers <rhyme>entent</rhyme>
+<lb n="PMOR.260c:26"/>Chastiement \ signe est qu'à gra<abbr type="n"/>t b<abbr type="ie"/>n <rhyme>tend</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:28"/>¶ Trop est meilleur \ la crainte d'amo<abbr type="ur"/> <rhyme>née</rhyme>
+<lb n="PMOR.260c:29"/>Que celle qui par rigueur est <rhyme>menée</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:31"/>¶ L'ost où il n'a \ principal <rhyme>capitaine</rhyme>
+<lb n="PMOR.260c:32"/>À bon effect \ voit on venir à <rhyme>peine</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:34"/>¶ Petit voit on \ homme qui moult <rhyme>promette</rhyme>
+<lb n="PMOR.260c:35"/>Tenir serment ne nul terme qu'il <rhyme>mette</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260c:37"/>¶ Humilité en Riche homme bien <rhyme>siet</rhyme>
+<lb n="PMOR.260c:38"/>Plus se tient bas \ et plus hault on <rhyme>l'assiet</rhyme><cb n="d"/>
+<!-- 38 lines -->
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:02"/>¶ Fol hardement deçoit souvent son <rhyme>maistre</rhyme>
+<lb n="PMOR.260d:03"/>Par trop cuidier \ fort puissant et sage <rhyme>estre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:05"/>¶ Trop conseiller à part entre homme et <rhyme>fe<abbr type="m"/>me</rhyme>
+<lb n="PMOR.260d:06"/>Present plusieurs \ peut tourner à <rhyme>diffame</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:08"/>¶ Prouffitable est \ le traveil en <rhyme>jeunece</rhyme>
+<lb n="PMOR.260d:09"/>Qui eschever \ fait souffrette en <rhyme>viellece</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:11"/>¶ Pour néant met \ l'omme à <rhyme>apprendre</rhyme> <note>-1</note>
+<lb n="PMOR.260d:12"/>S'user ne veult \ de sens et le b<abbr type="ie"/>n <rhyme>p<abbr type="re"/>ndre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:14"/>¶ Juge crüel \ et d'amascer <rhyme>jaloux</rhyme>
+<lb n="PMOR.260d:15"/>Mengiut les gens \ com les brebis li <rhyme>loups</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:17"/>¶ Fol est cellui \ qui cuide sa <rhyme>malice</rhyme>
+<lb n="PMOR.260d:18"/>Toudis celer \ comment qu'il la <rhyme>palisse</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:20"/>¶ Parler à temps et taire bien à <rhyme>point</rhyme>
+<lb n="PMOR.260d:21"/>Sens soing travail \ mettent homs en hault <rhyme>poi<abbr type="n"/>t</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:23"/>¶ C'est moult grant sens \ que de laissier la <rhyme>place</rhyme>
+<lb n="PMOR.260d:24"/>Au furïeux \ à lÿonnece <rhyme>face</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:26"/>¶ Petit voit on \ grant amistié <rhyme>avoir</rhyme>
+<lb n="PMOR.260d:27"/>Entre le riche \ et le povre <rhyme>d'avoir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:29"/>¶ Pou souvent nuist \ taire mais trop <rhyme>lengage</rhyme>
+<lb n="PMOR.260d:30"/>Mainte fois fait \ à son maistre <rhyme>dommage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:32"/>¶ Bien est cellui \ de tout bien <rhyme>deshaitié</rhyme>
+<lb n="PMOR.260d:33"/>Qui bonté voit \ et juge <rhyme>mauvaistié</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:35"/>¶ Qui ne se peut \ de mauvais pas <rhyme>garder</rhyme>
+<lb n="PMOR.260d:36"/>Au moins s'en doit \ mettre hors sanz <rhyme>tarder</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.260d:38"/>¶ Cil est trop folz \ qui se prent si pres <rhyme>garde</rhyme><pb n="261" ed="r"/>
+<lb n="PMOR.261r:01"/><hi rend="red">moraulx <note>entrecolonne</note> &#x95; xxiiii &#x95; <note>deuxième colonne</note></hi><cb n="a"/>
+<!-- 38 lines -->
+<lb n="PMOR.261a:01"/>D'autrui meffait \ et au sien ne <rhyme>regarde</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:03"/>¶ Neccessité \ à la fois <rhyme>consentir</rhyme>
+<lb n="PMOR.261a:04"/>Fait maint grant maulx par \ famine <note>sur grattage ; trait pour combler vide plus 'e' avec boucle allongée</note> <rhyme>se<abbr type="n"/>tir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:06"/>¶ On a veu \ souvent \ repentir <rhyme>mains</rhyme>
+<lb n="PMOR.261a:07"/>De mettre aux piez ce qu'on tient à ses <rhyme>mai<abbr type="n"/>s</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:09"/>¶ Courtois parler refraint souve<abbr type="n"/>t gra<abbr type="n"/>t <rhyme>yre</rhyme>
+<lb n="PMOR.261a:10"/>Car moult attrait \ les cuers doulcement <rhyme>dire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:12"/>¶ Souvent voit on \ homme plain <rhyme>d'indigence</rhyme>
+<lb n="PMOR.261a:13"/>En hault degré \ venir par <rhyme>diligence</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:15"/>¶ Oppinïon \ non pas vraye <rhyme>scïence</rhyme>
+<lb n="PMOR.261a:16"/>Conduit les fais \ mondains plus q<abbr type="ue"/> <rhyme>scïence</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:18"/>¶ Nul ne se doit \ contre autruy fier <rhyme>tenir</rhyme>
+<lb n="PMOR.261a:19"/>Car homs ne scet \ qui lui est <rhyme>avenir</rhyme> <note>sens ?</note>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:21"/>¶ Mieulx vault ployer \ que rompre n'est pas <rhyme>fable</rhyme>
+<lb n="PMOR.261a:22"/>Humilité \ souvent \ est <rhyme>prouffitable</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:24"/>¶ Cellui est fol \ qui sa despence <rhyme>croit</rhyme>
+<lb n="PMOR.261a:25"/>Pour promesse d'autruy faicte qu'il <rhyme>croit</rhyme>
+<lb n="PMOR.261a:26"/>BL2 <note>rustine dans parchemin ?</note>
+<lb n="PMOR.261a:27"/>¶ Diffamer femme \ à homme trop <rhyme>messiet</rhyme>
+<lb n="PMOR.261a:28"/>Car le blasme sur soy meismes <rhyme>assiet</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:30"/>¶ Qui courtoisie et don tost <rhyme>habandonne</rhyme>
+<lb n="PMOR.261a:31"/>Double service <note>'si' gratté</note> fait et &#x95; ii &#x95; foiz <rhyme>Donne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:33"/>¶ Sage maintien \ et non moult de <rhyme>parolle</rhyme>
+<lb n="PMOR.261a:34"/>Bien siet à femme à qui qu'elle <rhyme>parolle</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261a:36"/>¶ Service à court \ si n'est mie <rhyme>heritage</rhyme>
+<lb n="PMOR.261a:37"/>Car souvent fault \ à petit <rhyme>d'avantage</rhyme><cb n="b"/>
+<!-- 38 lines -->
+<lb n="PMOR.261b:01"/>¶ Recalcitrer \ encontre la <rhyme>pointure</rhyme>
+<lb n="PMOR.261b:02"/>De l'eguillon \ redouble la <rhyme>bateure</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:04"/>¶ Tourner à truffe aucunefoiz <note>aucune foiz ?</note> <rhyme>injure</rhyme>
+<lb n="PMOR.261b:05"/>En certain temps \ est sens je le vo<abbr type="us"/> <rhyme>jure</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:07"/>¶ Belles raisons \ qui sont mal <rhyme>entendues</rhyme>
+<lb n="PMOR.261b:08"/>Ressemblent fleurs \ à pourceaulx <rhyme>estendues</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:10"/>¶ D'omme jalous \ ou forment surpris <rhyme>d'ire</rhyme>
+<lb n="PMOR.261b:11"/>On ne doit foy \ adjouster à son <rhyme>dire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:13"/>¶ Le fel parler de matiere <rhyme>hayneuse</rhyme>
+<lb n="PMOR.261b:14"/>Responce attrait \ despite et <rhyme>rancuneuse</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:16"/>¶ Le bien qui<abbr type=" "/>vient \ seulement d'une <rhyme>part</rhyme>
+<lb n="PMOR.261b:17"/>Ne peut lonc temps \ durer ai<abbr type="n"/>s se <rhyme>depart</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:19"/>¶ L'oiseux plaisir \ quoy qu'il face <add place="supralinear" type="" evidence="">à</add> <note>caret</note> <rhyme>blasmer</rhyme> <note>'a' gratté visible dans la marge extérieure ; préparation de correction</note>
+<lb n="PMOR.261b:20"/>N'est pas legier \ à <rhyme>desacoustumer</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:22"/>¶ Pour parolle \ mauvaise <rhyme>rapporté</rhyme> <note>'e' gratté dans la marge extérieure non ajouté ; préparation de correction</note>
+<lb n="PMOR.261b:23"/>À tort souvent \ grant hainë est <rhyme>portée</rhyme> <note>hiatus, ou 'haïne' ?</note>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:25"/>¶ Neccessité \ besoing \ n'avoir <rhyme>nïent</rhyme>
+<lb n="PMOR.261b:26"/>Livre plusieurs \ à <rhyme>inconvenïent</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:28"/>¶ Il vault trop mieulx / à moyen estat<abbr type=" "/><rhyme>tendre</rhyme>
+<lb n="PMOR.261b:29"/>Que le trop grant toute sa vie <rhyme>attendre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:31"/>¶ Laissier aler de son droit mainte <rhyme>fie</rhyme>
+<lb n="PMOR.261b:32"/>Tourne à grant sens \ et preu je vous <rhyme>affie</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:34"/>¶ De bien faire \ s'ensuit bien au <rhyme>deffin</rhyme>
+<lb n="PMOR.261b:35"/>Car bonne vie attrait la bonne <rhyme>fin</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261b:37"/>¶ Oublïer <name ref="">dieu</name> pour Richeces <rhyme>mondaines</rhyme>
+<lb n="PMOR.261b:38"/>Pourpenser fait \ mai<abbr type="n"/>tes fraudes <rhyme>soubdaines</rhyme><pb n="261" ed="v"/>
+<lb n="PMOR.261v:01"/><hi rend="red">proverbes moraulx <note>comment représenter le tout petit 'u', signe conventionnel?</note> xxiiii<note>première colonne</note><note>mot gratté dans l'entrecolonne</note> les enseignemens <note>deuxième colonne</note></hi><cb n="c"/>
+<!-- 38 lines -->
+<lb n="PMOR.261c:01"/>Il <note>cadelure sous le 'I'</note> n'est nul bien  \ où n'ait aucun <rhyme>amer</rhyme>
+<lb n="PMOR.261c:02"/>Fors seulement servir <name ref="">dieu</name> et <rhyme>amer</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261c:04"/>¶ Trop petit vault \ bons exemples <rhyme>ouÿr</rhyme>
+<lb n="PMOR.261c:05"/>À qui ne veult \ contraires meurs <rhyme>fouÿr</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261c:07"/>¶ Quoy que la mort \ nous soit <rhyme>espoventable</rhyme>
+<lb n="PMOR.261c:08"/>À y penser \ souvent est <rhyme>prouffitable</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="PMOR.261c:10"/>¶ Soy departir \ par bel en fin de <rhyme>compte</rhyme>
+<lb n="PMOR.261c:11"/>Est neccessaire / à qui de paix fait <rhyme>compte</rhyme>
+<lb n="PMOR.261c:12"/>Explicit <note>centred</note>
+</div1>
+
+</p>
+</body>
+</text>
+</TEI>

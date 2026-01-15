@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Les Enseignemens que Cristine donne à son Filz" type="item">
+<figure ref="261c" place="14"></figure><!-- miniature extends 14 lines here -->
+<lb n="EMOR.261c:27"/><hi rend="red">Ci commencent les enseignemens que
+<lb n="EMOR.261c:28"/><abbr type="crist"/>ine donne à son filz &#x95; xxv &#x95; <note>encre rouge plus foncée pour chiffre</note></hi>
+<lb n="EMOR.261c:29"/><hi rend="cap3">F</hi>ilz <note>prolongements marginaux</note> je n'ay mie grant <rhyme>tresor</rhyme>
+<lb n="EMOR.261c:30"/>pour t'enrichir pour ce <rhyme>très or</rhyme>
+<lb n="EMOR.261c:31"/>Aucuns enseignemens <rhyme>notter</rhyme>
+<lb n="EMOR.261c:32"/>Te vueil si les vueilles <rhyme>notter</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261c:34"/>Aymes <name ref="">dieu</name> de toute ta <rhyme>force</rhyme>
+<lb n="EMOR.261c:35"/>Crains ley et du servir <rhyme>t'efforce</rhyme>
+<lb n="EMOR.261c:36"/>Là<abbr type=" "/>sont se bien les as <rhyme>appris</rhyme>
+<lb n="EMOR.261c:37"/>Ces &#x95; x &#x95; commandemens <rhyme>compris</rhyme>
+<!-- 1 blank line(s) here --><cb n="d"/>
+<!-- 38 lines -->
+<lb n="EMOR.261d:01"/><note>'//', ¶ non exécuté</note><note>3 espaces et 'T'? sur rustine</note> Très ta jeunece pure et <rhyme>monde</rhyme>
+<lb n="EMOR.261d:02"/><note>4 espaces et 'A'? sur rustine</note> Apprens à congnoistre le <rhyme>monde</rhyme>
+<lb n="EMOR.261d:03"/><note>5 espaces et 'S'? sur rustine</note> Si que te puisses par <rhyme>apprendre</rhyme>
+<lb n="EMOR.261d:04"/><note>6 espaces et 'G'? sur rustine</note> Garder en tous cas de <rhyme>mesp<abbr type="re"/>ndre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261d:06"/>¶ Tant t'estudies à <rhyme>enquerre</rhyme>
+<lb n="EMOR.261d:07"/>Que <name ref="">prudence</name> puisses <rhyme>acquerre</rhyme>
+<lb n="EMOR.261d:08"/>Car celle est des vertus <rhyme>la mere</rhyme>
+<lb n="EMOR.261d:09"/>Qui chace <name ref="">fortune</name> <rhyme>l'amere</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261d:11"/>¶ En quelque estat que soies <rhyme>mis</rhyme>
+<lb n="EMOR.261d:12"/>Par <name ref="">fortune</name> où tu es <rhyme>soubzmis</rhyme>
+<lb n="EMOR.261d:13"/>Gouvernes toy si en cel <rhyme>ordre</rhyme>
+<lb n="EMOR.261d:14"/>Que de vivre en sens ayes <rhyme>ordre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261d:16"/>¶ Se tu veulx en scïence <rhyme>eslire</rhyme>
+<lb n="EMOR.261d:17"/>Ton estat par les livres <rhyme>lire</rhyme>
+<lb n="EMOR.261d:18"/>Fais tant et parsuivre <rhyme>l'estude</rhyme>
+<lb n="EMOR.261d:19"/>Qu'entre les clercs ne soies <rhyme>Rude</rhyme> <note>'R' à trompe</note>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261d:21"/>¶ Se tu es noble et veulx les <rhyme>armes</rhyme>
+<lb n="EMOR.261d:22"/>Suivir il fault que souvent <rhyme>t'armes</rhyme>
+<lb n="EMOR.261d:23"/>Ou l'en te tendroit pour <rhyme>faillis</rhyme>
+<lb n="EMOR.261d:24"/>Sanz honneur lache et <rhyme>defaillis</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261d:26"/>¶ Gard toy de servir mauvais <rhyme>maistre</rhyme> <note>ce qui précède sur rustine depuis maistre ; note marginale grattée</note>
+<lb n="EMOR.261d:27"/>Car mauvais te couvendroit <note>le haut du 'd' sur rustine</note> <rhyme>estre</rhyme>
+<lb n="EMOR.261d:28"/>Se avoir vouloies <rhyme>benefice</rhyme>
+<lb n="EMOR.261d:29"/>Si vault mieulx fuïr tel <rhyme>service</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261d:31"/>¶ Soyes loyal à ton <rhyme>seigneur</rhyme>
+<lb n="EMOR.261d:32"/>Naturel tu ne dois <rhyme>greigneur</rhyme>
+<lb n="EMOR.261d:33"/>Foy <note>encre plus claire</note> à homme saches de <rhyme>voir</rhyme>
+<lb n="EMOR.261d:34"/>Ne faulses pour quelconque <rhyme>avoir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.261d:36"/>¶ Veulx tu vaincre et lonc temps <rhyme>durer</rhyme>
+<lb n="EMOR.261d:37"/>Apprens ton cuer à <rhyme>endurer</rhyme>
+<lb n="EMOR.261d:38"/>Car par b<abbr type="ie"/>n endurer <rhyme>app<abbr type="re"/>ndre</rhyme><pb n="262" ed="r"/>
+<lb n="EMOR.262r:01"/><hi rend="red">que <abbr type="crist"/>ine a <note>première colonne</note> donné <note>entrecolonne</note> à son filz &#x95; xxv &#x95; <note>2e colonne</note></hi><cb n="a"/>
+<!-- 39 lines -->
+<lb n="EMOR.262a:01"/>Pourra paix et beneurté <rhyme>prendre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:03"/>¶ Se tu as maistre sers le <rhyme>b<abbr type="ie"/>n</rhyme>
+<lb n="EMOR.262a:04"/>Dis bien de lui gardes le <rhyme>sien</rhyme>
+<lb n="EMOR.262a:05"/>Son secret celes quoy qu'il <rhyme>face</rhyme>
+<lb n="EMOR.262a:06"/>Soyes humble deva<abbr type="n"/>t sa <rhyme>face</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:08"/>¶ Trop couvoiteux ne soies <rhyme>mie</rhyme>
+<lb n="EMOR.262a:09"/>Car couvoitise est <rhyme>ennemie</rhyme>
+<lb n="EMOR.262a:10"/>De charité et de <rhyme>sagece</rhyme>
+<lb n="EMOR.262a:11"/>Et te gar de fole <rhyme>largece</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:13"/>¶ Se d'armes<abbr type=" "/>avoir <rhyme>renommée</rhyme>
+<lb n="EMOR.262a:14"/>Tu veulx si poursui mainte <rhyme>armée</rhyme>
+<lb n="EMOR.262a:15"/>Gard qu'en bataille n'en <rhyme>barriere</rhyme>
+<lb n="EMOR.262a:16"/>Tu ne soies veü <rhyme>derriere</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:18"/>¶ Së es capitaine de <rhyme>gent</rhyme> <note>hiatus</note>
+<lb n="EMOR.262a:19"/>N'ayes renom d'amer <rhyme>argent</rhyme>
+<lb n="EMOR.262a:20"/>Car à peines pourras <rhyme>trouver</rhyme>
+<lb n="EMOR.262a:21"/>Bonnes gens d'armes<abbr type=" "/>s'es <rhyme>aver</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:23"/>¶ Se <name ref="">fortune</name> t'a tant <rhyme>amé</rhyme>
+<lb n="EMOR.262a:24"/>Que tu soies seigneur <rhyme>clamé</rhyme>
+<lb n="EMOR.262a:25"/>Entre tes subgès <rhyme>perilleux</rhyme> <note>tache ou trou ?</note>
+<lb n="EMOR.262a:26"/>Ne soies ne trop <rhyme>orgueilleux</rhyme> <note>tache ou trou ?</note>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:28"/>¶ Se paÿs as à <rhyme>gouverner</rhyme>
+<lb n="EMOR.262a:29"/>Et longuement tu veulx <rhyme>regner</rhyme>
+<lb n="EMOR.262a:30"/>Tiens justice et cruel ne <rhyme>soies</rhyme>
+<lb n="EMOR.262a:31"/>Et de grever gens ne quier <rhyme>voyes</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:33"/>¶ Se tu as estat ou <rhyme>office</rhyme>
+<lb n="EMOR.262a:34"/>Dont tu te mesles de <rhyme>justice</rhyme>
+<lb n="EMOR.262a:35"/>Gardes comment tu <rhyme>jugeras</rhyme>
+<lb n="EMOR.262a:36"/>Car devant le grant juge <rhyme>yras</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262a:38"/>¶ S'as disciples ne les <rhyme>reprendre</rhyme>
+<lb n="EMOR.262a:39"/>En trop <add place="supralinear" type="" evidence="">g<abbr type="ra"/>nt</add> <note>correction sublinéaire avec caret, encre claire</note> rigueur se <rhyme>mesprendre</rhyme><cb n="b"/>
+<!-- 39 lines -->
+<lb n="EMOR.262b:01"/>Les vois <note>encre plus claire, sur grattage ?</note> penses que foible et <rhyme>vaine</rhyme> <note>'e' final, encre plus claire</note>
+<lb n="EMOR.262b:02"/>Est la fragilité <rhyme>humaine</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:04"/>¶ Se tu es homs d'eglise ou <rhyme>prestre</rhyme>
+<lb n="EMOR.262b:05"/>Religieux <note>'R' à trompe</note> ou moine en <rhyme>cloistre</rhyme>
+<lb n="EMOR.262b:06"/>Gard toy que dessoubz sainte <rhyme>chappe</rhyme>
+<lb n="EMOR.262b:07"/>Souffisance et paix ne <rhyme>t'eschappe</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:09"/>¶ S'à toy n'appartient n'à ta <rhyme>vie</rhyme>
+<lb n="EMOR.262b:10"/>Ne te mesles n'ayes <rhyme>envie</rhyme>
+<lb n="EMOR.262b:11"/>Sus princes ne sus qui <rhyme>gouverne</rhyme>
+<lb n="EMOR.262b:12"/>N'en fais tes devis en <rhyme>taverne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:14"/>¶ Portes honneur aux <rhyme>renommez</rhyme> <note>taches encre miniature</note>
+<lb n="EMOR.262b:15"/>Aux ancïans aux bons <rhyme>nommez</rhyme> <note>taches encre miniature</note>
+<lb n="EMOR.262b:16"/>De vaillans gens toudis <rhyme>t'acointes</rhyme>
+<lb n="EMOR.262b:17"/>Mieulx en vauldras que des plus <rhyme>cointes</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:19"/>¶ Ne soies entre gent <rhyme>honteux</rhyme>
+<lb n="EMOR.262b:20"/>Ne trop bault fel ne <rhyme>rïoteux</rhyme>
+<lb n="EMOR.262b:21"/>Mais debonnaire à toute <rhyme>gent</rhyme>
+<lb n="EMOR.262b:22"/>Tiens estat selon ton <rhyme>argent</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:24"/>¶ Se de marchandise te <rhyme>vis</rhyme>
+<lb n="EMOR.262b:25"/>Vens et achate à ton <rhyme>advis</rhyme>
+<lb n="EMOR.262b:26"/>Si que ne perdes oû <rhyme>marché</rhyme>
+<lb n="EMOR.262b:27"/>Mais ne deçois nul c'est <rhyme>peché</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:29"/>¶ Se tu as besoing et <rhyme>maistier</rhyme>
+<lb n="EMOR.262b:30"/>De toy vivre d'aucun <rhyme>mestier</rhyme>
+<lb n="EMOR.262b:31"/>Soies songneux et prens en <rhyme>gré</rhyme>
+<lb n="EMOR.262b:32"/>Car oû ciel est le hault <rhyme>degré</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:34"/>¶ Se tu viens en <rhyme>prosperité</rhyme>
+<lb n="EMOR.262b:35"/>À grant chevance et <rhyme>herité</rhyme>
+<lb n="EMOR.262b:36"/>Gardes qu'orgueil ne te <rhyme>seurmonte</rhyme>
+<lb n="EMOR.262b:37"/>Penses qu'à <name ref="">dieu</name> fault Rendre <rhyme>compte</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262b:39"/>¶ Tiens toy à table <rhyme>honnestement</rhyme><pb n="262" ed="v"/>
+<lb n="EMOR.262v:01"/><hi rend="red">Les <note>première colonne</note> / enseignemens </hi> <note>'en', entrecolonne, 'seignemens', 2e colonne</note><cb n="c"/>
+<!-- 39 lines -->
+<lb n="EMOR.262c:01"/>Et t'abilles honnestement <note>barré et exponctué</note> de <rhyme>vesteme<abbr type="n"/>t</rhyme>
+<lb n="EMOR.262c:02"/>En tel atour qu'on ne s'en <rhyme>moque</rhyme>
+<lb n="EMOR.262c:03"/>Car on cognoit l'oeuf à la <rhyme>coque</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262c:05"/>¶ Se tu es jeunes et <rhyme>polis</rhyme>
+<lb n="EMOR.262c:06"/>De pou de coust soies <rhyme>jolis</rhyme>
+<lb n="EMOR.262c:07"/>Sans toy grever pour mettre en <rhyme>robes</rhyme>
+<lb n="EMOR.262c:08"/>Tiens toy net et nul ne <rhyme>desrobes</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262c:10"/>¶ Ayes <note>'A' sans barre transversale</note> pitié des povres <rhyme>gens</rhyme>
+<lb n="EMOR.262c:11"/>Que tu vois nuds et <rhyme>indigens</rhyme>
+<lb n="EMOR.262c:12"/>Et leur ayde quant tu <rhyme>pourras</rhyme>
+<lb n="EMOR.262c:13"/>Souviengne toy que tu <rhyme>mourras</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262c:15"/>¶ Soies constant tien ton <rhyme>propos</rhyme>
+<lb n="EMOR.262c:16"/>Du bien faire qu'as en <rhyme>propos</rhyme>
+<lb n="EMOR.262c:17"/>Car homme qui change <rhyme>souvent</rhyme>
+<lb n="EMOR.262c:18"/>Ne peut estre preux ne <rhyme>savant</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262c:20"/>¶ Aimes qui te tient<abbr type=" "/>à<abbr type=" "/><rhyme>amy</rhyme>
+<lb n="EMOR.262c:21"/>Et te gard de ton <rhyme>ennemy</rhyme>
+<lb n="EMOR.262c:22"/>On ne peut avoir trop <rhyme>d'amis</rhyme>
+<lb n="EMOR.262c:23"/>N'il n'est nulz petis <rhyme>ennemis</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262c:25"/>¶ Soies veritable en <rhyme>parole</rhyme>
+<lb n="EMOR.262c:26"/>À point tais et à point <rhyme>parole</rhyme>
+<lb n="EMOR.262c:27"/>Car qui trop parle par <rhyme>usage</rhyme>
+<lb n="EMOR.262c:28"/>Est souvent tenus à pou <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262c:30"/>¶ Ne crois pas de leger <rhyme>rapport</rhyme>
+<lb n="EMOR.262c:31"/>Hayneux qu'autrui te <rhyme>rapport</rhyme>
+<lb n="EMOR.262c:32"/>Penses se haine ou grant <rhyme>yre</rhyme>
+<lb n="EMOR.262c:33"/>Ou flaterie lui fait <rhyme>dire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262c:35"/>¶ Tiens ta promesse et petit <rhyme>jure</rhyme>
+<lb n="EMOR.262c:36"/>Gard ne soies trouvé <rhyme>parjure</rhyme>
+<lb n="EMOR.262c:37"/>Car le menteur est <rhyme>mescreü</rhyme>
+<lb n="EMOR.262c:38"/>Et quant voir dit il n'est <rhyme>creü</rhyme>
+<!-- 1 blank line(s) here --><cb n="d"/>
+<!-- 39 lines -->
+<lb n="EMOR.262d:01"/>¶ Pour perte d'amis ou de <rhyme>b<abbr type="ie"/>ns</rhyme>
+<lb n="EMOR.262d:02"/>Ne chez en desespoir et <rhyme>tiens</rhyme>
+<lb n="EMOR.262d:03"/>Qu'assez est puissant <name ref="">dieu</name> <rhyme>celestre</rhyme>
+<lb n="EMOR.262d:04"/>Pour toy aydier et pour toy <rhyme>paistre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262d:06"/>¶ Du bien d'autruy n'ayes <rhyme>envie</rhyme>
+<lb n="EMOR.262d:07"/>Car l'envïeux très en sa <rhyme>vie</rhyme>
+<lb n="EMOR.262d:08"/>Possede les peines <rhyme>d'enfer</rhyme>
+<lb n="EMOR.262d:09"/>C'est plus pesant fardel que <rhyme>fer</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262d:11"/>¶ Lis voulentiers belles <rhyme>histoires</rhyme>
+<lb n="EMOR.262d:12"/>Quant tu pourras car les <rhyme>nottoires</rhyme>
+<lb n="EMOR.262d:13"/>Exemples sont souvent <rhyme>valables</rhyme>
+<lb n="EMOR.262d:14"/>Et font gent devenir <rhyme>savables</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262d:16"/>¶ Ne promès mie de <rhyme>leger</rhyme> <note>encre de couleur variable</note>
+<lb n="EMOR.262d:17"/>Qu'on ne te tiengne à <rhyme>mençonger</rhyme>
+<lb n="EMOR.262d:18"/>Mais ce qu'as promis si le <rhyme>tien</rhyme>
+<lb n="EMOR.262d:19"/>Car le don promis n'est plus <rhyme>tien</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262d:21"/>¶ Ne croy pas toutes les <rhyme>diffames</rhyme>
+<lb n="EMOR.262d:22"/>Qu'aucuns livres dïent de<note>'s' gratté</note> <rhyme>femmes</rhyme>
+<lb n="EMOR.262d:23"/>Car il est mainte femme <rhyme>bonne</rhyme>
+<lb n="EMOR.262d:24"/>L'experience le te <rhyme>donne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262d:26"/>¶ Garde toy bien ja te <rhyme>t'aherdre</rhyme>
+<lb n="EMOR.262d:27"/>À gieux où chevance on puist <rhyme>perdre</rhyme>
+<lb n="EMOR.262d:28"/>Paume et dez font souvent au <rhyme>bas</rhyme>
+<lb n="EMOR.262d:29"/>Mettre maint je n'en doubte <rhyme>pas</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262d:31"/>¶ Se tu veulx vivre à court en <rhyme>paix</rhyme>
+<lb n="EMOR.262d:32"/>Voy et escoute et si te <rhyme>tais</rhyme>
+<lb n="EMOR.262d:33"/>Ne te courrouces de <rhyme>leger</rhyme>
+<lb n="EMOR.262d:34"/>Dangereux ne soit ton <rhyme>menger</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.262d:36"/>¶ Fuis compaignie <rhyme>rïoteuse</rhyme>
+<lb n="EMOR.262d:37"/>Et femme petit <rhyme>cremeteuse</rhyme>
+<lb n="EMOR.262d:38"/>Trompeurs mocqueurs et <rhyme>mesdisans</rhyme>
+<lb n="EMOR.262d:39"/>Et gent qui sont autruy <rhyme>nuisans</rhyme><pb n="263" ed="r"/>
+<lb n="EMOR.263r:01"/><hi rend="red">que <abbr type="crist"/>ine donne <note>première colonne</note> à <note>entrecolonne</note> son filz &#x95; xxv &#x95; <note>2e colonne</note></hi><cb n="a"/>
+<!-- 39 lines -->
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:02"/>¶ Se tu vois ton seigneur <rhyme>mesprendre</rhyme>
+<lb n="EMOR.263a:03"/>Ou tu os<abbr type=" "/>ton maistre <rhyme>reprendre</rhyme>
+<lb n="EMOR.263a:04"/>Gard que de ce ta bouche <rhyme>n'euvre</rhyme>
+<lb n="EMOR.263a:05"/>Ains l'excuse et son meffait <rhyme>cueuvre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:07"/>¶ Se tu es noble ou tu t'i <rhyme>tiens</rhyme>
+<lb n="EMOR.263a:08"/>Ou moult riche toy et les <rhyme>tiens</rhyme>
+<lb n="EMOR.263a:09"/>N'en soies pour tant <rhyme>orgueilleux</rhyme>
+<lb n="EMOR.263a:10"/>Car tout n'est que un vent <rhyme>perilleux</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:12"/>¶ Cest enseignement tiens et <rhyme>nottes</rhyme>
+<lb n="EMOR.263a:13"/>De nice femme ne <rhyme>t'assottes</rhyme>
+<lb n="EMOR.263a:14"/>Se tu veulx amer par <rhyme>amours</rhyme>
+<lb n="EMOR.263a:15"/>Car pis en vauldroient tes <rhyme>mours</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:17"/>¶ Se tu vois <name ref="">fortune</name> <rhyme>propice</rhyme>
+<lb n="EMOR.263a:18"/>À toy en chevance ou <rhyme>office</rhyme>
+<lb n="EMOR.263a:19"/>Pour toy et pour les tiens <rhyme>t'atourne</rhyme>
+<lb n="EMOR.263a:20"/>D'acquerir ains que elle se <rhyme>tourne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:22"/>¶ Ayes contenance <rhyme>plaisant</rhyme>
+<lb n="EMOR.263a:23"/>Trop estourdi ne trop <rhyme>laisant</rhyme>
+<lb n="EMOR.263a:24"/>Ne soit ton maintien ains <rhyme>arreste</rhyme>
+<lb n="EMOR.263a:25"/>Et maine à point et mains et <rhyme>teste</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:27"/>¶ Ne soyes deceveur de <rhyme>femmes</rhyme>
+<lb n="EMOR.263a:28"/>Honneures les ne les <rhyme>diffames</rhyme>
+<lb n="EMOR.263a:29"/>Souffise toy d'en amer <rhyme>une</rhyme>
+<lb n="EMOR.263a:30"/>Et ne prens contens à <rhyme>nesune</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:32"/>¶ Ne vueilles trouver à <rhyme>redire</rhyme>
+<lb n="EMOR.263a:33"/>Sus chacun ne d'aultrui <rhyme>mesdire</rhyme>
+<lb n="EMOR.263a:34"/>Gardes que bien soies <rhyme>appris</rhyme>
+<lb n="EMOR.263a:35"/>N'ayes chaloir d'autrui <rhyme>mespris</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263a:37"/>¶ Se tu congnois<abbr type=" "/>homme <rhyme>envïeux</rhyme>
+<lb n="EMOR.263a:38"/>Ne le hante soit jone ou <rhyme>vieulx</rhyme>
+<lb n="EMOR.263a:39"/>Car envie est si male <rhyme>tache</rhyme><cb n="b"/>
+<!-- 39 lines -->
+<lb n="EMOR.263b:01"/>Que le lien corrompt où <rhyme>s'atache</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:03"/>¶ Le blandissement des <rhyme>flateurs</rhyme>
+<lb n="EMOR.263b:04"/>Ne crois car dïent les <rhyme>aucteurs</rhyme>
+<lb n="EMOR.263b:05"/>Que le flateur souvent la <rhyme>moe</rhyme>
+<lb n="EMOR.263b:06"/>Fait en derriere à cil qu'il <rhyme>loe</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:08"/>¶ Se tu veulx femme espouse <rhyme>prendre</rhyme>
+<lb n="EMOR.263b:09"/>Par la mere peus tu <rhyme>apprendre</rhyme>
+<lb n="EMOR.263b:10"/>Ses meurs non obstant que sanz <rhyme>faille</rhyme>
+<lb n="EMOR.263b:11"/>Il est pou rigle qui ne <rhyme>faille</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:13"/>¶ N'ayes en desdaing nul <rhyme>chastoy</rhyme>
+<lb n="EMOR.263b:14"/>Ne desprises mendre de <rhyme>toy</rhyme>
+<lb n="EMOR.263b:15"/>Car il est de tieulx mau <rhyme>vestus</rhyme>
+<lb n="EMOR.263b:16"/>Où plus qu'en toy a de <rhyme>vertus</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:18"/>¶ Se tu es jone et <rhyme>esbatant</rhyme>
+<lb n="EMOR.263b:19"/>Ne fais pas si le fol pour <rhyme>ta<abbr type="n"/>t</rhyme>
+<lb n="EMOR.263b:20"/>Qu'il appere aux gens en tout <rhyme>sens</rhyme>
+<lb n="EMOR.263b:21"/>Qu'il n'ait en toy arrest ne <rhyme>sens</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:23"/>¶ À gieux d'eschès n'à gieux de <rhyme>tables</rhyme>
+<lb n="EMOR.263b:24"/>N'à aultres legiers ou <rhyme>notables</rhyme>
+<lb n="EMOR.263b:25"/>Ne soies fel në <rhyme>oultrageux</rhyme> <note>hiatus</note>
+<lb n="EMOR.263b:26"/>Et te jeue à gracïeux <rhyme>gieux</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:28"/>¶ Se tu as femme bonne et <rhyme>sage</rhyme>
+<lb n="EMOR.263b:29"/>Crois la du fait de ton <rhyme>mesnage</rhyme>
+<lb n="EMOR.263b:30"/>Adjouste foy à sa <rhyme>parole</rhyme>
+<lb n="EMOR.263b:31"/>Mais ne te conseille à la <rhyme>fole</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:33"/>¶ Gardes ne prens laides <rhyme>coustumes</rhyme>
+<lb n="EMOR.263b:34"/>N'en parler lait ne <rhyme>t'acoustumes</rhyme>
+<lb n="EMOR.263b:35"/>Car le fol plus qu'à la <rhyme>karole</rhyme>
+<lb n="EMOR.263b:36"/>Est apperceu à la <rhyme>parole</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263b:38"/>¶ Souvent ne menaces de <rhyme>batre</rhyme>
+<lb n="EMOR.263b:39"/>De teste rompre ou bras <rhyme>abatre</rhyme><pb n="263" ed="v"/>
+<lb n="EMOR.263v:01"/><hi rend="red">Les <note>première colonne</note> enseignemens</hi> <note>'en' entrecolonne, 'seignemens', 2e colonne</note><cb n="c"/>
+<!-- 38 lines -->
+<lb n="EMOR.263c:01"/>Car c'est signe <rhyme>d'acouardie</rhyme>
+<lb n="EMOR.263c:02"/>Personne ou fole ou pou <rhyme>hardie</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263c:04"/>¶ Bien fait d'autrui ne celes <rhyme>pas</rhyme>
+<lb n="EMOR.263c:05"/>Mais du mal te tais en tout <rhyme>pas</rhyme>
+<lb n="EMOR.263c:06"/>Ne te vantes de tes bien <rhyme>fais</rhyme>
+<lb n="EMOR.263c:07"/>Car ton los en seroit <rhyme>deffais</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263c:09"/>¶ Se tu es ja vieulx <rhyme>devenus</rhyme>
+<lb n="EMOR.263c:10"/>Les jeunes qui ne sont <rhyme>chanus</rhyme>
+<lb n="EMOR.263c:11"/>Ne soient de toy trop <rhyme>confus</rhyme>
+<lb n="EMOR.263c:12"/>Souviengne toy que jeunes <rhyme>fus</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263c:14"/>¶ Se <name ref="">fortune</name> t'a bien hault <rhyme>mis</rhyme>
+<lb n="EMOR.263c:15"/>Par seigneurs ou ayde <rhyme>d'amis</rhyme>
+<lb n="EMOR.263c:16"/>Ne seuffre trop te faire <rhyme>honneurs</rhyme>
+<lb n="EMOR.263c:17"/>Qu'envie n'en sourde ès <rhyme>meneurs</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263c:19"/>¶ En ta viellece en nulle <rhyme>guise</rhyme>
+<lb n="EMOR.263c:20"/>De vestement ne te <rhyme>desguise</rhyme>
+<lb n="EMOR.263c:21"/>Ne de mignote <rhyme>cointerie</rhyme>
+<lb n="EMOR.263c:22"/>Car sourdre en pourroit <rhyme>moquerie</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263c:24"/>¶ Soies diligent en tes <rhyme>fais</rhyme>
+<lb n="EMOR.263c:25"/>Et prudemment soustiens grant <rhyme>fais</rhyme>
+<lb n="EMOR.263c:26"/>Si acquier se peus en <rhyme>jeunece</rhyme>
+<lb n="EMOR.263c:27"/>Pour avoir repos en <rhyme>viellece</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263c:29"/>¶ Ne soies <rhyme>merencolïeux</rhyme>
+<lb n="EMOR.263c:30"/>Entre gent et en temps et <rhyme>lieux</rhyme>
+<lb n="EMOR.263c:31"/>Fais requeste së as à <rhyme>faire</rhyme> <note>hiatus</note>
+<lb n="EMOR.263c:32"/>Tous jours n'est pas temps de <rhyme>l'affaire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263c:34"/>¶ S'il avient que riches <rhyme>deviengnes</rhyme>
+<lb n="EMOR.263c:35"/>Gard que trop grant estat ne <rhyme>tiengnes</rhyme>
+<lb n="EMOR.263c:36"/>Pour aux plus grans <rhyme>t'acomparer</rhyme>
+<lb n="EMOR.263c:37"/>Tu le pourroies <rhyme>comparer</rhyme>
+<!-- 1 blank line(s) here --><cb n="d"/>
+<!-- 38 lines -->
+<lb n="EMOR.263d:01"/>¶ Se servise d'aucun <rhyme>reçois</rhyme> <note>trait noir devant PM</note>
+<lb n="EMOR.263d:02"/>Guerdonne lui se peus <rhyme>ainçois</rhyme>
+<lb n="EMOR.263d:03"/>Qu'il t'en demande <rhyme>benefice</rhyme>
+<lb n="EMOR.263d:04"/>Ne soies ingrat c'est grant <rhyme>vice</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263d:06"/>¶ À poissant homme <rhyme>decevable</rhyme>
+<lb n="EMOR.263d:07"/>S'il te peut estre moult <rhyme>grevable</rhyme>
+<lb n="EMOR.263d:08"/>Fais lui à croire s'il peut <rhyme>estre</rhyme>
+<lb n="EMOR.263d:09"/>Qu'il est ton ami et ton <rhyme>maistre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263d:11"/>¶ Ton secret à nul ne <rhyme>revelles</rhyme>
+<lb n="EMOR.263d:12"/>Sans achoison n'autruy <rhyme>nouvelles</rhyme>
+<lb n="EMOR.263d:13"/>Ne gehis quant de riens ne <rhyme>sert</rhyme>
+<lb n="EMOR.263d:14"/>Car qui se descueuvre il <rhyme>s'assert</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263d:16"/>¶ L'avoir qu'as à grant peine <rhyme>acquis</rhyme>
+<lb n="EMOR.263d:17"/>Se il t'est à prester <rhyme>requis</rhyme>
+<lb n="EMOR.263d:18"/>Soyes ent si <rhyme>apperceü</rhyme>
+<lb n="EMOR.263d:19"/>Que tu n'en soies <rhyme>deceü</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263d:21"/>¶ S'une personne en toy se <rhyme>fie</rhyme>
+<lb n="EMOR.263d:22"/>Poson que après il te <rhyme>deffie</rhyme>
+<lb n="EMOR.263d:23"/>Ce qu'il t'a dit ne dois <rhyme>gehir</rhyme>
+<lb n="EMOR.263d:24"/>Tant te puist grever ne <rhyme>haÿr</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263d:26"/>¶ Fais voulentiers en champs ou <rhyme>ville</rhyme>
+<lb n="EMOR.263d:27"/>Cë en quoy te sens plus <rhyme>abile</rhyme> <note>hiatus</note>
+<lb n="EMOR.263d:28"/>Car maint par bien pour de <rhyme>savoir</rhyme>
+<lb n="EMOR.263d:29"/>Sont avenus à grant <rhyme>avoir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263d:31"/>¶ Acquier amis par beau <rhyme>service</rhyme>
+<lb n="EMOR.263d:32"/>Se peus sans peché et sans <rhyme>vice</rhyme>
+<lb n="EMOR.263d:33"/>Mais bien gardes à qui <rhyme>t'employes</rhyme>
+<lb n="EMOR.263d:34"/>Et à quel requeste te <rhyme>ploies</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.263d:36"/>¶ Ne prens estrif cont<abbr type="re"/> autruy <rhyme>compte</rhyme>
+<lb n="EMOR.263d:37"/>De chose qui à toy ne <rhyme>monte</rhyme>
+<lb n="EMOR.263d:38"/>Ne blasmes à nul son <rhyme>paÿs</rhyme><pb n="264" ed="r"/>
+<lb n="EMOR.264r:01"/><hi rend="red">moraulx <note>entrecolonne</note> &#x95; xxiiii &#x95;<note>2e colonne</note></hi><cb n="a"/>
+<!-- 39 lines -->
+<lb n="EMOR.264a:01"/>Car maint en ont esté <rhyme>haÿs</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:03"/>¶ Fuys oyseuse se veulz <rhyme>acquerre</rhyme>
+<lb n="EMOR.264a:04"/>Honneur chevance los et <rhyme>terre</rhyme>
+<lb n="EMOR.264a:05"/>Gard toy de delit non <rhyme>valable</rhyme>
+<lb n="EMOR.264a:06"/>Escheves fait <rhyme>deshonorable</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:08"/>¶ Se tu as en toy parler <rhyme>sage</rhyme>
+<lb n="EMOR.264a:09"/>Et de bien dire ayes <rhyme>usage</rhyme>
+<lb n="EMOR.264a:10"/>Gar qu'on ne puist de toy <rhyme>retraire</rhyme>
+<lb n="EMOR.264a:11"/>Que ton fait soit au dit <rhyme>contraire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:13"/>¶ Deshonneur d'autrui ne <rhyme>racontes</rhyme>
+<lb n="EMOR.264a:14"/>Ne voulentiers n'en tiens tes <rhyme>comptes</rhyme>
+<lb n="EMOR.264a:15"/>Ains <note>'A' sur rustine, encre claire, précédé d'un trait ondulé sur 1 espace</note> s'aultre le dit fais ent <rhyme>paix</rhyme>
+<lb n="EMOR.264a:16"/>Se <note>sur rustine, encre claire, précédé d'un trait ondulé sur 2 espaces</note> tu peus ou se non t'en <rhyme>tais</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:18"/>¶ Se tu veulx fuïr le <rhyme>danger</rhyme>
+<lb n="EMOR.264a:19"/>D'amours et du tout <rhyme>l'estranger</rhyme>
+<lb n="EMOR.264a:20"/>Eslongne toy de la <rhyme>personne</rhyme>
+<lb n="EMOR.264a:21"/>À qui ton cuer le plus se <rhyme>donne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:23"/>¶ Se bien veulx et chastement <rhyme>vivre</rhyme>
+<lb n="EMOR.264a:24"/>De <name ref="">la rose ne lis le <rhyme>livre</rhyme></name>
+<lb n="EMOR.264a:25"/>Ne <name ref="">ovide</name> de <name ref="">l'art <rhyme>d'amer</rhyme></name>
+<lb n="EMOR.264a:26"/>Dont l'exemple fait à <rhyme>blasmer</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:28"/>¶ Se tu veulx lire des <rhyme>batailles</rhyme>
+<lb n="EMOR.264a:29"/>Et des regnes les <rhyme>commençailles</rhyme>
+<lb n="EMOR.264a:30"/>Si lis <name ref="">vincent</name> et autres <rhyme>mains</rhyme>
+<lb n="EMOR.264a:31"/><name ref="">Le fait de troye</name> et des <name ref=""><rhyme>rommains</rhyme></name>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:33"/>¶ Pour devocïon <rhyme>acquerir</rhyme>
+<lb n="EMOR.264a:34"/>Se tu <note>tache ?</note> veulx ès livres <rhyme>querir</rhyme>
+<lb n="EMOR.264a:35"/><name ref="">Saint bernart</name> &amp; autres <rhyme>aucteurs</rhyme>
+<lb n="EMOR.264a:36"/>Te seront en ce fait <rhyme>docteurs</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264a:38"/>¶ S'en amours tu as ton <rhyme>vouloir</rhyme>
+<lb n="EMOR.264a:39"/>Et veulx amer po<abbr type="ur"/> mieulx <rhyme>valoir</rhyme><cb n="b"/>
+<!-- 39 lines -->
+<lb n="EMOR.264b:01"/>Ne t'en mes<abbr type=" "/>tele rage oû <rhyme>pis</rhyme>
+<lb n="EMOR.264b:02"/>Que tu en puisses valoir <rhyme>pis</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:04"/>¶ Pour sembler plus grant et plus <rhyme>Riche</rhyme>
+<lb n="EMOR.264b:05"/>Ne te pares d'autruy <rhyme>affiche</rhyme>
+<lb n="EMOR.264b:06"/>Car cil cui elle est s'on t'en <rhyme>loe</rhyme>
+<lb n="EMOR.264b:07"/>Tost dira que la chose est <rhyme>soe</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:09"/>¶ S'à ton besoing de ton <rhyme>amy</rhyme>
+<lb n="EMOR.264b:10"/>Empruntes ne jour ne <rhyme>demi</rhyme>
+<lb n="EMOR.264b:11"/>N'oublies qu'il Le te fault <rhyme>rendre</rhyme>
+<lb n="EMOR.264b:12"/>Et penses de tant mains <rhyme>despendre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:14"/>¶ Se peus par bel ou par grant <rhyme>cure</rhyme>
+<lb n="EMOR.264b:15"/>Le tien pourchacier n'ayes <rhyme>cure</rhyme>
+<lb n="EMOR.264b:16"/>De mouvoir plait où a mai<abbr type="n"/>t <rhyme>triche</rhyme>
+<lb n="EMOR.264b:17"/>Car à peine est grant plaideur <rhyme>Riche</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:19"/>¶ Ne tiens meisgnée à ton <rhyme>loyer</rhyme>
+<lb n="EMOR.264b:20"/>Si grant que ne puisses <rhyme>payer</rhyme>
+<lb n="EMOR.264b:21"/>Car souvent par trop gent <rhyme>avoir</rhyme>
+<lb n="EMOR.264b:22"/>On despent la terre et <rhyme>l'avoir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:24"/>¶ Se tu te scens de chaude <rhyme>cole</rhyme>
+<lb n="EMOR.264b:25"/>Fais que <name ref="">raison</name> à son <rhyme>escole</rhyme>
+<lb n="EMOR.264b:26"/>T'appreigne à tes sens <rhyme>ordener</rhyme>
+<lb n="EMOR.264b:27"/>Par ce te pourras <rhyme>reffrener</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:29"/>¶ Ne rapportes parole <rhyme>aucune</rhyme>
+<lb n="EMOR.264b:30"/>De quoy sourdre puisse <rhyme>rancune</rhyme>
+<lb n="EMOR.264b:31"/>Ton amy rappaise en son <rhyme>yre</rhyme>
+<lb n="EMOR.264b:32"/>Se tu peus par doulcement <rhyme>dire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:34"/>¶ Trop ne te dois <rhyme>humilïer</rhyme>
+<lb n="EMOR.264b:35"/>Ne moult estre <rhyme>familïer</rhyme>
+<lb n="EMOR.264b:36"/>À tes serfs ne jouer des <rhyme>mains</rhyme>
+<lb n="EMOR.264b:37"/>Car prisier t'en pourroient <rhyme>mains</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264b:39"/>¶ Se tu Reprens l'autrui <rhyme>meffait</rhyme><pb n="264" ed="v"/>
+<lb n="EMOR.264v:01"/><hi rend="red">Les enseignemens</hi> <note>'en' première colonne, 'sei' entrecolonne, 'gnemens' 2e colonne</note><cb n="c"/>
+<!-- 39 lines -->
+<lb n="EMOR.264c:01"/>Si gardes si bien en ton <rhyme>fait</rhyme>
+<lb n="EMOR.264c:02"/>Qu'il n'ait en toy ce mesmes <rhyme>blasme</rhyme>
+<lb n="EMOR.264c:03"/>Car folz est le blasme qui <rhyme>blasme</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264c:05"/>¶ Ne fais pas longuement <rhyme>requerre</rhyme>
+<lb n="EMOR.264c:06"/>Ce que veulx donner n'aler <rhyme>querre</rhyme>
+<lb n="EMOR.264c:07"/>Car qui tost le don <rhyme>abandonne</rhyme>
+<lb n="EMOR.264c:08"/>Qu'on veult donner &#x95; ii &#x95; fois le <rhyme>donne</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264c:10"/>¶ Se es par <name ref="">fortune</name> <rhyme>desmis</rhyme>
+<lb n="EMOR.264c:11"/>D'office et à povreté <rhyme>mis</rhyme>
+<lb n="EMOR.264c:12"/>Penses qu'on se meurt en pou <rhyme>d'eure</rhyme>
+<lb n="EMOR.264c:13"/>Et que où ciel est n<abbr type="ost"/>re <rhyme>demeure</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264c:15"/>¶ Selon ton povoir vès ta <rhyme>femme</rhyme>
+<lb n="EMOR.264c:16"/>Honnestement et si soit <rhyme>dame</rhyme>
+<lb n="EMOR.264c:17"/>De l'ostel après toy non <rhyme>serve</rhyme>
+<lb n="EMOR.264c:18"/>Fais que ta maisgnée la <rhyme>serve</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264c:20"/>¶ À ton povoir gard toy <rhyme>d'acquerre</rhyme>
+<lb n="EMOR.264c:21"/>Ennemis n'à nul mouvoir <rhyme>guerre</rhyme>
+<lb n="EMOR.264c:22"/>Sans grant cause ja ne t'y <rhyme>boute</rhyme>
+<lb n="EMOR.264c:23"/>Car en guerre chet mainte <rhyme>doubte</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264c:25"/>¶ Fais toy craindre à ta <note>agglutinés</note> femme à <rhyme>point</rhyme>
+<lb n="EMOR.264c:26"/>Mais gard bien ne la batre <rhyme>point</rhyme>
+<lb n="EMOR.264c:27"/>Car la bonne en aroit <rhyme>despis</rhyme>
+<lb n="EMOR.264c:28"/>Et la mauvaise en vauldroit <rhyme>pis</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264c:30"/>¶ Tes filz fais à l'escole <rhyme>apprendre</rhyme>
+<lb n="EMOR.264c:31"/>Bat les se tu les vois <rhyme>mesprendre</rhyme>
+<lb n="EMOR.264c:32"/>Tiens les subgès et en <rhyme>cremour</rhyme>
+<lb n="EMOR.264c:33"/>Et leur cele ta grant <rhyme>amour</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264c:35"/>¶ Tiens tes filles trop mieulx <rhyme>vestues</rhyme>
+<lb n="EMOR.264c:36"/>Que bien abeuvrées ne <rhyme>peues</rhyme>
+<lb n="EMOR.264c:37"/>Fais les apprendre bel <rhyme>maintien</rhyme>
+<lb n="EMOR.264c:38"/>Ne point oyseuses ne les <rhyme>tien</rhyme><cb n="d"/>
+<!-- 39 lines -->
+<lb n="EMOR.264d:01"/>¶ Refrain ta Lengue en ta grant <rhyme>yre</rhyme>
+<lb n="EMOR.264d:02"/>Et s'adont <note>2 mots ?</note> te tiens de trop <rhyme>dire</rhyme>
+<lb n="EMOR.264d:03"/>Ce sera vray signe et <rhyme>message</rhyme>
+<lb n="EMOR.264d:04"/>Que tu es constant ferme et <rhyme>sage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264d:06"/>¶ S'à moyen estat peus <rhyme>venir</rhyme>
+<lb n="EMOR.264d:07"/>Souffise toy du <rhyme>maintenir</rhyme>
+<lb n="EMOR.264d:08"/>Se tu ne peus greigneur <rhyme>avoir</rhyme>
+<lb n="EMOR.264d:09"/>Sans grever gent ne <rhyme>decevoir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264d:11"/>¶ Ains que tu parles si <rhyme>t'avise</rhyme>
+<lb n="EMOR.264d:12"/>Que veulx dire et en quel <rhyme>devise</rhyme>
+<lb n="EMOR.264d:13"/>Tu parleras plus <rhyme>sagement</rhyme>
+<lb n="EMOR.264d:14"/>Devant gent et en <rhyme>jugement</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264d:16"/>¶ Nouviaulx argumens ne <rhyme>debas</rhyme>
+<lb n="EMOR.264d:17"/>Ne mens souvent ne t'en <rhyme>debas</rhyme>
+<lb n="EMOR.264d:18"/>Car haïr se fait <rhyme>l'estriveur</rhyme>
+<lb n="EMOR.264d:19"/>Qui trop d'argumens est <rhyme>trouveur</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264d:21"/>¶ Gardes b<abbr type="ie"/>n que yvrece ne <rhyme>face</rhyme>
+<lb n="EMOR.264d:22"/>Changer ton parler ne ta <rhyme>face</rhyme>
+<lb n="EMOR.264d:23"/>Ne ton sens car c'est trop gra<abbr type="n"/>t <rhyme>honte</rhyme>
+<lb n="EMOR.264d:24"/>Quant vin le sens d'o<abbr type="m"/>me <rhyme>surmonte</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264d:26"/>¶ Ta parolle soit <rhyme>ordenée</rhyme>
+<lb n="EMOR.264d:27"/>Tost ne trop laisamment <rhyme>menée</rhyme>
+<lb n="EMOR.264d:28"/>Ne soit n'en parlant par <rhyme>usage</rhyme>
+<lb n="EMOR.264d:29"/>Ne fais grimaces du <rhyme>visage</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264d:31"/>¶ Se <name ref="">dieu</name> t'a envoyé <rhyme>victoire</rhyme>
+<lb n="EMOR.264d:32"/>En quelque cas belle et <rhyme>nottoire</rhyme>
+<lb n="EMOR.264d:33"/>Les vaincus trop mal <rhyme>n'atourner</rhyme>
+<lb n="EMOR.264d:34"/>Tu ne scez où tu peus <rhyme>tourner</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.264d:36"/>¶ Se tu scez que l'en te <rhyme>diffame</rhyme>
+<lb n="EMOR.264d:37"/>Sanz cause et q<abbr type="ue"/> tu ayes <rhyme>blasme</rhyme>
+<lb n="EMOR.264d:38"/>Ne t'en courcer fais toudis <rhyme>b<abbr type="ie"/>n</rhyme><pb n="265" ed="r"/>
+<lb n="EMOR.265r:01"/><hi rend="red">que <abbr type="crist"/>ine <note>première colonne</note> donne <note>entrecolonne</note> à son filz xxv &#x95; <note>2e colonne</note></hi><cb n="a"/>
+<!-- 39 lines -->
+<lb n="EMOR.265a:01"/>Car <name ref="">droit</name> vaincra je te dis <rhyme>bien</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:03"/>¶ S'aucun parle à toy bien prens <rhyme>garde</rhyme>
+<lb n="EMOR.265a:04"/>La fin que le parlant <rhyme>regarde</rhyme>
+<lb n="EMOR.265a:05"/>Et se c'est requeste ou <rhyme>semonce</rhyme>
+<lb n="EMOR.265a:06"/>Pense un petit ains la <rhyme>responce</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:08"/>¶ Se tu as à faire <rhyme>requeste</rhyme>
+<lb n="EMOR.265a:09"/>Gard que raisonnable et <rhyme>honneste</rhyme>
+<lb n="EMOR.265a:10"/>Soit ne travailles tes <rhyme>amis</rhyme>
+<lb n="EMOR.265a:11"/>Sans cause quoy que on t'ait <rhyme>promis</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:13"/>¶ Ains que commences grant <rhyme>ouvrage</rhyme>
+<lb n="EMOR.265a:14"/>N'à toy vengier d'aucun <rhyme>oultrage</rhyme>
+<lb n="EMOR.265a:15"/>Ou bataille ou chose <rhyme>avenir</rhyme>
+<lb n="EMOR.265a:16"/>Pense à quel fin ce peut <rhyme>venir</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:18"/>¶ N'entreprens sanz conseil des <rhyme>sages</rhyme>
+<lb n="EMOR.265a:19"/>Grans fais ne perilleux <rhyme>passages</rhyme>
+<lb n="EMOR.265a:20"/>Ne chose où il chée grant <rhyme>doubte</rhyme>
+<lb n="EMOR.265a:21"/>Folz est qui peril ne <rhyme>redoubte</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:23"/>¶ N'embraces tant d'estranges <rhyme>fais</rhyme>
+<lb n="EMOR.265a:24"/>Que nul ne soit par toy <rhyme>parfais</rhyme>
+<lb n="EMOR.265a:25"/>Ce qu'as empris tost <rhyme>expedie</rhyme>
+<lb n="EMOR.265a:26"/>Que trop soies lonc on ne <rhyme>die</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:28"/>¶ Ne te dampnes pas pour <rhyme>acquerre</rhyme>
+<lb n="EMOR.265a:29"/>À tes enfans avoir et <rhyme>terre</rhyme>
+<lb n="EMOR.265a:30"/>Fais les apprendre et <rhyme>introduire</rhyme>
+<lb n="EMOR.265a:31"/>À scïence ou à mestier <rhyme>duire</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:33"/>¶ Bonne exemple et bonne <rhyme>doctrine</rhyme>
+<lb n="EMOR.265a:34"/>Oz voulentiers et t'y <rhyme>doctrine</rhyme>
+<lb n="EMOR.265a:35"/>Car pour néant son oreille <rhyme>oeuvre</rhyme>
+<lb n="EMOR.265a:36"/>Homs à ouÿr sans mettre à <rhyme>oeuvre</rhyme>
+<!-- 1 blank line(s) here -->
+<lb n="EMOR.265a:38"/>¶ Ne laisses pas à <name ref="">dieu</name> <rhyme>servir</rhyme>
+<lb n="EMOR.265a:39"/>Pour au monde trop <rhyme>t'asservir</rhyme><cb n="b"/>
+<!-- 39 lines -->
+<lb n="EMOR.265b:01"/>Car biens mondains vont à <rhyme>deffin</rhyme>
+<lb n="EMOR.265b:02"/>Et l'ame durera sanz <rhyme>fin</rhyme>
+<lb n="EMOR.265b:03"/>Explicit <note>centred</note>
+ </div1>
+</p>
+</body>
+</text>
+</TEI>

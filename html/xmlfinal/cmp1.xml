@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact Charlie.Mansfield@ ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<ref type="cmp1fm.html"/>
+<div1 n="Complainte amoureuse 1" type="Item"><!-- Check the rhyme-schemes -->
+<cb n="d"/><layout ruledLines="40"/>
+<figure ref="056d" place="16"/>
+<lb n="CMP1.056d:17"/><hi rend="red">Ci commence une <c>a</c>utre <c>c</c>omplainte <c>a</c>moureuse &#x95;xiii&#x95;</hi>
+<lb n="CMP1.056d:18"/><group n=" 1"/><hi rend="cap3">D</hi>oulce dame, vueillez ouÿr la <rhyme>plainte</rhyme>
+<lb n="CMP1.056d:19"/>De m<subst><del rend="erasure">es</del><add place="inline" evidence="superscript dot, spacing, cursive instruction in gutter margin">a</add></subst> clamou<subst><del rend="erasure"  evidence="'r' extended">rs</del><add place="inline" evidence="'r' extended">r</add></subst>, car <name ref="Thought"><c>p</c>ensée</name> <rhyme>destrainte</rhyme>
+<lb n="CMP1.056d:20"/>Par trop amer\ me meut à la <rhyme><abbr type="com"/>plai<abbr type="n"/>te</rhyme>
+<lb n="CMP1.056d:21"/>De mon grief <rhyme>plour</rhyme><l n="  4"/>
+<lb n="CMP1.056d:22"/>Vous regehir.\ <c>s</c>i ne croyez que <rhyme>fainte</rhyme>
+<lb n="CMP1.056d:23"/>Soit en nul cas,\ car friçon do<abbr type="n"/>t j'ay <rhyme>mai<abbr type="n"/>te</rhyme>
+<lb n="CMP1.056d:24"/>Et maint grief dueil\ me rendent coule<abbr type="ur"/> <rhyme>tai<abbr type="n"/>te</rhyme>
+<lb n="CMP1.056d:25"/>Et en <rhyme>palour</rhyme>.<note>It is not clear why line 8 is in slightly smaller point and why it is followed by a blank line.</note><l n="  8"/><!-- 1 blank line -->
+<lb n="CMP1.056d:27"/>Chiere dame, dont me vient la <rhyme>douleur</rhyme>
+<lb n="CMP1.056d:28"/>Par qui <name ref="God+of+Love"><c>a</c>mours</name> trembler en gra<abbr type="n"/>t <rhyme>chaleur</rhyme>
+<lb n="CMP1.056d:29"/>Me fait souvent, dont j'ay vie et <rhyme>couleur</rhyme>
+<lb n="CMP1.056d:30"/>Par fois <rhyme>estainte</rhyme>,<l n=" 12"/>
+<lb n="CMP1.056d:31"/>Mon piteux plaint ne tenez à <rhyme>folour</rhyme>
+<lb n="CMP1.056d:32"/>Pour ce qu'en vous il a tant de <rhyme>valour</rhyme>,
+<lb n="CMP1.056d:33"/><add place="inline" evidence="paler ink, no erasure" reason="dot in margin">Car je sçay b<abbr type="ie"/>n du dire n'ay <g lemma="couleur1" en="reason, pretext" fr="raison, prétexte"><rhyme>coulour</rhyme></g></add>,
+<lb n="CMP1.056d:34"/>Mais c'est <rhyme>contrainte</rhyme>,<l n=" 16"/>
+
+<lb n="CMP1.056d:35"/><group n=" 2"/><supplied reason="layout" resp="JL">¶ </supplied>Dame sans per, et sans vous <rhyme>decevoir</rhyme>
+<lb n="CMP1.056d:36"/>Il m'est besoing de vous faire <rhyme>assavoir</rhyme>
+<lb n="CMP1.056d:37"/>De mon tourment amoureux tout le <rhyme>voir</rhyme>,
+<lb n="CMP1.056d:38"/>Car <name ref="True+Love"><c>a</c>mour <rhyme><c>f</c>ine</rhyme></name><l n=" 20"/>
+<lb n="CMP1.056d:39"/>Si m'y contraint\ pour faire mon <rhyme>devoir</rhyme>.
+<lb n="CMP1.056d:40"/>Hé, dame, en qui il a plus de <rhyme>savoir</rhyme>
+<lb n="CMP1.056d:41"/>Qu'il ne pourroit en autre dame <rhyme>avoir</rhyme><pb n="057" ed="r" l="CMP1.057r:01"/><layout ruledLines="no"/><hi rend="run"><fw type="heading1" place="column a" rend="tabbed">Une autre comp</fw><note>The running title, of which traces can be seen over columns a and b, has been almost entirely cropped by the binder.</note></hi><cb n="a"/><layout ruledLines="40"/>
+<lb n="CMP1.057a:01"/>La droite <rhyme>mine</rhyme>,<l n=" 24"/>
+<lb n="CMP1.057a:02"/>Où tout bien croist,\ se comble &amp; se <rhyme>termine</rhyme>
+<lb n="CMP1.057a:03"/>Helas, le mal\ qui occist et <rhyme>affine</rhyme><note>'Vueillez appercevoir le mal...'</note>
+<lb n="CMP1.057a:04"/>Mon dolent cuer\ et ma vie <rhyme>decline</rhyme>
+<lb n="CMP1.057a:05"/><rhyme>Appercevoir</rhyme><l n=" 28"/>
+<lb n="CMP1.057a:06"/>Vueillez un pou,\ ou dedens brief <rhyme>termine</rhyme>
+<lb n="CMP1.057a:07"/>M'esteut mourir.\ <c>s</c>e par vous <rhyme>medicine</rhyme>
+<lb n="CMP1.057a:08"/>Je n'ay par quoy mon <g lemma="malage"  en="ills, suffering" fr="mal, souffrance">malage</g> <rhyme>define</rhyme>,
+<lb n="CMP1.057a:09"/>Je mourray <rhyme>voir</rhyme>.<l n=" 32"/>
+
+<lb n="CMP1.057a:10"/><group n=" 3"/><supplied reason="layout" resp="JL">¶ </supplied>Et mors fusse\ certes pieça de <rhyme>dueil</rhyme>,
+<lb n="CMP1.057a:11"/>Mais garison\ vo très doulx rïant <rhyme>oeil</rhyme><note>'oeil' is nominative plural.</note>
+<lb n="CMP1.057a:12"/>Par leur plaisant\ et gracïeux <rhyme>accueil</rhyme>
+<lb n="CMP1.057a:13"/>Si <rhyme>doulcement</rhyme><l n=" 36"/>
+<lb n="CMP1.057a:14"/>Me promettent,\ quant <g lemma="recueil" en="with pleasure, in secret" fr="agréablement, en secret">en plaisant\ <rhyme>recueil</rhyme></g>
+<lb n="CMP1.057a:15"/>Leur amoureux et très doulx regars <g lemma="cueillir" en="to gather, consider together" fr="récolter, considérer ensemble"><rhyme>cueil</rhyme></g>,
+<lb n="CMP1.057a:16"/>Dont torner fo<del rend="erasure"></del><add place="inline" evidence="blurring, expansive final 't's">nt souvent</add> en aut<abbr type="re"/> <g lemma="feuil" en="mood, attitude" fr="attitude"><rhyme>fueil</rhyme></g>
+<lb n="CMP1.057a:17"/>Mon <g lemma="marrement" en="sorrow, distress" fr="chagrin, douleur"><rhyme>marrement</rhyme></g>;<l n=" 40"/>
+<lb n="CMP1.057a:18"/>De nulle part\ n'ay confort <rhyme>autreme<abbr type="n"/>t</rhyme>.
+<lb n="CMP1.057a:19"/>Dame, or vueillés, s'il vous plait, <rhyme>lïem<abbr type="en"/>t</rhyme>
+<lb n="CMP1.057a:20"/>Et bouche et cuer\ accorder <rhyme>plainem<abbr type="en"/>t</rhyme>
+<lb n="CMP1.057a:21"/>À leur doulx <rhyme>vueil</rhyme>;<l n=" 44"/>
+<lb n="CMP1.057a:22"/>Et se d'acort\ ilz sont <rhyme>entierem<abbr type="en"/>t</rhyme>,
+<lb n="CMP1.057a:23"/>Vous m'arés mis\ et trait hors de <rhyme>to<abbr type="ur"/>me<abbr type="n"/>t</rhyme>
+<lb n="CMP1.057a:24"/>Et de vivre à\ tous jours <rhyme>joyeusem<abbr type="en"/>t</rhyme>
+<lb n="CMP1.057a:25"/>Dessus le <rhyme>sueil</rhyme>.<l n=" 48"/>
+
+<lb n="CMP1.057a:26"/><group n=" 4"/><supplied reason="layout" resp="JL">¶ </supplied>Mais de mon mal\ je ne m'ose à nul <rhyme>plai<abbr type="n"/>dre</rhyme>,
+<lb n="CMP1.057a:27"/>Car mieulx mourir\ je vouldroie ou <rhyme>estaindre</rhyme>
+<lb n="CMP1.057a:28"/>Que regehir,\ tant me sceust on <rhyme>contraindre</rhyme>,
+<lb n="CMP1.057a:29"/>La <rhyme>maladie</rhyme><l n=" 52"/>
+<lb n="CMP1.057a:30"/>Que j'ay pour vous\ ne comme<abbr type="n"/>t j'aim sans <rhyme>fai<abbr type="n"/>dre</rhyme><note>A punctus in darker ink marks the end of a long line which threatens to invade column b.</note>
+<lb n="CMP1.057a:31"/>Fors seulement\ à vous que je doy <rhyme>craindre</rhyme>,
+<lb n="CMP1.057a:32"/>Car mesdisans\ doy doubter\ et <rhyme>recraindre</rhyme>
+<lb n="CMP1.057a:33"/>Et leur <rhyme>boisdie</rhyme>,<l n=" 56"/>
+<lb n="CMP1.057a:34"/>Mais fors à vous\ n'avendra que le <rhyme>dye</rhyme>;
+<lb n="CMP1.057a:35"/>Quant autrement\ sera, <name ref="God"><c>d</c>ieu</name> me <rhyme>maudie</rhyme>.
+<lb n="CMP1.057a:36"/>Mais, belle, à vous\ n'est droit que je <rhyme>desdie</rhyme>
+<lb n="CMP1.057a:37"/>Par moy <g lemma="refreindre" en="to restrain o.s." fr="se retenir"><rhyme>reffraindre</rhyme></g><l n=" 60"/>
+<lb n="CMP1.057a:38"/>Ce qu'<name ref="God+of+Love"><c>a</c>mours</name> veult <del rend="erasure"></del><add place="inline" evidence="paler ink, blurring">que</add> souve<abbr type="n"/>t vo<abbr type="us"/> <rhyme>redie</rhyme>
+<lb n="CMP1.057a:39"/>Très humblement à chere <rhyme>accouardie</rhyme>
+<lb n="CMP1.057a:40"/>Pour moy garir\ du mal do<abbr type="n"/>t je <rhyme>mendie</rhyme><cb n="b"/><layout ruledLines="40"/>
+<lb n="CMP1.057b:01"/>Viengne à vous <rhyme>plaindre</rhyme>.<l n=" 64"/>
+
+<lb n="CMP1.057b:02"/><group n=" 5"/><supplied reason="layout" resp="JL">¶ </supplied>Helas, ma très äourée <rhyme>déesse</rhyme>
+<lb n="CMP1.057b:03"/>Et ma haulte souveraine <rhyme>princesse</rhyme>,
+<lb n="CMP1.057b:04"/>Ma seule amour,\ ma dame, ma <rhyme>léece</rhyme>
+<lb n="CMP1.057b:05"/>Qui <g lemma="reclamer" en="to pray, beseech" fr="implorer, prier"><rhyme>reclamer</rhyme></g><l n=" 68"/>
+<lb n="CMP1.057b:06"/>Me f<del rend="erasure"></del><add place="inline" evidence="superscript dot, blurring">ault</add> souvent en ma poigna<abbr type="n"/>t <rhyme>destrece</rhyme>,
+<lb n="CMP1.057b:07"/>Ne prenez pas\ garde à la grant <rhyme>haultece</rhyme>
+<lb n="CMP1.057b:08"/>De vous <del rend="erasure"></del><add place="inline" evidence="darker ink, blurring, smaller point">n'à ma tresfoible <rhyme>petitece</rhyme></add>
+<lb n="CMP1.057b:09"/>Mais à <rhyme>l'amer</rhyme><l n=" 72"/>
+<lb n="CMP1.057b:10"/>Que j'ay pour vous\ qui me fait las <rhyme>clamer</rhyme>
+<lb n="CMP1.057b:11"/>Et tant de plours\ et de lermes <rhyme>semer</rhyme>,
+<lb n="CMP1.057b:12"/>Et comment je\ vous vueil toudis <rhyme>amer</rhyme>
+<lb n="CMP1.057b:13"/>Comme <rhyme>maistrece</rhyme>,<l n=" 76"/>
+<lb n="CMP1.057b:14"/>Servir, doubter,\ obeïr et <g lemma="fermer" en="to fix, rely on" fr="se fixer, s'appuyer"><rhyme>f<del rend="erasure"></del><add place="inline" evidence="overwritten">e</add>rmer</rhyme></g>
+<lb n="CMP1.057b:15"/>En vostre amour\ et toudis <g lemma="confermer" en="to attach o.s." fr="s'attacher"><rhyme>confermer</rhyme></g>
+<lb n="CMP1.057b:16"/>À vo bon vueil\ sans ja m'en <g lemma="desfermer" en="to detach o.s., turn away" fr="se détacher, détourner"><rhyme>deffermer</rhyme></g>
+<lb n="CMP1.057b:17"/>Pour nulle <rhyme>asprece</rhyme>.<l n=" 80"/>
+
+<lb n="CMP1.057b:18"/><group n=" 6"/><supplied reason="layout" resp="JL">¶ </supplied>Mais j'ay doubte\ qu'en vain tant me <rhyme>travail</rhyme>,
+<lb n="CMP1.057b:19"/>Car je sçay bien,\ dame, que trop pou <rhyme>vail</rhyme>
+<lb n="CMP1.057b:20"/>Pour si hault bien\ et croy bien se g'i <rhyme>fail</rhyme>
+<lb n="CMP1.057b:21"/>S<add place="inline" evidence="paler ink, smaller point">e</add><note>'Se', i.e. 'Ce'</note> iert par <g lemma="dépris" en="scorn" fr="mépris"><rhyme>despris</rhyme></g>.<l n=" 84"/>
+<lb n="CMP1.057b:22"/>Mais s'il vous plaist à daigner p<abbr type="re"/>ndre en <rhyme>bail</rhyme>
+<lb n="CMP1.057b:23"/>Mon povre cuer\ que vous livre &amp; vo<abbr type="us"/> <rhyme>bail</rhyme>,
+<lb n="CMP1.057b:24"/>Je sçay de vray que<note>'que' is repeated two lines below.</note> se je ne <g lemma="déffaillir" en="to fail" fr="manquer à son devoir"><rhyme>deffail</rhyme></g>
+<lb n="CMP1.057b:25"/>Ou mort ou <rhyme>pris</rhyme>,<l n=" 88"/>
+<lb n="CMP1.057b:26"/>Que je pourray par vous monter en <rhyme>pris</rhyme>,
+<lb n="CMP1.057b:27"/>En qui<note>The antecedent is 'vous' in the line above.</note> tous biens\ sont parfais et <rhyme>compris</rhyme>
+<lb n="CMP1.057b:28"/>Et en qui peut\ à toute heure estre <rhyme>pris</rhyme>
+<lb n="CMP1.057b:29"/>À droit <rhyme>detail</rhyme><l n=" 92"/>
+<lb n="CMP1.057b:30"/>Loz et honneur, en quoy seray <rhyme>appris</rhyme>
+<lb n="CMP1.057b:31"/>Par vous si bien que ne seray <rhyme>repris</rhyme>
+<lb n="CMP1.057b:32"/><add place="inline, in space left blank" evidence="dot in intercolumn, paler ink, smaller point"  type="only in 4431">À mon povoir n'en nulle faulte <rhyme>pris</rhyme></add>,
+<lb n="CMP1.057b:33"/>Se si hault <rhyme>fail</rhyme>.<l n=" 96"/>
+
+<lb n="CMP1.057b:34"/><group n=" 7"/>¶ Hahay, dolens,\ mais trop me <rhyme>desconforte</rhyme>
+<lb n="CMP1.057b:35"/><name ref="Hope">Esperance</name>\ qui en mon cuer est <rhyme>morte</rhyme>
+<lb n="CMP1.057b:36"/>Souventes foiz,\ dont trop grief doulour <rhyme>porte</rhyme>
+<lb n="CMP1.057b:37"/>Et trop grant <rhyme>rage</rhyme>.<l n="100"/>
+<lb n="CMP1.057b:38"/>Quant je pensë à la t<abbr type="re"/>shaulte <g lemma="sorte" en="condition, rank" fr="condition, catégorie sociale" ><rhyme>sorte</rhyme></g>
+<lb n="CMP1.057b:39"/>Dont vous estes,\ par quoy doubt q<abbr type="ue"/> la <rhyme>porte</rhyme>
+<lb n="CMP1.057b:40"/>D'umble <name ref="Pity"><c>p</c>itié</name> pour mon b<abbr type="ie"/>n sera <g lemma="tordre" en="to block, make inaccessible" fr="rendre inaccessible" type="not in DMF 2009"><rhyme>torte</rhyme></g><pb n="057" ed="v" l="CMP1.057v:01"/><layout ruledLines="no"></layout><hi rend="run"><fw type="header1" place="column c" rend="centred"><c>u</c>n (<emph rend="italic">sic</emph>) autre</fw> <fw type="header2" place="column d" rend="left aligned">complainte</fw> <fw type="header3" place="column d" rend="tabbed from right">xiii</fw></hi><cb n="c"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="CMP1.057c:01"/>Chose et <g lemma="ombrage" en="dark, sombre" fr="sombre, obscur"><rhyme><s>u</s>m<s>b</s>rage</rhyme>.</g><l n="104"/>
+<lb n="CMP1.057c:02"/>Mais <name ref="God+of+Love"><c>a</c>mours</name> vient\ après qui <rhyme>m'assouäge</rhyme>
+<lb n="CMP1.057c:03"/>Et me redit\ par si très doulx <rhyme>lengage</rhyme>
+<lb n="CMP1.057c:04"/>Que jadis ot\ <name ref="Pygmalion"><c>p</c>ymalion</name><note>'Pymalion' counts as three syllables here but as four in line 113.</note> de <rhyme>l'image</rhyme> 
+<lb n="CMP1.057c:05"/>De pierre <rhyme>forte</rhyme><l n="108"/>
+<lb n="CMP1.057c:06"/>Vray reconfort\ de l'amoureux <rhyme>malage</rhyme>
+<lb n="CMP1.057c:07"/>Par lui servir\ de très loyal <rhyme>courage</rhyme>
+<lb n="CMP1.057c:08"/>Et vraye amour\ oû quel trè<s>s</s> doulx <rhyme>s<abbr type="er"/>vage</rhyme>
+<lb n="CMP1.057c:09"/>Tout bien <rhyme>ennorte</rhyme>.<l n="112"/>
+
+<lb n="CMP1.057c:10"/><group n=" 8"/><supplied reason="layout" resp="JL">¶ </supplied>Helas, dame,\ puis que <name ref="Pygmalion"><rhyme><c>p</c>imalïon</rhyme></name>
+<lb n="CMP1.057c:11"/>Aussi <name ref="Pyrrha"><c>p</c>irra</name>\ et <name ref="Deucalion"><rhyme><c>d</c>eücalïon</rhyme></name>,
+<lb n="CMP1.057c:12"/>Ains que fondé\ fust le noble <name ref="Troy"><rhyme><c>y</c>lÿon</rhyme></name>,
+<lb n="CMP1.057c:13"/><rhyme>Amolïerent</rhyme><l n="116"/>
+<lb n="CMP1.057c:14"/>Pierres dures,\ n'ayés cuer de <rhyme>lÿon</rhyme>
+<lb n="CMP1.057c:15"/>Et sans pitié\ vers moy, ains <rhyme>alïon</rhyme>
+<lb n="CMP1.057c:16"/>Noz &#x95;ii&#x95; vrays cuers et <del  rend="erasure"></del><add place="inline" evidence="superscript dash, blurring">ne</add> le<del rend="erasure"></del><add place="inline" evidence="superscript dot, blurring">s de</add><rhyme>slïon</rhyme>
+<lb n="CMP1.057c:17"/>De leurs <g lemma="jointure" en="junction, union" fr="jonction, union"><rhyme>jointures</rhyme></g><l n="120"/>
+<lb n="CMP1.057c:18"/>Jamais nul jour pour nulles <rhyme>ave<abbr type="n"/>t<abbr type="ur"/>es</rhyme>.
+<lb n="CMP1.057c:19"/>En loyaument amer soie<abbr type="n"/>t noz <rhyme>cures</rhyme>,
+<lb n="CMP1.057c:20"/>Et noz amours savoureuses &amp; <rhyme>pures</rhyme>
+<lb n="CMP1.057c:21"/><g lemma="apallier" en="to conceal" fr="dissimuler"><rhyme>Apalïon</rhyme></g><l n="124"/>
+<lb n="CMP1.057c:22"/>Si bien que les desloyales <rhyme>pointures</rhyme>
+<lb n="CMP1.057c:23"/>Des mesdisans et leur faulces <rhyme>murmures</rhyme><note>'murmure' is often feminine in Christine de Pizan's works.</note>
+<lb n="CMP1.057c:24"/>Ne nous soient ne <g lemma="nuisable" en="harmful" fr="nuisible">nuisables</g> ne <g lemma="sur2" en="bitter, cruel" fr="amer, cruel"><rhyme>sures</rhyme></g>,
+<lb n="CMP1.057c:25"/>Si <g lemma="celer" en="to hide one's feelings" fr="ne pas dévoiler ses sentiments">nous <rhyme>celion</rhyme></g>.<l n="128"/>
+
+<lb n="CMP1.057c:26"/><group n=" 9"/><supplied reason="layout" resp="JL">¶ </supplied>Et vous vueille, ma dame, <rhyme>souvenir</rhyme>
+<lb n="CMP1.057c:27"/>Que de ce fait\ ainsi ne puist <rhyme>venir</rhyme>,
+<lb n="CMP1.057c:28"/>Com retraire j'ouÿ et <g lemma="maintenir" en="to maintain, affirm" fr="affirmer avec insistance"><rhyme>maintenir</rhyme></g>,
+<lb n="CMP1.057c:29"/>Quë il <rhyme>avint</rhyme><l n="132"/>
+<lb n="CMP1.057c:30"/>D'un vray amant\ qu'<name ref="God+of+Love"><c>a</c>mours</name> si volt <rhyme>tenir</rhyme>
+<lb n="CMP1.057c:31"/>En ses durs las\ et tant lui <g lemma="maintenir" en="to maintain, keep" fr="garder dans tel état"><rhyme>maintenir</rhyme></g>
+<lb n="CMP1.057c:32"/>Que hors du sens\ lui couvint <rhyme>devenir</rhyme>;
+<lb n="CMP1.057c:33"/>Et à tant\ <rhyme>vint</rhyme><l n="136"/>
+<lb n="CMP1.057c:34"/>À la parfin\ que mourir lui <rhyme>couvint</rhyme>
+<lb n="CMP1.057c:35"/>Par trop amer.\ <c>m</c>ais po<abbr type="ur"/> rie<abbr type="n"/>s <del rend="erasure"></del><add place="inline" evidence="superscript dot, blurring">qui</add> <rhyme>avint</rhyme>,
+<lb n="CMP1.057c:36"/>À sa dame nulle pitié n'en <rhyme>vint</rhyme>,
+<lb n="CMP1.057c:37"/>Ne <rhyme>retenir</rhyme><l n="140"/>
+<lb n="CMP1.057c:38"/>Ne le daigna,\ n'en vie <rhyme>soustenir</rhyme>.
+<lb n="CMP1.057c:39"/>Ainçois le volt\ la crüeuse <rhyme>banir</rhyme>
+<lb n="CMP1.057c:40"/>D'environ soy\ pour lui du tout <rhyme>ho<abbr type="n"/>nir</rhyme>,<!-- 1 blank line --><cb n="d"/><layout ruledLines="41" writtenLines="40"/>
+<lb n="CMP1.057d:01"/>Dont mort <rhyme><s>s</s>ou<s>st</s>int</rhyme>.<l n="144"/>
+
+<lb n="CMP1.057d:02"/><group n="10"/><supplied reason="layout" resp="JL">¶ </supplied>Mais le dolent amant très <rhyme>doulereux</rhyme>,
+<lb n="CMP1.057d:03"/>Gittant sanglous et plains mau <rhyme>savoureux</rhyme>
+<lb n="CMP1.057d:04"/>Quant vint à mort,\ p<abbr type="ar"/> piteux mos <rhyme>ayreux</rhyme>
+<lb n="CMP1.057d:05"/>D'entente <rhyme>pure</rhyme>,<l n="148"/>
+<lb n="CMP1.057d:06"/>Moult supplïa\ aux dieux à yeulx <rhyme>pleureux</rhyme>
+<lb n="CMP1.057d:07"/>Que de celle\ qui le tint <rhyme>langoureux</rhyme>,
+<lb n="CMP1.057d:08"/>Par qui mouroit\ dolent, mal<rhyme>eüreux</rhyme>
+<lb n="CMP1.057d:09"/>De mort trop <rhyme>sure</rhyme>,<l n="152"/>
+<lb n="CMP1.057d:10"/>Encor vengiez\ peut estre de <rhyme>l'injure</rhyme>
+<lb n="CMP1.057d:11"/>Qu'elle lui fait\ et sentir tel <rhyme>pointure</rhyme>
+<lb n="CMP1.057d:12"/>Lui donnassent\ que fust com pierre <rhyme>dure</rhyme>
+<lb n="CMP1.057d:13"/>Mal <g lemma="doucereux" en="sweet, kind" fr="doux, gentil"><rhyme>doulcereux</rhyme></g><l n="156"/>
+<lb n="CMP1.057d:14"/>Son corps crüel,\ <add place="supralinear" evidence="lighter ink, broad caret, erased mark in gutter margin" type="">ai<abbr type="n"/>si</add> comme <g lemma="stature" en="statue" fr="statue"><rhyme>estature</rhyme></g>,
+<lb n="CMP1.057d:15"/>Dont les dames en ycelle <rhyme>aventure</rhyme>
+<lb n="CMP1.057d:16"/>Se mirassent,\ qui n'ont pitié ne <rhyme>cure</rhyme>
+<lb n="CMP1.057d:17"/>Des <rhyme>amoureux</rhyme>.<l n="160"/>
+
+<lb n="CMP1.057d:18"/><group n="11"/>¶ Adont fina\ le las <g lemma="hachée" en="so cruelly" fr="si cruellement" type="3rd example, to be added to only 2 exs. in DMF, both from Christine">à tel <rhyme>hachée</rhyme></g>,
+<lb n="CMP1.057d:19"/>Mais n'ot en vain\ sa prïere <rhyme>affichée</rhyme>,
+<lb n="CMP1.057d:20"/>Car bien\ ont puis\ les dieux sa mort <rhyme>vengiée</rhyme>;
+<lb n="CMP1.057d:21"/>Et quant en <rhyme>terre</rhyme><l n="164"/>
+<lb n="CMP1.057d:22"/>On le portoit,\ la felonne <rhyme>approchée</rhyme>
+<lb n="CMP1.057d:23"/>De la biere\ c'est,<note>'c'est', i.e. 's'est'.</note> lors fu <g lemma="accrocher" en="to seize, catch" fr="saisir, attraper"><rhyme>acrochée</rhyme></g>,
+<lb n="CMP1.057d:24"/>Car tel pitié\ s'est en son cuer <rhyme>fichée</rhyme>
+<lb n="CMP1.057d:25"/>Et si la <rhyme>serre</rhyme><l n="168"/>
+<lb n="CMP1.057d:26"/>Que tout ainsi\ que fouldre <g lemma="choir" en="to fall, strike" fr="tomber" type="3 pres. ind.">chet</g> <g lemma="erre1" en="speedily" fr="à grande vitesse" type="">gra<abbr type="n"/>t <rhyme>erre</rhyme></g>,
+<lb n="CMP1.057d:27"/>Celle enroidi,\ et devint une <rhyme>pierre</rhyme>
+<lb n="CMP1.057d:28"/>De marbre blanc;\ ancor la peut on <rhyme>querre</rhyme>
+<lb n="CMP1.057d:29"/>Là,\ <rhyme>accrochée</rhyme>.<l n="172"/>
+<lb n="CMP1.057d:30"/>Ainsi les dieux qui aux amans <choice><sic>fait</sic><corr reason="agreement, sense" resp="JCL">font</corr></choice> <rhyme>guerre</rhyme>
+<lb n="CMP1.057d:31"/>Vengence en font.\ <c>p</c>our ce vous vueil <del rend="overstrike" evidence="diagonal stroke in paler ink">je</del> <rhyme>req<abbr type="ue"/>rre</rhyme>,
+<lb n="CMP1.057d:32"/>Dame, pour <name ref="God"><c>d</c>ieu</name>,\ qu'en ce vostre cuer <rhyme>n'erre</rhyme>,
+<lb n="CMP1.057d:33"/>Dont mal en <g lemma="choir" en="to befall" fr="arriver" type="3 pres. subj."
+><rhyme>chée</rhyme></g>.<l n="176"/>
+
+<lb n="CMP1.057d:34"/><group n="12"/>¶ Ne me devez donques\ bouter <rhyme>arriere</rhyme>,
+<lb n="CMP1.057d:35"/>Combien qu'à moy\ si haulte <subst><del rend="erasure"></del><add place="inline" evidence="superscript dot, extra space plus filler, paler ink">a</add></subst>m<subst><del rend="overwritten">e</del><add place="inline" evidence="darker ink">o</add></subst>ur<note>The original reading was perhaps 'honneur'.</note> <rhyme>n'affiere</rhyme>,
+<lb n="CMP1.057d:36"/>Quant en penser\ n'ay en nulle <rhyme>maniere</rhyme>
+<lb n="CMP1.057d:37"/>Chose <rhyme>villaine</rhyme>,<l n="180"/>
+<lb n="CMP1.057d:38"/>Et ne croyez,\ dame, que vous <rhyme>requiere</rhyme>
+<lb n="CMP1.057d:39"/>Ne que jamais\ en ma <subst><del rend="erasure"></del><add place="inline" evidence="blurring, blank space, paler ink">vie</add></subst> je <rhyme>quiere</rhyme>
+<lb n="CMP1.057d:40"/>Chose nulle dont vostre honneur <rhyme>acq<abbr type="ui"/>ere</rhyme> &#x2013;<!-- 1 blank line --><pb n="058" ed="r" l="CMP1.058r:01"/><layout ruledLines="no"/><hi rend="run"><fw type="header1" place="column a" rend="centred">amou</fw>   <fw type="header2" place="column b" rend="tabbed">reuse</fw> <fw type="header3" place="column b" rend="tabbed from right">xiii &#x95;</fw></hi><cb n="a"/><layout ruledLines="40"/>
+<lb n="CMP1.058a:01"/>Soyés <rhyme>certaine</rhyme> &#x2013;<l n="184"/>
+<lb n="CMP1.058a:02"/>Blasme en nul cas, ne nulle riens <rhyme>mon<s>d</s>aine</rhyme>
+<lb n="CMP1.058a:03"/>Où vostre honneur\ ne soit entiere et <rhyme>saine</rhyme>,
+<lb n="CMP1.058a:04"/>Ma doulce amour,\ ma dame <rhyme>souveraine</rhyme>
+<lb n="CMP1.058a:05"/>Et la <rhyme>lumiere</rhyme><l n="188"/>
+<lb n="CMP1.058a:06"/>De mon salut,\ qui me condu<s>i</s>t et <rhyme>me<s>i</s>ne</rhyme>
+<lb n="CMP1.058a:07"/>À joyeux port.\ <c>t</c>rès noble <rhyme>tremontaine</rhyme>,
+<lb n="CMP1.058a:08"/>Ne vueillez pas\ vers moy estre <rhyme>haultaine</rhyme>
+<lb n="CMP1.058a:09"/>N'à ma <rhyme>prïere</rhyme>.<l n="192"/>
+
+<lb n="CMP1.058a:10"/><group n="13"/>¶ Et s'il vous plait,\ ma très belle, <rhyme>ottroyer</rhyme>
+<lb n="CMP1.058a:11"/>À<note>No account has been taken of the line across 'À' and the undecipherable marks under the letter, all in paler ink.</note> moy vostre amour\ sans la me <g lemma="dénier" en="to refuse" fr="refuser"><rhyme>des<add place="inline" evidence="spacing of letters, slightly paler ink">noier</add></rhyme></g>,
+<lb n="CMP1.058a:12"/>Et que j'aye\ si très noble <rhyme>loyer</rhyme>
+<lb n="CMP1.058a:13"/>Par vous <rhyme>servir</rhyme>,<l n="196"/>
+<lb n="CMP1.058a:14"/>Je vous promet à du tout <rhyme>employer</rhyme>
+<lb n="CMP1.058a:15"/>Et cuer et corps,\ et moy tout <rhyme>avoyer</rhyme>
+<lb n="CMP1.058a:16"/>À vous <subst><del rend="erasure"></del><add place="inline" evidence="superscript dot, blurring, space-filler, tops of 'ss' in next line erased">amer</add></subst> sans jamais <g lemma="ennuyer" en="to importune" fr="importuner"><rhyme>anoier</rhyme></g>.
+<lb n="CMP1.058a:17"/>Pour <rhyme>desservir</rhyme><l n="200"/>
+<lb n="CMP1.058a:18"/>Si hault honneur,\ je m'i\ vueil <rhyme>ass<abbr type="er"/>vir</rhyme>
+<lb n="CMP1.058a:19"/>Et loyauté\ vous promettre et <rhyme><subst><del rend="erasure"></del><add place="inline" evidence="blurring">ple</add></subst>uvir</rhyme>.
+<lb n="CMP1.058a:20"/>Et quant ainsi m'y vueil du tout <g lemma="chevir" en="to conduct o.s." fr="se comporter"><rhyme>chevir</rhyme></g>,
+<lb n="CMP1.058a:21"/>M'en <rhyme>envoyer</rhyme><l n="204"/>
+<lb n="CMP1.058a:22"/>Honteux et mas par <g lemma="escondit" en="refusal" fr="refus">escondit</g> <rhyme>ouÿr</rhyme>
+<lb n="CMP1.058a:23"/>Ne me vueilliez,\ pour ma vie <rhyme>ravir</rhyme>
+<lb n="CMP1.058a:24"/>Et pour mes jours faire to<subst><del rend="erasure" evidence="suprascript dot, 2 blank letterspaces"></del><add place="" evidence=""></add></subst><supplied reason="to complete unfinished correction" resp="JCL">us</supplied> <g lemma="assouvir" en="to end" fr="terminer"><rhyme>assouvir</rhyme></g>
+<lb n="CMP1.058a:25"/>N'en plours <rhyme>baigner</rhyme>.<l n="208"/>
+
+<lb n="CMP1.058a:26"/><group n="14"/>¶ Or y pensez,\ pour <name ref="God"><c>d</c>ieu</name>, très belle <rhyme>née</rhyme>,
+<lb n="CMP1.058a:27"/>Dame d'onnour,\ en ce monde <rhyme>ordonnée</rhyme>
+<lb n="CMP1.058a:28"/>Pour ma plaisant, joyeuse <rhyme>destinée</rhyme>,
+<lb n="CMP1.058a:29"/>De qui je <rhyme>port</rhyme><l n="212"/>
+<lb n="CMP1.058a:30"/>Empraint oû cuer\ toute\ heure de <rhyme>l'a<abbr type="n"/>née</rhyme>
+<lb n="CMP1.058a:31"/>La très plaisant\ face, escripte et <rhyme>signée</rhyme>,
+<lb n="CMP1.058a:32"/>Et vo beauté\ parfaicte et <rhyme>affinée</rhyme>,
+<lb n="CMP1.058a:33"/>Et le doulx <rhyme>port</rhyme><l n="216"/>
+<lb n="CMP1.058a:34"/>De vo gent corps,\ lequel est le droit <rhyme>port</rhyme>
+<lb n="CMP1.058a:35"/>Où <name ref="Joy"><c>j</c>oye</name> maint\ et plain de doulx <g lemma="apport" en="what is brought, contributed" fr="ce qu'on apporte"><rhyme>aport</rhyme></g>,
+<lb n="CMP1.058a:36"/>En qui je prens mon savoureux <g lemma="déport" en="joy, pleasure" fr="joie, plaisir"><rhyme>deport</rhyme></g>.
+<lb n="CMP1.058a:37"/>Et <rhyme>deffinée</rhyme><l n="220"/>
+<lb n="CMP1.058a:38"/>Soit ma doulour\ du tout et tel <rhyme>raport</rhyme>
+<lb n="CMP1.058a:39"/>Vo très doulx oeil,<note>'oeil' is a plural subject form.</note> à qui je me <rhyme>rapport</rhyme>,
+<lb n="CMP1.058a:40"/>Me facent tost\ que tout mon mal <rhyme>emport</rhyme><cb n="b"/><layout ruledLines="40"/>
+<lb n="CMP1.058b:01"/><s>E</s>n <s>b</s>rief <rhyme>journée</rhyme>.<l n="224"/>
+
+<lb n="CMP1.058b:02"/><group n="15"/>¶ Très doulce flour, de qui fault q<abbr type="ue"/> <rhyme>j'atende</rhyme>
+<lb n="CMP1.058b:03"/>Le doulx vouloir, à vous me <rhyme>recommande</rhyme>
+<lb n="CMP1.058b:04"/>Très humblement.\ <c>à</c> vo<del rend="erasure" evidence="2 letter space, dash as filler"></del> cuer pry <rhyme>qu'entende</rhyme>
+<lb n="CMP1.058b:05"/>M'umble<note>'m' is a possessive adjective.</note> <rhyme>requeste</rhyme>,<l n="228"/>
+<lb n="CMP1.058b:06"/>Et à garir\ mon mal amoureux <rhyme>tende</rhyme><note>The subject of the verb is 'pitié' in the line following.</note>
+<lb n="CMP1.058b:07"/>Humble pitié,\ qui envers moy <rhyme>s'estende</rhyme>
+<lb n="CMP1.058b:08"/>Si que soulas,\ qu'ay tout p<abbr type="er"/>du, me <rhyme>rende</rhyme>
+<lb n="CMP1.058b:09"/>Et joye et <rhyme>feste</rhyme>.<l n="232"/>
+<lb n="CMP1.058b:10"/>Adont sera\ <g lemma="souvir" en="to accomplish, realise" fr="accomplir, réaliser" type="Verb not in DMF">souvie</g> ma <rhyme>requeste</rhyme>
+<lb n="CMP1.058b:11"/>Et m'esperance amoureuse et <rhyme>honneste</rhyme>.
+<lb n="CMP1.058b:12"/>Si pry à <name ref="God"><c>d</c>ieu</name>\ qu'à ce vous face <rhyme>preste</rhyme>,
+<lb n="CMP1.058b:13"/>Et vous <rhyme>deffende</rhyme><l n="236"/>
+<lb n="CMP1.058b:14"/>De tout anuy et vous doint <g lemma="arrête" en="without delay" fr="sans délai">sanz <rhyme>arreste</rhyme></g>
+<lb n="CMP1.058b:15"/>Tous voz desirs,\ et longue vie <rhyme>preste</rhyme>
+<lb n="CMP1.058b:16"/>À vo beau corps,\ et puis à l'ame <rhyme>appreste</rhyme>
+<lb n="CMP1.058b:17"/>Legiere <rhyme>amende</rhyme>.<l n="240"/>
+<!-- 3 blank lines -->
+<lb n="CMP1.058b:21"/>Explicit <c>c</c>omplainte <s>A</s>moureuse.
+<!-- 19 blank lines -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

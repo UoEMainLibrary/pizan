@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<!--?xml-stylesheet href="diplo.xsl" type="text/xsl" -->
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<!--?xml-stylesheet type="text/css" href="oxy.css" -->
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact
+pizan@ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<ref type="eabafm.html"/>
+<div1 n="Encore Autres Balades" type="Item">
+<pb n="049" ed="v" l=""/>
+<cb n="c"/><layout ruledLines="38"/>
+<lb n=""/><supplied reason="layout" resp="JL"><fw type="rubric" place="laligned" rend="inset"><hi rend="red">Encore Aultres Balades &#x95;xi&#x95;</hi><note>Although there is no rubric, the four lines left blank before the first poem, together with two faint dots in the outer margin, show that one was planned. The rubric supplied here mirrors the running title immediately above, at the top of fol. 49v.</note></fw></supplied>
+
+<group n="1"/><div2 n="1" type="Ballade" metre="8" length="34" refrain="1" stanza="aabaabbcbc" envoi="bcbc" rhyme="mfm"><lb n="EABA.049c:14"/><hi rend="cap2">M</hi>on doulx amy, du quel je <rhyme>tien</rhyme>
+<lb n="EABA.049c:15"/>Le loyal cuer, et pour le <rhyme>tien</rhyme>
+<lb n="EABA.049c:16"/>Le mien en eschange te <rhyme>donne</rhyme>,
+<lb n="EABA.049c:17"/>Je te pry, ne te doubte en <rhyme>rien</rhyme>,<l n=" 4"/>
+<lb n="EABA.049c:18"/>Car je te jur et promet <rhyme>bien</rhyme>
+<lb n="EABA.049c:19"/>Que se ne truys aultre que <rhyme>bonne</rhyme>
+<lb n="EABA.049c:20"/>Ta voulenté vers ma <rhyme>personne</rhyme>,
+<lb n="EABA.049c:21"/>En ce qui peut honneur <rhyme>toucher,</rhyme><l n=" 8"/>
+<lb n="EABA.049c:22"/>Se ne passe<subst><del rend="overwritten">s</del><add place="inline" evidence="overwritten">z</add></subst><note>'passes', the original spelling, was then corrected to 'passez'; the result is an unusual form of the second person singular.</note> de droit la <rhyme>bonne</rhyme>
+<lb n="EABA.049c:23"/><emph rend="italic"><fw type="refrain">Je t'ameray et tendray <rhyme>chier</rhyme></fw>.</emph>
+<!-- 1 blank line -->
+<lb n="EABA.049c:25"/>Et s'il te plaist qu'en ce <rhyme>lïen</rhyme>
+<lb n="EABA.049c:26"/>Soit ton tresdoulx cuer et le <rhyme>mien</rhyme>,<l n="12"/>
+<lb n="EABA.049c:27"/>Et que ton vueil au mien <rhyme>s'ordonne</rhyme>
+<lb n="EABA.049c:28"/>Si qu'en n<abbr type="ost"/>re fait n'ait que <rhyme>bien</rhyme>,
+<lb n="EABA.049c:29"/>Saches de vray et le <rhyme>retien</rhyme>,
+<lb n="EABA.049c:30"/>Sanz que aultre foiz plus t'en <rhyme>sermonne</rhyme>,<l n="16"/>
+<lb n="EABA.049c:31"/>Que l'amour qui en moy <rhyme>s'entonne</rhyme>,
+<lb n="EABA.049c:32"/>Dont ta doulceur me vient <rhyme>preschier</rhyme>,
+<lb n="EABA.049c:33"/>Durera puis que m'y <rhyme>adonne</rhyme>.
+<lb n="EABA.049c:34"/><emph rend="italic"><fw type="refrain">Je t'ameray et tendray <rhyme>chier</rhyme></fw></emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="EABA.049c:36"/>Par si que toudis ton <rhyme>maintien</rhyme>
+<lb n="EABA.049c:37"/>Soit tel que ainsi que je le <rhyme>tien</rhyme>,
+<lb n="EABA.049c:38"/>Non obstant que acueil <rhyme>t'abandonne</rhyme>,<cb n="d"/><layout ruledLines="38"/>
+<lb n="EABA.049d:01"/>M'onneur garderas par <rhyme>moyen</rhyme><l n="24"/>
+<lb n="EABA.049d:02"/>De loyauté se tu es <rhyme>sien</rhyme>.
+<lb n="EABA.049d:03"/>Tout le surplus je te <rhyme>pardonne</rhyme>
+<lb n="EABA.049d:04"/>Car, quoy que <name ref="Desire"><c>d</c>esir</name> <rhyme>t'araisonne</rhyme>
+<lb n="EABA.049d:05"/>Par force d'amour te <rhyme>touchier</rhyme>,<l n="28"/>
+<lb n="EABA.049d:06"/>Mais que trop ne te <rhyme>desordonne</rhyme>,
+<lb n="EABA.049d:07"/><emph rend="italic"><fw type="refrain">Je t'ameray et tendray <rhyme>chier</rhyme></fw>.</emph>
+<!-- 1 blank line -->
+<lb n="EABA.049d:09"/>Pour ce, amis, gaignes la <rhyme>couronne</rhyme>
+<lb n="EABA.049d:10"/>Sur tous amans, ne <rhyme>t'approchier</rhyme><l n="32"/>
+<lb n="EABA.049d:11"/>D'aultre vueil. <c>s</c>anz t'est<subst><del rend="erasure" evidence="blurring, darker ink"/><add place="inline" evidence="blurred, cramped, vertical separator ">re</add></subst> <rhyme>felonne</rhyme>
+<lb n="EABA.049d:12"/><emph rend="italic"><fw type="refrain">Je t'ameray et tendray <rhyme>chier</rhyme></fw></emph></div2>.
+<!-- 1 blank line -->
+<group n="2"/><div2 n="2" type="Ballade" metre="10" length="31" refrain="1" stanza="ababbcdcd" envoi="cdcd" rhyme="ffmf"><lb n="EABA.049d:14"/><hi rend="cap2">T</hi>on alée\ me met en tel <rhyme>tristece</rhyme>,
+<lb n="EABA.049d:15"/>Mon doulx ami,\ que ne puis avoir <rhyme>joye</rhyme>
+<lb n="EABA.049d:16"/><name ref="God">Dieux</name>! <c>j</c>oye? <c>h</c>elas,\ et dont vendroit <rhyme>l'adrece</rhyme>,
+<lb n="EABA.049d:17"/>Dont tant fust pou,\ se je ne te <rhyme>vëoye</rhyme>,<l n=" 4"/>
+<lb n="EABA.049d:18"/>M'en peust venir?\ <c>i</c>l n'y a tour ne <rhyme>voye</rhyme>,
+<lb n="EABA.049d:19"/>Car esleu t'ay\ pour ma part de tous <rhyme>biens</rhyme>;
+<lb n="EABA.049d:20"/>Tu es le tout\ et no<abbr type="n"/><supplied reason="standardise" resp="JL"> </supplied>mie <rhyme>partie</rhyme>.
+<lb n="EABA.049d:21"/>Pour ce de toy,\ que <c>J</c>'aim sur toute <rhyme>riens</rhyme>,<l n=" 8"/>
+<lb n="EABA.049d:22"/><emph rend="italic"><fw type="refrain">Certes trop m'est\ dure la <rhyme>departie</rhyme></fw>.</emph>
+<!-- 1 blank line -->
+<lb n="EABA.049d:24"/>La departie! <c>l</c>asse, c'est <del rend="overstrike">grief</del> <rhyme>destresse</rhyme>
+<lb n="EABA.049d:25"/>Trop dure à cuer\ que grant amour <rhyme>mestroye</rhyme>!
+<lb n="EABA.049d:26"/>Quant est de moy,\ bien sçay que sanz <rhyme>léece</rhyme><l n="12"/>
+<lb n="EABA.049d:27"/>Demoureray, et quel part que je <rhyme>soye</rhyme>
+<lb n="EABA.049d:28"/>N'aray plaisir\ ne chose qui <rhyme>m'esjoye.</rhyme>
+<lb n="EABA.049d:29"/>Or <c>J</c>e ne sçay quelz maulx seront les <rhyme>tiens</rhyme>
+<lb n="EABA.049d:30"/>Ne quieulx regraiz\ aras de ta <rhyme>partie</rhyme>,<l n="16"/>
+<lb n="EABA.049d:31"/>Mais quant à moy, pour engriger les <rhyme>miens</rhyme>
+<lb n="EABA.049d:32"/><emph rend="italic"><fw type="refrain">Certes trop m'est dure la <rhyme>departie</rhyme></fw>.</emph>
+<!-- 1 blank line -->
+<lb n="EABA.049d:34"/>Et non pourtant le mal qui si me <rhyme>blesse</rhyme>
+<lb n="EABA.049d:35"/>Sera plus court, s'il te plaist <rhyme>toutevoye</rhyme><l n="20"/>
+<lb n="EABA.049d:36"/>Que ton retour soit brief. <c>m</c>ais c'est <rhyme>simplece</rhyme>
+<lb n="EABA.049d:37"/>Du dire à moy, je croy, ne q<abbr type="ue"/> je <rhyme>doye</rhyme>
+<lb n="EABA.049d:38"/>Penser q<abbr type="ue"/> à toy en soit au fort se <rhyme>voye</rhyme>
+<pb n="050" ed="r" l="EABA.050r:01"/><hi rend="run"><fw type="header1" place="column a, along top line of ruled space" rend="centred"><s>A</s>ultres</fw> <fw type="header2" place="intercolumn, along top line of ruled space" rend="left aligned"><s>B</s>alades</fw> <fw type="header3" place="column b, along top line of ruled space" rend="centred">&#x95; xi &#x95;</fw></hi><cb n="a"/><layout ruledLines="39"/><lb n="EABA.050a:01"/>Sauf ton honneur y a. <c>t</c>ost t'en <rhyme>reviens</rhyme>,<l n="24"/>
+<lb n="EABA.050a:02"/>Car te promet pour vray, sanz foy <rhyme>mentie</rhyme>,
+<lb n="EABA.050a:03"/>Quoy qu'en faces,\ saches et le <rhyme>retiens</rhyme>:
+<lb n="EABA.050a:04"/><emph rend="italic"><fw type="refrain">Certes trop m'est dure la <rhyme>departie</rhyme></fw>.</emph>
+<!-- 1 blank line -->
+<lb n="EABA.050a:06"/><name ref="God+of+Love">Amours</name> me tient pour toy en tes <rhyme>lÿens</rhyme>,<l n="28"/>
+<lb n="EABA.050a:07"/>Mon doulx amy, ou soit sens ou <rhyme>sotie</rhyme>,
+<lb n="EABA.050a:08"/>Que de tes yeulx et tes plaisans <rhyme>mai<abbr type="n"/>tiens</rhyme>
+<lb n="EABA.050a:09"/><emph rend="italic"><fw type="refrain">Certes trop m'est <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph><l n="31"/></div2>
+<!-- 1 blank line -->
+<group n="3"/><div2 n="3" type="Rondeau quatrain" metre="10" length="12" refrain="4" stanza="abba" envoi="" rhyme="mf"><lb n="EABA.050a:11"/><hi rend="cap2">À</hi> <name ref="God"><c>d</c>ieu</name> te dis, <name ref="The+Lover">amis</name>, puis qu'il le <rhyme>fault</rhyme>,
+<lb n="EABA.050a:12"/>Combien q<abbr type="ue"/> assez seuffre de dueil <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>peine</rhyme>
+<lb n="EABA.050a:13"/>Pour ton deppart qui me conduit <choice><orig>&amp;</orig><reg>et</reg></choice> <rhyme>meine</rhyme>
+<lb n="EABA.050a:14"/>De <c>J</c>oye en dueil; ce m'est doulereux <rhyme>sault</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="EABA.050a:16"/>Puis qu'il couvient q<abbr type="ue"/> ainsi soit, riens n'y <rhyme>vault</rhyme>
+<lb n="EABA.050a:17"/>M'en doulouser; <name ref="God"><c>d</c>ieu</name> pry qu'il te <rhyme>ramaine</rhyme>.
+<lb n="EABA.050a:18"/><emph rend="italic"><fw type="refrain" rend="centred">À <name ref="God"><c>d</c>ieu</name> te dis</fw></emph>
+<lb n="EABA.050a:19"/>Mais je sçay bien qu'en aray dur <rhyme>assault</rhyme><l n=" 8"/>
+<lb n="EABA.050a:20"/>D'<name ref="God+of+Love"><c>a</c>mours</name> qui trop à son vueil me <rhyme>demaine</rhyme>,
+<lb n="EABA.050a:21"/>Et qu'assez plus d'une foiz la <rhyme>sepmaine</rhyme>
+<lb n="EABA.050a:22"/>J'en pleureray; je ne sçay s'il t'en <rhyme>chault</rhyme>.
+<lb n="EABA.050a:23"/><emph rend="italic"><fw type="refrain" rend="centred"><c>à</c> <name ref="God"><c>d</c>ieu</name> te dis</fw></emph> <l n="12"/> </div2>
+<!-- 1 blank line -->
+<group n="4"/><div2 n="4" type="Ballade layée" metre="10 + 4" length="34" refrain="2" stanza="a10b10a10b10c4c10d10e10d10e10" envoi="d10e10d10e10" rhyme="mmmfm"><lb n="EABA.050a:25"/><hi rend="cap2">H</hi>elas par temps seront passez six <rhyme>moys</rhyme>
+<lb n="EABA.050a:26"/>Que je ne vy la riens q<abbr type="ue"/> j'aime <rhyme>mieulx</rhyme>,
+<lb n="EABA.050a:27"/>Qui sur tous est bel et bon à mon <rhyme>choiz</rhyme>
+<lb n="EABA.050a:28"/>Sage et courtois, mais loings est de mes <rhyme>yeulz</rhyme><l n=" 4"/>
+<lb n="EABA.050a:29"/>Dont me <rhyme>venoit</rhyme>
+<lb n="EABA.050a:30"/>Joye et plaisir. <c>c</c>'est bien droit qu'il <rhyme>m'e<abbr type="n"/>noit</rhyme>,
+<lb n="EABA.050a:31"/>Car tout le bien qui est en <rhyme>souffisance</rhyme>
+<lb n="EABA.050a:32"/>J'en avoie, ce puis je <rhyme>tesmoigner</rhyme>.<l n=" 8"/>
+<lb n="EABA.050a:33"/><emph rend="italic"><fw type="refrain">Et qui n'aroit regrait à tel <rhyme>plaisance</rhyme></fw></emph>
+<lb n="EABA.050a:34"/><emph rend="italic"><fw type="refrain">Et à si tresdoulce amour <rhyme><subst><del rend="erasure" evidence="blurred, ruling erased"/><add place="inline" evidence="larger point?">eslongner</add></subst></rhyme></fw>?</emph>
+<!-- 1 blank line -->
+<lb n="EABA.050a:36"/>Car avec ce qu'à tresbon le <rhyme>congnoiz</rhyme>,
+<lb n="EABA.050a:37"/>Tant de plaisirs me faisoit en tous <rhyme>lieux</rhyme><l n="12"/>
+<lb n="EABA.050a:38"/>De son povoir que pas seule une <rhyme>foiz</rhyme>
+<lb n="EABA.050a:39"/>Je n'y trouvay faultë et, ce m'aist <name ref="God"><rhyme><c>d</c>ieux</rhyme></name>,
+<cb n="b"/><layout ruledLines="39"/><lb n="EABA.050b:01"/>Tant s'en <rhyme>penoit</rhyme>
+<lb n="EABA.050b:02"/>Que d'aultre riens, croy, ne lui <rhyme>souvenoit</rhyme>.<l n="16"/>
+<lb n="EABA.050b:03"/>Il me servoit tout à mon <rhyme>ordonnance</rhyme>;
+<lb n="EABA.050b:04"/>De riens qu'il peust ne me faloit <rhyme>song<subst><del rend="expunctuated" evidence="subscript dot">i</del><add place="superscript" evidence="paler ink">n</add></subst>er</rhyme>.
+<lb n="EABA.050b:05"/><emph rend="italic"><fw type="refrain">Et qui n'aroit regrait à tel <rhyme>plaisance</rhyme></fw></emph>
+<lb n="EABA.050b:06"/><emph rend="italic"><fw type="refrain">Et à si tresdoulce amour <rhyme><subst><del rend="erasure" evidence="blurred"/><add place="inline" evidence="darker ink, larger point?">eslongner</add></subst></rhyme></fw>?</emph><l n="20"/>
+<!-- 1 blank line -->
+<lb n="EABA.050b:08"/>Dont à bon droit se j'en ay dueil et <rhyme>poiz</rhyme>
+<lb n="EABA.050b:09"/>Et se le lonc demour m'est <rhyme>ennuyeux</rhyme>,
+<lb n="EABA.050b:10"/>Car seulement d'oÿr sa doulce <rhyme>voix</rhyme>
+<lb n="EABA.050b:11"/>Et me mirer en ses ris et <supplied reason="hypometric" resp="JL">ses</supplied><rhyme> gieux</rhyme>,<l n="24"/>
+<lb n="EABA.050b:12"/>Tant me <rhyme>donnoit</rhyme>
+<lb n="EABA.050b:13"/>De léece que mon cuer y <rhyme>prenoit</rhyme>
+<lb n="EABA.050b:14"/>Deduit et paix, confort et <rhyme>soustena<abbr type="n"/>ce</rhyme>,
+<lb n="EABA.050b:15"/>Car le vëoye mien sans <rhyme>espargner</rhyme>,<l n="28"/>
+<lb n="EABA.050b:16"/><emph rend="italic"><fw type="refrain">Et qui n'aroit regrait à tel <rhyme>plaisance</rhyme></fw></emph>
+<lb n="EABA.050b:17"/><emph rend="italic"><fw type="refrain">Et à si tresdoulce amour <rhyme><subst><del rend="erasure" evidence="blurred, ruled line erased"/><add place="inline" evidence="larger point?">eslongner</add></subst></rhyme></fw>?</emph>
+<!-- 1 blank line -->
+<lb n="EABA.050b:19"/>Princes, jugiez s'à tort la <rhyme>souvenance</rhyme>
+<lb n="EABA.050b:20"/>D'un tel ami me fait en plours <rhyme>baigner</rhyme><l n="32"/>
+<lb n="EABA.050b:21"/><emph rend="italic"><fw type="refrain" rend="">Et qui n'aroit <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="5"/><div2 n="5" type="Rondeau quatrain" metre="8" length="12" refrain="4" stanza="abba" envoi="" rhyme="mf"><lb n="EABA.050b:23"/><hi rend="cap2">Q</hi>uant chacun s'en revient de <rhyme>l'ost</rhyme>,
+<lb n="EABA.050b:24"/>Pour quoy demeures tu <rhyme>derriere</rhyme>?
+<lb n="EABA.050b:25"/>Et si scez que m'amour <rhyme>entiere</rhyme>
+<lb n="EABA.050b:26"/>T'ay baillée en garde et <rhyme>depost</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="EABA.050b:28"/>Si deusses retourner plus <rhyme>tost</rhyme>
+<lb n="EABA.050b:29"/>Affin que faisiens bonne <rhyme>chiere</rhyme>.
+<lb n="EABA.050b:30"/><emph rend="italic"><fw type="refrain" rend="centred"><c>q</c>uant</fw></emph>
+<lb n="EABA.050b:31"/>Puis que <name ref="Honour"><c>h</c>onneur</name> point ne le te <rhyme>tolt</rhyme>,<l n=" 8"/>
+<lb n="EABA.050b:32"/>Qui te peut tenir si <rhyme>arriere</rhyme>?
+<lb n="EABA.050b:33"/>Je m'en plaindray de la <rhyme>maniere</rhyme>
+<lb n="EABA.050b:34"/>Au <name ref="God+of+Love">dieu d'amours</name>; c'est mon <rhyme>prevost</rhyme>.
+<lb n="EABA.050b:35"/><emph rend="italic"><fw type="refrain" rend="centred"><c>q</c>uant<note>There is no blank line between Poems 5 and 6.</note></fw></emph><l n="12"/></div2>
+
+<group n="6"/><div2 n="6" type="Ballade" metre="8" length="28" refrain="1" stanza="ababcdcd" envoi="cdcd" rhyme="mfmf"><lb n="EABA.050b:36"/><hi rend="cap2">T</hi>u soies le tresbien <rhyme>venu</rhyme>,<note>The Lady speaks Stanzas 1 and 3. Stanza 2 and the Envoy, spoken by the Lover, have been set in double inverted commas to mark the change of speaker.</note>
+<lb n="EABA.050b:37"/><name ref="The+Lover"><c>m</c>'amour</name>, or m'embrace <choice><orig>&amp;</orig><reg>et</reg></choice> me <rhyme>baise</rhyme>.
+<lb n="EABA.050b:38"/>Et comment t'es tu <rhyme>maintenu</rhyme>
+<lb n="EABA.050b:39"/>Puis ton depart? <c>s</c>ain <choice><orig>&amp;</orig><reg>et</reg></choice> bien <rhyme>aise</rhyme><l n=" 4"/><pb n="050" ed="r" l="EABA.050bom:01"/><fw type="signature" rend="pale brown ink">ii  Evi  u</fw><pb n="050" ed="v" l="EABA.050v:01"/><layout rend="blank" ruledLines="yes"/>
+<cb n="c"/><layout ruledLines="39"/><lb n="EABA.050c:01"/><s>A</s>s tu esté tousjours? <c>ç</c>a <rhyme>vien</rhyme>.
+<lb n="EABA.050c:02"/>Coste moy te sié et me <rhyme>conte</rhyme>
+<lb n="EABA.050c:03"/>Comment t'a esté. <c>m</c>al ou <rhyme>bien</rhyme>?
+<lb n="EABA.050c:04"/><emph rend="italic"><fw type="refrain">Car de ce vueil savoir le <rhyme>compte</rhyme></fw>.</emph><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="EABA.050c:06"/>"<name ref="The+Lady">Ma dame</name>, à qui je suis <rhyme>tenu</rhyme>
+<lb n="EABA.050c:07"/>Plus quë aultre, à nul n'en <rhyme>desplaise</rhyme>,
+<lb n="EABA.050c:08"/>Sachés que <name ref="Desire"><c>d</c>esir</name> m'a <rhyme>tenu</rhyme>
+<lb n="EABA.050c:09"/>Si court qu'onques n'<g lemma="avoir" en="" fr="" type="1 past historic"
+>oz</g> tel <rhyme>mesaise</rhyme>,<l n="12"/>
+<lb n="EABA.050c:10"/>Ne plaisir ne prenoie en <rhyme><c>R</c>ien</rhyme>
+<lb n="EABA.050c:11"/>Loings de vous. <name ref="God+of+Love"><c>a</c>mours</name> qui cuers <rhyme>dompte</rhyme>
+<lb n="EABA.050c:12"/>Me disoit, '<c>l</c>oyauté me <rhyme>tien</rhyme>,
+<lb n="EABA.050c:13"/><emph rend="italic"><fw type="refrain">Car de ce vueil savoir le <rhyme>compte</rhyme></fw></emph>'."<l n="16"/>
+<!-- 1 blank line -->
+<lb n="EABA.050c:15"/>Dont<note>i.e.'Because, Since'.</note> m'as tu ton serment <rhyme>tenu</rhyme>
+<lb n="EABA.050c:16"/>Bon gré t'en sçay par <name ref="Saint+Nicaise">saint <rhyme><c>n</c>icaise</rhyme></name>,
+<lb n="EABA.050c:17"/>Et puis que sain es <rhyme>revenu</rhyme>
+<lb n="EABA.050c:18"/>Joye arons assez. <c>o</c>r <rhyme>t'apaise</rhyme><l n="20"/>
+<lb n="EABA.050c:19"/>Et me dis se scez de <rhyme>combien</rhyme>
+<lb n="EABA.050c:20"/><add place="outer margin" evidence="paler ink, smaller point,two insertion marks similar to double inverted commas, both before the line of verse and in interlinear space">Le mal qu'e<abbr type="n"/> as eu à plus <rhyme>monte</rhyme></add><note>Line 22 has been inserted in the outer margin.</note>
+<lb n="EABA.050c:21"/>Que cil q<abbr type="ue"/> a souffert le cuer <rhyme>mien</rhyme>,
+<lb n="EABA.050c:22"/><emph rend="italic"><fw type="refrain">Car de ce vueil savoir le <rhyme>compte</rhyme></fw></emph>.<l n="24"/>
+<!-- 1 blank line -->
+<lb n="EABA.050c:24"/>"Plus mal que vous, sicom je <rhyme>tien</rhyme>,
+<lb n="EABA.050c:25"/>Ay eu. <c>m</c>ais dites sanz <rhyme>mesconte</rhyme>,
+<lb n="EABA.050c:26"/>Quans baisiers en aray je <rhyme>bien</rhyme>? &#x2013;
+<lb n="EABA.050c:27"/><emph rend="italic"><fw type="refrain">Car de ce vueil savoir le <rhyme>compte</rhyme></fw></emph>." <l n="28"/></div2>
+<!-- 1 blank line -->
+<group n="7"/><div2 n="7" type="Rondeau quatrain" metre="7" length="12" refrain="1" stanza="abba" envoi="" rhyme="mm"><lb n="EABA.050c:29"/><fw type="rubric" rend="centred">Rondel<note>The blank line following the rubric has been ignored.</note></fw><!-- 1 blank line -->
+<lb n="EABA.050c:31"/><hi rend="cap2">Q</hi>ui vous en a tant <rhyme>appris</rhyme>,
+<lb n="EABA.050c:32"/>Noble <name ref="John+Duke+of+Bourbon">duc des <rhyme><c>b</c>ourbonnoiz</rhyme></name>,
+<lb n="EABA.050c:33"/>Des gracïeux <rhyme>esbanoiz</rhyme>
+<lb n="EABA.050c:34"/>Qui sont en dicter <rhyme>compris</rhyme>?<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="EABA.050c:36"/>S'a fait <name ref="God+of+Love"><c>a</c>mours</name> qui <rhyme>empris</rhyme>
+<lb n="EABA.050c:37"/>L'a,\ pour oster voz <rhyme>ennoiz</rhyme>?
+<lb n="EABA.050c:38"/><emph rend="italic"><fw type="refrain" rend="centred"><c>q</c>ui vous en a tant<note>The blank line which, unusually, follows the first of the two refrains has been ignored.</note></fw></emph><!-- 1 blank line -->
+<lb n="EABA.050c:40"/>Car si bien vous estes <rhyme>pris</rhyme><l n=" 8"/><cb n="d"/><layout ruledLines="39"/>
+<lb n="EABA.050d:01"/>À dicter, se m'y <rhyme>congnoiz</rhyme>,
+<lb n="EABA.050d:02"/>Que je dy et <rhyme>recongnoiz</rhyme>
+<lb n="EABA.050d:03"/>Que vous en portez le <rhyme>pris</rhyme>.
+<lb n="EABA.050d:04"/><emph rend="italic"><fw type="refrain" rend="centred">Qui vous en a ta<abbr type="n"/>t</fw></emph><l n="12"/> </div2>
+<!-- 1 blank line -->
+<group n="8"/><div2 n="8" type="Rondeau quatrain" metre="7" length="12" refrain="1" stanza="abba" envoi="" rhyme="mf"><lb n="EABA.050d:06"/><fw type="rubric" rend="centred">Rondel</fw>
+<lb n="EABA.050d:07"/><hi rend="cap2">L</hi>e plus bel des fleurs de <rhyme>liz</rhyme>
+<lb n="EABA.050d:08"/>Et cellui que mieulx on <rhyme>prise</rhyme>
+<lb n="EABA.050d:09"/>À mon gré en toute <rhyme>guise</rhyme>
+<lb n="EABA.050d:10"/>Est cil que sur tous <rhyme>j'esliz</rhyme>,<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="EABA.050d:12"/>Car il est jeune et <rhyme>joliz</rhyme>,
+<lb n="EABA.050d:13"/>Doulx, courtoiz, de haulte <rhyme>prise</rhyme>,
+<lb n="EABA.050d:14"/><emph rend="italic"><fw type="refrain" rend="centred"><c>l</c>e plus bel</fw></emph>
+<lb n="EABA.050d:15"/>Et pour ce je <rhyme>m'embeliz</rhyme><l n=" 8"/>
+<lb n="EABA.050d:16"/>En s'amour dont suis <rhyme>esprise</rhyme>.
+<lb n="EABA.050d:17"/>Si ne doy estre <rhyme>reprise</rhyme>
+<lb n="EABA.050d:18"/>Se ay choisy pour tous <rhyme>deliz</rhyme>
+<lb n="EABA.050d:19"/><emph rend="italic"><fw type="refrain" rend="centred"><c>l</c>e plus bel <choice><orig>&amp;</orig><reg>et</reg></choice>c.</fw></emph><l n="12"/></div2><!-- 20 blank lines -->
+<pb n="051" ed="r" l=""/><layout rend="blank" ruledLines="no"/><cb n="a"/><layout ruledLines="40"/>
+<group n="9"/><div2 n="9" type="Ballade layée" metre="10 + 8" length="34" refrain="1" stanza="a10b10a10b10c8c10a10d10a10d10" envoi="a10d10a10d10" rhyme="fmmm"><lb n="EABA.051a:01"/><hi rend="cap2">T</hi>out bon, tout bel, tout assouvi en <rhyme>grace</rhyme>,<note>The third of the five minims at the end of <emph rend="italic">assouvi</emph> is lightly scored out, and an elongated <emph rend="italic">s</emph> is inserted in the top margin, above the final minim. No account has been taken of these corrections which make no obvious sense.</note> 
+<lb n="EABA.051a:02"/><c>l</c>e quel <name ref="Good Reputation"><c>b</c>on <c>l</c>oz</name> tesmoigne tout <rhyme>parfaiz</rhyme>,
+<lb n="EABA.051a:03"/><name ref="John+Duke+of+Bourbon">Duc de <c>b</c>ourbon</name>, jeune, sage et qui <rhyme>passe</rhyme>
+<lb n="EABA.051a:04"/>Selon l'age mains vaillans en tous <rhyme>fais</rhyme>,<l n="  4"/>
+<lb n="EABA.051a:05"/>Vous soiez le tresbien <rhyme>venu</rhyme>
+<lb n="EABA.051a:06"/>Du hault voyage où estes <rhyme>avenu</rhyme>
+<lb n="EABA.051a:07"/>À cë à quoy <name ref="Desire+for+Honour"><c>d</c>esir d'<c>o</c>nneur</name> vous <rhyme>chace</rhyme>,
+<lb n="EABA.051a:08"/>La merci <name ref="God"><c>d</c>ieu</name>. <s>s</s>i en doit <rhyme>souvenir</rhyme><l n=" 8"/>
+<lb n="EABA.051a:09"/>À tout homme qui vaillance <rhyme>pourchace</rhyme>.
+<lb n="EABA.051a:10"/><emph rend="italic"><fw type="refrain">De bien en mieulx vous puist il <rhyme>avenir</rhyme></fw></emph>!
+<!-- 1 blank line -->
+<lb n="EABA.051a:12"/>Mais de voz fais louez en toute <rhyme>place</rhyme>,
+<lb n="EABA.051a:13"/>S'ilz sont vaillans, et qu'en pouez vous <rhyme>mais</rhyme>?<l n="12"/>
+<lb n="EABA.051a:14"/>Ce fait <name ref="God+of+Love"><c>a</c>mours</name> de qui vient toute <rhyme>grace</rhyme>,
+<lb n="EABA.051a:15"/>Qui vous y duit et repaist de ses <rhyme>maits</rhyme> -
+<lb n="EABA.051a:16"/>Pour ce ne pourriés estre <rhyme>nu</rhyme>
+<lb n="EABA.051a:17"/>Des bons desirs et faiz q<abbr type="ue"/> ont <rhyme>maintenu</rhyme><l n="16"/>
+<lb n="EABA.051a:18"/>Ceulx qui suivent des tresmeilleurs la <rhyme>trace</rhyme> -
+<lb n="EABA.051a:19"/>Qu'il prent et duit par plaisant <rhyme>souvenir</rhyme>;
+<lb n="EABA.051a:20"/>De ce vous vient tout bon eur à gra<abbr type="n"/>t <rhyme>mace</rhyme>.
+<lb n="EABA.051a:21"/><emph rend="italic"><fw type="refrain">De bien en mieulx vous puist il <rhyme>avenir</rhyme></fw></emph>.<l n="20"/>
+<!-- 1 blank line -->
+<lb n="EABA.051a:23"/>Dont ne croy pas que celle qui <rhyme>enlace</rhyme>
+<lb n="EABA.051a:24"/>Vo gentil cuer en s'amour, quant le <rhyme>faiz</rhyme>
+<lb n="EABA.051a:25"/>Du hault labour qui nul temps ne vo<abbr type="us"/> <rhyme>lasse</rhyme>
+<lb n="EABA.051a:26"/>Ot raconter, que se souffrist <rhyme>jamais</rhyme><l n="24"/>
+<lb n="EABA.051a:27"/>De vous amer, quoy que <rhyme>tenu</rhyme>
+<lb n="EABA.051a:28"/>Vous soyez loings, maiz souvent et <rhyme>menu</rhyme>
+<lb n="EABA.051a:29"/>D'or en avant verrez sa doulce <rhyme>face</rhyme>,
+<lb n="EABA.051a:30"/>Pour au plaisir honorable <rhyme>avenir</rhyme><l n="28"/>
+<lb n="EABA.051a:31"/>Que dame peut donner sanz q<abbr type="ue"/> <rhyme>mefface</rhyme>.
+<lb n="EABA.051a:32"/><emph rend="italic"><fw type="refrain">De bien en mieulx vous puist il <rhyme>avenir</rhyme></fw></emph>.
+<!-- 1 blank line -->
+<lb n="EABA.051a:34"/>Prince gentil, en qui <name ref="Goodness"><c>b</c>onté</name> <rhyme>s'amasse</rhyme>,
+<lb n="EABA.051a:35"/>En armes <name ref="God"><c>d</c>ieux</name> vous vueille <rhyme>maintenir</rhyme>,<l n="32"/>
+<lb n="EABA.051a:36"/>Aussi d'amours qui jamais ne <rhyme>defface</rhyme>.
+<lb n="EABA.051a:37"/><emph rend="italic"><fw type="refrain">De bien en mieulx vous puist il <rhyme>avenir</rhyme></fw></emph>! </div2>
+<!-- 3 blank lines -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

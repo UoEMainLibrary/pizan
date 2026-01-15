@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vvstate version="1">
+ <general menubar="true" thumbnails="true" threads="2"/>
+ <catalogue filename="http://cbers.shef.ac.uk/newexample/images.xml">
+  <colselector width="200" height="120"/>
+  <thumbnails/>
+ </catalogue>
+</vvstate>

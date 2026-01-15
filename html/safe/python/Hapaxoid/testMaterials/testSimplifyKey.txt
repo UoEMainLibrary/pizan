@@ -1,0 +1,4 @@
+graphics.simplifyKey('PREL.001b', True)
+graphics.simplifyKey('PREL.001b', False)
+graphics.simplifyKey('DVAL.166d', True)
+graphics.simplifyKey('DVAL.166d', False)

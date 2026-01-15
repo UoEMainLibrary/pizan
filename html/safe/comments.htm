@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>sift tamiser.htm Dynamic Style Property Changer by Charlie Mansfield June 2006</title>
+	<meta http-equiv="content-type" 
+		content="text/html;charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+<style type="text/css">
+body {background-color: #ffffff; font-family: Verdana, sans-serif; font-size: 100%;}
+.chooser {color: #669999; font-family: Verdana, Arial, sans-serif; font-size: 3.0mm;}
+pre {color: #000000; background-color: #eae2c8; font-family: Verdana, Arial, sans-serif; font-size: 4.1mm;}
+.numero {color: #000000; font-family: Lucida Console, sans-serif; font-size: 2.7mm; }
+.names {font-family: Verdana, Arial, sans-serif; font-size: 4.1mm;}
+.corpus {color: #000000; font-family: Verdana, Arial, sans-serif; font-size: 3.4mm; text-decoration:none;}  
+.sidebar { float:right; margin-right:15px; margin-bottom:5px; }
+.thunder {color: #000099; font-family: Verdana, Arial, sans-serif; font-size: 4.0mm; text-decoration:none;}
+.boldred {color: #ff0000; font-weight: bold; font-size: 5.8mm;}
+.redbutton {color: #ffffff; font-weight: bold; text-decoration:none; border:thin; border-style:outset; background-color:#ff0000; }
+.dropthecap {float:left; margin-top:0px; color:black; padding-top:.2em; font-size:36pt; height:1em; font-weight:bold; font-family:"times","Times New Roman";} 
+.rubrics {color: #e10034; background-color: #eae2c8; font-family: Verdana, Arial, sans-serif; font-size: 4.1mm;}
+.accent {color: #330000; background-color: #eae2c8; font-family: Verdana, Arial, sans-serif; font-size: 4.1mm;}
+.notes {color: #eae2c8; font-family: Verdana, Arial, sans-serif; font-size: 0mm;}
+</style>
+<script type="text/javascript">
+
+function supaccents()
+{
+var count= new Array(16);
+var hifind= new Array(16);
+var totaccer=0;
+thisform=document.dataIn5;
+count[0]=document.getElementById("text0");
+count[1]=document.getElementById("text1");
+count[2]=document.getElementById("text2");
+count[3]=document.getElementById("text3");
+count[4]=document.getElementById("text4");
+count[5]=document.getElementById("text5");
+count[6]=document.getElementById("text6");
+count[7]=document.getElementById("text7");
+count[8]=document.getElementById("text8");
+count[9]=document.getElementById("text9");
+count[10]=document.getElementById("text10");
+count[11]=document.getElementById("text11");
+count[12]=document.getElementById("text12");
+totacc=document.getElementById("accents");
+var find="";
+hifind[0]=thisform.acc0.value;
+var array9="";
+var occurs=0;
+find = new RegExp(hifind[0], "g");
+var replace="";
+replace='<span class="accent">' + "e" + '</span>';
+array9 = document.getElementById("source");
+var col_array=array9.innerHTML.split(hifind[0]);
+occurs=col_array.length-1;
+count[0].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[1]=thisform.acc1.value;
+find = new RegExp(hifind[1], "g");
+replace='<span class="accent">' + "e" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[1]);
+occurs=col_array.length-1;
+count[1].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[2]=thisform.acc2.value;
+find = new RegExp(hifind[2], "g");
+replace='<span class="accent">' + "a" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[2]);
+occurs=col_array.length-1;
+count[2].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[3]=thisform.acc3.value;
+find = new RegExp(hifind[3], "g");
+replace='<span class="accent">' + "c" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[3]);
+occurs=col_array.length-1;
+count[3].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[4]=thisform.acc4.value;
+find = new RegExp(hifind[4], "g");
+replace='<span class="accent">' + "u" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[4]);
+occurs=col_array.length-1;
+count[4].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[5]=thisform.acc5.value;
+find = new RegExp(hifind[5], "g");
+replace='<span class="accent">' + "e" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[5]);
+occurs=col_array.length-1;
+count[5].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[6]=thisform.acc6.value;
+find = new RegExp(hifind[6], "g");
+replace='<span class="accent">' + "o" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[6]);
+occurs=col_array.length-1;
+count[6].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[7]=thisform.acc7.value;
+find = new RegExp(hifind[7], "g");
+replace='<span class="accent">' + "i" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[7]);
+occurs=col_array.length-1;
+count[7].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[8]=thisform.acc8.value;
+find = new RegExp(hifind[8], "g");
+replace='<span class="accent">' + "i" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[8]);
+occurs=col_array.length-1;
+count[8].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[9]=thisform.acc9.value;
+find = new RegExp(hifind[9], "g");
+replace='<span class="accent">' + "y" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[9]);
+occurs=col_array.length-1;
+count[9].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[10]=thisform.acc10.value;
+find = new RegExp(hifind[10], "g");
+replace='<span class="accent">' + "A" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[10]);
+occurs=col_array.length-1;
+count[10].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[11]=thisform.acc11.value;
+find = new RegExp(hifind[11], "g");
+replace='<span class="accent">' + "u" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[11]);
+occurs=col_array.length-1;
+count[11].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+hifind[12]=thisform.acc11.value;
+find = new RegExp(hifind[12], "g");
+replace='<span class="accent">' + "E" + '</span>';
+array9 = document.getElementById("source");
+col_array=array9.innerHTML.split(hifind[12]);
+occurs=col_array.length-1;
+count[12].value = occurs;
+totaccer = totaccer + occurs;
+totacc.value= totaccer;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+
+
+}
+
+function replacer()
+{
+thisform=document.dataIn4;
+var counting=document.getElementById("textarea4");
+var find="";
+var hifind="";
+var array9="";
+var occurs=0;
+hifind=thisform.find1.value;
+find = new RegExp(hifind, "g");
+var replace="";
+replace='<span class="boldred">' + hifind + '</span>';
+var array9 = document.getElementById("source");
+var col_array=array9.innerHTML.split(hifind);
+occurs=col_array.length-1;
+counting.value = occurs;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+}
+
+function stilo1()
+{
+thisform=document.dataIn;
+mm=thisform.field1.value+"mm";
+colour=thisform.field2.value;
+var i=0;
+var huge=9999;
+var array1=document.getElementsByName("d");
+var textarea=document.getElementById("textarea1");
+for (i = 0; i <= huge; i++)
+{
+textarea.value = i;
+array1[i].style.color = colour;
+array1[i].style.fontSize = mm;
+}
+}
+
+function stilo2()
+{
+thisform=document.dataIn2;
+mm=thisform.field3.value+"mm";
+colour=thisform.field4.value;
+var i=0;
+var huge=9999;
+var array2=document.getElementsByName("noms");
+var textarea2=document.getElementById("textarea2");
+for (i = 0; i <= huge; i++)
+{
+textarea2.value = i;
+array2[i].style.color = colour;
+array2[i].style.fontSize = mm;
+}
+}
+
+function stilo3()
+{
+thisform=document.dataIn3;
+mm=thisform.field5.value+"mm";
+colour=thisform.field6.value;
+var i=0;
+document.getElementsByName("preserve")[i].style.color = colour;
+document.getElementsByName("preserve")[i].style.fontSize = mm;
+}
+
+function notes()
+{
+thisform=document.dataInNote;
+mm=thisform.field3.value+"mm";
+colour=thisform.field4.value;
+var i=0;
+var huge=9999;
+var array2=document.getElementsByName("nota");
+var textarea2=document.getElementById("textnote");
+for (i = 0; i <= huge; i++)
+{
+textarea2.value = i;
+array2[i].style.color = colour;
+array2[i].style.fontSize = mm;
+}
+}
+
+</script>
+</head>
+<body>
+
+<div class="chooser">
+<table>
+<tr>
+<td>
+<b>SIFT</b> Charlie Mansfield 05-Jun-2006.  <br />
+Uses JavaScript to make Document Object Model [DOM] changes<br />
+Ctrl R refreshes the entire corpus.<br />
+<br />
+</div>
+<div class="chooser">
+<form name="dataIn" action=""> 
+LINE NUMBERS Size in mm  <input type="text" name="field1" size="4"> 
+
+Colour <input type="text" name="field2" size="5"> 
+&nbsp;&nbsp;<a href="javascript:stilo1()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+&nbsp;&nbsp;<input type="text" id="textarea1" size="5" value="TOTAL"></input>
+</form>
+
+<form name="dataIn2" action=""> 
+PROPER NAMES Size in mm  <input type="text" name="field3" size="4"> 
+&nbsp; Colour <input type="text" name="field4" size="5"> 
+&nbsp;&nbsp;<a href="javascript:stilo2()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+&nbsp;&nbsp;<input type="text" id="textarea2" size="5" value="TOTAL"></input>
+</form>
+
+<form name="dataInNote" action=""> 
+NOTES (REMARKS) Size mm  <input type="text" name="field3" size="4" value="3"> 
+Colour <input type="text" name="field4" size="5" value="blue"> 
+&nbsp;&nbsp;<a href="javascript:notes()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+&nbsp;&nbsp;<input type="text" id="textnote" size="5" value="TOTAL"></input>
+</form>
+
+<form name="dataIn3" action=""> 
+CORPUS TEXT &nbsp;Size in mm  <input type="text" name="field5" size="4"> 
+&nbsp; Colour <input type="text" name="field6" size="5"> 
+&nbsp;&nbsp;<a href="javascript:stilo3()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+</form>
+
+<form name="dataIn4" action=""> 
+SEARCH STRING (REPLACE) &nbsp;Find what &nbsp;&nbsp;<input type="text" name="find1" size="10">  
+&nbsp;&nbsp;<a href="javascript:replacer()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+&nbsp;&nbsp;<input type="text" id="textarea4" size="5" value="TOTAL"></input>
+</form>
+
+</td>
+<td>
+
+<form name="dataIn5" action=""> 
+&nbsp;&nbsp;<a href="javascript:supaccents()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+INTERVENTIONS &nbsp;Suppress accents and other scholarly additions <br /><br />
+
+<input type="text" name="acc0" size="1" value="&#xe9"> 
+<input type="text" id="text0" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc1" size="1" value="&#xe8;"> 
+<input type="text" id="text1" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc2" size="1" value="&#xe0;"> 
+<input type="text" id="text2" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc3" size="1" value="&#xe7;"> 
+<input type="text" id="text3" size="5" value="TOTAL"></input>
+<br />
+<input type="text" name="acc4" size="1" value="&#xf9;"> 
+<input type="text" id="text4" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc5" size="1" value="&#xeb;"> 
+<input type="text" id="text5" size="5" value="TOTAL"></input>
+
+&nbsp;&nbsp;
+<input type="text" name="acc6" size="1" value="&#xf6;"> 
+<input type="text" id="text6" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc7" size="1" value="&#xc7;"> 
+<input type="text" id="text7" size="5" value="TOTAL"></input>
+<br />
+<input type="text" name="acc8" size="1" value="&#xef;"> 
+<input type="text" id="text8" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc9" size="1" value="&#xff;"> 
+<input type="text" id="text9" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc10" size="1" value="&#xc0;"> 
+<input type="text" id="text10" size="5" value="TOTAL"></input>
+&nbsp;&nbsp;
+<input type="text" name="acc11" size="1" value="&#xfb;"> 
+
+<input type="text" id="text11" size="5" value="TOTAL"></input>
+<br />
+<input type="text" name="acc12" size="1" value="&#xc9;"> 
+<input type="text" id="text12" size="5" value="TOTAL"></input>
+<br />
+TOTAL 
+<input type="text" id="accents" size="5" value="0"></input>
+</form>
+
+</td>
+</tr>
+</table>
+</div>
+<div id="source">
+<pre name="preserve">
+<center>
+<i>--288--</i>
+</center>
+<span class="numero" name="d">[<a href="javascript:notes()">288c:1</a>] </span>	  Ci <span class="notes" name="nota">&lsquo;C&acute; exub&eacute;rant</span> commence la table des Rubriches du <span class="names" name="noms">Li-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:2</a>] </span>	  ure de la cit&eacute; des dames</span> le quel dit liure est
+<span class="numero" name="d">[<a href="javascript:notes()">288c:3</a>] </span>	  parti en &#149; iii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span> parties / La premiere parle com-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:4</a>] </span>	  ment et par qui la muraille et <span class="notes" name="nota">sur grattage, suivi de 4 jambages</span> la cloison
+<span class="numero" name="d">[<a href="javascript:notes()">288c:5</a>] </span>	  d&acute;entour la cit&eacute; fu faicte
+<span class="numero" name="d">[<a href="javascript:notes()">288c:6</a>] </span>	  <span class="notes" name="nota">marque de pr&eacute;paration</span> Item la &#149; iie &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span> parle comment et par qui la
+<span class="numero" name="d">[<a href="javascript:notes()">288c:7</a>] </span>	  cit&eacute; fu au par dedens maisonn&eacute;e ediffi&eacute;e et
+<span class="numero" name="d">[<a href="javascript:notes()">288c:8</a>] </span>	  peupl&eacute;e
+<span class="numero" name="d">[<a href="javascript:notes()">288c:9</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> la &#149; iiie&#149; <span class="notes" name="nota">&lsquo;i&acute; long</span> partie parle comment et
+<span class="numero" name="d">[<a href="javascript:notes()">288c:10</a>] </span>	  par qui les haulx combles des tours furent
+<span class="numero" name="d">[<a href="javascript:notes()">288c:11</a>] </span>	  parfais et quelles nobles dames furent esta-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:12</a>] </span>	  blies pour demourer &egrave;s grans palais et &egrave;s
+<span class="numero" name="d">[<a href="javascript:notes()">288c:13</a>] </span>	  haulx dongions
+<span class="numero" name="d">[<a href="javascript:notes()">288c:14</a>] </span>	  <span class="rubrics">Ci commencent les chapitres de la
+<span class="numero" name="d">[<a href="javascript:notes()">288c:15</a>] </span>	  premiere partie</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288c:16</a>] </span>	  Le <span class="notes" name="nota">lettre de pr&eacute;paration, ray&eacute;e</span> premier chapitre parle pour quoy et
+<span class="numero" name="d">[<a href="javascript:notes()">288c:17</a>] </span>	  par quel mouuement le dit liure fu fait <span class="rubrics">&#149; i &#149;</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288c:18</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> dit <span class="names" name="noms">xp<sup>crist</sup>ine</span> comment &#149; iii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span> dames
+<span class="numero" name="d">[<a href="javascript:notes()">288c:19</a>] </span>	  lui apparurent / et comment celle qui aloit
+<span class="numero" name="d">[<a href="javascript:notes()">288c:20</a>] </span>	  deuant l&acute;arraisonna premiere et la reconfor-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:21</a>] </span>	  ta d&acute;un desplaisir qu&acute;elle auoit <span class="rubrics">&#149; ii &#149;</span> <span class="notes" name="nota">&lsquo;i&acute; long, chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288c:22</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> dit <span class="names" name="noms">xp<sup>crist</sup>ine</span> comment la dame qui
+<span class="numero" name="d">[<a href="javascript:notes()">288c:23</a>] </span>	  l&acute;ot arraisonn&eacute;e lui deuisa quelle estoit sa
+<span class="numero" name="d">[<a href="javascript:notes()">288c:24</a>] </span>	  propriet&eacute; et de quoy elle seruoit et lui anno<sup>n</sup>-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:25</a>] </span>	  &ccedil;a comment elle ediffieroit une cit&eacute; &agrave; l&acute;ay-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:26</a>] </span>	  de d&acute;elles &#149; iii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span> dames <span class="rubrics">&#149; iii &#149;</span> <span class="notes" name="nota">&lsquo;i&acute; long, chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288c:27</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> dit ancore comment la dame deui-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:28</a>] </span>	  se &agrave; <span class="names" name="noms">xp<sup>crist</sup>ine</span> de la cit&eacute; qui lui estoit commise
+<span class="numero" name="d">[<a href="javascript:notes()">288c:29</a>] </span>	  &agrave; faire / et que elle estoit establie &agrave; lui aider
+<span class="numero" name="d">[<a href="javascript:notes()">288c:30</a>] </span>	  &agrave; bastir la muraille et closture d&acute;enuiron &amp;
+<span class="numero" name="d">[<a href="javascript:notes()">288c:31</a>] </span>	  puis lui dist son nom <span class="rubrics">&#149; iiii &#149;</span> <span class="notes" name="nota">&lsquo;i&acute; long, chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288c:32</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> dit <span class="names" name="noms">xp<sup>crist</sup>ine</span> / comment la &#149; iie&#149; <span class="notes" name="nota">&lsquo;i&acute; long et exub&eacute;rant</span> da-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:33</a>] </span>	  me lui dist son nom et de quoy elle s<sup>er</sup>uoit
+<span class="numero" name="d">[<a href="javascript:notes()">288c:34</a>] </span>	  et comment elle lui ayderoit &agrave; ma&ccedil;onner &amp;
+<span class="numero" name="d">[<a href="javascript:notes()">288c:35</a>] </span>	  maisonner <span class="names" name="noms">la cit&eacute; des dames</span> <span class="rubrics">&#149; u &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288c:36</a>] </span>	  ITem <span class="notes" name="nota">2 capitals, &lsquo;I&acute; exub&eacute;rant</span> dit <span class="names" name="noms">xp<sup>crist</sup>ine</span> comment la &#149; iiie&#149; <span class="notes" name="nota">&lsquo;i&acute; long et exub&eacute;rant</span> da-
+<span class="numero" name="d">[<a href="javascript:notes()">288c:37</a>] </span>	  me lui dist qui elle estoit et de quoy
+<span class="numero" name="d">[<a href="javascript:notes()">288d:1</a>] </span>	  elle seruoit / et comment elle lui ayderoit <span class="notes" name="nota">point sur le &lsquo;y&acute;, &lsquo;t&acute; &agrave; barre longue</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:2</a>] </span>	  &agrave; faire les haulx combles des tours de sa cit&eacute;
+<span class="numero" name="d">[<a href="javascript:notes()">288d:3</a>] </span>	  et la peupleroit de nobles dames <span class="rubrics">ui &#149;</span> <span class="notes" name="nota">&lsquo;i&acute; long, chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:4</a>] </span>	  Item dit <span class="names" name="noms">xp<sup>crist</sup>ine</span> comment elle parla aux
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:5</a>] </span>	  dames <span class="rubrics">&#149; uii &#149;</span> <span class="notes" name="nota">&lsquo;i&acute; long, chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:6</a>] </span>	  Item dit dit <span class="names" name="noms">xp<sup>crist</sup>ine</span> comment par le co<sup>m</sup>man-
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:7</a>] </span>	  dement et ayde de <span class="names" name="noms">raison</span> elle co<sup>m</sup>men&ccedil;a
+<span class="numero" name="d">[<a href="javascript:notes()">288d:8</a>] </span>	  &agrave; fouyr <span class="notes" name="nota">agglutin&eacute;s ?</span> la terre pour faire les fondem<sup>en</sup>s <span class="rubrics">uiii &#149;</span> <span class="notes" name="nota">&lsquo;i&acute; long</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:9</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> comment <span class="names" name="noms">xp<sup>crist</sup>ine</span> fouyssoit en ter-
+<span class="numero" name="d">[<a href="javascript:notes()">288d:10</a>] </span>	  re qui est &agrave; entendre les questions qu&acute;el-
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:11</a>] </span>	  le faisoit &agrave; <span class="names" name="noms">raison</span> et comment <span class="names" name="noms">raison</span> lui
+<span class="numero" name="d">[<a href="javascript:notes()">288d:12</a>] </span>	  respondoit <span class="rubrics">&#149; ix</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:13</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> ancore de ce mesmes altercaci-
+<span class="numero" name="d">[<a href="javascript:notes()">288d:14</a>] </span>	  ons et responces <span class="rubrics">&#149; x &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:15</a>] </span>	  Item demande <span class="names" name="noms">xp<sup>crist</sup>ine</span> &agrave; <span class="names" name="noms">raison</span> pour
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:16</a>] </span>	  quoy ce est que femmes ne si&eacute;ent en sie-
+<span class="numero" name="d">[<a href="javascript:notes()">288d:17</a>] </span>	  ge de plaidoirie et responce <span class="rubrics">&#149; xi &#149;</span> <span class="notes" name="nota">&lsquo;i&acute; court, chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:18</a>] </span>	  Item dit de <span class="names" name="noms">l&acute;empereris nicole</span> et ap<sup>r&egrave;</sup>s
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:19</a>] </span>	  d&acute;aucunes <span class="names" name="noms">roynes et princeces de france</span> <span class="rubrics">xii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:20</a>] </span>	  Item d&acute;une <span class="names" name="noms">royne de france qui fu
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:21</a>] </span>	  nomm&eacute;e fredegonde</span> <span class="rubrics">&#149; xiii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:22</a>] </span>	  Item ancore altercacions et argume<sup>n</sup>s
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:23</a>] </span>	  de <span class="names" name="noms">xp<sup>crist</sup>ine</span> &agrave; <span class="names" name="noms">raison</span> <span class="rubrics">&#149; xiiii <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:24</a>] </span>	  Item de <span class="names" name="noms">la Royne semiramis</span> <span class="rubrics">&#149; xu &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:25</a>] </span>	  Item des <span class="names" name="noms">amasones</span> <span class="rubrics">xui &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:26</a>] </span>	  Item de <span class="names" name="noms">la Royne d&acute;amasonye no<sup>m</sup>m&eacute;e
+<span class="numero" name="d">[<a href="javascript:notes()">288d:27</a>] </span>	  thamaris</span> <span class="rubrics">xuii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:28</a>] </span>	  Item comment <span class="names" name="noms">le fort hercules</span> et <span class="names" name="noms">the-
+<span class="numero" name="d">[<a href="javascript:notes()">288d:29</a>] </span>	  seus son compaignon</span> alerent de <span class="names" name="noms">grece</span> &agrave;
+<span class="numero" name="d">[<a href="javascript:notes()">288d:30</a>] </span>	  grant ost et &agrave; grant nauire sur les <span class="names" name="noms">ama-
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:31</a>] </span>	  sones</span> / et comment les &#149; ii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span> pucelles <span class="names" name="noms">mana-
+<span class="numero" name="d">[<a href="javascript:notes()">288d:32</a>] </span>	  lippe</span> et <span class="names" name="noms">yppolite</span> les <span class="notes" name="nota">rising &lsquo;s&acute;, no caret</span> abatirent cheuaulx et
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:33</a>] </span>	  tout en un mont <span class="rubrics">xuiii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:34</a>] </span>	  Item de la <span class="names" name="noms">Royne <span class="notes" name="nota">&lsquo;R&acute; &agrave; trompe</span> panthassell&eacute;e</span> com-
+
+<span class="numero" name="d">[<a href="javascript:notes()">288d:35</a>] </span>	  ment elle ala au secours de <span class="names" name="noms">troye</span> <span class="rubrics">xix &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">288d:36</a>] </span>	  Item de <span class="names" name="noms">Cenobie royne des palmu-
+<span class="numero" name="d">[<a href="javascript:notes()">288d:37</a>] </span>	  renes</span> <span class="rubrics">&#149; xx &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+
+<hr width="25%">
+<center>
+<p>
+<i>--289--</i>
+</p>
+</center>
+
+
+
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:1</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> de <span class="names" name="noms">la noble royne <span class="notes" name="nota">point sur le &lsquo;y&acute;</span> arthemise</span> <span class="rubrics">xxi &#149; <span class="notes" name="nota">&lsquo;i&acute; court</span></span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:2</a>] </span>	  ITem <span class="notes" name="nota">2 capitals</span> de <span class="names" name="noms">lilie</span> <span class="names" name="noms">mere du uaillant cheualier
+<span class="numero" name="d">[<a href="javascript:notes()">289a:3</a>] </span>	  Thierris</span> <span class="rubrics">xxii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:4</a>] </span>	  Item parle encore de <span class="names" name="noms">la royne fredegon-
+<span class="numero" name="d">[<a href="javascript:notes()">289a:5</a>] </span>	  de</span> <span class="rubrics">xxiii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:6</a>] </span>	  Item de <span class="names" name="noms">la uierge camille</span> <span class="rubrics">xxiiii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:7</a>] </span>	  Item de <span class="names" name="noms">la uierge ueronice de capadoce</span> <span class="rubrics">xxu <span class="notes" name="nota">no dots</span></span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:8</a>] </span>	  Item de la hardiece de <span class="names" name="noms">cleolis</span> <span class="rubrics">&#149; xxui &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:9</a>] </span>	  Item demands <span class="names" name="noms">xp<sup>crist</sup>ine</span> &agrave; <span class="names" name="noms">raison</span> se <span class="names" name="noms">dieux</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:10</a>] </span>	  uoult oncques anoblir aucun entendem<sup>en</sup>t
+<span class="numero" name="d">[<a href="javascript:notes()">289a:11</a>] </span>	  de femme de la haultece des sciences et re-
+<span class="numero" name="d">[<a href="javascript:notes()">289a:12</a>] </span>	  sonce de <span class="names" name="noms">raison</span> <span class="rubrics">&#149; xxuii <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:13</a>] </span>	  Item commence &agrave; parler d&acute;aucunes <span class="notes" name="nota">offset</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:14</a>] </span>	  dames qui furent enlumin&eacute;es de grant
+<span class="numero" name="d">[<a href="javascript:notes()">289a:15</a>] </span>	  science / et premierement<sup> </sup>de <span class="names" name="noms">la noble pucel-
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:16</a>] </span>	  le corniffie</span> <span class="rubrics">xxuiii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:17</a>] </span>	  Item de <span class="names" name="noms">probe la rommainne</span> <span class="rubrics">xxix &#149;</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:18</a>] </span>	  Item de <span class="names" name="noms">sapho la tres soubtille poete et
+<span class="numero" name="d">[<a href="javascript:notes()">289a:19</a>] </span>	  philosophe</span> <span class="rubrics">&#149; xxx &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:20</a>] </span>	  Item de <span class="names" name="noms">la pucelle manthoa</span> <span class="rubrics">xxxi &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:21</a>] </span>	  Item de <span class="names" name="noms">med&eacute;e</span> et d&acute;une <span class="names" name="noms">autre royne
+<span class="numero" name="d">[<a href="javascript:notes()">289a:22</a>] </span>	  nomm&eacute;e Ceres</span> <span class="rubrics">xxxii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:23</a>] </span>	  Item demande <span class="names" name="noms">xp<sup>crist</sup>ine</span> &agrave; <span class="names" name="noms">raison</span> se il
+<span class="numero" name="d">[<a href="javascript:notes()">289a:24</a>] </span>	  fu oncques femme qui de soy trouuast au-
+<span class="numero" name="d">[<a href="javascript:notes()">289a:25</a>] </span>	  cune science et elle lui respont de <span class="names" name="noms">nicostrate</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:26</a>] </span>	  qui trouua le <span class="names" name="noms">latin</span> <span class="rubrics">xxxiii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:27</a>] </span>	  Item dit de <span class="names" name="noms">minerue</span> qui trouua mai<sup>n</sup>-
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:28</a>] </span>	  tes sciences de la maniere de faire armeu-
+<span class="numero" name="d">[<a href="javascript:notes()">289a:29</a>] </span>	  res de fer et d&acute;acier <span class="rubrics">&#149; xxxiiii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:30</a>] </span>	  Item de <span class="names" name="noms">la royne ceres</span> qui trouua la
+<span class="numero" name="d">[<a href="javascript:notes()">289a:31</a>] </span>	  maniere de labourer les terres &amp; maintes <span class="notes" name="nota">rising &lsquo;s&acute;</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:32</a>] </span>	  aut<sup>re</sup>s ars <span class="rubrics">&#149; xxxu &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:33</a>] </span>	  Item de <span class="names" name="noms">ysys</span> <span class="notes" name="nota">point sur le 2e &lsquo;y&acute;</span> qui trouua l&acute;art de fai-
+<span class="numero" name="d">[<a href="javascript:notes()">289a:34</a>] </span>	  re courtillages et planter plantes <span class="rubrics">xxxui <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:35</a>] </span>	  Item du grant bien qui est uenu au
+<span class="numero" name="d">[<a href="javascript:notes()">289a:36</a>] </span>	  siecle par ycelles dames <span class="notes" name="nota">&lsquo;d&acute; exub&eacute;rant, &eacute;largi</span> <span class="rubrics">xxxuii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289a:37</a>] </span>	  Item ancore de ce mesmes <span class="rubrics">xxxuiii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289a:38</a>] </span>	  Item <span class="notes" name="nota">&lsquo;I&acute; exub&eacute;rant</span> de la pucelle<sup> </sup>qui trouua L&acute;art
+
+
+
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:1</a>] </span>	  de <span class="notes" name="nota">&lsquo;d&acute; exub&eacute;rant</span> les laines et de faire les draps ouur&eacute;z
+<span class="numero" name="d">[<a href="javascript:notes()">289b:2</a>] </span>	  que l&acute;en dit de haulte lice / et aussi trouua l&acute;art
+<span class="numero" name="d">[<a href="javascript:notes()">289b:3</a>] </span>	  de cueillir le lin de le filer et de faire toiles <span class="rubrics">xxxix <span class="notes" name="nota">no dots</span></span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:4</a>] </span>	  ITem <span class="notes" name="nota">2 capitals, &lsquo;I&acute; soign&eacute;</span> dit de <span class="names" name="noms">pamphile</span> qui trouua l&acute;art
+<span class="numero" name="d">[<a href="javascript:notes()">289b:5</a>] </span>	  de traire la soye des uers et de la taindre <span class="notes" name="nota">agglutin&eacute;s ?</span> en
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:6</a>] </span>	  plusieurs couleurs et faire draps de soye <span class="rubrics">xl &#149;</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289b:7</a>] </span>	  ITem <span class="notes" name="nota">2 capitals, &lsquo;I&acute; soign&eacute;</span> de <span class="names" name="noms">thamar</span> qui fu soubtiue mais-
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:8</a>] </span>	  tresse en l&acute;art de painterie et d&acute;une autre
+<span class="numero" name="d">[<a href="javascript:notes()">289b:9</a>] </span>	  semblablement qui fu nomm&eacute;e <span class="names" name="noms">yrane</span> <span class="rubrics">xli &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:10</a>] </span>	  Item de <span class="names" name="noms">Sempronie la ro<sup>m</sup>maine</span> <span class="rubrics">xlii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:11</a>] </span>	  Item demande <span class="names" name="noms">xp<sup>crist</sup>ine</span> &agrave; <span class="names" name="noms">raison</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:12</a>] </span>	  se o&ucirc; naturel sens de <span class="notes" name="nota">rustine ?</span> fem-
+<span class="numero" name="d">[<a href="javascript:notes()">289b:13</a>] </span>	  me a prudence <span class="notes" name="nota">agglutin&eacute;s ?</span> et la responce que <span class="names" name="noms">raison</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:14</a>] </span>	  lui fait <span class="rubrics">xliii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289b:15</a>] </span>	  Item <span class="names" name="noms">l&acute;epistre salamon</span> o&ucirc; <span class="names" name="noms">liure
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:16</a>] </span>	  des prouerbes</span> <span class="rubrics">xliiii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289b:17</a>] </span>	  Item <span class="notes" name="nota">&lsquo;I&acute; exub&eacute;rant</span> de <span class="names" name="noms">gaye cyryle</span> <span class="rubrics">&#149; xlu &#149;</span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:18</a>] </span>	  Item <span class="notes" name="nota">&lsquo;I&acute; exub&eacute;rant</span> de la prudence de <span class="names" name="noms">la Royne <span class="notes" name="nota">&lsquo;R&acute; &agrave; trompe</span> dido</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:19</a>] </span>	  <span class="rubrics">&#149; xlui &#149; <span class="notes" name="nota">i&acute; long, no dots, insertion sign</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+<span class="numero" name="d">[<a href="javascript:notes()">289b:20</a>] </span>	  Item de <span class="names" name="noms">opis royne de crete</span> <span class="rubrics">xluii &#149; <span class="notes" name="nota">&lsquo;i&acute; long</span></span> <span class="notes" name="nota">chiffre align&eacute; sur la droite</span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:21</a>] </span>	  <span class="notes" name="nota">No PM, despite instruction</span> Item de <span class="names" name="noms">lauine</span> <span class="names" name="noms">fille du roy latin</span> <span class="rubrics">xluiii <span class="notes" name="nota">&lsquo;i&acute; long, no dots</span></span>
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:28</a>] </span>	  Ci finist la table des rubriches de la
+
+<span class="numero" name="d">[<a href="javascript:notes()">289b:29</a>] </span>	  premiere partie de ce liure &#149;
+
+
+
+</pre>
+</div>
+</body>
+</html>

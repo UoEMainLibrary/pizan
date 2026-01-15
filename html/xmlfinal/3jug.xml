@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Le Livre des trois jugemens" type="Item">
+<pb ed="v" n="071"/><layout ruledLines="no"/>
+<lb n="3JUG.071v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column c" rend="tabbed">Livre</fw></hi>
+<cb n="c"/>
+<layout ruledLines="40" writtenLines="42"/>
+<lb n="3JUG.071c:01 "/><hi rend="red"> <fw place="inline in top margin" rend="red" type="rubric">±<note>red Maltese cross with croisettes</note> Cy commence le <c>l</c>ivre des iii&#x95; <c>J</c>ugemens</fw>
+<lb n="3JUG.071c:02 "/><fw place="inline in top margin" rend="red" type="rubric">qui s'adrece au</fw> <name ref="Jean+de+Werchin"><hi rend="red">seneschal de <c>h</c>aynault</hi></name> xv&#x95;</hi> <note>identical red Maltese cross below miniature; no ruling for the rubric, which is wavy</note>
+<figure ref="071c" place="16"/>
+<hi rend="red">±</hi>
+<lb n="3JUG.071c:19 "/><hi rend="cap4">B</hi>on <name ref="Jean+de+Werchin">seneschal de <c>h</c>aynau</name> <note>dotted 'y'</note> preux &amp; <rhyme>sage</rhyme> <note>2 vines extending 16 lines in left margin attached to 'B'</note><note>red Maltese cross squeezed under miniature</note>
+<lb n="3JUG.071c:20 "/>vaillant en fais et de gentil <rhyme>lignage</rhyme>
+<lb n="3JUG.071c:21 "/>loyal courtois de fait et de <rhyme>courage</rhyme>
+<lb n="3JUG.071c:22 "/>duit et <rhyme>appris</rhyme>
+<lb n="3JUG.071c:23 "/>De tous les biens \ qui en bons sont <rhyme>compris</rhyme> <note>backward slash, as agreed, to mark scansion lines, that are usually finer than punctuation marks and are closer to words; they usually are slanted in the same direction as the virgula, but can be straight or slanted backwards; the first three lines of the poem does not seem to have any scansion lines</note>
+<lb n="3JUG.071c:24 "/>Par noblece \ de cuer duis et <rhyme>appris</rhyme>
+<lb n="3JUG.071c:25 "/>Ès las d'amours \ pour accroistre le <rhyme>pris</rhyme>
+<lb n="3JUG.071c:26 "/>De vo <rhyme>noblece</rhyme>
+<lb n="3JUG.071c:27 "/>Sage à juger \ du mal d'am<abbr type="ou"/>rs q<abbr type="ui"/> <rhyme>blesse</rhyme>
+<lb n="3JUG.071c:28 "/>Quieulx sont les tours soit en force ou <rhyme>foiblece</rhyme>
+<lb n="3JUG.071c:29 "/>Pour ce vous ay / chier sire plain <rhyme>d'u<abbr type="m"/>blece</rhyme>
+<lb n="3JUG.071c:30 "/>Esleu à <note>dark stain on 'à'</note> <rhyme>juge</rhyme>
+<lb n="3JUG.071c:31 "/>Car vo bon cuer \ bien sçay <note>role of slash ?</note> q<abbr type="ue"/> le <note>'l' perhaps transformed from 't'</note> droit <rhyme>juge</rhyme>
+<lb n="3JUG.071c:32 "/>Où il affiert \ pour ce <note>blotch on 'c'</note> vien à <rhyme>reffuge</rhyme>
+<lb n="3JUG.071c:33 "/>À vous ainsi comme oû temps du <name ref="Flood"><rhyme><c>d</c>eluge</rhyme></name>
+<lb n="3JUG.071c:34 "/>Qui tout <rhyme>noya</rhyme>
+<lb n="3JUG.071c:35 "/><name ref="White+Dove">Le coulomb blanc</name> \ à <name ref="Noah's+Ark">l'<c>a</c>rche</name> <rhyme>s'avoya</rhyme>
+<lb n="3JUG.071c:36 "/>Là attendi \ tant que souleil <rhyme>roya</rhyme>
+<lb n="3JUG.071c:37 "/>Auques ainsi \ mon cuer celle voye <rhyme>a</rhyme>
+<lb n="3JUG.071c:38 "/>Prise sans <rhyme>faille</rhyme>
+<lb n="3JUG.071c:39 "/>Pour le debat de certaine <note>'aj' refait</note> <rhyme>fermaille</rhyme>
+<lb n="3JUG.071c:40 "/>Qu'aucuns amans \ beauls de corps &amp; de <rhyme>taille</rhyme>
+<lb n="3JUG.071c:41 "/>Ont ensemble \ si veule<abbr type="n"/>t q<abbr type="ue"/> j'en <rhyme>taille</rhyme>
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.071d:01 "/>Le court ou <rhyme>lonc</rhyme> <note>2 'L' très longs</note>
+<lb n="3JUG.071d:02 "/>Mais je ne vy tel cas / <note>over erasure?</note> advenir <rhyme>onq</rhyme>
+<lb n="3JUG.071d:03 "/>Et trop pou say \ pour en <add evidence="" place="supralinear" type="">b<abbr type="ie"/>n</add> <note>indiqué par caret</note> juger <rhyme>donc</rhyme>
+<lb n="3JUG.071d:04 "/>Juge en soiés et je diray au <rhyme>lonc</rhyme>
+<lb n="3JUG.071d:05 "/>Tout leur <rhyme>descort</rhyme>
+<lb n="3JUG.071d:06 "/>De mot à mot \ sicom j'en ay <rhyme>recort</rhyme>
+<lb n="3JUG.071d:07 "/>Et à <note>'a' remade ?</note> voz dis \ en tous cas je <rhyme>m'acort</rhyme>
+<lb n="3JUG.071d:08 "/>Si feront ilz \ car vostre bon <rhyme>recort</rhyme>
+<lb n="3JUG.071d:09 "/>Doit bien <rhyme>souffire</rhyme>
+<lb n="3JUG.071d:10 "/>¶ <note>different from the ones in other parts of the manuscript, ask M-T G</note> Le premier cas \ ainsi co<abbr type="m"/>me j'oÿ <rhyme>dire</rhyme>
+<lb n="3JUG.071d:11 "/>Fu tel qu'il a \ en <name ref="France"><c>f</c>rance</name> ou en <name ref="Holy+Roman+Empire"><rhyme>l'<c>e</c>mpire</rhyme></name>
+<lb n="3JUG.071d:12 "/>Une dame \ si belle qu'à <rhyme>redire</rhyme>
+<lb n="3JUG.071d:13 "/>Ne scet nul <rhyme>ame</rhyme>
+<lb n="3JUG.071d:14 "/>Sage vaillant \ prisée et haulte <rhyme>dame</rhyme>
+<lb n="3JUG.071d:15 "/>Envoysée \ loyal de corps et <rhyme>d'ame</rhyme>
+<lb n="3JUG.071d:16 "/>Où n'a meffait \ reprouche ne <rhyme>diffame</rhyme> <note>thick stroke over first minim of 'm'</note>
+<lb n="3JUG.071d:17 "/>Amer <rhyme>souloit</rhyme>
+<lb n="3JUG.071d:18 "/>Un chevalier \ qui pour elle <rhyme>affolloit</rhyme>
+<lb n="3JUG.071d:19 "/>Avant qu'elle \ l'amast tant se <rhyme>douloit</rhyme>
+<lb n="3JUG.071d:20 "/>Ce disoit il \ et mieulx mourir <rhyme>vouloit</rhyme>
+<lb n="3JUG.071d:21 "/>Qu'endurer <rhyme>plus</rhyme>
+<lb n="3JUG.071d:22 "/>L'amoureux mal \ qui le rendoit <rhyme>conclus</rhyme>
+<lb n="3JUG.071d:23 "/>Tant le tenoit \ morne mate &amp; <rhyme>reclus</rhyme>
+<lb n="3JUG.071d:24 "/>Ne fors <note>tail of 'f' extends to line below</note> la mort \ n'attendoit au <rhyme>seurpl<abbr type="us"/></rhyme>
+<lb n="3JUG.071d:25 "/>Se brief <rhyme>merci</rhyme>
+<lb n="3JUG.071d:26 "/>Elle n'avoit \ <note>extends to line below</note> de <note>'de' darker, corrected on erasure?</note> lui qui d'amer <rhyme>si</rhyme>
+<lb n="3JUG.071d:27 "/>En grief lengour \ estoit taint &amp; <rhyme>noircy</rhyme>
+<lb n="3JUG.071d:28 "/>Dont pour secours \ lui req<abbr type="ue"/>roit <rhyme>mercy</rhyme>
+<lb n="3JUG.071d:29 "/>D'umble <rhyme>vouloir</rhyme>
+<lb n="3JUG.071d:30 "/>¶ Ainsi lonc temps \ l'ouÿ \ plaindre et <rhyme>douloir</rhyme>
+<lb n="3JUG.071d:31 "/>Mais celle tout mettoit <note>these 2 words corrected on erasure</note> en non <rhyme>chaloir</rhyme>
+<lb n="3JUG.071d:32 "/>Quanqu'il disoit \ pou<abbr type=" "/>lui pouoit <rhyme>valoir</rhyme>
+<lb n="3JUG.071d:33 "/>Ains qu'elle <rhyme>amast</rhyme> <note>narrow 3-line brown stain begins under 'm'</note>
+<lb n="3JUG.071d:34 "/>Lui ne ses fais en riens <add evidence="" place="supralinear" type="">ne</add> <note>caret</note> se <rhyme>tournast</rhyme> <note>'u' looks like 'n'</note>
+<lb n="3JUG.071d:35 "/>Devers pitié <note>'p' descends to line below</note> / ne secours <note>long 's' extends to line below</note> lui <rhyme>donnast</rhyme>
+<lb n="3JUG.071d:36 "/>Ne que pour lui nul bon poi<abbr type="n"/>t <rhyme>ordonnast</rhyme>
+<lb n="3JUG.071d:37 "/>¶ Tant qu'en la <rhyme>fin</rhyme>
+<lb n="3JUG.071d:38 "/>Loyal amour \ qui seult à la <rhyme>p<abbr type="ar"/>fin</rhyme>
+<lb n="3JUG.071d:39 "/>Aux vrays ama<abbr type="n"/>s \ qui aime<abbr type="n"/>t de cuer <rhyme>fin</rhyme>
+<lb n="3JUG.071d:40 "/>Faire secours &amp; ayde \ <note>after 6th syllable</note> à celle <rhyme>fin</rhyme>
+
+
+<pb ed="r" n="072"/><layout ruledLines="no"/>
+<lb n="3JUG.072r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">des</fw> <fw type="header2" place="column a" rend="tabbed">trois</fw> <fw type="header3" place="column b" rend="right aligned">jugemens</fw> <fw place="outer margin" rend="" type="header4">xv&#x95;</fw></hi><note>The four dark brown ink marks in front of 'des' have no obvious significance.</note>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.072a:01 "/>Qu'il fust <rhyme>amez</rhyme>
+<lb n="3JUG.072a:02 "/>Fist que <name ref="Pitié"><c>p</c>itié</name> \ par qui <note>'q' darker, correction on erasure, is the punctus above 'q' intended to alert the corrector?</note> sont <rhyme>informez</rhyme>
+<lb n="3JUG.072a:03 "/>Les gentilz cuers \ et pris et <rhyme>enfermez</rhyme>
+<lb n="3JUG.072a:04 "/>Ès las d'amours \ fist tant qu'ami <note>long 'i', possible erasure of 1 letter at end of this word; check ms</note> <rhyme>clamez</rhyme>
+<lb n="3JUG.072a:05 "/>Fu de la <rhyme>belle</rhyme>
+<lb n="3JUG.072a:06 "/>Qu'amours navra \ de l'ardent <rhyme>estincelle</rhyme>
+<lb n="3JUG.072a:07 "/>Qui mainte dame \ et mainte <rhyme>damoiselle</rhyme>
+<lb n="3JUG.072a:08 "/>Contraint d'amer \ <add evidence="" place="supralinear" type="">ou</add> <note>plus caret</note> soit vesve ou <rhyme>pucelle</rhyme>
+<lb n="3JUG.072a:09 "/>Ou d'autre <rhyme>guise</rhyme>
+<lb n="3JUG.072a:10 "/>Quant il lui plaist \ soubmettre à sa <rhyme>devise</rhyme>
+<lb n="3JUG.072a:11 "/>Qui qu'elle veult \ riens n'est qu'elle <rhyme>n'atise</rhyme>
+<lb n="3JUG.072a:12 "/>Ainsi avint de celle à qui <name ref="Franchise"><rhyme><c>f</c>ranchise</rhyme></name>
+<lb n="3JUG.072a:13 "/>Fist <rhyme>ottroyer</rhyme>
+<lb n="3JUG.072a:14 "/>Le nom d'ami \ à cil qui par <rhyme>proyer</rhyme>
+<lb n="3JUG.072a:15 "/>Et bien amer \ ne le devoit <rhyme>noyer</rhyme> <note>erasure between 'o' and 'y' ?</note>
+<lb n="3JUG.072a:16 "/>Car bien l'avoit \ desservi en <rhyme>loyer</rhyme>
+<lb n="3JUG.072a:17 "/>Comme il <rhyme>disoit</rhyme>
+<lb n="3JUG.072a:18 "/>¶ Dont une fois \ à elle <rhyme>devisoit</rhyme>
+<lb n="3JUG.072a:19 "/>En la prïant du mal qui lui<abbr type=" "/><rhyme>cuisoit</rhyme>
+<lb n="3JUG.072a:20 "/>Elle eust pitié \ së assez <rhyme>souffisoit</rhyme>
+<lb n="3JUG.072a:21 "/>La grieve <rhyme>peine</rhyme>
+<lb n="3JUG.072a:22 "/>Qu'il ot souffert \ si disoit dame <rhyme>pleine</rhyme>
+<lb n="3JUG.072a:23 "/>De grant doulçour \ et plus belle <name ref="Helen"><rhyme>qu'<c>e</c>laine </rhyme></name>
+<lb n="3JUG.072a:24 "/>Pour vous ay eu mainte dure <rhyme>semaine</rhyme>
+<lb n="3JUG.072a:25 "/>Et maint <rhyme>meschief</rhyme>
+<lb n="3JUG.072a:26 "/>Pour bien amer &amp; n'en suis pas à <rhyme>chief</rhyme>
+<lb n="3JUG.072a:27 "/>Ainçois croistra ma doulour <rhyme>derechef</rhyme>
+<lb n="3JUG.072a:28 "/>Se refusé \ <note>line attached to top of 'e'</note> suis de vous par mon <rhyme>chief</rhyme>
+<lb n="3JUG.072a:29 "/>Je suis <rhyme>honnis</rhyme>
+<lb n="3JUG.072a:30 "/>¶ Dame plaisant \ sans per com le <rhyme>phenix</rhyme>
+<lb n="3JUG.072a:31 "/>Desservi n'ay \ à tort estre <rhyme>pugnis</rhyme>
+<lb n="3JUG.072a:32 "/>Si ne soye \ maubaillis et <rhyme>honnis</rhyme>
+<lb n="3JUG.072a:33 "/>Par <rhyme>escondit</rhyme>
+<lb n="3JUG.072a:34 "/>Doulce dame \ ne de mon vueil <rhyme>desdit</rhyme>
+<lb n="3JUG.072a:35 "/>Mais m'acordez \ l'amour sans <rhyme>contredit</rhyme>
+<lb n="3JUG.072a:36 "/>De vous belle \ car je vueil à vo <rhyme>dit</rhyme>
+<lb n="3JUG.072a:37 "/>Moy <rhyme>gouverner</rhyme>
+<lb n="3JUG.072a:38 "/>Si me ferés \ comme <add evidence="" place="supralinear" type="">droit</add> <note> indicated by caret</note> roy <rhyme>regner</rhyme>
+<lb n="3JUG.072a:39 "/>Së il vous plait \ vostre amour moy <rhyme>do<abbr type="n"/>ner</rhyme>
+<lb n="3JUG.072a:40 "/>Or en vueillés \ en to<abbr type="us"/> cas <rhyme>ordonner</rhyme>
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.072b:01 "/>À vo bon <rhyme>vueil</rhyme> <note>writing here larger and more angular; ink appears darker because strokes thicker</note>
+<lb n="3JUG.072b:02 "/>Mais garison \ du mal do<abbr type="n"/>t je me <rhyme>dueil</rhyme>
+<lb n="3JUG.072b:03 "/>Me promettent \ vo doulx vair rïant <rhyme>oeil</rhyme>
+<lb n="3JUG.072b:04 "/>Qui en joye \ font remüer mon <rhyme>dueil</rhyme> <note>'d' correction in darker ink; preparation for correction 'dueil' in rapid, spread-out cursive in margin, in lighter ink; other mss: 'vueil'</note>
+<lb n="3JUG.072b:05 "/>Souventes <rhyme>fois</rhyme>
+<lb n="3JUG.072b:06 "/>Car leurs regars \ doulx amoureux et <rhyme>coys</rhyme>
+<lb n="3JUG.072b:07 "/>Me garissent \ et blecent à la <rhyme>fois</rhyme>
+<lb n="3JUG.072b:08 "/>Si que je ne sçay souvent <add evidence="" place="supralinear" type="">ce</add> <note>preceded by caret</note> que je <rhyme>fois</rhyme>
+<lb n="3JUG.072b:09 "/>¶ Par tel <rhyme>semblant</rhyme>
+<lb n="3JUG.072b:10 "/>Se complaignoit \ cil qui le cuer <rhyme>embla<abbr type="n"/>t</rhyme>
+<lb n="3JUG.072b:11 "/>À celle aloit \ par beaulx mos <rhyme>assembla<abbr type="n"/>t</rhyme>
+<lb n="3JUG.072b:12 "/>Et tout estoit \ devant elle <rhyme>trembla<abbr type="n"/>t</rhyme>
+<lb n="3JUG.072b:13 "/>Ou sembloit <rhyme>estre</rhyme>
+<lb n="3JUG.072b:14 "/>¶ Adont celle qui seult estre <rhyme>senestre</rhyme>
+<lb n="3JUG.072b:15 "/>À son vouloir \ par reffus qui <rhyme>empestre</rhyme>
+<lb n="3JUG.072b:16 "/>Aux vrays amans \ toute joye <rhyme>terrestre</rhyme>
+<lb n="3JUG.072b:17 "/>Lui dist <rhyme>amis</rhyme>
+<lb n="3JUG.072b:18 "/>Je ne te vueil plus tenir si <rhyme>soubmis</rhyme>
+<lb n="3JUG.072b:19 "/>Car il est temps \ que tu soies <rhyme>remis</rhyme>
+<lb n="3JUG.072b:20 "/>Ès doulx solas \ qui d'amo<abbr type="ur"/>s sont <rhyme>p<abbr type="er"/>mis</rhyme> <note>2 small holes under this word, which is lighter than the rest</note>
+<lb n="3JUG.072b:21 "/>Qui me <rhyme>commande</rhyme>
+<lb n="3JUG.072b:22 "/>Que sans reffus \ à lui servir me <rhyme>rende</rhyme>
+<lb n="3JUG.072b:23 "/>Se j'ay meffait \ que j'en paye <rhyme>l'amende</rhyme>
+<lb n="3JUG.072b:24 "/>Et que guerdon \ du service te <rhyme>rende</rhyme>
+<lb n="3JUG.072b:25 "/>Que tu as <rhyme>fait</rhyme>
+<lb n="3JUG.072b:26 "/>À lui et moy &amp; je voy b<abbr type="ie"/>n de <rhyme>fait</rhyme>
+<lb n="3JUG.072b:27 "/>Que tu es mien \ et de vray cuer <rhyme>p<abbr type="ar"/>fait</rhyme>
+<lb n="3JUG.072b:28 "/>M'aimes et crains \ ne ja ne cuid <rhyme>meffait</rhyme>
+<lb n="3JUG.072b:29 "/>En toy <rhyme>trouver</rhyme>
+<lb n="3JUG.072b:30 "/>Car par lonc temps \ t'ay peü <rhyme>esprouv<abbr type="er"/></rhyme>
+<lb n="3JUG.072b:31 "/>Par quoy te puis \ bon &amp; loyal <rhyme>trouv<abbr type="er"/></rhyme>
+<lb n="3JUG.072b:32 "/>Pour ce m'amour \ t'octroy sans plus <rhyme>rouv<abbr type="er"/></rhyme>
+<lb n="3JUG.072b:33 "/>À tous jours <rhyme>mais</rhyme>
+<lb n="3JUG.072b:34 "/>Car je ne cuid \ q<abbr type="ue"/> tu ayes <rhyme>jamais</rhyme>
+<lb n="3JUG.072b:35 "/>Desir d'avoir nul autre amoureux <rhyme>mais</rhyme>
+<lb n="3JUG.072b:36 "/>Fors le mien cuer \ car le tien m'est <rhyme>remais</rhyme>
+<lb n="3JUG.072b:37 "/>Ce sçay je <rhyme>b<abbr type="ie"/>n</rhyme>
+<lb n="3JUG.072b:38 "/>Si suis tienne \ tout aussi tu es <rhyme>mien</rhyme>
+<lb n="3JUG.072b:39 "/>Or soies lié \ et ne pensez qu'à <rhyme>b<abbr type="ie"/>n</rhyme>
+<lb n="3JUG.072b:40 "/>Amours servir \ et gayem<abbr type="en"/>t te <rhyme>tien</rhyme>
+
+
+<pb ed="v" n="072"/><layout ruledLines="no"/>
+<lb n="3JUG.072v:01 "/><hi rend="red"><fw  type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column d" rend="tabbed"><c>l</c>ivre</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.072c:01 "/>Mon doulx <rhyme>ami</rhyme>
+<lb n="3JUG.072c:02 "/>Car tout est tien \ <note>descends below line</note> le mien cuer sans <rhyme>demy</rhyme>
+<lb n="3JUG.072c:03 "/>Si soyes bon \ tout pour l'amo<abbr type="ur"/> de <rhyme>my</rhyme>
+<lb n="3JUG.072c:04 "/>Plus ne te plains \ d'amours disant ay <rhyme>my</rhyme>
+<lb n="3JUG.072c:05 "/>Mais soiez <rhyme>lié</rhyme> <note>looks like 'z' erased after é'</note>
+<lb n="3JUG.072c:06 "/>¶ Adont l'amant \ qui ot esté <rhyme>lïé</rhyme>
+<lb n="3JUG.072c:07 "/>Par dur refus \ qui l'ot <rhyme>contralïé</rhyme>
+<lb n="3JUG.072c:08 "/>Devant sa dame c'est <rhyme>humilïé</rhyme> <note>Roy edits 'se est humilié'</note>
+<lb n="3JUG.072c:09 "/>À humble <rhyme>chiere</rhyme>
+<lb n="3JUG.072c:10 "/>Et lïement \ lui dist ma dame <rhyme>chiere</rhyme>
+<lb n="3JUG.072c:11 "/>Que j'aim et craing \ et ay plus q<abbr type="ue"/> riens <rhyme>ch<abbr type="ie"/>re</rhyme>
+<lb n="3JUG.072c:12 "/>Dire ne doy \ qu'aye comparé <rhyme>chiere</rhyme>
+<lb n="3JUG.072c:13 "/>Si doulce <rhyme>amour</rhyme>
+<lb n="3JUG.072c:14 "/>Qui tant me vault \ qu'elle fait sa<abbr type="n"/>z <rhyme>demour</rhyme>
+<lb n="3JUG.072c:15 "/>Mon povre cuer \ en qui n'avoit <rhyme>humour</rhyme>
+<lb n="3JUG.072c:16 "/>De nul plaisir \ <note>extends to mid-line below</note> saillir hors de <rhyme>cremour</rhyme>
+<lb n="3JUG.072c:17 "/>De <rhyme>desespoir</rhyme>
+<lb n="3JUG.072c:18 "/>Mais par ce don \ d'or<abbr type=" "/>en ava<abbr type="n"/>t <rhyme>j'espoir</rhyme>
+<lb n="3JUG.072c:19 "/>Trop plus de b<abbr type="ie"/>n \ que ne penser <note>is 'r' crossed out?</note> à <note>corrected in darker ink, result is a double-decker 'a' in part dark, part lighter inks with a caret underneath </note> <rhyme>poir</rhyme> <note>'à poir' attested in 'Mutacion de Fortune'</note>
+<lb n="3JUG.072c:20 "/>Et le confort \ de si joyeux <rhyme>espoir</rhyme>
+<lb n="3JUG.072c:21 "/>Bien doit <rhyme>garir</rhyme>
+<lb n="3JUG.072c:22 "/>L'amoureux mal \ dont j'estoie au <rhyme>mourir</rhyme>
+<lb n="3JUG.072c:23 "/>Et puis qu'ainsi \ me daignez <rhyme>secourir</rhyme>
+<lb n="3JUG.072c:24 "/>Je prie à <name ref="God"><c>d</c>ieu</name> \ qu'il le me doint <rhyme>merir</rhyme>
+<lb n="3JUG.072c:25 "/>Ma dame <rhyme>gente</rhyme>
+<lb n="3JUG.072c:26 "/>Que je merci \ de toute mon <rhyme>entente</rhyme>
+<lb n="3JUG.072c:27 "/>Et vous promet \ que jamais aut<abbr type="re"/> <rhyme>atte<abbr type="n"/>te</rhyme>
+<lb n="3JUG.072c:28 "/>N'aray qu'a vous \ servir car <note>correction by writing over in darker ink, extra space between 'car' and 'doulce' </note> doulce <rhyme>rente</rhyme>
+<lb n="3JUG.072c:29 "/>M'en <rhyme>payera</rhyme>
+<lb n="3JUG.072c:30 "/>C'est la doulçour \ qu'amours <rhyme>m'envoyera</rhyme>
+<lb n="3JUG.072c:31 "/>En vous servant \ qui me <rhyme>convoyera</rhyme>
+<lb n="3JUG.072c:32 "/>À haulte honneur \ et me <rhyme>ravoyera</rhyme>
+<lb n="3JUG.072c:33 "/>À tous bons <rhyme>fais</rhyme>
+<lb n="3JUG.072c:34 "/>¶ Aussi l'amant de cuer lyé et <rhyme>reffais</rhyme>
+<lb n="3JUG.072c:35 "/>La mercÿa \ <note>faint scansion line</note> et promist q<abbr type="ue"/> tous <rhyme>fais</rhyme>
+<lb n="3JUG.072c:36 "/>Foibles ou fors \ et deust estre <rhyme>deffais</rhyme>
+<lb n="3JUG.072c:37 "/>Il <rhyme>porteroit</rhyme>
+<lb n="3JUG.072c:38 "/>Pour seue amour \ ne ja <rhyme>n'arresteroit</rhyme> <note>in this line and the two succeeding, the 't' bar is very long, approximately 5 spaces here and 3 in the 2 following lines</note>
+<lb n="3JUG.072c:39 "/>Mais que oû paÿs \ où la dame <rhyme>seroit</rhyme>
+<lb n="3JUG.072c:40 "/>Fors po<abbr type="ur"/> <note>'r' or '&amp;' imperfectly erased after 'po' </note> honneur \ conq<abbr type="ue"/>rre où il <rhyme>po<abbr type="ur"/>roit</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.072d:01 "/>Car pour <rhyme>vaillance</rhyme>
+<lb n="3JUG.072d:02 "/>Yroit il hors \ ja n'en eüst <rhyme>dueillance</rhyme>
+<lb n="3JUG.072d:03 "/>Par <note>punctus precedes 'ar' corrected on erasure in darker ink, then curved tilde as space-filler, 's' in 'son' redone in the process</note> son congié \ mais de lui sanz <note>'ar' corrected on erasure in darker ink</note> <rhyme>failla<abbr type="n"/>ce</rhyme> <note>is the faint punctus, a little below this line and in right-hand margin, the counterpart of the punctus at the beginning of the line, and alert to the need for a correction?</note>
+<lb n="3JUG.072d:04 "/>Nouvelle orroit \ ainsi sa bien <rhyme>vueillance</rhyme>
+<lb n="3JUG.072d:05 "/>Garder <rhyme>vouloit</rhyme>
+<lb n="3JUG.072d:06 "/>Cil qui si lié <note>'s'i lie'?</note> \ qu'à peu qu'il ne <rhyme>voloit</rhyme>
+<lb n="3JUG.072d:07 "/>Sembloit qu'il fust \ <note>faint line descending from 't'</note> ne plus ne se <rhyme>doloit</rhyme>
+<lb n="3JUG.072d:08 "/>Et plus joyeux \ seroit qu'il ne <rhyme>souloit</rhyme>
+<lb n="3JUG.072d:09 "/>Comme il <rhyme>promist</rhyme>
+<lb n="3JUG.072d:10 "/>Et tout sembloit \ <note>abuts the 't'</note> que de joye <rhyme>fremist</rhyme>
+<lb n="3JUG.072d:11 "/>¶ À brief parler \ <note>descends below line</note> l'un à l'autre <rhyme>soubmist</rhyme>
+<lb n="3JUG.072d:12 "/>Tout cuer et corps \ et sus le livre <rhyme>mist</rhyme>
+<lb n="3JUG.072d:13 "/>Chacun sa <rhyme>main</rhyme>
+<lb n="3JUG.072d:14 "/>Et par serment promistre<abbr type="n"/>t main à <rhyme>main</rhyme>
+<lb n="3JUG.072d:15 "/>Que loyauté tendroient soir / <note>thick stroke that begins mid-line and descends below line, or is it the opening stroke of the '&amp;'? check manuscript to see if they are connected</note> &amp; <rhyme>main</rhyme>
+<lb n="3JUG.072d:16 "/>Sanz attendre du soir à <rhyme>l'endemain</rhyme>
+<lb n="3JUG.072d:17 "/><rhyme>S'entreverroient</rhyme>
+<lb n="3JUG.072d:18 "/>À tous jours mais \ tout le plus qu'ilz <rhyme>po<abbr type="ur"/>roie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.072d:19 "/>Honneur gardant \ et tous jours <rhyme>s'aimeroie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.072d:20 "/>De vraye amour \ ne ja ne <rhyme>fausseroie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.072d:21 "/>Jour de leur <rhyme>vie</rhyme>
+<lb n="3JUG.072d:22 "/>¶ Et ainsi fu ycelle amour <rhyme>pleuvie</rhyme>
+<lb n="3JUG.072d:23 "/>Et bien sembloit \ que l'amant n'eust <rhyme>envie</rhyme>
+<lb n="3JUG.072d:24 "/>Fors que par lui \ la dame fust <rhyme>servie</rhyme>
+<lb n="3JUG.072d:25 "/>D'umble <rhyme>courage</rhyme>
+<lb n="3JUG.072d:26 "/>Et promettoit \ en lui faisant <rhyme>ho<abbr type="m"/>mage</rhyme>
+<lb n="3JUG.072d:27 "/>Qu'à tous jours mais \ seroit en son <rhyme>s<abbr type="er"/>vage</rhyme>
+<lb n="3JUG.072d:28 "/>Et que s'amour \ comme droit <rhyme>heritage</rhyme>
+<lb n="3JUG.072d:29 "/>Vouloit <rhyme>garder</rhyme>
+<lb n="3JUG.072d:30 "/>¶ Ainsi promist \ mais j'ouÿ <rhyme>recorder</rhyme>
+<lb n="3JUG.072d:31 "/>Qu'aultrement fist \ sans longuem<abbr type="en"/>t <rhyme>tarder</rhyme>
+<lb n="3JUG.072d:32 "/>Et son faulx cuer \ que l'en devroit <rhyme>larder</rhyme>
+<lb n="3JUG.072d:33 "/>Tost se <rhyme>changia</rhyme>
+<lb n="3JUG.072d:34 "/>Et pou à pou \ d'icelle <rhyme>s'estrangia</rhyme>
+<lb n="3JUG.072d:35 "/>Qui tant l'amoit \ qu'à pou vive <rhyme>enragia</rhyme>
+<lb n="3JUG.072d:36 "/>Pour son maintien \ qui trop le <rhyme>do<abbr type="m"/>magia</rhyme>
+<lb n="3JUG.072d:37 "/>Si com <rhyme>j'entens</rhyme>
+<lb n="3JUG.072d:38 "/>Non pas &#x95;ii&#x95; mois \ mais ancore moi<abbr type="n"/>s de <rhyme>t<abbr type="em"/>ps</rhyme>
+<lb n="3JUG.072d:39 "/>Cellui l'ama \ qui fu pou <rhyme>arrestans</rhyme>
+<lb n="3JUG.072d:40 "/>En celle amour \ si vo<abbr type="us"/> diray par <rhyme>temps</rhyme>
+
+
+<pb ed="r" n="073"/><layout ruledLines="no"/>
+<lb n="3JUG.073r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="centred">des</fw> <fw type="header2" place="column a" rend="tabbed">trois</fw> <fw type="header3" place="column b" rend="centred">jugemens xv&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="41"/>
+<lb n="3JUG.073a:01 "/>Qu'il en <rhyme>avint</rhyme> <note>this line on larger scale than rest and somewhat straighter</note>
+<lb n="3JUG.073a:02 "/>¶ La dame qui \ pour lui palle <rhyme>devint</rhyme>
+<lb n="3JUG.073a:03 "/>Maigre et lasse \ car toudis lui <rhyme>souvint</rhyme>
+<lb n="3JUG.073a:04 "/>Du dolent jour \ qu'elle sienne <rhyme>devint</rhyme>
+<lb n="3JUG.073a:05 "/>Si ne <rhyme>pouoit</rhyme>
+<lb n="3JUG.073a:06 "/>Cil oublïer \ à qui donné <rhyme>avoit</rhyme>
+<lb n="3JUG.073a:07 "/>Tout cuer et corps \ et de certain <rhyme>savoit</rhyme>
+<lb n="3JUG.073a:08 "/>Dont la lasse \ toute vive <rhyme>desvoit</rhyme>
+<lb n="3JUG.073a:09 "/>Qu'il n'amoit <rhyme>mie</rhyme>
+<lb n="3JUG.073a:10 "/>Elle en nul cas \ car heure ne <rhyme>demie</rhyme>
+<lb n="3JUG.073a:11 "/>Ne peu n'assez \ celle qui fu <rhyme>blesmie</rhyme>
+<lb n="3JUG.073a:12 "/>Pour seue amour \ et qui dame et <rhyme>amie</rhyme>
+<lb n="3JUG.073a:13 "/>Souloit <rhyme>clamer</rhyme>
+<lb n="3JUG.073a:14 "/>N'en jouÿssoit \ ne nul semblant <rhyme>d'amer</rhyme>
+<lb n="3JUG.073a:15 "/>Ne lui monstroit \ n'e<abbr type="n"/> recevoit <rhyme>qu'amer</rhyme>
+<lb n="3JUG.073a:16 "/>Et ce faisoit \ la dolente <rhyme>pasmer</rhyme>
+<lb n="3JUG.073a:17 "/>Qu'il <rhyme>avenoit</rhyme>
+<lb n="3JUG.073a:18 "/>Que cil à qui \ moult peu en <rhyme>souvenoit</rhyme>
+<lb n="3JUG.073a:19 "/>Aucune foiz \ devers elle <rhyme>venoit</rhyme> <note>'v' unusually short</note>
+<lb n="3JUG.073a:20 "/>Par ce qu'elle \ du mander ne <rhyme>finoit</rhyme>
+<lb n="3JUG.073a:21 "/>¶ La lasse <rhyme>adont</rhyme>
+<lb n="3JUG.073a:22 "/>Plaine de plours \ et de griefs souspirs <rhyme>do<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073a:23 "/>Son cuer fondoit \ lui disant lasse et <rhyme>do<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073a:24 "/>Mourray je ainsi \ car se <name ref="God"><c>d</c>ieu</name> me <rhyme>p<abbr type="ar"/>dont</rhyme>
+<lb n="3JUG.073a:25 "/>Ne puis plus <rhyme>vivre</rhyme>
+<lb n="3JUG.073a:26 "/>Se je ne suis \ de ce meschief <rhyme>delivre</rhyme>
+<lb n="3JUG.073a:27 "/>Et je vous jur \ et promet sur le <rhyme>livre</rhyme>
+<lb n="3JUG.073a:28 "/>Que je ne sçay \ où je suis ne q<abbr type="ue"/> un <note>'v' unusually short</note> <rhyme>yvre</rhyme>
+<lb n="3JUG.073a:29 "/>Souvent <rhyme>avient</rhyme>
+<lb n="3JUG.073a:30 "/>Helas amis \ n<abbr type="ost"/>re amour<abbr type=" "/>q<abbr type="ue"/> <rhyme>devient</rhyme>
+<lb n="3JUG.073a:31 "/>Je muir de dueil \ certes q<abbr type="ua"/>nt me <rhyme>souvie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073a:32 "/>Que si tost fault \ mais par moy pas <rhyme>n'avie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073a:33 "/>Et qui vous <rhyme>meut</rhyme>
+<lb n="3JUG.073a:34 "/>Ne voyez vous \ comme<abbr type="n"/>t mon cuer se <rhyme>deult</rhyme> <note>bottom of long 's' seems to descend to 'r' of 'requeult', 2 lines below</note>
+<lb n="3JUG.073a:35 "/>Et je ne sçay / q<abbr type="ue"/> le vostre se <rhyme>veult</rhyme>
+<lb n="3JUG.073a:36 "/>Mais je voy b<abbr type="ie"/>n \ que moult petit <rhyme>requeult</rhyme>
+<lb n="3JUG.073a:37 "/>En soy mes <rhyme>larmes</rhyme>
+<lb n="3JUG.073a:38 "/>Si soit mon fait \ exemple à toutes <rhyme>dames</rhyme>
+<lb n="3JUG.073a:39 "/>De croire pou \ ceulx qui jure<abbr type="n"/>t leurs <rhyme>armes</rhyme> <note>rising 's'</note><note> NB spelling, fr. 835 has 'ames'</note>
+<lb n="3JUG.073a:40 "/>Car ce n'est tout \ fors pour decevoir <rhyme>fe<abbr type="m"/>mes</rhyme> <note>tilde unusually small</note>
+<lb n="3JUG.073a:41 "/>C'est folle <rhyme>attente</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="41"/>
+<lb n="3JUG.073b:01 "/>Beau <note>two small vertical dashes in margin before 'B' are almost certainly 'inverted commas', part of decorative finish of this ornate capital; many other examples, eg the 'd' in first lines of 78a</note> doulx ami \ <note>final stroke of 'i' rises into margin; small scansion line abutting it to the left</note> et se je me <rhyme>guerme<abbr type="n"/>te</rhyme>
+<lb n="3JUG.073b:02 "/>Ne pensez vous \ que Je soie <rhyme>dolente</rhyme>
+<lb n="3JUG.073b:03 "/>Quant ne vous voy \ ne en chemin n'en <rhyme>sente</rhyme>
+<lb n="3JUG.073b:04 "/>Ne autre <rhyme>part</rhyme>
+<lb n="3JUG.073b:05 "/>Ne nouvelles <note>second 'l' appears corrected on erasure</note> n'en \ oy dont mon cuer <rhyme>part</rhyme> <note>faint punctus in margin to alert to need for correction?</note>
+<lb n="3JUG.073b:06 "/>Dont je puis bien \ de vous quitter ma <rhyme>part</rhyme>
+<lb n="3JUG.073b:07 "/>Je le voy bien \ mais së \ <note>slash marks hiatus</note> avez à <rhyme>part</rhyme>
+<lb n="3JUG.073b:08 "/>Autre <rhyme>pensée</rhyme>
+<lb n="3JUG.073b:09 "/>Par quoy l'amour \ de moy en vous <rhyme>cessée</rhyme>
+<lb n="3JUG.073b:10 "/>Soit / et autre vous ayés en <rhyme>pensée</rhyme>
+<lb n="3JUG.073b:11 "/>Et de tous poins \ la moye ayés <rhyme>quassée</rhyme> <note>NB spelling</note>
+<lb n="3JUG.073b:12 "/>Ne le <rhyme>celez</rhyme>
+<lb n="3JUG.073b:13 "/>Mais dites moy <note>last stroke of 'y' ascends to line above; perhaps scansion line?</note> le fait se vous <rhyme>voulez</rhyme>
+<lb n="3JUG.073b:14 "/>Car je ne sçay \ de quel mal vous <rhyme>doulez</rhyme>
+<lb n="3JUG.073b:15 "/>Mais devers moy \ vous ne venez <rhyme>n'alez</rhyme>
+<lb n="3JUG.073b:16 "/>Et se j'en <rhyme>mens</rhyme>
+<lb n="3JUG.073b:17 "/>Ce savez vous \ non obstant les <rhyme>s<abbr type="er"/>emens</rhyme> <note>11 syllables if 'seremens' counts as 3</note>
+<lb n="3JUG.073b:18 "/>Que m'avez \ fais \ plains de <rhyme>decevem<abbr type="en"/>s</rhyme>
+<lb n="3JUG.073b:19 "/>Qui me livrent \ <note>descends below line</note> au cuer trop de <rhyme>to<abbr type="ur"/>mens</rhyme>
+<lb n="3JUG.073b:20 "/>Mais c'est <rhyme>pechié</rhyme>
+<lb n="3JUG.073b:21 "/>D'un povre cuer \ livrer à tel <rhyme>meschié</rhyme>
+<lb n="3JUG.073b:22 "/>Et quant il est \ pris et fort <rhyme>atachié</rhyme>
+<lb n="3JUG.073b:23 "/>De lui laisser \ durement \ <note>line attached to 't'</note> en <rhyme>pechié</rhyme>
+<lb n="3JUG.073b:24 "/>Et dont me <rhyme>dites</rhyme>
+<lb n="3JUG.073b:25 "/>Se vous vouldriés \ de m'amour estre <rhyme>quittes</rhyme>
+<lb n="3JUG.073b:26 "/>Et se j'aray \ tout mal pour mes <rhyme>merites</rhyme>
+<lb n="3JUG.073b:27 "/>Ou se voulez \ la valeur de &#x95;ii&#x95; <rhyme>mites</rhyme>
+<lb n="3JUG.073b:28 "/>Vous <rhyme>amander</rhyme>
+<lb n="3JUG.073b:29 "/>Par devers moy \ <note>thick</note> qui ne fais q<abbr type="ue"/> <rhyme>mander</rhyme>
+<lb n="3JUG.073b:30 "/>Souvent vers vous \ sans pou en <rhyme>amander</rhyme>
+<lb n="3JUG.073b:31 "/>Si m'en dites \ je vous pry sans <rhyme>tarder</rhyme>
+<lb n="3JUG.073b:32 "/>Trestout le <rhyme>voir</rhyme>
+<lb n="3JUG.073b:33 "/>¶ Ainsi souvent \ la dame son <rhyme>devoir</rhyme> <note>'A' avec fioriture, descendant à côté de la ligne inférieure</note>
+<lb n="3JUG.073b:34 "/>Faisoit vers cil \ <note>descends below line</note> qui ne vouloit <rhyme>avoir</rhyme>
+<lb n="3JUG.073b:35 "/>Nulle pitié \ mais pour la <rhyme>decevoir</rhyme>
+<lb n="3JUG.073b:36 "/>Il <rhyme>s'excusoit</rhyme>
+<lb n="3JUG.073b:37 "/>Qu'il avoit trop \ à faire et lui <rhyme>nuisoit</rhyme>
+<lb n="3JUG.073b:38 "/>De mesdisans \ <note>very faint</note> le parler qui <rhyme>cuisoit</rhyme>
+<lb n="3JUG.073b:39 "/>Mais en la fin \ pro<abbr type="m"/>mettoit et <rhyme>disoit</rhyme>
+<lb n="3JUG.073b:40 "/>Qu'il la <rhyme>verroit</rhyme>
+<lb n="3JUG.073b:41 "/>D'or<abbr type=" "/>en ava<abbr type="n"/>t souve<abbr type="n"/>t q<abbr type="ua"/>nt il <rhyme>pourroit</rhyme> <note>bar ends in downward stroke</note>
+
+
+<pb ed="v" n="073"/><layout ruledLines="no"/>
+<lb n="3JUG.073v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="tabbed"><s>L</s>e</fw> <fw type="header2" place="column c" rend="tabbed from left"><s>L</s>ivre</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="41"/>
+<lb n="3JUG.073c:01 "/>Mais <note>ornate 'M'</note> non pourta<abbr type="n"/>t \ <note>?</note><note>last stroke of 't' rises higher than usual; could be scansion line</note> son honneur / <rhyme>garderoit</rhyme> <note>Altmann notes omission of 3 lines: 'Mais jamais jour nul autre n'aimeroit / Ce promettoit / Le desloyal qui en tous mentoit'</note>
+<lb n="3JUG.073c:02 "/>Et celle <note>'celle'corrected ?</note><note>I think rather blotter effect of parchment, check manuscript</note> qui \ à lui se <rhyme>guermentoit</rhyme>
+<lb n="3JUG.073c:03 "/>L'en croyoit bien \ et du tout <note>these two words and perhaps following s' corrected on erasure</note> <rhyme>s'attendoit</rhyme>
+<lb n="3JUG.073c:04 "/>¶ Au <rhyme>mençongier</rhyme> <note>two vertical marker lines descend from beneath it</note>
+<lb n="3JUG.073c:05 "/>Car fole amour \ fait croire de <rhyme>leger</rhyme>
+<lb n="3JUG.073c:06 "/>Ainsi par fois \ <note>line descends to 'r' below</note> lui faisoit <rhyme>alleger</rhyme>
+<lb n="3JUG.073c:07 "/>Son grief tourment \ ou par son <rhyme>messag<abbr type="er"/></rhyme>
+<lb n="3JUG.073c:08 "/>Lui <rhyme>envoyer</rhyme>
+<lb n="3JUG.073c:09 "/>Mais moult souvent avoit petit <rhyme>loyer</rhyme>
+<lb n="3JUG.073c:10 "/>Celle qu'amours \ faisoit si <rhyme>folloier</rhyme>
+<lb n="3JUG.073c:11 "/>Si se pouoit en douleur <rhyme>desvoyer</rhyme>
+<lb n="3JUG.073c:12 "/>S'elle <rhyme>vouloit</rhyme>
+<lb n="3JUG.073c:13 "/>Car moult petit \ à cellui en <rhyme>chaloit</rhyme>
+<lb n="3JUG.073c:14 "/>Qui pas souvent \ à elle ne <rhyme>parloit</rhyme>
+<lb n="3JUG.073c:15 "/>Ne vers elle \ ne venoit në <rhyme>aloit</rhyme>
+<lb n="3JUG.073c:16 "/>Et qui <rhyme>loisir</rhyme>
+<lb n="3JUG.073c:17 "/>Avoit assez \ mais qu'il y eust <rhyme>plaisir</rhyme>
+<lb n="3JUG.073c:18 "/>Et q<abbr type="u'i"/>l / <note>'l' corrected on erasure, small dash to fill space</note> voulsist \ point et heure <rhyme>choisir</rhyme> <note>was the punctus set close to 'choisir' and a little lower intended to draw attention to the need for a correction?</note>
+<lb n="3JUG.073c:19 "/>Mais n'y avoit \ <note>descends</note> në amour ne <rhyme>desir</rhyme>
+<lb n="3JUG.073c:20 "/>¶ Ainsi <rhyme>dura</rhyme>
+<lb n="3JUG.073c:21 "/>Trois ans ou plus \ ainsi com me <rhyme>jura</rhyme>
+<lb n="3JUG.073c:22 "/>Celle qui tant \ de maulx en <rhyme>endura</rhyme>
+<lb n="3JUG.073c:23 "/>Que je ne sçay \ comment elle <rhyme>dura</rhyme>
+<lb n="3JUG.073c:24 "/>Sans la mort <rhyme>traire</rhyme>
+<lb n="3JUG.073c:25 "/>Si ne pouoit \ son cuer de cil <rhyme>retraire</rhyme>
+<lb n="3JUG.073c:26 "/>Qui par nul tour \ elle ne peut <rhyme>attraire</rhyme>
+<lb n="3JUG.073c:27 "/>Ainsi vesqui \ en dueil <note>'l' corrected on erasure, darker</note> et en <rhyme>contraire</rhyme> <note>'traire' corrected on erasure, darker</note>
+<lb n="3JUG.073c:28 "/>Un grant <rhyme>termine</rhyme>
+<lb n="3JUG.073c:29 "/>¶ Mais il n'est riens \ ou monde qui ne <rhyme>fine</rhyme>
+<lb n="3JUG.073c:30 "/>Et malade \ quiert par droit <rhyme>medecine</rhyme>
+<lb n="3JUG.073c:31 "/>Si commença \ pou à pou la <rhyme>Racine</rhyme>
+<lb n="3JUG.073c:32 "/>À <rhyme>estrangier</rhyme>
+<lb n="3JUG.073c:33 "/>De celle amour \ qui la tint en <rhyme>dongier</rhyme>
+<lb n="3JUG.073c:34 "/>Dont ot perdu \ repos boire et <rhyme>menger</rhyme>
+<lb n="3JUG.073c:35 "/>Si n'envoya \ plus vers lui <rhyme>messagier</rhyme>
+<lb n="3JUG.073c:36 "/>Et de tous <rhyme>poins</rhyme>
+<lb n="3JUG.073c:37 "/>Le frain aux dens \ et la bride a &#x95;ii&#x95; <rhyme>poi<abbr type="n"/>s</rhyme>
+<lb n="3JUG.073c:38 "/>Elle saisi \ et de pres et de <rhyme>loings</rhyme>
+<lb n="3JUG.073c:39 "/>Pour s'en oster \ tant qu'elle vint aux <rhyme>poi<abbr type="n"/>s</rhyme>
+<lb n="3JUG.073c:40 "/>Qu'elle <rhyme>vouloit</rhyme>
+<lb n="3JUG.073c:41 "/>Et p<abbr type="ar"/> raison \ qui pas ne lui <rhyme>celloit</rhyme> <note>three 'l's in this line very dark</note>
+
+<cb n="d"/>
+<layout ruledLines="41"/>
+<lb n="3JUG.073d:01 "/>Que follement \ <note>descends below line</note> pour cellui <note>this word corrected?</note> se <rhyme>douloit</rhyme>
+<lb n="3JUG.073d:02 "/>Qui de son fait \ en riens ne / lui <rhyme>chaloit</rhyme>
+<lb n="3JUG.073d:03 "/>Si s'en <rhyme>osta</rhyme>
+<lb n="3JUG.073d:04 "/>Mais du faire \ mie ne se <rhyme>hasta</rhyme>
+<lb n="3JUG.073d:05 "/>Ainçois lonc temps \ en l'amour <rhyme>arresta</rhyme>
+<lb n="3JUG.073d:06 "/>Qui maint meschief et <note>two small stains over 't' and smaller stains extending two lines below</note> mal lui <rhyme>appresta</rhyme>
+<lb n="3JUG.073d:07 "/>¶ Et atant <note>'a' and 'tant' sep.</note> <rhyme>vint</rhyme>
+<lb n="3JUG.073d:08 "/>La dame à qui \ ycelle chose <rhyme>advi<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073d:09 "/>Que le sien cuer \ à raison se <rhyme>revint</rhyme>
+<lb n="3JUG.073d:10 "/>Et assez poy \ de cellui lui <rhyme>souvint</rhyme>
+<lb n="3JUG.073d:11 "/>Qui l'ot <rhyme>deceue</rhyme>
+<lb n="3JUG.073d:12 "/>Dont elle avoit \ mainte doulo<abbr type="ur"/> <rhyme>receue</rhyme>
+<lb n="3JUG.073d:13 "/>Tout se fust elle \ assez tart <rhyme>apperceue</rhyme>
+<lb n="3JUG.073d:14 "/>Mais plus cellui \ n'yra à sa <rhyme>sceüe</rhyme>
+<lb n="3JUG.073d:15 "/>Où elle <rhyme>soit</rhyme>
+<lb n="3JUG.073d:16 "/><hi rend="cap2">L</hi>avint cas \ comme ele <rhyme>devisoit</rhyme> <note>initial an error; fr. 835 has 'Si avint'; line is hypometric, looks like 3 lines of cursive script have been erased to left in centre column, check manuscript</note>
+<lb n="3JUG.073d:17 "/>autre amant \ durem<abbr type="en"/>t la <rhyme>pressoit</rhyme> <note>835 has 'qu'un' at beginning of this line; 'autre' begins here between 'u' and 'i' of preceding line and line is hypometric</note>
+<lb n="3JUG.073d:18 "/>Qu'il fust amez et souvent lui <rhyme>disoit</rhyme>
+<lb n="3JUG.073d:19 "/>Qu'il l'amoit <rhyme>tant</rhyme>
+<lb n="3JUG.073d:20 "/>Qu'à tous jours \ mais \ seroit sien mais po<abbr type="ur"/> <rhyme>ta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073d:21 "/>De quanque cil \ lui aloit <note>'loit' darker, check manuscript for erasure</note> <rhyme>pro<abbr type="m"/>mectant</rhyme>
+<lb n="3JUG.073d:22 "/>Ne lui chaloit \ en riens mais non <rhyme>obsta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073d:23 "/>Sans <rhyme>amesir</rhyme>
+<lb n="3JUG.073d:24 "/>Cil ne finoit \ de lui faire <rhyme>plaisir</rhyme>
+<lb n="3JUG.073d:25 "/>Ne pour reffus \ ne cessoit son <rhyme>desir</rhyme>
+<lb n="3JUG.073d:26 "/>Ainsi lui disoit \ que sans autre <rhyme>choisir</rhyme>
+<lb n="3JUG.073d:27 "/>Son vray <rhyme>amant</rhyme>
+<lb n="3JUG.073d:28 "/>À tous jours mais \ seroit en elle <rhyme>ama<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073d:29 "/>Ferme et loyal \ com pierre <rhyme>d'aÿma<abbr type="n"/>t</rhyme>
+<lb n="3JUG.073d:30 "/>Où que cil fust \ <name ref="French">françois</name> ou <name ref="German"><rhyme>alleme<abbr type="n"/>t</rhyme></name>
+<lb n="3JUG.073d:31 "/>Ou d'autre <rhyme>part</rhyme>
+<lb n="3JUG.073d:32 "/>Toudis avoit \ son penser celle <rhyme>part</rhyme>
+<lb n="3JUG.073d:33 "/>Ne de tous biens \ pour en choisir sa <rhyme>part</rhyme>
+<lb n="3JUG.073d:34 "/>Autre solas \ n'en publique n'a <rhyme>part</rhyme>
+<lb n="3JUG.073d:35 "/>Ne <rhyme>desiroit</rhyme>
+<lb n="3JUG.073d:36 "/>Comme il disoit \ et ai<abbr type="n"/>si y <rhyme>paroit</rhyme>
+<lb n="3JUG.073d:37 "/>Car par le fait \ tout le vray <rhyme>apparoit</rhyme>
+<lb n="3JUG.073d:38 "/>Que cil amoit \ car il ne <rhyme>repairoit</rhyme>
+<lb n="3JUG.073d:39 "/>Ne mes ès <rhyme>lieux</rhyme>
+<lb n="3JUG.073d:40 "/>Où peust vëoir \ la t<abbr type="re"/>sbelle aux beaulx <rhyme>yeulx</rhyme>
+<lb n="3JUG.073d:41 "/>Qu'il äouroit \ <note>descends below line</note> et servoit co<abbr type="m"/>me <rhyme>dieux</rhyme>
+
+
+<pb ed="r" n="074"/><layout ruledLines="no"/>
+<lb n="3JUG.074r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="centred">des</fw> <fw type="header2" place="column a" rend="tabbed">trois</fw> <fw type="header3" place="column b" rend="right aligned">jugemens xv&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.074a:01 "/>Se <note>'S' decorated with very high ascender</note> ce n'estoit \ <note>tall 's' has final ascender and additional vertical stroke at its tip that parallel decoration of 'S'</note> ès places ou de <rhyme>mieulx</rhyme>
+<lb n="3JUG.074a:02 "/>Quant à <rhyme>valeur</rhyme> <note>looks like initial 'e' overstroked with 'o'</note>
+<lb n="3JUG.074a:03 "/>Lui peust venir \ car pour nulle <rhyme>douleur</rhyme> <note>looks like initial 'e' overstroked to make 'o'</note>
+<lb n="3JUG.074a:04 "/>Qu'amours lui fist / ou fust sens ou <rhyme>folour</rhyme>
+<lb n="3JUG.074a:05 "/>Ne s'arrestoit \ quant il avoit <rhyme>coulour</rhyme>
+<lb n="3JUG.074a:06 "/>D'aler <rhyme>dehors</rhyme>
+<lb n="3JUG.074a:07 "/>Pour esprouver \ en vaillance son <rhyme>corps</rhyme>
+<lb n="3JUG.074a:08 "/>Car en honneur \ estoit tous ses <rhyme>depors</rhyme>
+<lb n="3JUG.074a:09 "/>Mais bien cuida \ pour amo<abbr type="ur"/> estre <rhyme>mors</rhyme>
+<lb n="3JUG.074a:10 "/>Ains que <rhyme>pitié</rhyme>
+<lb n="3JUG.074a:11 "/>Celle eust de lui \ pour la q<abbr type="ue"/>lle <rhyme>amistié</rhyme>
+<lb n="3JUG.074a:12 "/>Malade en fu \ lonc temps et <rhyme>dehaitié</rhyme>
+<lb n="3JUG.074a:13 "/>Ains que pour lui \ eust pensé <rhyme>n'apoi<abbr type="n"/>tié</rhyme>
+<lb n="3JUG.074a:14 "/>Nul bon <rhyme>accord</rhyme>
+<lb n="3JUG.074a:15 "/>Car la dame \ toudis avoit <rhyme>recort</rhyme>
+<lb n="3JUG.074a:16 "/>Du faulx amant \ par qui si g<abbr type="ra"/>nt <rhyme>descort</rhyme>
+<lb n="3JUG.074a:17 "/>Fu en son cuer \ qu'à peu en receut <rhyme>mort</rhyme>
+<lb n="3JUG.074a:18 "/>Si n'ot <rhyme>besoing</rhyme>
+<lb n="3JUG.074a:19 "/>Que jamais jour \ ne de pres ne de <rhyme>loi<abbr type="n"/>g</rhyme>
+<lb n="3JUG.074a:20 "/>Nul homme amer \ car elle avoit <rhyme>tesmoi<abbr type="n"/>g</rhyme>
+<lb n="3JUG.074a:21 "/>Que mal venoit \ et meschief de tel <rhyme>soing</rhyme>
+<lb n="3JUG.074a:22 "/>Et pour ce <rhyme>attraire</rhyme>
+<lb n="3JUG.074a:23 "/>Ne vouloit plus \ si penible <rhyme>contraire</rhyme>
+<lb n="3JUG.074a:24 "/>Si n'en pouoit \ l'amant nullem<abbr type="en"/>t <rhyme>traire</rhyme>
+<lb n="3JUG.074a:25 "/>Fors escondit \ mais po<abbr type="ur"/> tant s'en <rhyme>retraire</rhyme>
+<lb n="3JUG.074a:26 "/>Ne volt il <rhyme>mie</rhyme>
+<lb n="3JUG.074a:27 "/>N'ycelle amour \ remese <rhyme>n'endormie</rhyme>
+<lb n="3JUG.074a:28 "/>Ne fu en lui \ ains com dame et <rhyme>amie</rhyme>
+<lb n="3JUG.074a:29 "/>Il la servoit \ ne heure ne <rhyme>demie</rhyme>
+<lb n="3JUG.074a:30 "/>Il <rhyme>n'arrestoit</rhyme>
+<lb n="3JUG.074a:31 "/>Qu'oû service \ d'elle où pou <rhyme>conq<abbr type="ue"/>stoit</rhyme>
+<lb n="3JUG.074a:32 "/>Et moult de ses \ paroles y <rhyme>gastoit</rhyme>
+<lb n="3JUG.074a:33 "/>Mais non pour<abbr type=" "/>tant \ souve<abbr type="n"/>t <rhyme>l'amo<abbr type="n"/>nestoit</rhyme>
+<lb n="3JUG.074a:34 "/>De <note>'d' corrected on erasure</note> sa <rhyme>besongne</rhyme>
+<lb n="3JUG.074a:35 "/>¶ Ainsi lonc<abbr type=" "/>temps \ dura p<abbr type="ar"/> mai<abbr type="n"/>te <rhyme>alongne</rhyme>
+<lb n="3JUG.074a:36 "/>Cest affaire \ com la dame <rhyme>tesmongne</rhyme>
+<lb n="3JUG.074a:37 "/>Mais il n'est riens \ qui bien s'en <rhyme>embeso<abbr type="n"/>gne</rhyme>
+<lb n="3JUG.074a:38 "/>Quë on <rhyme>n'acheve</rhyme>
+<lb n="3JUG.074a:39 "/>Ne si pesant \ fardel que l'en ne <rhyme>lieve</rhyme>
+<lb n="3JUG.074a:40 "/>Au vray <note>'y' ends in very large spiral in lower margin</note> du fait \ dire en p<abbr type="ar"/>ole <rhyme>brieve</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40" writtenLines="41"/>
+<lb n="3JUG.074b:01 "/>Cil tant l'ama \ <note>slash descends almost to next line</note> quoy q<abbr type="ue"/> il eust<abbr type=" "/><note>slash descends almost to next line</note> peine <rhyme>grieve</rhyme>&#x95; <note>punctus, mid-line; associated with 'r' which has dot underneath and is corrected over erasure</note><note>this line written on larger scale and somewhat straighter than rest</note><note>cf. earlier examples of punctus used to mark end of line</note>
+<lb n="3JUG.074b:02 "/>et tant <rhyme>servi</rhyme> <note>this inserted right below first line, set off by vertical and horizontal line preceded by light cross; there's another light cross under the capital 'C' of the line above to indicate where it goes</note>
+<lb n="3JUG.074b:03 "/>De vray loyal \ cuer subgèt <rhyme>asservi</rhyme>
+<lb n="3JUG.074b:04 "/>Que par raison \ il avoit <rhyme>desservi</rhyme>
+<lb n="3JUG.074b:05 "/>Qu'il ne fust pas \ de joye <rhyme>dess<abbr type="er"/>vi</rhyme>
+<lb n="3JUG.074b:06 "/>Mais <rhyme>guerredonnez</rhyme>
+<lb n="3JUG.074b:07 "/>Et que <add evidence="" place="supralinear" type="">le</add> <note>darker ink, thicker strokes, marked by caret</note> don d'ami <note>final stroke of 'i' ascends above line, perhaps scansion line?</note> lui fu <rhyme>donnez</rhyme>
+<lb n="3JUG.074b:08 "/>Car tant c'estoit doulcement <rhyme>ordonnez</rhyme>
+<lb n="3JUG.074b:09 "/>En elle amant \ et pour elle <rhyme>penez</rhyme>
+<lb n="3JUG.074b:10 "/><rhyme>Qu'appercevoir</rhyme>
+<lb n="3JUG.074b:11 "/>Quë il l'amoit de cuer sans <rhyme>decevoir</rhyme> <note>rapid cursive final 'r'</note>
+<lb n="3JUG.074b:12 "/>Elle pouoit \ tant faisoit son <rhyme>devoir</rhyme> <note>rapid cursive final 'r'</note>
+<lb n="3JUG.074b:13 "/>D'elle servir \ et si qu'à dire <rhyme>voir</rhyme>
+<lb n="3JUG.074b:14 "/>Tort lui <rhyme>feïst</rhyme>
+<lb n="3JUG.074b:15 "/>Se pitié n'eust / de lui se <name ref="God"><c>d</c>ieux</name> <note>'m' corrected to 'd'</note> <rhyme>m'aïst</rhyme>
+<lb n="3JUG.074b:16 "/>Car n'estoit droit / que son servant <rhyme>haÿst</rhyme>
+<lb n="3JUG.074b:17 "/>Ne qu'en reffus \ le sien cuer <rhyme>envaÿst</rhyme>
+<lb n="3JUG.074b:18 "/>Par fel <note>right half of 'e' erased, tiny 'corne' at top, 'fol' corrected to 'fel'? ; 835 has 'fel'</note> <rhyme>dongier</rhyme>
+<lb n="3JUG.074b:19 "/>¶ Alors <name ref="Amour"><c>a</c>mours</name> / qui seust <rhyme>assouager</rhyme>
+<lb n="3JUG.074b:20 "/>Les maulx crüeulx \ qu'en eulx <note>'eulx' corrected on erasure &amp; squeezed</note> fait <rhyme>hebreger</rhyme>
+<lb n="3JUG.074b:21 "/>Qui la servent \ volt adonc <rhyme>alleger</rhyme> <note>last 3 words appear corrected on erasure, tilde between last 2 to fill space; 'adonques' corrected to 'adonc'?</note>
+<lb n="3JUG.074b:22 "/>Les griefs <rhyme>ennuis</rhyme>
+<lb n="3JUG.074b:23 "/>Qu'il ot souffert \ par maintes dures <rhyme>nuys</rhyme>
+<lb n="3JUG.074b:24 "/>Dont son las cuer <add evidence="" place="supralinear" type="">estoit</add> <note>preceded by caret</note> de joye <rhyme>vuys</rhyme>
+<lb n="3JUG.074b:25 "/>Si fist <name ref="Pitié"><c>p</c>itié</name> / à <name ref="Secours"><c>s</c>ecours</name> ouvrir <rhyme>l'uys</rhyme>
+<lb n="3JUG.074b:26 "/>De <name ref="Reconfort"><rhyme><c>r</c>econfort</rhyme></name>
+<lb n="3JUG.074b:27 "/>Et <note>corrected on erasure?; fr. 835 has 'Si'</note> \ <note>purpose of this slash ? emphasis ?</note> ne pot plus \ souffrir la dame au <rhyme>fort</rhyme>
+<lb n="3JUG.074b:28 "/>Tenir l'amant \ en si grief <rhyme>desconfort</rhyme>
+<lb n="3JUG.074b:29 "/>Car bien savoit \ qu'il n'estoit rien si <rhyme>fort</rhyme>
+<lb n="3JUG.074b:30 "/>Comme il <rhyme>l'amoit</rhyme>
+<lb n="3JUG.074b:31 "/>¶ Adont un jour \ l'amant se <rhyme>reclamoit</rhyme>
+<lb n="3JUG.074b:32 "/>De ses doulours \ à celle qu'il <rhyme>cremoit</rhyme>
+<lb n="3JUG.074b:33 "/>Piteusement \ de l'amour <rhyme>l'informoit</rhyme>
+<lb n="3JUG.074b:34 "/>Qu'il ot <rhyme>surpris</rhyme>
+<lb n="3JUG.074b:35 "/>Par sa beauté \ <note>?</note><note>'e' ends in ascending stroke, perhaps scansion line</note> à qui se rendoit <rhyme>pris</rhyme>
+<lb n="3JUG.074b:36 "/>Et pour son los \ la <note>'la' corrected on erasure</note> grace et de <note>sic</note> hault<abbr type=" "/><rhyme>pris</rhyme>
+<lb n="3JUG.074b:37 "/>Dont elle estoit \ si ne l'ait en <rhyme>despris</rhyme>
+<lb n="3JUG.074b:38 "/>Par <rhyme>desdaigner</rhyme>
+<lb n="3JUG.074b:39 "/>¶ Et ado<abbr type="n"/>t celle où il n'ot <rhyme>qu'enseigner</rhyme>
+<lb n="3JUG.074b:40 "/>Qui tout vëoit \ l'ama<abbr type="n"/>t en plours <rhyme>baigner</rhyme>
+<lb n="3JUG.074b:41 "/>Vit qu'en sa mort \ ne pouoit Rie<abbr type="n"/>s <rhyme>gaigner</rhyme>
+
+
+<pb ed="v" n="074"/><layout ruledLines="no"/>
+<lb n="3JUG.074v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column c" rend="tabbed from left"><c>l</c>ivre</fw> <fw type="header3" place="column d" rend="centred">des trois</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.074c:01 "/>¶ Si le <rhyme>retint</rhyme><note>first 't' is tall with top curving to right; flamboyant 'i' slash that ascends into margin</note>
+<lb n="3JUG.074c:02 "/>Pour son amant \ ainsi qu'il <rhyme>app<abbr type="ar"/>tint</rhyme> <note>another flamboyant 'i' slash</note>
+<lb n="3JUG.074c:03 "/>Et lui qui fu \ loyal si se <rhyme>contint</rhyme>
+<lb n="3JUG.074c:04 "/>Devers celle \ <note>descends below line</note> qui son cuer ot et <rhyme>tint</rhyme>
+<lb n="3JUG.074c:05 "/>Qu'elle <rhyme>l'ama</rhyme>
+<lb n="3JUG.074c:06 "/>De tout son cuer \ et ami le <rhyme>clama</rhyme>
+<lb n="3JUG.074c:07 "/>Ainsi l'amant \ <note>descends below line</note> promist et <rhyme>afferma</rhyme>
+<lb n="3JUG.074c:08 "/>Qu'il l'ameroit \ et elle <rhyme>conferma</rhyme>
+<lb n="3JUG.074c:09 "/>Tout cest <rhyme>affaire</rhyme>
+<lb n="3JUG.074c:10 "/>Ainsi promist \ <note>descends below line</note> et ainsi le volt <rhyme>faire</rhyme>
+<lb n="3JUG.074c:11 "/>Car il l'ama \ loyaument sans <rhyme>meffaire</rhyme>
+<lb n="3JUG.074c:12 "/>Si bien si bel \ <note>descends below line</note> qu'il n'y ot que <rhyme>reffaire</rhyme>
+<lb n="3JUG.074c:13 "/>Par lonc <rhyme>espace</rhyme>
+<lb n="3JUG.074c:14 "/>Et non obstant \ <note>descends below line</note> que tel amour tost <rhyme>passe</rhyme>
+<lb n="3JUG.074c:15 "/>Souventes fois \ cil sembla le <rhyme>touppasse</rhyme>
+<lb n="3JUG.074c:16 "/>Qui de verdeur \ et de clarté <rhyme>trespasse</rhyme>
+<lb n="3JUG.074c:17 "/>Toute autre <rhyme>pierre</rhyme>
+<lb n="3JUG.074c:18 "/>Ainsi toudis \ <note>descends below line</note> fu en lui plus vert <rhyme>qu'ierre</rhyme>
+<lb n="3JUG.074c:19 "/>Ycelle amour \ qu'il n'ot pas par <name ref="Saint+Peter">sai<abbr type="n"/>t <rhyme><c>p</c>ierre</rhyme></name>
+<lb n="3JUG.074c:20 "/>Tost acquise \ n'emblée co<abbr type="m"/>me <rhyme>lierre</rhyme> <note>from 'latro'</note>
+<lb n="3JUG.074c:21 "/>Qui moult tost <rhyme>emble</rhyme>
+<lb n="3JUG.074c:22 "/>Ains y souffri maint grief <add evidence="" place="supralinear" type="">mal</add> <note>plus caret, both in slightly darker ink and sharper pen</note> ce me <rhyme>se<abbr type="m"/>ble</rhyme>
+<lb n="3JUG.074c:23 "/>Mais il n'est riens \ <note>abuts 's'</note> quoy \ <note>tall slash or tail of 'q'?</note> que descort <rhyme>desse<abbr type="m"/>ble</rhyme>
+<lb n="3JUG.074c:24 "/>Que vraye amour \ ne racorde <note>'a' corrected by being overwritten, preparation of correction a rapid 'a' right at the end of the line preceded by a slash; dot over the 'a' to indicate place, check manuscript</note> &amp; <rhyme>assemble</rhyme>
+<lb n="3JUG.074c:25 "/>En un <rhyme>moument</rhyme>
+<lb n="3JUG.074c:26 "/>Quant il lui plaist \ ainsi très <rhyme>loyaum<abbr type="en"/>t</rhyme>
+<lb n="3JUG.074c:27 "/>Li duy amant \ s'amerent <rhyme>longuem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.074c:28 "/>Sans nul descort \ &amp; sans <rhyme>decevem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.074c:29 "/>En tel <rhyme>plaisir</rhyme>
+<lb n="3JUG.074c:30 "/>Que leurs &#x95;ii&#x95; cuers \ n'avoie<abbr type="n"/>t q<abbr type="ue"/> un <note>short 'v'</note> <rhyme>desir</rhyme>
+<lb n="3JUG.074c:31 "/>Ce qu'il plaisoit \ à l'un ja <rhyme>desplaisir</rhyme>
+<lb n="3JUG.074c:32 "/>Ne peut estrë \ à l'autre ne <rhyme>choisir</rhyme>
+<lb n="3JUG.074c:33 "/>Autre <rhyme>solas</rhyme>
+<lb n="3JUG.074c:34 "/>Ne voulsissent \ qu'estre ensemble et ja <rhyme>las</rhyme>
+<lb n="3JUG.074c:35 "/>Ilz n'en fussent \ <note>scansion line attached to 't' bar</note> car tous &#x95;ii&#x95; <note>punctus raised</note> d'u<abbr type="n"/> seul<abbr type=" "/><rhyme>las</rhyme>
+<lb n="3JUG.074c:36 "/>Furent lïé \ plaisant sans dire <rhyme>helas</rhyme>
+<lb n="3JUG.074c:37 "/>¶ Et ainsi <rhyme>furent</rhyme>
+<lb n="3JUG.074c:38 "/>Par moult lonc temps \ mais mai<abbr type="n"/>t sceve<abbr type="n"/>t &amp; <rhyme>sceure<abbr type="n"/>t</rhyme> <note>this word darker, probably corrected on erasure &amp; squeezed</note>
+<lb n="3JUG.074c:39 "/>Que faulx parleurs \ sur les ama<abbr type="n"/>s <rhyme>murmure<abbr type="n"/>t</rhyme> <note>corrected on erasure in larger and sloping hand</note>
+<lb n="3JUG.074c:40 "/>Si leur avi<abbr type="n"/>t \ q<abbr type="ue"/> mesdis<abbr type="ans"/> <note>same abbreviation on long 's' as 'er'</note> <rhyme>s'esmure<abbr type="n"/>t</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.074d:01 "/>À <note>elaborate 'A' extends 3 lines down in mid column</note> parler <rhyme>d'eulx</rhyme> <note>2 short strokes dec. faint flourish on 'd'</note>
+<lb n="3JUG.074d:02 "/>Pour les semblans \ qu'ilz choisire<abbr type="n"/>t ès &#x95;<rhyme>ii</rhyme>&#x95; <note>boomerang</note>
+<lb n="3JUG.074d:03 "/>Dont ilz orent \ au cuer pesance et <rhyme>deulx</rhyme>
+<lb n="3JUG.074d:04 "/>Tout <note>this correction on erasure in more rapid script and darker ink, overlaps 'colonnette' one erased space between it and 'ne', but largely erased 'tout' in margin; 835 has 'Sj', v. 515</note> ne porent \ si souve<abbr type="n"/>t estre <rhyme>seulx</rhyme>
+<lb n="3JUG.074d:05 "/>À leur <rhyme>deport</rhyme>
+<lb n="3JUG.074d:06 "/>Et racompté \ fu par mauvais <rhyme>rapport</rhyme> <note>preceded by 'c' in margin, single letters here and in next two lines indicate order followed in 835</note>
+<lb n="3JUG.074d:07 "/>Com souloient \ <note>?</note><note>faint line that prolongs 'p' above, probably scansion line</note> si furent à dur <rhyme>port</rhyme> <note>preceded by 'A' in margin</note>
+<lb n="3JUG.074d:08 "/>Lors arrivé \ <note>descends below line</note> où peu ore<abbr type="n"/>t <rhyme>depport</rhyme> <note>preceded by 'b' in margin</note>
+<lb n="3JUG.074d:09 "/>Et par <rhyme>envie</rhyme>
+<lb n="3JUG.074d:10 "/>Au faulx amant \ premier toute leur <rhyme>vie</rhyme>
+<lb n="3JUG.074d:11 "/>Et tout comment \ la dame fu <rhyme>s<abbr type="er"/>vie</rhyme>
+<lb n="3JUG.074d:12 "/>Du vray amant \ à qui elle ot <rhyme>pleuvie</rhyme>
+<lb n="3JUG.074d:13 "/>Et toute <rhyme>assise</rhyme>
+<lb n="3JUG.074d:14 "/>L'amour d'elle \ du tout à sa <rhyme>devise</rhyme>
+<lb n="3JUG.074d:15 "/>¶ Et quant cellui \ ot bien p<abbr type="ar"/> mai<abbr type="n"/>te <rhyme>guise</rhyme>
+<lb n="3JUG.074d:16 "/>La verité \ toute sceue et <rhyme>enquise</rhyme>
+<lb n="3JUG.074d:17 "/>Lors a quis <rhyme>voye</rhyme>
+<lb n="3JUG.074d:18 "/>Qu'il peust parler \ en chemin ou en <rhyme>voye</rhyme>
+<lb n="3JUG.074d:19 "/>Ou en secret \ si q<abbr type="ue"/> nul ne le <rhyme>voye</rhyme>
+<lb n="3JUG.074d:20 "/>À celle à qui un <note>this correction on erasure in darker ink, replaces longer word and written on larger scale</note> messagier<abbr type=" "/><rhyme>envoye</rhyme>
+<lb n="3JUG.074d:21 "/>En lui <rhyme>prïant</rhyme>
+<lb n="3JUG.074d:22 "/>Moult chierement \ no<abbr type="n"/> mie en <rhyme>maistrïa<abbr type="n"/>t</rhyme>
+<lb n="3JUG.074d:23 "/>Que parler puist \ à elle <add evidence="" place="supralinear" type="">&amp;</add> <rhyme>detrïa<abbr type="n"/>t</rhyme>
+<lb n="3JUG.074d:24 "/>Ne voit le jour \ lors celle \ <note>descends below line</note> en <rhyme>sousrïa<abbr type="n"/>t</rhyme>
+<lb n="3JUG.074d:25 "/>A prins <rhyme>journée</rhyme>
+<lb n="3JUG.074d:26 "/>À y parler \ par une <rhyme>matinée</rhyme>
+<lb n="3JUG.074d:27 "/>¶ Et quant furent \ en la place <rhyme>ordonnée</rhyme>
+<lb n="3JUG.074d:28 "/>Adont cellui \ à la dame <rhyme>aresnée</rhyme>
+<lb n="3JUG.074d:29 "/>Par tel <rhyme>maintien</rhyme>
+<lb n="3JUG.074d:30 "/>¶ Dame certes \ <note>faint straight scansion line</note> ne cuidasse po<abbr type="ur"/> <rhyme>Rien</rhyme>
+<lb n="3JUG.074d:31 "/>Que vostre cuer \ que disiés estre <rhyme>mien</rhyme>
+<lb n="3JUG.074d:32 "/>Daignast jamais \ <abbr type="con"/>sentir fors q<abbr type="ue"/> <rhyme>b<abbr type="ie"/>n</rhyme>
+<lb n="3JUG.074d:33 "/>Ne que <rhyme>faulser</rhyme>
+<lb n="3JUG.074d:34 "/>Vous daignissiés \ <note>descends below line</note> en fait në en <rhyme>penser</rhyme>
+<lb n="3JUG.074d:35 "/>Tant vous sceüst \ nul \ aut<abbr type="re"/> ama<abbr type="n"/>t <rhyme>presser</rhyme>
+<lb n="3JUG.074d:36 "/>Que voulsissiés \ vostre serme<abbr type="n"/>t <rhyme>casser</rhyme>
+<lb n="3JUG.074d:37 "/>Ne <rhyme>loyauté</rhyme>
+<lb n="3JUG.074d:38 "/>Que vous avez \ brisée &amp; <rhyme>féauté</rhyme>
+<lb n="3JUG.074d:39 "/>Si prise pou \ tel grace et tel <rhyme>beauté</rhyme>
+<lb n="3JUG.074d:40 "/>Où il n'a foy \ car serme<abbr type="n"/>t sur <rhyme>l'auté</rhyme>
+
+<pb ed="r" n="075"/><layout ruledLines="no"/>
+<lb n="3JUG.075r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="centred">jugemens</fw> <fw type="header2" place="column b" rend="centred">xv&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.075a:01 "/>Et <note>elaborate 'E' that ascends into margin above and left</note> sur les <rhyme>sains</rhyme>
+<lb n="3JUG.075a:02 "/>Me jurastes <name ref="God"><c>d</c>ieu</name> <name ref="Virgin+Mary">sa mere</name> et <name ref="Saints">les <rhyme>sains</rhyme></name>
+<lb n="3JUG.075a:03 "/>Que jamais jour \ vostre cuert <note>error for 'cuer'?</note> n'yert <rhyme>deçai<abbr type="n"/>s</rhyme>
+<lb n="3JUG.075a:04 "/>De moye amour \ dont il estoit <rhyme>ançains</rhyme>
+<lb n="3JUG.075a:05 "/>Ce disiés <rhyme>vous</rhyme>
+<lb n="3JUG.075a:06 "/>Et s'estoie \ <note>begins mid-line and descends below line</note> vo léal ami <rhyme>doulx</rhyme>
+<lb n="3JUG.075a:07 "/>Et ainsi fu \ <note>descends below line</note> accordé ent<abbr type="re"/> <rhyme>no<abbr type="us"/></rhyme>
+<lb n="3JUG.075a:08 "/>Mais or vous puis \ faulse par deva<abbr type="n"/>t <rhyme>to<abbr type="us"/></rhyme>
+<lb n="3JUG.075a:09 "/>Et <rhyme>parjurée</rhyme>
+<lb n="3JUG.075a:10 "/>Prouver certes \ et pou <rhyme>asseürée</rhyme>
+<lb n="3JUG.075a:11 "/>Puis qu'autre amour \ vous avez <rhyme>p<abbr type="ro"/>curée</rhyme>
+<lb n="3JUG.075a:12 "/>Si est la foy \ que vous aviés <rhyme>jurée</rhyme>
+<lb n="3JUG.075a:13 "/>Faulse sans <rhyme>doubte</rhyme>
+<lb n="3JUG.075a:14 "/>¶ Adont respont \ celle et plus ne <rhyme>l'escoute</rhyme>
+<lb n="3JUG.075a:15 "/>¶ Beaulx sire <name ref="God"><c>d</c>ieux</name> / je me merveille <rhyme>toute</rhyme>
+<lb n="3JUG.075a:16 "/>De vostre fait \ <note>descends below line</note> et s'onques je vy <rhyme>goute</rhyme>
+<lb n="3JUG.075a:17 "/>Veez ci <rhyme>merveilles</rhyme>
+<lb n="3JUG.075a:18 "/>Vous me cuidez \ par vo tabour aux <rhyme>veilles</rhyme> <note>deux 'v' bien différents pour 'vo' et 'veilles'</note>
+<lb n="3JUG.075a:19 "/>Ancor mener \ mais jamais mes <rhyme>oreilles</rhyme>
+<lb n="3JUG.075a:20 "/>N'escouteront \ teles ou les <rhyme>pareilles</rhyme>
+<lb n="3JUG.075a:21 "/>Com voz <rhyme>paroles</rhyme>
+<lb n="3JUG.075a:22 "/>Sont envers moy \ toudis toutes <rhyme>frivolles</rhyme> <note>rising 's'</note>
+<lb n="3JUG.075a:23 "/>Car ne vous chault \ pas de &#x95;ii&#x95; <note>both dots raised</note> poires <rhyme>molles</rhyme>
+<lb n="3JUG.075a:24 "/>Se j'ay ami \ ou non et tieulx <rhyme>bricoles</rhyme>
+<lb n="3JUG.075a:25 "/>M'alez <rhyme>gitant</rhyme>
+<lb n="3JUG.075a:26 "/>Mais non pour tant \ vous en diray Je <rhyme>yta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075a:27 "/>Que se je l'ay \ faulse ne suis pour <rhyme>ta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075a:28 "/>Car vostre cuer / fu premier <rhyme>consenta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075a:29 "/>De moy <rhyme>laissier</rhyme>
+<lb n="3JUG.075a:30 "/>Et grans sermens \ feistes au <rhyme>co<abbr type="m"/>mencier</rhyme>
+<lb n="3JUG.075a:31 "/>Que jamais jour \ ne verroie <rhyme>plessier</rhyme>
+<lb n="3JUG.075a:32 "/>L'amour de vous \ qui ta<abbr type="n"/>t a fait <rhyme>blecier</rhyme>
+<lb n="3JUG.075a:33 "/>Mon cuer lonc <rhyme>temps</rhyme>
+<lb n="3JUG.075a:34 "/>Ce savez vous \ si ne sçay ne <rhyme>n'ente<abbr type="n"/>s</rhyme>
+<lb n="3JUG.075a:35 "/>Comment puis \ q<abbr type="ue"/> vous estiés <rhyme>consenta<abbr type="n"/>s</rhyme>
+<lb n="3JUG.075a:36 "/>De m'eslongner \ q<abbr type="ue"/> mon cuer <rhyme>arrestans</rhyme>
+<lb n="3JUG.075a:37 "/>Y deüst <rhyme>estre</rhyme>
+<lb n="3JUG.075a:38 "/>Et à tous jours \ mais en doule<abbr type="ur"/> <rhyme>senestre</rhyme> <note>836: 'A tousjours mais à douleur si senestre'</note>
+<lb n="3JUG.075a:39 "/>Puis que vëoir \ je pouoie vostre <rhyme>estre</rhyme>
+<lb n="3JUG.075a:40 "/>Car p<abbr type="ar"/> l'euvrë \ on doit louer le <rhyme>maistre</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.075b:01 "/>Et grant <rhyme>injure</rhyme> <note>en module un peu plus grand, comme souvent en tête de colonne</note>
+<lb n="3JUG.075b:02 "/>Vous m'avez dit \ de m'appeller <rhyme>parjure</rhyme> <note>huge curved 'i' slash</note>
+<lb n="3JUG.075b:03 "/>Car ne le suis \ g'i mettroye <rhyme>gageure</rhyme>
+<lb n="3JUG.075b:04 "/>Et / <note>tall, curved to right slash attached to 't', 2 blank spaces after it</note><note>over erasure, correction dot between 'E' and 't', check manuscript</note><note>Altmann lists no variant; could the slash be just to fill space?</note> qui promet quoy que ce soit &amp; <rhyme>jure</rhyme> <note>huge curved 'i' slash</note>
+<lb n="3JUG.075b:05 "/>Ce doit <rhyme>entendre</rhyme>
+<lb n="3JUG.075b:06 "/>Cil qui reçoit \ le serment s'il veult <rhyme>tendre</rhyme>
+<lb n="3JUG.075b:07 "/>À loyauté \ qu'aussi doit il <rhyme>entendre</rhyme>
+<lb n="3JUG.075b:08 "/>À desservir \ le bien qu'on lui veult <rhyme>tendre</rhyme>
+<lb n="3JUG.075b:09 "/>Et son <rhyme>devoir</rhyme>
+<lb n="3JUG.075b:10 "/>Doit faire aussi \ il est bon <rhyme>assavoir</rhyme>
+<lb n="3JUG.075b:11 "/>Que qui promet \ pour autre chos<abbr type="e"/> <rhyme>avoir</rhyme> <note>this word angular</note>
+<lb n="3JUG.075b:12 "/>Së \ <note>role of this slash ? to mark hiatus?</note> il ne l'a / quitte doit estre <rhyme>voir</rhyme>
+<lb n="3JUG.075b:13 "/>De son <rhyme>serment</rhyme>
+<lb n="3JUG.075b:14 "/>¶ Ainsi avoye promis par <rhyme>sacreme<abbr type="n"/>t</rhyme> <note>835 : 'Ainsi à vous promis mon sacrement', v. 605</note>
+<lb n="3JUG.075b:15 "/>Voire en espoir \ que j'eusse <rhyme>entierem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.075b:16 "/>L'amour de vous \ comme <rhyme>premierem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.075b:17 "/>M'aviés <rhyme>promis</rhyme>
+<lb n="3JUG.075b:18 "/>¶ Adont respont \ cellui certes tost <rhyme>mis</rhyme>
+<lb n="3JUG.075b:19 "/>M'ariés au bas \ et <note>this word in darker ink, due to amount of ink in pen , cross out strokes and expunctuation point beneath it in lighter brown ink of text </note> dame et moult tost <rhyme>remis</rhyme> <note>large rising 's'</note>
+<lb n="3JUG.075b:20 "/>De voz raisons \ mais de ce <rhyme>qu'entremis</rhyme>
+<lb n="3JUG.075b:21 "/>Je me <rhyme>seroye</rhyme>
+<lb n="3JUG.075b:22 "/>De soustenir \ par <note>suivi par un trait très léger ? fault in parchment? check manuscript</note> tout où je <rhyme>saroye</rhyme>
+<lb n="3JUG.075b:23 "/>Par devant tous \ proposer <rhyme>oseroie</rhyme>
+<lb n="3JUG.075b:24 "/>Et pour ce di \ tant mentir n'en <rhyme>saroye</rhyme>
+<lb n="3JUG.075b:25 "/>Que vous <rhyme>avez</rhyme>
+<lb n="3JUG.075b:26 "/>Vers moy faulsé et pour riens vo<abbr type="us"/> <rhyme>sauvez</rhyme>
+<lb n="3JUG.075b:27 "/>De dire que \ certainem<abbr type="en"/>t <rhyme>savez</rhyme>
+<lb n="3JUG.075b:28 "/>Qu'en moy n'avoit / amo<abbr type="ur"/> ainsi <rhyme>trouvez</rhyme>
+<lb n="3JUG.075b:29 "/>Vostre <rhyme>excusance</rhyme>
+<lb n="3JUG.075b:30 "/>Car se vers vous tout \ À vostre <rhyme>ordonna<abbr type="n"/>ce</rhyme>
+<lb n="3JUG.075b:31 "/>Je n'aloië \ fust à feste ou à <rhyme>dance</rhyme> <note>last 3 words spaced out as line is relatively short</note>
+<lb n="3JUG.075b:32 "/>Ou autre part \ tout estoie en <rhyme>doubta<abbr type="n"/>ce</rhyme>
+<lb n="3JUG.075b:33 "/>De <rhyme>mesdisans</rhyme>
+<lb n="3JUG.075b:34 "/>Pour vostre honneur garder \ <note>tall slash</note> de<add evidence="" place="supralinear" type="">s</add> <note>long slender 's' added</note> mos <rhyme>cuisa<abbr type="n"/>s</rhyme>
+<lb n="3JUG.075b:35 "/>De leurs parlers / &amp; se fusse<abbr type="n"/>t &#x95;x&#x95; <note>second dot raised</note> <rhyme>ans</rhyme>
+<lb n="3JUG.075b:36 "/>Sans vous vëoir \ mais quë <rhyme>obéissa<abbr type="n"/>s</rhyme>
+<lb n="3JUG.075b:37 "/>Ne fusse <rhyme>mie</rhyme>
+<lb n="3JUG.075b:38 "/>À autre amour \ <note>?</note> ou de dame ou <rhyme>d'amie</rhyme>
+<lb n="3JUG.075b:39 "/>Ne deussiez vous ja heure ne <rhyme>demie</rhyme>
+<lb n="3JUG.075b:40 "/>Pour tant faulser <note>'f' tracé sur ?</note> \ mais adroite <rhyme>esc<abbr type="re"/>mie</rhyme> <note>?</note><note>the long 'i' is curious, and I think should be represented; its tail crosses back to the long 's' as if in a duel: a deliberate word image?</note>
+
+
+<pb ed="v" n="075"/><layout ruledLines="no" />
+<lb n="3JUG.075v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="left aligned">Le</fw> <fw type="header2" place="column c" rend="centred"><c>l</c>ivre</fw> <fw type="header3" place="column d" rend="centred">des trois</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.075c:01 "/>D'amour <rhyme>entiere</rhyme>
+<lb n="3JUG.075c:02 "/>Et loyauté \ <note>scansion line cuts the final curve of 'e' and descends in space below towards left</note> vraye en toute <rhyme>maniere</rhyme>
+<lb n="3JUG.075c:03 "/>Vous bien garder \ mais d'amo<abbr type="ur"/> t<abbr type="ro"/>p <rhyme>legiere</rhyme>
+<lb n="3JUG.075c:04 "/>M'avez amé \ bien en voy la <rhyme>maniere</rhyme>
+<lb n="3JUG.075c:05 "/>Pour ce <rhyme>redy</rhyme>
+<lb n="3JUG.075c:06 "/>Que faulce estes \ et de ce que je <rhyme>dy</rhyme>
+<lb n="3JUG.075c:07 "/>Le jugement \ devant le plus <rhyme>hardy</rhyme>
+<lb n="3JUG.075c:08 "/>Ose attendrë \ et tous ceulx <rhyme>contredy</rhyme> <note>Altmann adds 'En' from L, 835 drops it too</note>
+<lb n="3JUG.075c:09 "/>Qui au <rhyme>contraire</rhyme>
+<lb n="3JUG.075c:10 "/>Vouldroit dire \ ne vous vueille <rhyme>desplaire</rhyme>
+<lb n="3JUG.075c:11 "/>¶ Adont respont \ <note>descends below line</note> la dame <rhyme>debonnaire</rhyme>
+<lb n="3JUG.075c:12 "/>Or nous doint <name ref="God"><c>d</c>ieux</name> \ vers loyal juge <rhyme>traire</rhyme>
+<lb n="3JUG.075c:13 "/>Mais voy cy <rhyme>rage</rhyme>
+<lb n="3JUG.075c:14 "/>Et merveilles \ que de vostre <rhyme>lengage</rhyme>
+<lb n="3JUG.075c:15 "/>Qu'il soit ainsi \ q'une dame en <rhyme>servage</rhyme>
+<lb n="3JUG.075c:16 "/>Se soit misë \ en recevant <rhyme>l'ommage</rhyme>
+<lb n="3JUG.075c:17 "/>De son <rhyme>servant</rhyme>
+<lb n="3JUG.075c:18 "/>Qu'elle cuidoit \ bon loyal et <rhyme>s<abbr type="er"/>va<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075c:19 "/>Si voit après <note>descends below line</note> qui la va <rhyme>desserva<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075c:20 "/>De tout plaisir \ në il n'est <rhyme>desserva<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075c:21 "/>Qu'amer le <rhyme>doye</rhyme>
+<lb n="3JUG.075c:22 "/>Et vous dites \ qu'elle doit <rhyme>toutevoye</rhyme>
+<lb n="3JUG.075c:23 "/>En celle amour \ se tenir ferme &amp; <rhyme>coye</rhyme>
+<lb n="3JUG.075c:24 "/>Mais la raison<abbr type=" "/>n'en voy par nulle <rhyme>voye</rhyme>
+<lb n="3JUG.075c:25 "/>Pour ce <rhyme>consens</rhyme>
+<lb n="3JUG.075c:26 "/>Que ce debat \ nous mettions en to<abbr type="us"/> <rhyme>cens</rhyme>
+<lb n="3JUG.075c:27 "/>Dessus loyal \ jugë oû il ait <rhyme>sens</rhyme>
+<lb n="3JUG.075c:28 "/>Car nullement \ je ne voy ne ne <rhyme>sens</rhyme>
+<lb n="3JUG.075c:29 "/>Vostre <rhyme>raison</rhyme>
+<lb n="3JUG.075c:30 "/>¶ Adont pristrent \ congié il fu <rhyme>saison</rhyme>
+<lb n="3JUG.075c:31 "/>Et s'en tourna \ chacun en sa <rhyme>maison</rhyme>
+<lb n="3JUG.075c:32 "/>Et<abbr type=" "/><note>this is not the first time we've seen a slight line after 'Et' ; could it be related to public reading ?</note> en escript chacu<abbr type="n"/> mist sa <rhyme>raison</rhyme>
+<lb n="3JUG.075c:33 "/>Pour juge <rhyme>querre</rhyme>
+<lb n="3JUG.075c:34 "/>Après vindrent devers moy po<abbr type="ur"/> <rhyme>enq<abbr type="ue"/>rre</rhyme>
+<lb n="3JUG.075c:35 "/>Le mien advis \ mais pou pourroie <rhyme>acq<abbr type="ue"/>rre</rhyme>
+<lb n="3JUG.075c:36 "/>De complairë \ à l'un po<abbr type="ur"/> avoir <rhyme>guerre</rhyme>
+<lb n="3JUG.075c:37 "/>À la <rhyme>partie</rhyme>
+<lb n="3JUG.075c:38 "/>Adversaire \ pour ce m'en suis <rhyme>partie</rhyme>
+<lb n="3JUG.075c:39 "/>Et autresi <note>tiny space before 'si'</note> \ ne sçay tout ou <rhyme>partie</rhyme>
+<lb n="3JUG.075c:40 "/>De tel debat \ Juger pou <rhyme>app<abbr type="ar"/>tie</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.075d:01 "/>Y suis sans <rhyme>faille</rhyme>
+<lb n="3JUG.075d:02 "/>Pour ce sire \ la charge vous en <rhyme>baille</rhyme>
+<lb n="3JUG.075d:03 "/>Ne couvient ja \ <note>faint small scansion line meets last stroke of 'a'?</note> que querre autre juge <rhyme>aille</rhyme>
+<lb n="3JUG.075d:04 "/>Pour les amans \ car chacun me <rhyme>rebaille</rhyme> <note>improvement over 835: 'Pour les amans, chascun d'eulz me rebaille'</note>
+<lb n="3JUG.075d:05 "/>Povoir du <rhyme>faire</rhyme>
+<lb n="3JUG.075d:06 "/>Si sont d'accort qu'en vous soit de <rhyme>l'affaire</rhyme>
+<lb n="3JUG.075d:07 "/>Car bien scevent \ qu'il n'y a que <rhyme>reffaire</rhyme>
+<lb n="3JUG.075d:08 "/>En vostre bon \ noble cuer qui <rhyme>meffaire</rhyme>
+<lb n="3JUG.075d:09 "/>Ne <rhyme>daigneroit</rhyme>
+<lb n="3JUG.075d:10 "/>¶ Ce jugement \ s'il vous plait selon <rhyme>droit</rhyme>
+<lb n="3JUG.075d:11 "/>Vous jugerés \ et ancor <rhyme>orendroit</rhyme> <note>written as one word</note>
+<lb n="3JUG.075d:12 "/>ii&#x95; autres cas \ diray où il <rhyme>fauldroit</rhyme> <note>'t' bar at the end of 3 lines very long</note>
+<lb n="3JUG.075d:13 "/>Donner <rhyme>sentence</rhyme>
+<lb n="3JUG.075d:14 "/>Et sur vous tout \ en est \ mise la <rhyme>tence</rhyme>
+<lb n="3JUG.075d:15 "/>Et le descort \ or vueil \ <note>slight scansion line attached to 'l'?</note> sans <rhyme>arresta<abbr type="n"/>ce</rhyme>
+<lb n="3JUG.075d:16 "/>Vous raconter \ fust foiblece ou <rhyme><abbr type="con"/>sta<abbr type="n"/>ce</rhyme>
+<lb n="3JUG.075d:17 "/>Ce qu'il <rhyme>avint</rhyme>
+<lb n="3JUG.075d:18 "/>À &#x95;ii&#x95; amans \ beaulx et gens ent<abbr type="re"/> &#x95;<rhyme>xx</rhyme> <note>big boomerang</note>
+<lb n="3JUG.075d:19 "/>Loyaulx et bons \ mais trop le<abbr type="ur"/> <rhyme>mesavi<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075d:20 "/>Par <name ref="Fortune"><c>f</c>ortune</name> dont chacu<abbr type="n"/> d'eulx <rhyme>devi<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075d:21 "/>Morne et <rhyme>pensif</rhyme> <note>cursive correction preparation in margin? check manuscript</note>
+<lb n="3JUG.075d:22 "/><hi rend="cap2">I</hi>l <note>'l' very faint</note> n'a mie des ans \ ancore &#x95; <rhyme>vi</rhyme>&#x95;
+<lb n="3JUG.075d:23 "/>une dame en \ qui tous b<abbr type="ie"/>ns so<abbr type="n"/>t <rhyme>assis</rhyme> <note>is decorated 'I' in line above covering a 'q' at beginning of this line; is the decorated initial a correction, as correction preparation might suggest?</note>
+<lb n="3JUG.075d:24 "/>un chevalier \ amoit sage et <rhyme>rassis</rhyme>
+<lb n="3JUG.075d:25 "/>Jeune et <rhyme>joly</rhyme>
+<lb n="3JUG.075d:26 "/>Et qui toute \ bonne tache ot en <rhyme>li</rhyme>
+<lb n="3JUG.075d:27 "/>Et tout fust il \ mignot cointe &amp; <rhyme>Joli</rhyme> <note>'J' looks like it overwrites a 'p', which is lesson in 835; spontaneous authorial change?</note>
+<lb n="3JUG.075d:28 "/>Oncques ancor \ <note>descends below line</note> faulseté <rhyme>n'amoli</rhyme>
+<lb n="3JUG.075d:29 "/>Son bon <rhyme>courage</rhyme>
+<lb n="3JUG.075d:30 "/>Ce disoit il \ aussi fu belle &amp; <rhyme>sage</rhyme>
+<lb n="3JUG.075d:31 "/>La dame qui \ de cuer et de <rhyme>lengage</rhyme>
+<lb n="3JUG.075d:32 "/>Ere vaillant \ et riche <rhyme>d'eritage</rhyme> <note>835: Vaillant estoit</note>
+<lb n="3JUG.075d:33 "/>Si s'entre <rhyme>amoie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075d:34 "/>Li duy amant \ loyaum<abbr type="en"/>t et <rhyme>clamoie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.075d:35 "/>L'un l'autre amour \ souveraine &amp; ne <rhyme>c<abbr type="re"/>moie<abbr type="n"/>t</rhyme> <note>cf. 75b, esc abbr type="re" mie</note>
+<lb n="3JUG.075d:36 "/>Fors mesdisans \ qui les ama<abbr type="n"/>s <rhyme>esmoye<abbr type="n"/>t</rhyme> <note>'o' corrected on erasure, darker</note>
+<lb n="3JUG.075d:37 "/>Et <rhyme>longuement</rhyme>
+<lb n="3JUG.075d:38 "/>S'entramere<abbr type="n"/>t \ &amp; si <rhyme>secretem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.075d:39 "/>Que de leur fait \ <note>scansion line prolongs long 's' from last word above?</note> ne fu gra<abbr type="n"/>t <rhyme>p<abbr type="ar"/>lem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.075d:40 "/>Si la s<abbr type="er"/>voit \ l'amant <rhyme>songneusem<abbr type="en"/>t</rhyme>
+
+
+<pb ed="r" n="076"/><layout ruledLines="no"/>
+<lb n="3JUG.076r:01 "/><hi rend="red"><fw  type="header1" place="column a" rend="centred">jugemens</fw> <fw type="header2" place="column b" rend="centred">xv&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.076a:01 "/>Comme il <rhyme>devoit</rhyme>
+<lb n="3JUG.076a:02 "/>Et celle qui \ entierem<abbr type="en"/>t <rhyme>savoit</rhyme>
+<lb n="3JUG.076a:03 "/>Que son ami \ loyaument la <rhyme>servoit</rhyme>
+<lb n="3JUG.076a:04 "/>Le sien cuer tout \ entierem<abbr type="en"/>t <rhyme>ravoit</rhyme>
+<lb n="3JUG.076a:05 "/>En lui <rhyme>fichez</rhyme>
+<lb n="3JUG.076a:06 "/>Si souffrirent \ tous &#x95;ii&#x95; <note>diamond-shaped dots, raised</note> mai<abbr type="n"/>s griefs <rhyme>meschefs</rhyme>
+<lb n="3JUG.076a:07 "/>Par trop amer \ qui les ot si <rhyme>fichez</rhyme>
+<lb n="3JUG.076a:08 "/>En grant desir \ qu'ilz furent to<abbr type="us"/> <rhyme>sechez</rhyme>
+<lb n="3JUG.076a:09 "/>De souffrir <rhyme>peine</rhyme>
+<lb n="3JUG.076a:10 "/>Car grant amour \ qui les ama<abbr type="n"/>s <rhyme>demaine</rhyme>
+<lb n="3JUG.076a:11 "/>Trop durement \ mainte dure <rhyme>sepmaine</rhyme> <note>very skinny 'a'</note>
+<lb n="3JUG.076a:12 "/>Leur fist avoir \ car les ama<abbr type="n"/>s à <rhyme>peine</rhyme>
+<lb n="3JUG.076a:13 "/>Et à <rhyme>danger</rhyme>
+<lb n="3JUG.076a:14 "/>S'entrepporent \ vëoir ne de <rhyme>leger</rhyme>
+<lb n="3JUG.076a:15 "/>N'avenoit pas \ souvent car <rhyme>dalmager</rhyme>
+<lb n="3JUG.076a:16 "/>Ne vouloient <note>kind of deliberate-looking wedge over the 'u', is it meaningful with regard to number of syllables ?</note> \ honneur pour <rhyme>alleger</rhyme>
+<lb n="3JUG.076a:17 "/>Leur grant <rhyme>desir</rhyme>
+<lb n="3JUG.076a:18 "/>¶ Car tant fu vray \ l'ama<abbr type="n"/>t q<abbr type="ue"/> mieulx <rhyme>choisir</rhyme>
+<lb n="3JUG.076a:19 "/>Voulsist la mort et tout meschief <rhyme>saisir</rhyme>
+<lb n="3JUG.076a:20 "/>Que <note>the 'ue' written right after 'Q' without the usual space left ; is this a correction ?</note> deshonneur \ ne riens qu'à <rhyme>desplaisir</rhyme>
+<lb n="3JUG.076a:21 "/>Peust ja <rhyme>tourner</rhyme>
+<lb n="3JUG.076a:22 "/>Envers celle \ de qui tel <rhyme>attourner</rhyme>
+<lb n="3JUG.076a:23 "/>Le veult <name ref="Amour"><c>a</c>mours</name> \ qu'il ne savoit <rhyme>tourn<abbr type="er"/></rhyme>
+<lb n="3JUG.076a:24 "/>De nulle part \ où il peust <rhyme>destourner</rhyme>
+<lb n="3JUG.076a:25 "/>Ne mettre <rhyme>jus</rhyme>
+<lb n="3JUG.076a:26 "/>Le grief fardel \ <note>descends below line</note> qu'il porta <note>835: 'portoit'</note> sus &amp; <rhyme>jus</rhyme>
+<lb n="3JUG.076a:27 "/>Et de trop plus \ grieve egreur q<abbr type="ue"/> <rhyme>verjus</rhyme>
+<lb n="3JUG.076a:28 "/>Lui ot amours \ <note>descends below line</note> destrempé \ &amp; <note>very prominent slash, not attack stroke for '&amp;'?, that is not very close to preceding 'e' ; what is its function ?</note> fait <rhyme>jus</rhyme>
+<lb n="3JUG.076a:29 "/>Un divers <rhyme>boire</rhyme>
+<lb n="3JUG.076a:30 "/>Qu'adès avoit \ en cuer et en <rhyme>memoire</rhyme>
+<lb n="3JUG.076a:31 "/>Tant en ot beu \ non en couppe n'en <rhyme>voirre</rhyme>
+<lb n="3JUG.076a:32 "/>Qu'il en fu tout \ rempli c'est chos<abbr type="e"/> <rhyme>voire</rhyme>
+<lb n="3JUG.076a:33 "/>Et <rhyme>enyvré</rhyme>
+<lb n="3JUG.076a:34 "/>Et tel hanap \ ot à celle <rhyme>livré</rhyme> <note>improvement over 835: 'à celle ot relivré'</note>
+<lb n="3JUG.076a:35 "/><name ref="Amour">Loyale <c>a</c>mour</name> \ qui son cuer ot <rhyme>livré</rhyme>
+<lb n="3JUG.076a:36 "/>À si dur point que jamais <rhyme>delivré</rhyme>
+<lb n="3JUG.076a:37 "/>Ne s'en <rhyme>verra</rhyme>
+<lb n="3JUG.076a:38 "/>Car sen <note>sic</note> partir \ en ses las <rhyme>l'enserra</rhyme>
+<lb n="3JUG.076a:39 "/>Amour ferme \ q<abbr type="ui"/> oncques jour <rhyme>n'erra</rhyme>
+<lb n="3JUG.076a:40 "/>Vers <note>'e' partially worn</note> <name ref="Loyauté"><c>l</c>oyauté</name> \ si dit q<abbr type="u"/>'elle <rhyme>querra</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.076b:01 "/>Comment qu'il <rhyme>soit</rhyme> <note>this line on larger scale</note>
+<lb n="3JUG.076b:02 "/>Voye et chemin \ car trop fort <rhyme>l'engoissoit</rhyme>
+<lb n="3JUG.076b:03 "/>Desir de cil \ vëoir qui la <rhyme>pressoit</rhyme>
+<lb n="3JUG.076b:04 "/>Qu'il la veïst \ et ainsi <rhyme>l'oppressoit</rhyme>
+<lb n="3JUG.076b:05 "/>De toutes <rhyme>pars</rhyme>
+<lb n="3JUG.076b:06 "/><name ref="Amour">Amours</name> <name ref="Desir"><c>d</c>esir</name> \ <note>descends below line</note> ancor plus les &#x95;ii&#x95; <rhyme>pars</rhyme>
+<lb n="3JUG.076b:07 "/>Le vray amant \ dont souve<abbr type="n"/>t les <rhyme>espars</rhyme>
+<lb n="3JUG.076b:08 "/>De ses <note>these 2 words partly overwritten in darker ink</note> doulx yeulx \ sur elle ere<abbr type="n"/>t <rhyme>espars</rhyme>
+<lb n="3JUG.076b:09 "/>¶ Si n'en pot <rhyme>plus</rhyme>
+<lb n="3JUG.076b:10 "/>Celle souffrir \ en qui ot amours <rhyme>plus</rhyme>
+<lb n="3JUG.076b:11 "/>Qu'en nul autre \ <note>descends below line</note> tout fut son corps <rhyme>recl<abbr type="us"/></rhyme>
+<lb n="3JUG.076b:12 "/>Par fel danger \ qui rent ama<abbr type="n"/>s <rhyme><abbr type="con"/>clus</rhyme>
+<lb n="3JUG.076b:13 "/>Et <rhyme>desconfis</rhyme>
+<lb n="3JUG.076b:14 "/>Tant l'estraignoit \ <name ref="Cupid"><c>c</c>upido</name> <name ref="">d'amo<abbr type="ur"/>s <rhyme>filz</rhyme></name>
+<lb n="3JUG.076b:15 "/>Qu'elle äouroit \ plus que le <rhyme>crucefix</rhyme>
+<lb n="3JUG.076b:16 "/>¶ Qu'elle trouva \ fust do<abbr type="m"/>mage ou <rhyme>p<abbr type="ro"/>uffis</rhyme>
+<lb n="3JUG.076b:17 "/>Au par <rhyme>aler</rhyme> <note>Roy writes 'paraler' v. 768, </note><note>Altmann also, but they're clearly separate here</note>
+<lb n="3JUG.076b:18 "/>Voye comment \ <note>descends below line</note> à cellui peust <rhyme>parler</rhyme>
+<lb n="3JUG.076b:19 "/>Que <note>left part of 'Q' darker: more ink in quill?</note> tant amoit qu'el ne pouoit <rhyme>celer</rhyme>
+<lb n="3JUG.076b:20 "/>La grant amour \ qui <note>'l' erased after 'qui ?</note> faisoit <rhyme>affoller</rhyme>
+<lb n="3JUG.076b:21 "/>Son <note>middle of 'S' darker</note> cuer sans <rhyme>doubte</rhyme>
+<lb n="3JUG.076b:22 "/>Car qui d'amours affolle ne voit <rhyme>goute</rhyme>
+<lb n="3JUG.076b:23 "/>Ne nul peril ne meschef ne <rhyme>redoubte</rhyme>
+<lb n="3JUG.076b:24 "/>Ainsi celle \ qui à l'amant fu <rhyme>toute</rhyme>
+<lb n="3JUG.076b:25 "/>Tant y mist <rhyme>peine</rhyme>
+<lb n="3JUG.076b:26 "/>Qu'à son ami \ plus d'u<abbr type="n"/> jour la <rhyme>sepmaine</rhyme>
+<lb n="3JUG.076b:27 "/>Sans le sceü \ de personne <rhyme>mondaine</rhyme>
+<lb n="3JUG.076b:28 "/>Parloit souvent \ tout fust de päo<abbr type="ur"/> <rhyme>plaine</rhyme>
+<lb n="3JUG.076b:29 "/>Et de grant <rhyme>crainte</rhyme>
+<lb n="3JUG.076b:30 "/>Pour les perilz \ qui avienne<abbr type="n"/>t à <rhyme>mai<abbr type="n"/>te</rhyme>
+<lb n="3JUG.076b:31 "/>En si fait cas \ quant la chose est <rhyme>atai<abbr type="n"/>te</rhyme>
+<lb n="3JUG.076b:32 "/>Mais non pourtant tant fu d'amo<abbr type="ur"/> <rhyme><abbr type="con"/>t<abbr type="ra"/>inte</rhyme>
+<lb n="3JUG.076b:33 "/>Qu'elle <rhyme>oublïoit</rhyme>
+<lb n="3JUG.076b:34 "/>Tout le meschief \ qu'avenir lui <rhyme>pouoit</rhyme>
+<lb n="3JUG.076b:35 "/>¶ Ainsi souvent \ son doulx ami <rhyme>vëoit</rhyme>
+<lb n="3JUG.076b:36 "/>Si lui dura sicomme elle <rhyme>disoit</rhyme>
+<lb n="3JUG.076b:37 "/>Tout un <rhyme>esté</rhyme>
+<lb n="3JUG.076b:38 "/>Ce très doulx \ te<abbr type="m"/>ps mais <name ref="Fortune"><c>f</c>ortune</name> <rhyme>app<abbr type="re"/>sté</rhyme>
+<lb n="3JUG.076b:39 "/>A mains meschiefs aux ama<abbr type="n"/>s &amp; <rhyme>esté</rhyme>
+<lb n="3JUG.076b:40 "/>Leur contraire et souve<abbr type="n"/>t a <rhyme>arresté</rhyme>
+
+
+<pb ed="v" n="076"/><layout ruledLines="no"/>
+<lb n="3JUG.076v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="centred">Le</fw> <fw type="header2" place="column c" rend="tabbed">Livre</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.076c:01 "/>Tous les <rhyme>depors</rhyme>
+<lb n="3JUG.076c:02 "/>¶ Ainsi adonc \ <note>descends to next line</note> par desloyaulx <rhyme>rappors</rhyme>
+<lb n="3JUG.076c:03 "/>Sçot le mari \ d'icelle les <rhyme>accors</rhyme>
+<lb n="3JUG.076c:04 "/>Des &#x95;ii&#x95; amans \ tout le fait et les <rhyme>ports</rhyme>
+<lb n="3JUG.076c:05 "/>Le lieu la <rhyme>place</rhyme>
+<lb n="3JUG.076c:06 "/>Où moult souvent \ à qui qu'il en <rhyme>desplace</rhyme>
+<lb n="3JUG.076c:07 "/>S'assembloient \ si dit qu'il fault q<abbr type="u'i"/>l <rhyme>face</rhyme>
+<lb n="3JUG.076c:08 "/>Tant que tous ii&#x95; les treuve face à <rhyme>face</rhyme>
+<lb n="3JUG.076c:09 "/>Comment qu'il <rhyme>aille</rhyme>
+<lb n="3JUG.076c:10 "/>Dont le mari \ qui fu de laide <rhyme>taille</rhyme>
+<lb n="3JUG.076c:11 "/>Në en bonté \ ne valoit une <rhyme>maille</rhyme>
+<lb n="3JUG.076c:12 "/>Tant se muça \ ou en foing ou en <rhyme>paille</rhyme>
+<lb n="3JUG.076c:13 "/>Qu'il <rhyme>esprouva</rhyme>
+<lb n="3JUG.076c:14 "/>La verité / et tous &#x95;ii&#x95; les <rhyme>trouva</rhyme>
+<lb n="3JUG.076c:15 "/>En lieu secret \ mais l'ama<abbr type="n"/>t b<abbr type="ie"/>n <rhyme>sauva</rhyme>
+<lb n="3JUG.076c:16 "/>L'onneur d'elle \ par ce qu'il <rhyme>controuva</rhyme>
+<lb n="3JUG.076c:17 "/>Bonne <rhyme>excusance</rhyme>
+<lb n="3JUG.076c:18 "/>Qu'il avoit loy \ <note>descends to next line</note> juste cause et <rhyme>aysance</rhyme>
+<lb n="3JUG.076c:19 "/>Dë y parler \ <note>descends below line</note> ja n'en eust <rhyme>desplaisance</rhyme>
+<lb n="3JUG.076c:20 "/>Et là trouva \ cas juste ou la <rhyme>semblance</rhyme>
+<lb n="3JUG.076c:21 "/>Par quoy <rhyme>raison</rhyme>
+<lb n="3JUG.076c:22 "/>Ot de <add evidence="" place="supralinear" type="">y</add> parler \ en ycelle <note>'y' slash like sideways 's' ; the 'y' seems written on erasure</note> <rhyme>maison</rhyme>
+<lb n="3JUG.076c:23 "/>Si n'i ot mal \ <note>little scribbles around here, check manuscript</note> peché ne <rhyme>desraison</rhyme>
+<lb n="3JUG.076c:24 "/>Ja n'en doubtast \ car en nulle <rhyme>saison</rhyme>
+<lb n="3JUG.076c:25 "/>Ne vouldroit <note>bowl of 'd' lighter</note> <rhyme>faire</rhyme>
+<lb n="3JUG.076c:26 "/>Ce disoit il Riens <note>'R' has long attack stroke; doubles as scansion line?</note> qui lui deust <rhyme>desplaire</rhyme>
+<lb n="3JUG.076c:27 "/>¶ Et le mari \ pour sa deshonne<abbr type="ur"/> <rhyme>taire</rhyme> <note>note gender of 'deshonneur'</note>
+<lb n="3JUG.076c:28 "/>Faisoit semblant \ quoy q<abbr type="u'i"/>l creust au <rhyme><abbr type="contra"/>ire</rhyme>
+<lb n="3JUG.076c:29 "/>Qu'il creoit <rhyme>bien</rhyme>
+<lb n="3JUG.076c:30 "/>Ce qu'il disoit \ mais oncq<abbr type="ue"/>s puis n'ot <rhyme>b<abbr type="ie"/>n</rhyme>
+<lb n="3JUG.076c:31 "/>L a <note>'a' a correction</note> doulante \ car lors sur toute <rhyme>rien</rhyme>
+<lb n="3JUG.076c:32 "/>Lui deffendi \ cellui de mal <rhyme>merrien</rhyme>
+<lb n="3JUG.076c:33 "/>Que bien <rhyme>gardast</rhyme>
+<lb n="3JUG.076c:34 "/>Que jamais jour \ en place <rhyme>n'arrestast</rhyme>
+<lb n="3JUG.076c:35 "/>Où cellui fust \ et que ja ne <rhyme>doubtast</rhyme>
+<lb n="3JUG.076c:36 "/>Que la vie \ du corps ne lui <rhyme>otast</rhyme>
+<lb n="3JUG.076c:37 "/><rhyme>S'appercevoir</rhyme>
+<lb n="3JUG.076c:38 "/>Jamais <add evidence="" place="supralinear" type="">nul jour</add> <note>indicated by caret</note> par sens ne par <rhyme>savoir</rhyme> <note>835: 'Pouoit jamais par sens...', v. 828</note>
+<lb n="3JUG.076c:39 "/>Qu'à lui parlast \ po<abbr type="ur"/> nul cas <rhyme>recevoir</rhyme>
+<lb n="3JUG.076c:40 "/>Lui feroit mort ce lui faisoit <rhyme>savoir</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.076d:01 "/>Par grant <rhyme>promesse</rhyme>
+<lb n="3JUG.076d:02 "/>¶ Or fu tourné en dolente <rhyme>tristesse</rhyme>
+<lb n="3JUG.076d:03 "/>L'amoureux temps \ qui tenoit en <rhyme>léece</rhyme>
+<lb n="3JUG.076d:04 "/>Les &#x95;ii&#x95; amans \ or ne voyent <rhyme>adresce</rhyme>
+<lb n="3JUG.076d:05 "/>Par nulle <rhyme>voye</rhyme>
+<lb n="3JUG.076d:06 "/>De jamais jour \ avoir solas ne <rhyme>joye</rhyme>
+<lb n="3JUG.076d:07 "/>Tant ont douleur \ q<abbr type="ue"/> vivre leur <rhyme>anoye</rhyme>
+<lb n="3JUG.076d:08 "/>Ne leurs piteus \ regrais to<abbr type="us"/> ne <rhyme>saroye</rhyme>
+<lb n="3JUG.076d:09 "/>Compter ne <rhyme>dire</rhyme>
+<lb n="3JUG.076d:10 "/>Ne le dur temps \ ne le crüeux <rhyme>martire</rhyme>
+<lb n="3JUG.076d:11 "/>Que la lasse \ dame ot / car tire à <rhyme>tire</rhyme>
+<lb n="3JUG.076d:12 "/>Son dolent cuer \ fondoit co<abbr type="m"/>me la <rhyme>cire</rhyme>
+<lb n="3JUG.076d:13 "/>En pleurs et <rhyme>larmes</rhyme>
+<lb n="3JUG.076d:14 "/>Mais non <note>long attack stroke on first 'n'</note> obstant \ <note>rising final stroke of 't' for scansion line ?</note> toudis consta<abbr type="n"/>s &amp; <rhyme>fermes</rhyme> <note>rising 's'</note>
+<lb n="3JUG.076d:15 "/>Fu son las cuer \ en amours / do<abbr type="n"/>t li <rhyme>termes</rhyme>
+<lb n="3JUG.076d:16 "/>Estoit la mort \ <add evidence="" place="supralinear" type="">n</add>'attendre <note>caret</note> aut<abbr type="re"/>s <rhyme>armes</rhyme> <note>835 lacks 'n' before 'attendre'</note>
+<lb n="3JUG.076d:17 "/>N'avoit <rhyme>d'espoir</rhyme>
+<lb n="3JUG.076d:18 "/>Qui gardassent \ encontre <rhyme>desespoir</rhyme>
+<lb n="3JUG.076d:19 "/>Son dolente <note>final 'e' expunctuated</note> cuer \ <note>descends below line</note> et choite y fust à <rhyme>poir</rhyme>
+<lb n="3JUG.076d:20 "/>Se grant raison \ qui en a le <rhyme>povoir</rhyme>
+<lb n="3JUG.076d:21 "/>Ne l'eust <rhyme>gardée</rhyme>
+<lb n="3JUG.076d:22 "/>Et le dolent \ ama<abbr type="n"/>t d'autel <rhyme>souldée</rhyme>
+<lb n="3JUG.076d:23 "/>Refu payé<add evidence="" place="supralinear" type="">s</add> <note>truncated rising 's' added over middle of 'e'</note> \ mais trop griefm<abbr type="en"/>t <rhyme>fraudée</rhyme>
+<lb n="3JUG.076d:24 "/>Fu la lasse \ plus loyal q<abbr type="ue"/> <name ref="Medea"><rhyme><c>m</c>edée</rhyme></name>
+<lb n="3JUG.076d:25 "/>De ce que <rhyme>point</rhyme>
+<lb n="3JUG.076d:26 "/>N'osoit faire \ semblant p<abbr type="ar"/> nesun <rhyme>poi<abbr type="n"/>t</rhyme>
+<lb n="3JUG.076d:27 "/>Du mal amer \ qui si au cuer la <rhyme>poi<abbr type="n"/>t</rhyme>
+<lb n="3JUG.076d:28 "/>Dont moult \ souvent se mettoit en tel <rhyme>poi<abbr type="n"/>t</rhyme>
+<lb n="3JUG.076d:29 "/>Quant seule <rhyme>estoit</rhyme>
+<lb n="3JUG.076d:30 "/>Qu'à pou ses jours \ et sa vie <rhyme>hastoit</rhyme>
+<lb n="3JUG.076d:31 "/>Et son cler vis \ tout de lermes <rhyme>gastoit</rhyme>
+<lb n="3JUG.076d:32 "/>Mais en ce plour \ <note>descends below line</note> moult<abbr type=" "/>petit <rhyme>acquestoit</rhyme> <note>835: 'conquestoit'</note>
+<lb n="3JUG.076d:33 "/>Car n'y ot <rhyme>tour</rhyme>
+<lb n="3JUG.076d:34 "/>De son ami \ vëoir car une <rhyme>tour</rhyme>
+<lb n="3JUG.076d:35 "/>Forte de mur \ et close d'eaue au <rhyme>tour</rhyme>
+<lb n="3JUG.076d:36 "/>Bien la gardoit \ n'il n'y avoit <rhyme>destour</rhyme>
+<lb n="3JUG.076d:37 "/>Ne voye <rhyme>aucune</rhyme>
+<lb n="3JUG.076d:38 "/>Fust en secret \ ou en voye <rhyme>commune</rhyme>
+<lb n="3JUG.076d:39 "/>De lui vëoir \ ne maniere <rhyme>nesune</rhyme>
+<lb n="3JUG.076d:40 "/>Dont moult souvent ploura<abbr type="n"/>t seule <note>corrected on erasure, straighter</note> à la <rhyme>lune</rhyme>
+<!-- 'se |com|plaignoit', catchword in lighter brown ink, more rapid cursive; centred beneath second column -->
+
+
+<pb ed="r" n="077"/><layout ruledLines="no"/>
+<lb n="3JUG.077r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">des</fw> <fw type="header2" place="column a" rend="tabbed" >trois</fw> <fw type="header3" place="column b" rend="centred"><c>J</c>ugemens</fw> <fw type="header4" place="column b" rend="tabbed" >xv&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.077a:01 "/>Se <rhyme>complaignoit</rhyme> <note>writing slightly larger and straighter than following lines</note>
+<lb n="3JUG.077a:02 "/>À vraye amour \ qui si la <rhyme>destraignoit</rhyme>
+<lb n="3JUG.077a:03 "/>¶ Et d'autre part \ l'amant ne s'i <rhyme>faignoit</rhyme>
+<lb n="3JUG.077a:04 "/>Ains en griefs plours \ le dolent tout <rhyme>baignoit</rhyme>
+<lb n="3JUG.077a:05 "/>En <rhyme>regraitant</rhyme>
+<lb n="3JUG.077a:06 "/>La belle qui \ de savoureux biens <rhyme>ta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077a:07 "/>Faire lui seust \ ore en a / <note>the a' is prolonged in an unusual upward stroke, and the following 'autre' appropriately spaced ; what is the function of that upstroke ?</note> autre <rhyme>tant</rhyme>
+<lb n="3JUG.077a:08 "/>De griefs doulours \ dont s'en va <rhyme>guerme<abbr type="n"/>ta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077a:09 "/><rhyme>Piteusement</rhyme>
+<lb n="3JUG.077a:10 "/>Mais non pourtant \ enquist <rhyme>songneusem<abbr type="en"/>t</rhyme> <note>Roy ed. : 'soigneusement'</note>
+<lb n="3JUG.077a:11 "/>D'elle en secret \ et <rhyme>päoureusement</rhyme>
+<lb n="3JUG.077a:12 "/>Que le mari \ nel sceut \ <note>function of this slash ?; following word is not too close</note><note>'l sceut' corrected on erasure</note> <rhyme>aucunement</rhyme>
+<lb n="3JUG.077a:13 "/>Et par <rhyme>message</rhyme>
+<lb n="3JUG.077a:14 "/>Bon et secret \ loyal ami et <rhyme>sage</rhyme> <note>last 3 words lighter, perhaps erased</note>
+<lb n="3JUG.077a:15 "/>Lui escripsoit \ souventes fois la <rhyme>rage</rhyme>
+<lb n="3JUG.077a:16 "/>Où ot esté \ puis que son doulx <rhyme>visage</rhyme>
+<lb n="3JUG.077a:17 "/>Et son gent <rhyme>corps</rhyme>
+<lb n="3JUG.077a:18 "/>Ne pot vëoir \ dont moult divers <rhyme>acors</rhyme>
+<lb n="3JUG.077a:19 "/>Font en son cuer \ <name ref="Desir"><c>d</c>esir</name> et les <rhyme>recors</rhyme>
+<lb n="3JUG.077a:20 "/>Des doulx soulas \ dont lui souvie<abbr type="n"/>t <rhyme>ancors</rhyme> <note>cf. le Chastelain de Coucy, ch. IV ?, et La Chastelaine de Vergy ?</note>
+<lb n="3JUG.077a:21 "/>Qu'il a <rhyme>perdus</rhyme>
+<lb n="3JUG.077a:22 "/>Si s'en treuve \ dolent mate <rhyme>esperdus</rhyme> <note>first 'e' appears corrected on erasure, large space between last 2 words</note>
+<lb n="3JUG.077a:23 "/>Et à tous jours \ yert du tout <rhyme>confondus</rhyme>
+<lb n="3JUG.077a:24 "/>S'il ne la voit \ et deust estre <rhyme>pendus</rhyme>
+<lb n="3JUG.077a:25 "/>Fault qu'il la <rhyme>voye</rhyme>
+<lb n="3JUG.077a:26 "/>¶ <note>double line between 2 PMs, classic preparation sign?</note> Et par escript \ tel complaint lui <rhyme>envoye</rhyme>
+<lb n="3JUG.077a:27 "/>¶ Dame sans per le chemin et la <rhyme>voye</rhyme>
+<lb n="3JUG.077a:28 "/>Qui à vië \ ou à mort me <rhyme>convoye</rhyme>
+<lb n="3JUG.077a:29 "/>Tout mon <rhyme>desir</rhyme>
+<lb n="3JUG.077a:30 "/>Tout mon espoir \ sans qui je n'ay <rhyme>plaisir</rhyme>
+<lb n="3JUG.077a:31 "/>Celle qu'<name ref="Amour"><c>a</c>mours</name> <add evidence="" place="supralinear" type="">de</add> <note>caret</note> sur toutes <rhyme>choisir</rhyme>
+<lb n="3JUG.077a:32 "/>En remirant vo beauté à <rhyme>loisir</rhyme>
+<lb n="3JUG.077a:33 "/>Me fist ma <rhyme>dame</rhyme>
+<lb n="3JUG.077a:34 "/>Sage vaillant <note>slightly down stroke at end of 't', perhaps scansion line?</note> bonne sur toute <rhyme>fame</rhyme> <note>'rime pour l'oeil'; 835 has 'femme'</note>
+<lb n="3JUG.077a:35 "/>Que j'aim et sers \ et obeÿs par <rhyme>m'ame</rhyme>
+<lb n="3JUG.077a:36 "/>Plus qu'autre riens \ ne ne pourroit pl<abbr type="us"/> <rhyme>ame</rhyme>
+<lb n="3JUG.077a:37 "/>Amer <rhyme>maistrece</rhyme>
+<lb n="3JUG.077a:38 "/>Que je fais vous \ si oyez la <rhyme>destresse</rhyme>
+<lb n="3JUG.077a:39 "/>Où Je demour <note>6 wavy lines, last 2 words corrected on erasure, writing straighter; other manuscripts have 'suis pour vous' here</note> qui si le cuer <rhyme>maistrece</rhyme>
+<lb n="3JUG.077a:40 "/>Que je n'y voy fors de la mort <rhyme>l'adrece</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.077b:01 "/>Se ne vous <rhyme>voy</rhyme> <note>two huge tops of 'v' intersect in upper margin; dotted 'y', writing of this line slightly larger and straighter</note>
+<lb n="3JUG.077b:02 "/>Ma doulce amour \ et tout vif me <rhyme>desvoy</rhyme>
+<lb n="3JUG.077b:03 "/>Quant je pense \ qu'ay perdu le <note>'le' perhaps corrected on erasure</note> <rhyme>convoy</rhyme> <note>rhyme-words provide good examples of exuberant tails on four successive 'y's</note>
+<lb n="3JUG.077b:04 "/>De vo doulx oeil \ quant m'en souvient <rhyme>avoy</rhyme>
+<lb n="3JUG.077b:05 "/>Je muir de <rhyme>dueil</rhyme>
+<lb n="3JUG.077b:06 "/>Belle plaisant \ de ma joye le <rhyme>sueil</rhyme>
+<lb n="3JUG.077b:07 "/>Mon paradis \ terrestre autre ne <rhyme>vueil</rhyme>
+<lb n="3JUG.077b:08 "/>Reconforter \ le mal que je <rhyme>recueil</rhyme>
+<lb n="3JUG.077b:09 "/>Vous plaise <rhyme>helas</rhyme>
+<lb n="3JUG.077b:10 "/>Et que fera \ mon doulereux cuer <rhyme>las</rhyme>
+<lb n="3JUG.077b:11 "/>Sanz vous vëoir \ mon gracïeux <rhyme>soulas</rhyme>
+<lb n="3JUG.077b:12 "/>Belle bonne \ qui me tient en ses <rhyme>las</rhyme>
+<lb n="3JUG.077b:13 "/>Or mettez <rhyme>peine</rhyme>
+<lb n="3JUG.077b:14 "/>Que vous voye \ ma dame <rhyme>souveraine</rhyme> <note>' souveraine' counts three syllables feminine</note>
+<lb n="3JUG.077b:15 "/>S'il peut estre \ car je vous <rhyme>acertaine</rhyme>
+<lb n="3JUG.077b:16 "/>Que grant desir \ à desespoir me <rhyme>meine</rhyme>
+<lb n="3JUG.077b:17 "/>Tant me <rhyme>destraint</rhyme>
+<lb n="3JUG.077b:18 "/>Et pour ce suis \ du requerir <rhyme>contrai<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077b:19 "/>Mais non pour tant \ mieulx vouldroie est<abbr type="re"/> <rhyme>estrai<abbr type="n"/>t</rhyme> <note>parchment must be very thin here; writing of last 3 words fuzzy, as is that end of line below and that of next line, and those of third and fourth after and sevent to ninth after</note>
+<lb n="3JUG.077b:20 "/>Jusqu'à la mort \ <note>descends below line</note> que cil qui a <rhyme>restraint</rhyme>
+<lb n="3JUG.077b:21 "/>Noz doulx <rhyme>deduis</rhyme>
+<lb n="3JUG.077b:22 "/>C'est le jaloux \ de tout mal faire <rhyme>aduis</rhyme>
+<lb n="3JUG.077b:23 "/>Apperceüst \ qu'à vous servir suis <rhyme>duis</rhyme>
+<lb n="3JUG.077b:24 "/>Ne qu'en appert \ ou en aucuns <rhyme>reduis</rhyme>
+<lb n="3JUG.077b:25 "/>À vous <rhyme>parlasse</rhyme>
+<lb n="3JUG.077b:26 "/>Non pas pour tant \ que riens je le <rhyme>doubtasse</rhyme>
+<lb n="3JUG.077b:27 "/>Mais tout pour vous \ dame qui toutes <rhyme>passe</rhyme>
+<lb n="3JUG.077b:28 "/>De qui je vueil \ l'onneur en toute <rhyme>place</rhyme>
+<lb n="3JUG.077b:29 "/>Tout mon <rhyme>vivant</rhyme>
+<lb n="3JUG.077b:30 "/>Garder cherir \ mieulx mourir en <rhyme>viva<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077b:31 "/>Vueil pour amer \ que ce qu'aille <rhyme>estriva<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077b:32 "/>À vostre honneur \ dame à qui suis <note>these two words connected</note> <rhyme>s<abbr type="er"/>va<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077b:33 "/>Me <rhyme>pardonnez</rhyme>
+<lb n="3JUG.077b:34 "/>Se j'ay requis \ secours car <rhyme>certenez</rhyme> <note>'s', perhaps corrected to 'z', erased after 'certe' then dash joined to 'nez', correction from 'certes nez' written in error?</note>
+<lb n="3JUG.077b:35 "/>Suis que par vous \ ne peut \ <note>'peut' corrected on erasure; larger and straighter</note> estre <rhyme>do<abbr type="n"/>nez</rhyme>
+<lb n="3JUG.077b:36 "/>À moy qui suis \ à grant meschief <rhyme>menez</rhyme>
+<lb n="3JUG.077b:37 "/>Mais plus me <rhyme>poyse</rhyme>
+<lb n="3JUG.077b:38 "/>De vostre mal \ doulce dame <rhyme>courtoise</rhyme>
+<lb n="3JUG.077b:39 "/>Que du tourment \ qui griefm<abbr type="en"/>t me <rhyme>poyse</rhyme>
+<lb n="3JUG.077b:40 "/>Car Je <note>large bottom loop on 'i'</note> sçay b<abbr type="ie"/>n \ q<abbr type="ue"/> sans mener g<abbr type="ra"/>nt <rhyme>noise</rhyme>
+
+
+<pb ed="v" n="077"/><layout ruledLines="no"/>
+<lb n="3JUG.077v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column c" rend="tabbed">Livre</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="42"/>
+<lb n="3JUG.077c:01 "/>Grant <note>ornate 'G'</note> dueil <rhyme>portez</rhyme>
+<lb n="3JUG.077c:02 "/>Ne quë en riens \ vous ne vous <rhyme>deportez</rhyme>
+<lb n="3JUG.077c:03 "/>Sans moy vëoir \ dont vous vous <rhyme>depportez</rhyme>
+<lb n="3JUG.077c:04 "/>À grant peine car vo cuer <rhyme>rapportez</rhyme>
+<lb n="3JUG.077c:05 "/>À <rhyme>léauté</rhyme>
+<lb n="3JUG.077c:06 "/>Que vous porter <note>sic</note> en <note>'porter' and 'en' corrected on erasure, double space before 'en' and filler dash after</note> <rhyme>especïaulté</rhyme> <note>fr. 835; Qui vous conduit en esp.' v. 957</note>
+<lb n="3JUG.077c:07 "/>Car sur toutes \ portez la <rhyme>royaulté</rhyme>
+<lb n="3JUG.077c:08 "/>De vaillance \ d'onneur et de <rhyme>beauté</rhyme>
+<lb n="3JUG.077c:09 "/>Qui vous <rhyme>conduit</rhyme>
+<lb n="3JUG.077c:10 "/>Et tous les biens \ font en vous le<abbr type="ur"/> <rhyme>reduit</rhyme>
+<lb n="3JUG.077c:11 "/>Si ne pourriés \ pour loyauté q<abbr type="ui"/> <rhyme>duit</rhyme>
+<lb n="3JUG.077c:12 "/>Vostre bon cuer \ joye avoir ne <rhyme>deduit</rhyme>
+<lb n="3JUG.077c:13 "/>Sans vostre <rhyme>ami</rhyme>
+<lb n="3JUG.077c:14 "/>Mais je vous pri \ belle pour qui <rhyme>gemy</rhyme>
+<lb n="3JUG.077c:15 "/>Que vous vueillés \ tout pour l'amo<abbr type="ur"/> de <rhyme>my</rhyme>
+<lb n="3JUG.077c:16 "/>Reconforter \ vo cuer qui sans <rhyme>demy</rhyme>
+<lb n="3JUG.077c:17 "/>Est trestout <rhyme>mien</rhyme>
+<lb n="3JUG.077c:18 "/>Et esperer \ qu'encor arons du <rhyme>b<abbr type="ie"/>n</rhyme>
+<lb n="3JUG.077c:19 "/>Mau gré le faulx \ jalous desloyal <rhyme>chien</rhyme>
+<lb n="3JUG.077c:20 "/>Car par souffrir \ bonnem<abbr type="en"/>t vo<abbr type="us"/> di <rhyme>bien</rhyme>
+<lb n="3JUG.077c:21 "/>Le <rhyme>gaignerons</rhyme>
+<lb n="3JUG.077c:22 "/>Et l'eust juré \ nous nous <rhyme>entramerons</rhyme>
+<lb n="3JUG.077c:23 "/>Et à grant joyë ancor nous <rhyme>verrons</rhyme>
+<lb n="3JUG.077c:24 "/>Et noz douleurs \ doulcem<abbr type="en"/>t <rhyme>portero<abbr type="n"/>s</rhyme>
+<lb n="3JUG.077c:25 "/>En <rhyme>esperant</rhyme>
+<lb n="3JUG.077c:26 "/>Si ne diray \ <note>last stroke of 'y' extends up, perhaps scansion line</note> plus que j'aille <rhyme>moura<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077c:27 "/>Pour vous belle \ de qui en <rhyme>desirant</rhyme>
+<lb n="3JUG.077c:28 "/>Nomme le nom \ souve<abbr type="n"/>t en <rhyme>souspira<abbr type="n"/>t</rhyme>
+<lb n="3JUG.077c:29 "/>Et vous <rhyme>tenez</rhyme>
+<lb n="3JUG.077c:30 "/>Joyeusement \ mais toudis <rhyme>maintenez</rhyme>
+<lb n="3JUG.077c:31 "/>Foy loyauté \ ne moy qui suis <rhyme>penez</rhyme>
+<lb n="3JUG.077c:32 "/>Point n'oublïez \ s'ainsi vous <rhyme>ordenez</rhyme>
+<lb n="3JUG.077c:33 "/>Mieulx en <rhyme>vauldrés</rhyme>
+<lb n="3JUG.077c:34 "/>N'envers amours \ en riens ne <rhyme>deffauldrés</rhyme>
+<lb n="3JUG.077c:35 "/>Ainçois à voz \ desirs trop moi<abbr type="n"/>s <note>'moins corrected on erasure</note> <rhyme>fauldrés</rhyme>
+<lb n="3JUG.077c:36 "/>Par joye avoir \ car par ce vous <rhyme>perdrés</rhyme>
+<lb n="3JUG.077c:37 "/>Le faulx <rhyme>agait</rhyme>
+<lb n="3JUG.077c:38 "/>Du desloyal \ mari qui en <rhyme>agait</rhyme>
+<lb n="3JUG.077c:39 "/>Est sans cesser \ car po<abbr type="ur"/> ce qu'en <rhyme>dehait</rhyme>
+<lb n="3JUG.077c:40 "/>Vous voit toudis \ à <note>stroke after 'a'; not clear whether it is new or just thin end of 'p' above</note> vo<abbr type="us"/> gaiter ne <rhyme>lait</rhyme>
+<lb n="3JUG.077c:41 "/>Ne jour ne <rhyme>nuit</rhyme>
+<lb n="3JUG.077c:42 "/>Si conforter \ <note>goes below line</note> le mal qui si vo<abbr type="us"/> <rhyme>nuit</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="42"/>
+<lb n="3JUG.077d:01 "/>En moy amant \ ne ja ne vous <rhyme>ennuit</rhyme>
+<lb n="3JUG.077d:02 "/>Un peu de temps \ qui ne demain <rhyme>n'ennuyt</rhyme>
+<lb n="3JUG.077d:03 "/>Ne <rhyme>passera</rhyme>
+<lb n="3JUG.077d:04 "/>Ma doulce amour \ où mon cuer <rhyme>pensera</rhyme>
+<lb n="3JUG.077d:05 "/>Tout mon vivant ne ja ne <rhyme>cessera</rhyme>
+<lb n="3JUG.077d:06 "/>De vous amer \ tant que <rhyme>trespassera</rhyme>
+<lb n="3JUG.077d:07 "/>L'ame du <rhyme>cors</rhyme>
+<lb n="3JUG.077d:08 "/>Cent mile fois \ et plus mes doulx <rhyme>depors</rhyme>
+<lb n="3JUG.077d:09 "/>Me recommand \ à vous et aux <rhyme>recors</rhyme>
+<lb n="3JUG.077d:10 "/>Doulx amoureux \ q<abbr type="ue"/> vous arés <rhyme>ancors</rhyme>
+<lb n="3JUG.077d:11 "/>De voz <rhyme>amours</rhyme>
+<lb n="3JUG.077d:12 "/>Et prie à <name ref="God"><c>d</c>ieu</name> \ par devotes <rhyme>clamours</rhyme>
+<lb n="3JUG.077d:13 "/>Que vo gent corps \ garni de bonnes <note>rising 's'</note> <rhyme>mours</rhyme>
+<lb n="3JUG.077d:14 "/>En ce monde \ <note>short line descends from curve of 'e'</note> face lonc temps <rhyme>demours</rhyme>
+<lb n="3JUG.077d:15 "/>Par bonne <rhyme>vie</rhyme>
+<lb n="3JUG.077d:16 "/>Et puis après \ vostre ame soit <rhyme>ravie</rhyme>
+<lb n="3JUG.077d:17 "/>Avecques <name ref="God"><c>d</c>ieu \ oû ciel</name> où n'a <rhyme>envie</rhyme>
+<lb n="3JUG.077d:18 "/>Et de tous biens \ <note>goes below line</note> vous soiez <rhyme>assouvie</rhyme>
+<lb n="3JUG.077d:19 "/>À tous jours <rhyme>mais</rhyme>
+<lb n="3JUG.077d:20 "/>¶ Ainsi l'amant servi de divers <rhyme>mets</rhyme>
+<lb n="3JUG.077d:21 "/>Reconfortoit \ sa belle dame <rhyme>mais</rhyme>
+<lb n="3JUG.077d:22 "/>En son las cuer \ tous maulx fure<abbr type="n"/>t <rhyme>remais</rhyme>
+<lb n="3JUG.077d:23 "/>Et puis la <rhyme>belle</rhyme>
+<lb n="3JUG.077d:24 "/>Qui conforter \ po<abbr type="ur"/> nesune <rhyme>nouvelle</rhyme>
+<lb n="3JUG.077d:25 "/>L'amoureux mal \ <note>scansion line descends from tip of 'l' curve</note> qui dessoubs la <rhyme>mamelle</rhyme>
+<lb n="3JUG.077d:26 "/>Trop l'engoissoit \ ne pot \ adoncq<abbr type="ue"/>s <rhyme>celle</rhyme>
+<lb n="3JUG.077d:27 "/>Lui <rhyme>rescripsoit</rhyme>
+<lb n="3JUG.077d:28 "/>Piteusement \ et ainsi <rhyme>devisoit</rhyme>
+<lb n="3JUG.077d:29 "/>¶ Beau doulx ami \ <note>scansion line descends from tip of 'i' curve</note> en qui se <rhyme>deduisoit</rhyme>
+<lb n="3JUG.077d:30 "/>Mon cuer à qui \ <note>scansion line descends from tip of 'i' curve</note> vous tout seul <rhyme>souffisoit</rhyme>
+<lb n="3JUG.077d:31 "/>Pour seule <rhyme>amour</rhyme>
+<lb n="3JUG.077d:32 "/>Depuis le jour \ qu'il receut la <rhyme>clamour</rhyme>
+<lb n="3JUG.077d:33 "/>De vo complaint \ qui en lui fist <rhyme>demour</rhyme>
+<lb n="3JUG.077d:34 "/>Sachés de vray \ cil par qui en <rhyme>cremour</rhyme>
+<lb n="3JUG.077d:35 "/>Vif et en <note>scored ou in brown</note> <rhyme>dongier</rhyme> <note>835: Vif en dongier</note>
+<lb n="3JUG.077d:36 "/>Que j'aime tant \ qu'il n'est riens <rhyme>q<abbr type="u'e"/>stranger</rhyme>
+<lb n="3JUG.077d:37 "/>Peüst le mal \ <note>scansion line descends from tip of 'l' curve</note> qui me fait <rhyme>enragier</rhyme>
+<lb n="3JUG.077d:38 "/>Quant ne vous puis \ vëoir riens <rhyme>alegier</rhyme>
+<lb n="3JUG.077d:39 "/>Ne me <rhyme>pourroit</rhyme>
+<lb n="3JUG.077d:40 "/>Et mon las cuer \ de dueil ainçois <rhyme>mourroit</rhyme>
+<lb n="3JUG.077d:41 "/>Qu'il s'esjouïst car qui souve<abbr type="n"/>t <rhyme>orroit</rhyme>
+<lb n="3JUG.077d:42 "/>Ses griefs complains gra<abbr type="n"/>t pitié en <rhyme>aroit</rhyme>
+
+
+<pb ed="r" n="078"/><layout ruledLines="no"/>
+<lb n="3JUG.078r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="tabbed"><choice><sic>de</sic><corr reason="error" resp="JCL" source="other headers">des</corr></choice> trois</fw> <fw type="header2" place="column b" rend="right aligned">jugemens xv</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="41"/>
+<lb n="3JUG.078a:01 "/>Ses griefs complains gra<abbr type="n"/>t pitié en aroit <note>all very lightly scored out in brown, except 'Ses' perhaps</note>
+<lb n="3JUG.078a:02 "/>Në il n'est <rhyme>dueil</rhyme>
+<lb n="3JUG.078a:03 "/>Pareil au mien \ ne je n'ay autre <rhyme>vueil</rhyme>
+<lb n="3JUG.078a:04 "/>Fors de mourir \ et trop je me <rhyme>merveil</rhyme>
+<lb n="3JUG.078a:05 "/>Comment je vif \ car sans cesser je <rhyme>vueil</rhyme>
+<lb n="3JUG.078a:06 "/>Ne ne <rhyme>repose</rhyme>
+<lb n="3JUG.078a:07 "/>En ce qui m'est \ ancor plus dure <rhyme>chose</rhyme>
+<lb n="3JUG.078a:08 "/>C'est qu'il couvient \ que ma douleur <rhyme>enclose</rhyme>
+<lb n="3JUG.078a:09 "/>Porte en mon cuer \ ne semblant faire <rhyme>n'ose</rhyme>
+<lb n="3JUG.078a:10 "/>De mon <rhyme>meschief</rhyme>
+<lb n="3JUG.078a:11 "/>Ne je n'espoir \ jamais venir à <rhyme>chief</rhyme>
+<lb n="3JUG.078a:12 "/>De cest ennuy \ car je ne voy bon <rhyme>chief</rhyme>
+<lb n="3JUG.078a:13 "/>De vous vëoir \ jamais dont par mo<abbr type="n"/> <rhyme>chief</rhyme>
+<lb n="3JUG.078a:14 "/>Je <note>long bottom curve of 'J' extends to line below</note> mourray <rhyme>d'ire</rhyme>
+<lb n="3JUG.078a:15 "/>Et ce sera \ briefment vous l'orrés <rhyme>dire</rhyme>
+<lb n="3JUG.078a:16 "/>Et je desir \ que la mort hors me <rhyme>tire</rhyme>
+<lb n="3JUG.078a:17 "/>De ce grief dueil \ qui trop mon cuer <rhyme>m<abbr type="ar"/>rtire</rhyme> <note>'ar' abbreviation followed by 'r'</note>
+<lb n="3JUG.078a:18 "/>Et mal <rhyme>demaine</rhyme>
+<lb n="3JUG.078a:19 "/>Ma doulce amour \ puis que je suis <rhyme>certaine</rhyme>
+<lb n="3JUG.078a:20 "/>Qu'il n'y a \ <note>rising stroke of 'a'</note> tour jamais pour nulle <rhyme>peine</rhyme>
+<lb n="3JUG.078a:21 "/>Que vous voye \ et plus q<abbr type="ue"/> riens <rhyme>mondaine</rhyme>
+<lb n="3JUG.078a:22 "/>Je vous <rhyme>desir</rhyme>
+<lb n="3JUG.078a:23 "/>Et comment dont \ pourroye avoir <rhyme>plaisir</rhyme>
+<lb n="3JUG.078a:24 "/>Dont me vendroit \ quant je ne sçay <rhyme>choisir</rhyme> <note>note two different 'r's used at end of this line and above</note>
+<lb n="3JUG.078a:25 "/>Autre soulas \ qui feïst <rhyme>amesir</rhyme>
+<lb n="3JUG.078a:26 "/>Pour nul <rhyme>avoir</rhyme>
+<lb n="3JUG.078a:27 "/>Mes griefs peines \ n'espoir ne puis <rhyme>avoir</rhyme>
+<lb n="3JUG.078a:28 "/>Car n'y a tour \ que peusse <rhyme>decevoir</rhyme>
+<lb n="3JUG.078a:29 "/>Ceulx qui bien font \ en to<abbr type="us"/> cas le<abbr type="ur"/> <rhyme>devoir</rhyme>
+<lb n="3JUG.078a:30 "/>De nous <rhyme>gaicter</rhyme>
+<lb n="3JUG.078a:31 "/>Très doulx amy \ si n'y a nul <rhyme>sentier</rhyme>
+<lb n="3JUG.078a:32 "/>De vous vëoir \ n'en chemin n'en <rhyme>moutier</rhyme>
+<lb n="3JUG.078a:33 "/>Në autre part \ si ne puis <rhyme>appointier</rhyme>
+<lb n="3JUG.078a:34 "/>Nul autre <rhyme>tour</rhyme>
+<lb n="3JUG.078a:35 "/>Si en mettez \ vo cuer hors de <rhyme>tristour</rhyme>
+<lb n="3JUG.078a:36 "/>Laissez à moy \ le dueil faire en <rhyme>destour</rhyme>
+<lb n="3JUG.078a:37 "/>Et vous prenez \ en faucon ou <rhyme>ostour</rhyme>
+<lb n="3JUG.078a:38 "/>Ou en <rhyme>deduit</rhyme>
+<lb n="3JUG.078a:39 "/>Car à amant \ pour passer temps <rhyme>aduit</rhyme> <note>NB preceded by very faint 'b' in left margin, and outline of PM</note>
+<lb n="3JUG.078a:40 "/>De chace \ <note>to separate?</note> en bois amis vostre <rhyme>deduit</rhyme> <note>NB preceded by very faint 'a' in left margin, and outline of PM</note>
+<lb n="3JUG.078a:41 "/>En ce prenoit \ <name ref="Pyramus"><c>p</c>yramus</name> son <rhyme>reduit</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="41"/>
+<lb n="3JUG.078b:01 "/>Oû temps <rhyme>jadis</rhyme>
+<lb n="3JUG.078b:02 "/>Quant pour rappors \ et desloyaulx <rhyme>mesdis</rhyme>
+<lb n="3JUG.078b:03 "/>La très belle \ <name ref="Thisbe">thisbé</name> en qui <rhyme>toudis</rhyme>
+<lb n="3JUG.078b:04 "/>Fu son vray cuer \ s'estoit son <rhyme>paradis</rhyme>
+<lb n="3JUG.078b:05 "/>Fu mise en <rhyme>mue</rhyme>
+<lb n="3JUG.078b:06 "/>Que pour meschief \ oncques ne fu <rhyme>desmue</rhyme>
+<lb n="3JUG.078b:07 "/>De lui amer \ car droit ne se <rhyme>remue</rhyme>
+<lb n="3JUG.078b:08 "/>Qui bien aime \ ne change ne ne <rhyme>mue</rhyme>
+<lb n="3JUG.078b:09 "/>Pour <rhyme>infortune</rhyme>
+<lb n="3JUG.078b:10 "/>Mon vray ami je n'y sçay voye <rhyme>aucune</rhyme>
+<lb n="3JUG.078b:11 "/>N'autre deport \ <name ref="God"><c>d</c>ieux</name> qui fist ciel et <rhyme>lune</rhyme>
+<lb n="3JUG.078b:12 "/>Vous reconfort \ et moy qui par <name ref="Fortune"><rhyme><c>f</c>ortune</rhyme></name>
+<lb n="3JUG.078b:13 "/>Suis mise au <rhyme>bas</rhyme>
+<lb n="3JUG.078b:14 "/>Doint brief finer \ car de tous les <rhyme>esbas</rhyme>
+<lb n="3JUG.078b:15 "/>Quitte ma part \ et en plourant <rhyme>rabas</rhyme>
+<lb n="3JUG.078b:16 "/>Tous mes soulas \ ne vueil autre <rhyme>rapas</rhyme>
+<lb n="3JUG.078b:17 "/>Ne autre <rhyme>joye</rhyme>
+<lb n="3JUG.078b:18 "/>¶ Ainsi la dame \ <note>light stroke that intersects liaison between 'e' and 'à'</note> à son ami <rhyme>renvoye</rhyme>
+<lb n="3JUG.078b:19 "/>Ses <note>'S' looks overtraced in darker ink</note> griefs complains \ ne n'y \ <note>separator? or is it tail of 'y'?</note> scet lieu ne <rhyme>voye</rhyme>
+<lb n="3JUG.078b:20 "/>Que jamais jour \ par nesun tour le <rhyme>voye</rhyme>
+<lb n="3JUG.078b:21 "/>Pour les <rhyme>agais</rhyme>
+<lb n="3JUG.078b:22 "/>De mesdisans \ qui plus que <rhyme>papegais</rhyme>
+<lb n="3JUG.078b:23 "/>Vont barbetant et tous jours fire<abbr type="n"/>t <note>'i' over erased 'u' ?</note> <rhyme>gais</rhyme>
+<lb n="3JUG.078b:24 "/>Si ne fu plus \ son corps jolis ne <rhyme>gays</rhyme>
+<lb n="3JUG.078b:25 "/>Comme ot <rhyme>esté</rhyme>
+<lb n="3JUG.078b:26 "/>Ainsi <name ref="Fortune"><c>f</c>ortune</name> ot \ <note>letter erased after 'ot' ?</note> tout mal <rhyme>appresté</rhyme>
+<lb n="3JUG.078b:27 "/>Aux &#x95;ii&#x95; amans \ et tout leur bien <rhyme>osté</rhyme>
+<lb n="3JUG.078b:28 "/>Et ja par &#x95;ii&#x95; <note>both dots raised</note> yvers et un <rhyme>esté</rhyme>
+<lb n="3JUG.078b:29 "/>Enduré <rhyme>orent</rhyme>
+<lb n="3JUG.078b:30 "/>Ces grans ennuys \ ne vëoir ne se <rhyme>pore<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078b:31 "/>Tant traveiller \ ne pener ne s'i <rhyme>sore<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078b:32 "/>Dont tout l'espoir \ avoir perdu ilz <rhyme>dore<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078b:33 "/>Comme il <rhyme>sembla</rhyme> <note>'sembla' on larger scale</note>
+<lb n="3JUG.078b:34 "/>À l'amant qui \ gaires mais n'en <rhyme>troubla</rhyme>
+<lb n="3JUG.078b:35 "/>Et avec gent \ <note>scansion line descends from 't' bar</note> plus souvent <rhyme>assembla</rhyme>
+<lb n="3JUG.078b:36 "/>Qu'il n'ot appris \ et son corps <rhyme>affubla</rhyme>
+<lb n="3JUG.078b:37 "/>Plus sur le <rhyme>gay</rhyme>
+<lb n="3JUG.078b:38 "/>¶ Et tout ainsi \ com le serf pour <rhyme>l'abay</rhyme>
+<lb n="3JUG.078b:39 "/>Des chiens s'en fuit qui l'o<abbr type="n"/>t mis en <rhyme>esmay</rhyme>
+<lb n="3JUG.078b:40 "/>Cil eslongna \ sa dame oû mois de <rhyme>may</rhyme>
+<lb n="3JUG.078b:41 "/>Qui <rhyme>renouvelle</rhyme>
+
+
+<pb ed="v" n="078"/><layout ruledLines="no"/>
+<lb n="3JUG.078v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="centred">Le</fw> <fw type="header2" place="column c" rend="tabbed">Livre</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.078c:01 "/>Et oublïa \ du tout en tout la <rhyme>belle</rhyme> <note>ascenders of 'b' and 'l' 2-3 spaces tall, except 'l' of 'oublia'</note>
+<lb n="3JUG.078c:02 "/>Et n'envoya \ plus messagier vers <rhyme>elle</rhyme>
+<lb n="3JUG.078c:03 "/>Et accointa \ autre dame <rhyme>nouvelle</rhyme>
+<lb n="3JUG.078c:04 "/>Quë il <rhyme>ama</rhyme>
+<lb n="3JUG.078c:05 "/>Tant et servi \ quë ami le <rhyme>clama</rhyme>
+<lb n="3JUG.078c:06 "/>Ne l'autre plus \ en riens ne <rhyme>reclama</rhyme>
+<lb n="3JUG.078c:07 "/>¶ Dont après moult \ l'en reprist &amp; <rhyme>blama</rhyme>
+<lb n="3JUG.078c:08 "/>La <rhyme>premeraine</rhyme>
+<lb n="3JUG.078c:09 "/>Que bien un an \ après en fu <rhyme>certaine</rhyme>
+<lb n="3JUG.078c:10 "/>Dont lui pesa \ si durement qu'à <rhyme>peine</rhyme>
+<lb n="3JUG.078c:11 "/>N'en receut mort \ si n'ot mais tant de <rhyme>peine</rhyme>
+<lb n="3JUG.078c:12 "/>Des <rhyme>agaitans</rhyme>
+<lb n="3JUG.078c:13 "/>Comme el <note>'le' erased right after</note> souloit \ car toute rie<abbr type="n"/>s le<abbr type="ur"/> <rhyme>te<abbr type="m"/>ps</rhyme>
+<lb n="3JUG.078c:14 "/>Ont et saison \ ne riens n'est <rhyme>arrestans</rhyme>
+<lb n="3JUG.078c:15 "/>En un estat \ et ainsi com <rhyme>j'entens</rhyme>
+<lb n="3JUG.078c:16 "/>¶ Un jour <rhyme>avint</rhyme>
+<lb n="3JUG.078c:17 "/>Qu'en certain lieu \ cellui ama<abbr type="n"/>t <rhyme>seurvi<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078c:18 "/>Où sa prime \ dame \ fu qui <rhyme>devint</rhyme>
+<lb n="3JUG.078c:19 "/>Vermeille quant \ le vit <add evidence="" place="supralinear" type="">si</add> <note>caret</note> lui <rhyme>souvint</rhyme> <note>835: 'Vermeille où vis quant le vid lui sovint'; 'sj' an afterthought?</note>
+<lb n="3JUG.078c:20 "/>Du temps <rhyme>passé</rhyme>
+<lb n="3JUG.078c:21 "/>Dont ne fu pas \ en son cuer <rhyme>effacé</rhyme>
+<lb n="3JUG.078c:22 "/>Le souvenir \ qu'<name ref="Amour"><c>a</c>mours</name> ot <rhyme>entassé</rhyme>
+<lb n="3JUG.078c:23 "/>Si que jamais \ il n'en sera <rhyme>lassé</rhyme>
+<lb n="3JUG.078c:24 "/>Ains lui <rhyme>duroit</rhyme>
+<lb n="3JUG.078c:25 "/>Tous jours l'amour \ do<abbr type="n"/>t mai<abbr type="n"/>t maulx <rhyme>e<abbr type="n"/>duroit</rhyme>
+<lb n="3JUG.078c:26 "/>Et de rechief \ durement <rhyme>souspiroit</rhyme>
+<lb n="3JUG.078c:27 "/>Si se pensa \ quë <note>final stroke of 'e' could be taken for a scansion mark</note> à lui <rhyme>parleroit</rhyme>
+<lb n="3JUG.078c:28 "/>Car n'y ot <rhyme>gent</rhyme>
+<lb n="3JUG.078c:29 "/>Mie foison \ ne gaite ne <rhyme>sergent</rhyme>
+<lb n="3JUG.078c:30 "/>Qui en ce cas \ lui fussent <rhyme>dalmage<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078c:31 "/>¶ Si l'appella \ adont et bel et <rhyme>gent</rhyme>
+<lb n="3JUG.078c:32 "/>Vers lui se <rhyme>trait</rhyme>
+<lb n="3JUG.078c:33 "/>Et commença \ à lui dire en <rhyme>retrait</rhyme>
+<lb n="3JUG.078c:34 "/>Ha qui pensast \ en vous trouver faulx <rhyme>trait</rhyme>
+<lb n="3JUG.078c:35 "/>Ne que pour riens \ fussiés jamais <rhyme>retrait</rhyme>
+<lb n="3JUG.078c:36 "/>De moy <rhyme>amer</rhyme>
+<lb n="3JUG.078c:37 "/>Ne c'on vous peust \ faulx ne mauvais <rhyme>no<abbr type="m"/>m<abbr type="er"/></rhyme>
+<lb n="3JUG.078c:38 "/>Car ta<abbr type="n"/>t de fois \ vo<abbr type="us"/> ouÿ <rhyme>affermer</rhyme> <note>large space after ouÿ</note>
+<lb n="3JUG.078c:39 "/>Que mieulx vouldriés \ estre noyé en <rhyme>m<abbr type="er"/></rhyme>
+<lb n="3JUG.078c:40 "/>Que moy <rhyme>laissier</rhyme>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.078d:01 "/>Ne loyauté <note>dotted 'y'</note> \ enfraindre ne <rhyme>froissier</rhyme>
+<lb n="3JUG.078d:02 "/>Et vous m'avez \ dont moins vous doy <rhyme>prisier</rhyme>
+<lb n="3JUG.078d:03 "/>Deguerpie \ si n'en puis <rhyme>appaisier</rhyme>
+<lb n="3JUG.078d:04 "/>Mon cuer par <rhyme>m'ame</rhyme>
+<lb n="3JUG.078d:05 "/>Et faulx estes \ d'avoir fait autre <rhyme>dame</rhyme>
+<lb n="3JUG.078d:06 "/>Et desloyal \ <note>very short scansion line descending from last curve of 'l' a bit below line</note> vers moy c'est grant <rhyme>diffame</rhyme>
+<lb n="3JUG.078d:07 "/>À vous certes \ à qui affiert gra<abbr type="n"/>t <rhyme>blame</rhyme>
+<lb n="3JUG.078d:08 "/>D'avoir ce <rhyme>fait</rhyme>
+<lb n="3JUG.078d:09 "/>¶ Et <note>scored out in brown, 3 strokes, one horizontal, one diagonal through each letter</note> ainsi celle \ blama cellui de <rhyme>fait</rhyme>
+<lb n="3JUG.078d:10 "/>Tout en plourant \ se complaint du tort <rhyme>fait</rhyme>
+<lb n="3JUG.078d:11 "/>Qu'il a commis \ mais il dit q<abbr type="ue"/> <rhyme>meffait</rhyme>
+<lb n="3JUG.078d:12 "/>Il n'a vers <rhyme>elle</rhyme>
+<lb n="3JUG.078d:13 "/>En nesun cas \ et à tort faulx <rhyme>l'appelle</rhyme>
+<lb n="3JUG.078d:14 "/>Ne d'autre amer \ soit dame ou <rhyme>damoiselle</rhyme>
+<lb n="3JUG.078d:15 "/>Il n'a mespris \ et de son dit <rhyme>appelle</rhyme>
+<lb n="3JUG.078d:16 "/>Par devant <rhyme>tous</rhyme>
+<lb n="3JUG.078d:17 "/>Juges d'amours \ et y fusse<abbr type="n"/>t <rhyme>trestous</rhyme>
+<lb n="3JUG.078d:18 "/>Soumettre veult \ que son corps soit aux <rhyme>loups</rhyme>
+<lb n="3JUG.078d:19 "/>Livré ou pris \ de malage ou de <rhyme>tous</rhyme>
+<lb n="3JUG.078d:20 "/>S'il est <rhyme>jugié</rhyme>
+<lb n="3JUG.078d:21 "/>Qu'il ait mespris \ ne qu'il soit <rhyme>estrangié</rhyme>
+<lb n="3JUG.078d:22 "/>De loyauté \ non obstant q<abbr type="ue"/> <rhyme>chargié</rhyme>
+<lb n="3JUG.078d:23 "/>Il ait dame \ sans ce qu'il eust <rhyme>congié</rhyme>
+<lb n="3JUG.078d:24 "/>D'elle du <rhyme>faire</rhyme>
+<lb n="3JUG.078d:25 "/>Devant juge \ ne pense mie à <rhyme>taire</rhyme>
+<lb n="3JUG.078d:26 "/>Ses <note>initial 'C' changed to 's' by addition of curve</note> grans raisons \ et comment <rhyme>neccessaire</rhyme>
+<lb n="3JUG.078d:27 "/>Il lui estoit \ de soy d'elle <rhyme>retraire</rhyme>
+<lb n="3JUG.078d:28 "/>Et <rhyme>mesmement</rhyme>
+<lb n="3JUG.078d:29 "/>Pour son honneur \ car elle scet <rhyme>co<abbr type="m"/>ment</rhyme>
+<lb n="3JUG.078d:30 "/>Il ne pouoit \ la vëoir <rhyme>nullement</rhyme>
+<lb n="3JUG.078d:31 "/>Et le peril \ et grant <rhyme>encombrem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.078d:32 "/>Où ilz en <rhyme>furent</rhyme>
+<lb n="3JUG.078d:33 "/>Et mesdisans \ qui ancor en <rhyme>murmure<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078d:34 "/>Tout ce tourment par faulx rappors <rhyme>esmure<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078d:35 "/>Et <note>black spot between 'E' and 't'</note> tieulx parleurs \ aux amoureux <rhyme>p<abbr type="ro"/>cure<abbr type="n"/>t</rhyme>
+<lb n="3JUG.078d:36 "/>Trop de <rhyme>meschief</rhyme>
+<lb n="3JUG.078d:37 "/>Et elle ainsi \ lui manda de <rhyme>rechief</rhyme>
+<lb n="3JUG.078d:38 "/>Que jamais jour \ ne po<abbr type="ur"/>roit p<abbr type="ar"/> nul <rhyme>chief</rhyme>
+<lb n="3JUG.078d:39 "/>À lui parler \ në en lonc temps n'en <rhyme>brief</rhyme>
+<lb n="3JUG.078d:40 "/>Le vëoir <rhyme>plus</rhyme>
+
+
+<pb ed="r" n="079"/><layout ruledLines="no"/>
+<lb n="3JUG.079r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">des</fw> <fw type="header2" place="column a" rend="centred">trois</fw> <fw type="header3" place="column b" rend="centred">jugemens</fw> <fw  type="header4" place="column b" rend="tabbed"> xv&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.079a:01 "/>Dont longuement \ en fu morne et <note>'t' nearly forms a circle; tops of two 't's directly below quite rounded also, but tail not as high</note> <rhyme>enclus</rhyme>
+<lb n="3JUG.079a:02 "/>Mais n'estoit droit \ q<abbr type="ue"/> il se rendist <rhyme>reclus</rhyme>
+<lb n="3JUG.079a:03 "/>À tous jours mais \ ou du tout fust <rhyme>desclus</rhyme>
+<lb n="3JUG.079a:04 "/>De joye <rhyme>avoir</rhyme>
+<lb n="3JUG.079a:05 "/>Car sans amours ne pourroit <rhyme>recevoir</rhyme>
+<lb n="3JUG.079a:06 "/>Nul jeune cuer \ joye à dire le <rhyme>voir</rhyme>
+<lb n="3JUG.079a:07 "/>Et doncques puis \ que pour nesun <rhyme>avoir</rhyme>
+<lb n="3JUG.079a:08 "/>Ne la <rhyme>pouoit</rhyme> <note>letters of this line on larger scale</note>
+<lb n="3JUG.079a:09 "/>Vëoir certes <note>attack stroke of 'p' exceptionally long; perhaps meant as scansion line?</note> pourchacer se <rhyme>devoit</rhyme>
+<lb n="3JUG.079a:10 "/>En autre part \ pour ce mespris <rhyme>n'avoit</rhyme> <note>'t' corrected on 'r', sloppy</note>
+<lb n="3JUG.079a:11 "/>Ce disoit il \ du faire bien <rhyme>savoit</rhyme>
+<lb n="3JUG.079a:12 "/>Mais se il <rhyme>espoir</rhyme>
+<lb n="3JUG.079a:13 "/>D'elle vëoir \ eüst eü <rhyme>apoir</rhyme> <note>agglutinated?</note>
+<lb n="3JUG.079a:14 "/>Il eust mespris mais elle en <rhyme>desespoir</rhyme>
+<lb n="3JUG.079a:15 "/>Trop le mettoit \ si n'avoit plus <rhyme>povoir</rhyme>
+<lb n="3JUG.079a:16 "/>De <rhyme>soustenir</rhyme>
+<lb n="3JUG.079a:17 "/>La grant doulour \ qu'i lui falu <rhyme>tenir</rhyme>
+<lb n="3JUG.079a:18 "/>Par trop lonc temps \ doncq<abbr type="ue"/>s po<abbr type="ur"/> <rhyme>revenir</rhyme>
+<lb n="3JUG.079a:19 "/>À reconfort \ lui falu <rhyme>retenir</rhyme>
+<lb n="3JUG.079a:20 "/>Dame <rhyme>novelle</rhyme>
+<lb n="3JUG.079a:21 "/>Car par lonc temps \ il n'avoit receu <rhyme>d'elle</rhyme>
+<lb n="3JUG.079a:22 "/>Fors que doulour \ Si a tort qui <rhyme>l'appelle</rhyme>
+<lb n="3JUG.079a:23 "/>Pour en avoir fait une aultre <note>these 3 words corrected on erasure, in lighter ink</note> <rhyme>nouvelle</rhyme> <note>in 835, order of these 3 lines &amp; text is different: 'Dame nouvelle / Pour en avoir quelque bonne nouvelle / Car par long temps il n'avoit receu d'elle / Fors que doulour; si a tort qui l'appelle'; check MS for erased ordering letters in margin, of which there are traces, cf. Altmann</note>
+<lb n="3JUG.079a:24 "/>Faulx pour ce <rhyme>cas</rhyme>
+<lb n="3JUG.079a:25 "/>¶ Mais la dame \ qui ot le <note>'le' corrected on erasure</note> parler <rhyme>cas</rhyme>
+<lb n="3JUG.079a:26 "/>Pour le grief plour \ où elle chut <note>'u' looks more like 'n'</note> À <rhyme>cas</rhyme>
+<lb n="3JUG.079a:27 "/>Lui dist certes \ ne vous fault <rhyme>avocas</rhyme>
+<lb n="3JUG.079a:28 "/>Pour <rhyme>raconter</rhyme>
+<lb n="3JUG.079a:29 "/>Vostre raison \ mais je m'ose <rhyme>vanter</rhyme>
+<lb n="3JUG.079a:30 "/>Que se juge \ loyal veult <rhyme>escouter</rhyme>
+<lb n="3JUG.079a:31 "/>Noz &#x95;ii&#x95; raisons \ tort arés sans <rhyme>doubter</rhyme>
+<lb n="3JUG.079a:32 "/>Sicom moy <rhyme>semble</rhyme>
+<lb n="3JUG.079a:33 "/>Car vostre cuer \ qui du mien se <rhyme>dessemble</rhyme>
+<lb n="3JUG.079a:34 "/>Si n'a trouvé \ en moy riens qui <rhyme>ressemble</rhyme>
+<lb n="3JUG.079a:35 "/>À faulceté \ depuis le jour <rhyme>qu'ensemble</rhyme>
+<lb n="3JUG.079a:36 "/>Premier <rhyme>parlames</rhyme>
+<lb n="3JUG.079a:37 "/>Si n'avez droit \ juge en fais toutes <rhyme>dames</rhyme> <note>rising 's'</note>
+<lb n="3JUG.079a:38 "/>Et tous amans \ loyaulx et sans <rhyme>diffames</rhyme> <note>rising 's'</note>
+<lb n="3JUG.079a:39 "/>Et si soustiens \ que vous n'avez &#x95;ii&#x95; <rhyme>drames</rhyme> <note>rising 's'</note>
+<lb n="3JUG.079a:40 "/>De cause <rhyme>bonne</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.079b:01 "/>Si soit Juge \ trouvé bonne <rhyme>personne</rhyme>
+<lb n="3JUG.079b:02 "/>Qui de noz cas \ tous &#x95;ii&#x95; <note>both dots raised</note> nous <rhyme>arraisonne</rhyme>
+<lb n="3JUG.079b:03 "/>Plus n'est mestier \ que je vous en <rhyme>sermo<abbr type="n"/>ne</rhyme>
+<lb n="3JUG.079b:04 "/>Au <rhyme>jugement</rhyme>
+<lb n="3JUG.079b:05 "/>Je m'en attens \ du tout <rhyme>entierem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.079b:06 "/>¶ Atant fina d'eulx &#x95;ii&#x95; le <rhyme>parlem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.079b:07 "/>Et tost après \ vindrent <rhyme>songneusem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.079b:08 "/>En ma <rhyme>maison</rhyme>
+<lb n="3JUG.079b:09 "/>Et De <note>small 'd' changed into 'D' by addition of vertical stroke in same lighter ink in which 'Et' crossed out</note> leur debat \ me distre<abbr type="n"/>t <rhyme>l'achoison</rhyme>
+<lb n="3JUG.079b:10 "/>En moy prïant \ que oÿe leur <rhyme>raison</rhyme>
+<lb n="3JUG.079b:11 "/>J'en jugiasse \ mais je dis qu'à <rhyme>foison</rhyme>
+<lb n="3JUG.079b:12 "/>Ilz <rhyme>trouveroient</rhyme>
+<lb n="3JUG.079b:13 "/>Ailleurs meilleurs \ juges q<abbr type="ue"/> mieulx <rhyme>saroie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.079b:14 "/>Droit en jugier \ Si distre<abbr type="n"/>t qu'ilz <rhyme>vouloie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.079b:15 "/>Que j'en jugiasse ou quë ilz me <rhyme>prioie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.079b:16 "/>Que je leur <rhyme>queisse</rhyme>
+<lb n="3JUG.079b:17 "/>Juge loyal \ et bien en <rhyme>enqueïsse</rhyme>
+<lb n="3JUG.079b:18 "/>Et sur cellui \ tout le fait <rhyme>asseïsse</rhyme>
+<lb n="3JUG.079b:19 "/>Et je leur dis \ que voulentiers <rhyme>feïsse</rhyme>
+<lb n="3JUG.079b:20 "/>Leur bon <rhyme>plaisir</rhyme>
+<lb n="3JUG.079b:21 "/>Mais s'en <note>s'en perhaps corrected on erasure</note> tel fait je devoye <rhyme>choisir</rhyme>
+<lb n="3JUG.079b:22 "/>Juge pour moy \ ne vouldroie <rhyme>saisir</rhyme>
+<lb n="3JUG.079b:23 "/>Autre que vous \ pour l'amoureux <rhyme>desir</rhyme>
+<lb n="3JUG.079b:24 "/>Bien <rhyme>discerner</rhyme>
+<lb n="3JUG.079b:25 "/>Et pour savoir \ bon jugeme<abbr type="n"/>t <rhyme>donner</rhyme>
+<lb n="3JUG.079b:26 "/>Et lors distrent \ qu'en nul autre <rhyme>assener</rhyme>
+<lb n="3JUG.079b:27 "/>Ne pourroient \ mieulx <note>perhaps light scansion stroke over 'x', check manuscript</note> et po<abbr type="ur"/> ce <rhyme>ordonner</rhyme>
+<lb n="3JUG.079b:28 "/>S'il vous <rhyme>plaisoit</rhyme>
+<lb n="3JUG.079b:29 "/>Vous vouloient \ leur juge et <rhyme>souffisoit</rhyme>
+<lb n="3JUG.079b:30 "/>Vo jugement \ Sicom chacu<abbr type="n"/> <rhyme>disoit</rhyme>
+<lb n="3JUG.079b:31 "/>Pour ce sire \ tout le fait sur vous <rhyme>soit</rhyme>
+<lb n="3JUG.079b:32 "/>S'à gré vous <rhyme>vient</rhyme>
+<lb n="3JUG.079b:33 "/>du <note>'du' begins at 4th space because of 2-line 'J' below</note> tiers cas sicommë il me <rhyme>souvie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.079b:34 "/><hi rend="cap2">J</hi>e <note>'e' added in black ink at base of 'J'; looks like a few letters erased under the illuminated letter</note> vous diray \ le fait il <rhyme>appartient</rhyme>
+<lb n="3JUG.079b:35 "/>Puis que leur vueil \ à juge vo<abbr type="us"/> <rhyme>retie<abbr type="n"/>t</rhyme>
+<lb n="3JUG.079b:36 "/>Tel fu <rhyme>l'affaire</rhyme>
+<lb n="3JUG.079b:37 "/>¶ Un chevalier \ Sicom j'ouÿ <rhyme>retraire</rhyme>
+<lb n="3JUG.079b:38 "/>Avoit promis \ à tous jours sans <rhyme>retraire</rhyme>
+<lb n="3JUG.079b:39 "/>Toute s'amour \ à doulce et <rhyme>debonnaire</rhyme>
+<lb n="3JUG.079b:40 "/>Et bonne et <rhyme>belle</rhyme>
+
+
+<pb ed="v" n="079"/><layout ruledLines="no"/>
+<lb n="3JUG.079v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column c" rend="tabbed">Livre</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.079c:01 "/>Et si plaisant qu'aultre ne passoit <rhyme>celle</rhyme> <note>writing of this top line somewhat more vertical, 'l' in 'plaisant' very tall and ornate, goes to mid-header</note>
+<lb n="3JUG.079c:02 "/>Fors seulement \ qu'elle estoit <rhyme>damoiselle</rhyme>
+<lb n="3JUG.079c:03 "/>Jeune d'aage simple comme <rhyme>pucelle</rhyme>
+<lb n="3JUG.079c:04 "/>Jolye et <rhyme>gente</rhyme>
+<lb n="3JUG.079c:05 "/>Et elle aussi \ ravoit mise <rhyme>s'entente</rhyme>
+<lb n="3JUG.079c:06 "/>À lui amer \ et de loyal <rhyme>entente</rhyme>
+<lb n="3JUG.079c:07 "/>S'entramoient \ et bien que je ne <rhyme>mente</rhyme>
+<lb n="3JUG.079c:08 "/>Plus de &#x95;ii&#x95; <rhyme>ans</rhyme>
+<lb n="3JUG.079c:09 "/>S'entre amerent \ loyaum<abbr type="en"/>t les <rhyme>amans</rhyme>
+<lb n="3JUG.079c:10 "/>Ce me jura \ <name ref="Saint+Julien+du+Mans">saint <c>j</c>ulian du <rhyme><c>m</c>ans</rhyme></name>
+<lb n="3JUG.079c:11 "/>Celle qui cuer \ ferme ot com <rhyme>dÿamans</rhyme>
+<lb n="3JUG.079c:12 "/>Que d'un <rhyme>descort</rhyme>
+<lb n="3JUG.079c:13 "/>En leur amour \ elle n'avoit <rhyme>recort</rhyme>
+<lb n="3JUG.079c:14 "/>Ainçois tous &#x95;ii&#x95; \ furent si d'un <rhyme>accort</rhyme>
+<lb n="3JUG.079c:15 "/>Qu'onques n'y ot \ un tout seul <rhyme>mesacort</rhyme>
+<lb n="3JUG.079c:16 "/>En ce <rhyme>termine</rhyme>
+<lb n="3JUG.079c:17 "/>¶ Mais il n'est mur \ si fort que l'en ne <rhyme>mine</rhyme> <note>proverb ?</note>
+<lb n="3JUG.079c:18 "/>Ne si grant tas \ que qui veult mine à <rhyme>mine</rhyme>
+<lb n="3JUG.079c:19 "/>L'appeticier \ que l'en ne le <rhyme>termine</rhyme>
+<lb n="3JUG.079c:20 "/>Ne riens ne <rhyme>dure</rhyme>
+<lb n="3JUG.079c:21 "/>Sans avoir fin \ par le cours de <rhyme>nat<abbr type="ur"/>e</rhyme>
+<lb n="3JUG.079c:22 "/>En ce monde \ <note>check manuscript for faint scansion line</note> n'il n'est chose tant <rhyme>dure</rhyme>
+<lb n="3JUG.079c:23 "/>Qui ne s'use \ soit chaleur ou <rhyme>froidure</rhyme>
+<lb n="3JUG.079c:24 "/>Et qui ne <rhyme>tire</rhyme>
+<lb n="3JUG.079c:25 "/>À quelque fin \ et ainsi tire à <rhyme>tire</rhyme>
+<lb n="3JUG.079c:26 "/>S'usent amours \ souve<abbr type="n"/>t sçay <note>error; should be 'ç'ay' or 's'ay'</note><note>'y' tail loops down low and rises high</note> je ouÿ <note>tail of 'y' fills space above and below line</note> <rhyme>dire</rhyme> <note>est-ce que cette erreur serait une indication pour une écriture sous la dictée?</note><note>not necessarily</note>
+<lb n="3JUG.079c:27 "/>Et non obstant que souvent on <rhyme>souspire</rhyme>
+<lb n="3JUG.079c:28 "/>Par trop <rhyme>amer</rhyme>
+<lb n="3JUG.079c:29 "/>Et que les maulx \ d'amours soie<abbr type="n"/>t <rhyme>amer</rhyme>
+<lb n="3JUG.079c:30 "/>Si ne voit on \ mie amours <rhyme>affermer</rhyme>
+<lb n="3JUG.079c:31 "/>À tous jours mais \ ains les voit on <rhyme>clam<abbr type="er"/></rhyme>
+<lb n="3JUG.079c:32 "/>Et c'est <rhyme>souvent</rhyme>
+<lb n="3JUG.079c:33 "/>Fol s'i fie \ et <note>crossed out in light brown and expunctuated</note> fole amour &amp; tout <rhyme>vent</rhyme> <note>835: Fol s'i fie; fole amour est tout vent, v. 1309</note><note>proverb</note>
+<lb n="3JUG.079c:34 "/>Qui peu dure \ et \ les cuers va <rhyme>deceva<abbr type="n"/>t</rhyme>
+<lb n="3JUG.079c:35 "/>Et un espoir \ dont après <rhyme>ensuivant</rhyme>
+<lb n="3JUG.079c:36 "/>Sa joye <rhyme>vaine</rhyme> <note>Roy ed: Va joye vaine v. 1312; check 835</note>
+<lb n="3JUG.079c:37 "/>¶ Ainsi fina \ qui qu'en eust ap<abbr type="rè"/>s <rhyme>peine</rhyme>
+<lb n="3JUG.079c:38 "/>Ycelle amour \ qui souloit si <rhyme>certaine</rhyme>
+<lb n="3JUG.079c:39 "/>Estre et puis fu \ desprise &amp; <rhyme>inc<abbr type="er"/>taine</rhyme>
+<lb n="3JUG.079c:40 "/>Et <rhyme>defaillie</rhyme> <note>last 3-4 letters corrected, correction preparation 'lie' in thick rapid cursive right below</note>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.079d:01 "/>Car l'amant qui \ l'amour en sa <rhyme>baillie</rhyme>
+<lb n="3JUG.079d:02 "/>De celle avoit \ qui puis fu <rhyme>maubaillie</rhyme> <note>sp. between 'mau' and 'baillie', but 'u' and 'b' linked</note>
+<lb n="3JUG.079d:03 "/>Pour lui amer \ et en grief dueil <rhyme>faillie</rhyme>
+<lb n="3JUG.079d:04 "/>Se changia <rhyme>tout</rhyme>
+<lb n="3JUG.079d:05 "/>Et delaissa \ et remist en <rhyme>debout</rhyme> <note>last four words a correction in lighter ink on erasure: L and 835 have 'et estrangia debout'; check manuscript for preparation of correction</note>
+<lb n="3JUG.079d:06 "/>Celle qu'amer \ souloit et fu de <rhyme>tout</rhyme> <note>ed. Roy: derout, v. 1322</note>
+<lb n="3JUG.079d:07 "/>Leur joyeux temps \ qu'elle cuidast qu'à <rhyme>bout</rhyme>
+<lb n="3JUG.079d:08 "/>Ne deust ja <rhyme>estre</rhyme>
+<lb n="3JUG.079d:09 "/>Si lui sembla \ <note>scansion line attached to last curve of 'a'</note> qu'il estoit trop g<abbr type="ra"/>nt <rhyme>maist<abbr type="re"/></rhyme>
+<lb n="3JUG.079d:10 "/>Pour elle amer \ et volt en plus hault <rhyme>estre</rhyme>
+<lb n="3JUG.079d:11 "/>Mettre son cuer \ et bien cuida à <rhyme>dextre</rhyme>
+<lb n="3JUG.079d:12 "/>Droit <rhyme>assener</rhyme>
+<lb n="3JUG.079d:13 "/>Pour haultement \ son cuer mettre &amp; <rhyme>donn<abbr type="er"/></rhyme>
+<lb n="3JUG.079d:14 "/>¶ Si s'acointa \ com j'ouÿ <rhyme>raisonner</rhyme>
+<lb n="3JUG.079d:15 "/>D'une poissant \ <note>1 space erasure after slash, probably 'a'</note> dame à qui sans <rhyme>finer</rhyme>
+<lb n="3JUG.079d:16 "/>Son <note>attack stroke of 'S' is long diagonal that makes letter look like a large 'com' abbreviation with a divided loop</note> cuer <rhyme>promist</rhyme>
+<lb n="3JUG.079d:17 "/>Et tant l'ama \ et ta<abbr type="n"/>t gra<abbr type="n"/>t peine y <rhyme>mist</rhyme>
+<lb n="3JUG.079d:18 "/>Qu'elle l'ama / <note>'l'ama' corrected on erasure, lighter; very big slash in lighter ink fills part of 3 blank spaces</note> En la fin ta<abbr type="n"/>t lui <rhyme>dist</rhyme>
+<lb n="3JUG.079d:19 "/>Quë il l'amoit \ qu'elle en grace le <rhyme>prist</rhyme>
+<lb n="3JUG.079d:20 "/>Et le <rhyme>retint</rhyme>
+<lb n="3JUG.079d:21 "/>Pour son servant \ et à ami <note>note long 'i' for this word, as in CBAD, but it looks like an afterthought</note> le <rhyme>tint</rhyme>
+<lb n="3JUG.079d:22 "/>Si ne sçay pas \ comment il s'i <rhyme>contint</rhyme>
+<lb n="3JUG.079d:23 "/>Car pou dura \ l'amour à qui il <rhyme>tint</rhyme>
+<lb n="3JUG.079d:24 "/>Ne sçay je <rhyme>pas</rhyme>
+<lb n="3JUG.079d:25 "/>¶ Mais il n'est nul \ qui vous deist en nul <rhyme>pas</rhyme>
+<lb n="3JUG.079d:26 "/>La grant douleur \ et le mauvais <rhyme>repas</rhyme>
+<lb n="3JUG.079d:27 "/>Que la lassë \ ot \ qui auq<abbr type="ue"/>s au <rhyme>t<abbr type="re"/>spas</rhyme>
+<lb n="3JUG.079d:28 "/>Et mise en <rhyme>biere</rhyme>
+<lb n="3JUG.079d:29 "/>En fu pour lui \ la dolente <rhyme>premiere</rhyme>
+<lb n="3JUG.079d:30 "/>Quant elle vit \ et p<abbr type="er"/>ceut la <rhyme>maniere</rhyme>
+<lb n="3JUG.079d:31 "/>De son amant \ qui se tiroit <rhyme>arriere</rhyme>
+<lb n="3JUG.079d:32 "/>De seue <rhyme>amour</rhyme>
+<lb n="3JUG.079d:33 "/>Et trop faisoit \ d'elle vëoir <rhyme>demour</rhyme>
+<lb n="3JUG.079d:34 "/>Ne n'ot pitié \ de sa lasse <rhyme>clamour</rhyme>
+<lb n="3JUG.079d:35 "/>Non obstant ce \ q<abbr type="ue"/> souvent en <rhyme>cremour</rhyme>
+<lb n="3JUG.079d:36 "/>Et à <rhyme>dongier</rhyme>
+<lb n="3JUG.079d:37 "/>À lui parloit \ d'elle le <rhyme>messagier</rhyme>
+<lb n="3JUG.079d:38 "/>Et lui disoit \ pour quoy si <rhyme>estrangier</rhyme>
+<lb n="3JUG.079d:39 "/>Vouloit celle \ qui mie de <rhyme>legier</rhyme>
+<lb n="3JUG.079d:40 "/>Ne <rhyme>l'oubliroit</rhyme>
+
+
+<pb ed="r" n="080"/><layout ruledLines="no"/>
+<lb n="3JUG.080r:01 "/><hi rend="red"><fw type="header1" place="column a" rend="tabbed">des</fw> <fw type="header2" place="column a" rend="tabbed">trois</fw> <fw type="header3" place="column b" rend="centred">jugemens</fw> <fw type="header4" place="column b" rend="tabbed"> xv</fw></hi><note>The last two elements are on a slightly higher plane than the first two.</note>
+
+<cb n="a"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.080a:01 "/>Ains pour s'amour \ sanz faille se <rhyme>mouroit</rhyme>
+<lb n="3JUG.080a:02 "/>S'il la laissoit \ du mal qu'elle <rhyme>tiroit</rhyme>
+<lb n="3JUG.080a:03 "/>Il respondoit \ qu'au plus tost qu'il <rhyme>po<abbr type="ur"/>roit</rhyme>
+<lb n="3JUG.080a:04 "/>Yroit vers <rhyme>elle</rhyme>
+<lb n="3JUG.080a:05 "/>Mais survenu \ il lui estoit <rhyme>nouvelle</rhyme>
+<lb n="3JUG.080a:06 "/>Qui l'empeschoit \ pour certaine <rhyme>querele</rhyme>
+<lb n="3JUG.080a:07 "/>Si s'excusoit \ ainsi de vëoir <rhyme>celle</rhyme>
+<lb n="3JUG.080a:08 "/>Qui ne <rhyme>finoit</rhyme>
+<lb n="3JUG.080a:09 "/>De dueil mener \ car bien <rhyme>apparcevoit</rhyme> <note>'u' larger, corrected on erasure?; check manuscript for 'oit' as well</note>
+<lb n="3JUG.080a:10 "/>Que delaissier \ son ami la <rhyme>vouloit</rhyme>
+<lb n="3JUG.080a:11 "/>Dont trop griefment \ la lasse se <rhyme>douloit</rhyme>
+<lb n="3JUG.080a:12 "/>¶ Mais pour <rhyme>néant</rhyme>
+<lb n="3JUG.080a:13 "/>Se traveilloit \ et s'aloit <rhyme>deléant</rhyme>
+<lb n="3JUG.080a:14 "/>Car bien pouoit \ s'elle estoit cler <rhyme>véa<abbr type="n"/>t</rhyme> <note>Roy writes as one word; clearly 2 here</note>
+<lb n="3JUG.080a:15 "/>Appercevoir qu'il s'aloit <rhyme>retréant</rhyme> <note>?: Roy ed. 'recreant'; v. 1371; definitely a 't'</note><note>graphie pour 'retraiant'?</note>
+<lb n="3JUG.080a:16 "/>D'elle sans <rhyme>doubte</rhyme>
+<lb n="3JUG.080a:17 "/>Si en ploura \ en grief dueil mai<abbr type="n"/>te <rhyme>goute</rhyme>
+<lb n="3JUG.080a:18 "/>Et de courroux elle se fondi <rhyme>toute</rhyme>
+<lb n="3JUG.080a:19 "/>¶ À brief parler \ du tout en tout <rhyme>deroute</rhyme> <note>'r' has long attack stroke that connects with 'de', 'route' more rapidly written, they could be read as one word or two</note>
+<lb n="3JUG.080a:20 "/>Celle amour <rhyme>fu</rhyme>
+<lb n="3JUG.080a:21 "/>Et la laissa et la mist en <rhyme>reffu</rhyme>
+<lb n="3JUG.080a:22 "/>Le faulx amant \ que fust il ars en <rhyme>fu</rhyme>
+<lb n="3JUG.080a:23 "/>Ainsi celle \ b<abbr type="ie"/>n vit et <rhyme>apperceu</rhyme>
+<lb n="3JUG.080a:24 "/>Que autrë <rhyme>amoit</rhyme>
+<lb n="3JUG.080a:25 "/>Dont longuement \ dolente se <rhyme>clamoit</rhyme>
+<lb n="3JUG.080a:26 "/>Mais n'y ot tour \ pour riens le <rhyme>reclamoit</rhyme> <note>A mon idée ces trois derniers vers sont d'une écriture un peu plus petite et plus 'verticale'. Pourtant le parchemin ne semble pas avoir été gratté.</note><note>check manuscript</note>
+<lb n="3JUG.080a:27 "/>¶ Si s'en souffri \ quant vit qu'elle <rhyme>semoit</rhyme>
+<lb n="3JUG.080a:28 "/>Pour riens ses <rhyme>larmes</rhyme> <note>note rhyme</note>
+<lb n="3JUG.080a:29 "/>Car il n'est rien \ qui n'ait saison et <rhyme>termes</rhyme>
+<lb n="3JUG.080a:30 "/>Si n'estoit droit \ qu'à tous jours mais fust <rhyme>f<abbr type="er"/>mes</rhyme> <note>rising 's'</note>
+<lb n="3JUG.080a:31 "/>Son cuer oû dueil \ qui fait p<abbr type="er"/>dre les <rhyme>armes</rhyme> <note>835: en dueil</note>
+<lb n="3JUG.080a:32 "/>Et corps en <rhyme>terre</rhyme>
+<lb n="3JUG.080a:33 "/>Si appaisa \ son cuer de celle <rhyme>guerre</rhyme>
+<lb n="3JUG.080a:34 "/>Au chief d'un temps \ et ne volt pl<abbr type="us"/> <rhyme>enq<abbr type="ue"/>rre</rhyme>
+<lb n="3JUG.080a:35 "/>De son amant \ n'aucune voye <rhyme>querre</rhyme>
+<lb n="3JUG.080a:36 "/>Pour lui <rhyme>vëoir</rhyme>
+<lb n="3JUG.080a:37 "/>Në autre part \ sceue amour <rhyme>assëoir</rhyme> <note>'sceue' graphie pour 'seue' ?</note>
+<lb n="3JUG.080a:38 "/>Car d'amer plus \ ne lui devoit <rhyme>sëoir</rhyme>
+<lb n="3JUG.080a:39 "/>En son vivant <note>perhaps tiny scansion line; check manuscript</note> ne d'ami <rhyme>pourvëoir</rhyme>
+<lb n="3JUG.080a:40 "/>Son cuer <rhyme>jamais</rhyme>
+
+<cb n="b"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.080b:01 "/>Se lui sembloit \ car trop lui fu <rhyme>remais</rhyme>
+<lb n="3JUG.080b:02 "/>Dolent penser \ pour amer et dur <rhyme>mais</rhyme>
+<lb n="3JUG.080b:03 "/>Si s'en tendroit <note>written 'sentendroit'</note> \ ce disoit des or <rhyme>mais</rhyme> <note>'r' and 'm' separated by full space that is spanned by final stroke of 'r'</note>
+<lb n="3JUG.080b:04 "/>¶ Mais <rhyme>escoutez</rhyme>
+<lb n="3JUG.080b:05 "/>Ce qu'il avint \ de ce fait / et <rhyme>nottez</rhyme>
+<lb n="3JUG.080b:06 "/>Comment l'amant \ estoit peu <rhyme>arrestez</rhyme>
+<lb n="3JUG.080b:07 "/>Car ains que fu<add evidence="" place="supralinear" type="">st</add> <note>'st' in semi-rapid cursive, indicated by caret, both in slightly lighter shade</note> l'an passé ne <rhyme>doubtez</rhyme>
+<lb n="3JUG.080b:08 "/>Il <rhyme>esprouva</rhyme>
+<lb n="3JUG.080b:09 "/>Grant faulceté \ en la dame et <rhyme>trouva</rhyme>
+<lb n="3JUG.080b:10 "/>Ce disoit il \ car s'il le <rhyme>controuva</rhyme>
+<lb n="3JUG.080b:11 "/>Ne <note>'e' on erasure, followed by dash as space-filler</note> sçay je pas \ mais p<abbr type="ar"/> ce <add evidence="" place="supralinear" type="">se</add> <note>lighter ink, indicated by caret in same shade</note> <rhyme>sauva</rhyme><note>Parts of the opening words in this line and the next two have been inserted in lighter ink on a patch applied  after the rest of the text had been copied; cf. 3JUG.080c:10-11.</note>
+<lb n="3JUG.080b:12 "/>D'elle <rhyme>laissier</rhyme>
+<lb n="3JUG.080b:13 "/>Et dist que \ cuer hault et <rhyme>Boubancïer</rhyme>  / <note>'t' , 'et' et Boubancier' apppear corrected on erasure, other manuscripts have 'hautain'</note><note>the slash descends to line below</note>
+<lb n="3JUG.080b:14 "/>Avoit vers lui \ et legier <rhyme>aplaisier</rhyme> / <note>ed. Roy 'ploissier', v. 1410</note>
+<lb n="3JUG.080b:15 "/>À autre amour / plus que verge <rhyme>d'osier</rhyme> / <note>significance of the final slash for these 3 lines?</note>
+<lb n="3JUG.080b:16 "/>¶ Si lui <rhyme>souvint</rhyme>
+<lb n="3JUG.080b:17 "/>Des doulx <note>'doulx' corrected on erasure, lighter</note> plaisirs \ de celle qui <rhyme>devint</rhyme>
+<lb n="3JUG.080b:18 "/>Palle pour lui \ et comment y <rhyme>avint</rhyme>
+<lb n="3JUG.080b:19 "/>Alors son cuer \ à raison se <rhyme>revint</rhyme>
+<lb n="3JUG.080b:20 "/>Et <rhyme>s'avisa</rhyme>
+<lb n="3JUG.080b:21 "/>Qu'il l'ameroit \ car oncques <rhyme>n'avisa</rhyme>
+<lb n="3JUG.080b:22 "/>Plus loyale \ sicomme il <rhyme>devisa</rhyme>
+<lb n="3JUG.080b:23 "/>Ne pouoit mieulx \ pour ce se <rhyme>ravisa</rhyme>
+<lb n="3JUG.080b:24 "/>Et se <note>scored out in light brown ink</note> <rhyme>repenti</rhyme>
+<lb n="3JUG.080b:25 "/>Dont oncques mais \ loyauté lui <rhyme>menti</rhyme>
+<lb n="3JUG.080b:26 "/>Ne dont son cuer \ à autre <rhyme>consenti</rhyme>
+<lb n="3JUG.080b:27 "/>Si a dit lors comme vray <rhyme>converti</rhyme>
+<lb n="3JUG.080b:28 "/>Que <rhyme>humblement</rhyme>
+<lb n="3JUG.080b:29 "/>Lui requerroit \ mercis <rhyme>piteusem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080b:30 "/>Et du meffait \ à son vueil <rhyme>vengem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080b:31 "/>Prensist sur lui \ mais qu'ap<abbr type="rè"/>s <rhyme>bo<abbr type="n"/>nem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080b:32 "/>Lui <rhyme>pardonnast</rhyme>
+<lb n="3JUG.080b:33 "/>Et de bon cuer \ loyal elle <rhyme>l'amast</rhyme>
+<lb n="3JUG.080b:34 "/>Si qu'en tous cas \ son vueil lui <rhyme>ordo<abbr type="n"/>nast</rhyme>
+<lb n="3JUG.080b:35 "/>Et se jamais failloit \ si le <rhyme>blamast</rhyme>
+<lb n="3JUG.080b:36 "/>Comme <rhyme>mauvais</rhyme>
+<lb n="3JUG.080b:37 "/>¶ Ainsi cellui \ volt pourchacier sa <rhyme>paix</rhyme>
+<lb n="3JUG.080b:38 "/>Devers la belle à qui peu chaloit <rhyme>mais</rhyme>
+<lb n="3JUG.080b:39 "/>De son amour et vers elle s'est <rhyme>trais</rhyme> <note>check manuscript for scansion line of these 2 verses</note>
+<lb n="3JUG.080b:40 "/>Si la <rhyme>raisonne</rhyme> <note>slight space between 'a' and 'ra', 'r' has long attack stroke; Roy writes 'l'araisonne; cf. 79b l. 2, that ends in 'araisonne'</note>
+
+
+<pb ed="v" n="080"/><layout ruledLines="no"/>
+<lb n="3JUG.080v:01 "/><hi rend="red"><fw type="header1" place="column c" rend="tabbed">Le</fw> <fw type="header2" place="column c" rend="centred"><c>l</c>ivre</fw> <fw type="header3" place="column d" rend="left aligned">des</fw> <fw type="header4" place="column d" rend="tabbed">trois</fw></hi>
+
+<cb n="c"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.080c:01 "/>Moult doulcement \ et qu'elle lui <rhyme>pardonne</rhyme>
+<lb n="3JUG.080c:02 "/>Prie humblement \ et de ce la <rhyme>sermonne</rhyme>
+<lb n="3JUG.080c:03 "/>Moult longuement \ et dist qu'onq<abbr type="ue"/>s <rhyme>personne</rhyme>
+<lb n="3JUG.080c:04 "/>N'ama plus <rhyme>dame</rhyme>
+<lb n="3JUG.080c:05 "/>Qu'il l'aimera \ des or mais par son <rhyme>ame</rhyme>
+<lb n="3JUG.080c:06 "/>¶ Et lors celle \ en \ <note>descends below line</note> qui plus n'avoit la <rhyme>flame</rhyme>
+<lb n="3JUG.080c:07 "/>De fole amour \ qui deçoit homme &amp; <rhyme>fame</rhyme>
+<lb n="3JUG.080c:08 "/>Prist à <rhyme>respondre</rhyme>
+<lb n="3JUG.080c:09 "/>Et dist c'on la \ devroit b<abbr type="ie"/>n à seq <note>'seq' in lighter ink</note> <rhyme>tondre</rhyme>
+<lb n="3JUG.080c:10 "/>Puis<abbr type=" "/>qu'elle estoit \ hors du meschief qui <rhyme>fondre</rhyme> <note>Parts of the final words in this line and the next one have been inserted in lighter ink on a patch applied after the rest of the text had been copied; cf. 3JUG.080b:11-13. </note><note>little flying bird-like figure near 'f'</note>
+<lb n="3JUG.080c:11 "/>Son cuer faisoit pour prïer ne <rhyme>semondre</rhyme>
+<lb n="3JUG.080c:12 "/>S'à tel <rhyme>meschief</rhyme>
+<lb n="3JUG.080c:13 "/>Se mettoit plus \ si ne l'ameroit <rhyme>brief</rhyme> <note>'brief' on erasure, ink lighter as above</note>
+<lb n="3JUG.080c:14 "/>Puis que laissiée \ il l'avoit de <rhyme>rechief</rhyme>
+<lb n="3JUG.080c:15 "/>Ne s'i fieroit \ jamais par nesun <rhyme>chief</rhyme>
+<lb n="3JUG.080c:16 "/>Puis que <rhyme>deceue</rhyme>
+<lb n="3JUG.080c:17 "/>L'a une fois \ <add evidence="" place="supralinear" type="">&amp;</add> <note>indicated by caret, both in lighter ink</note> mauvaistié <rhyme>perceue</rhyme>
+<lb n="3JUG.080c:18 "/>En lui n'en quiert \ jamais avoir <rhyme>veüe</rhyme>
+<lb n="3JUG.080c:19 "/>Ne plus ne veult \ estre d'amer <rhyme>meüe</rhyme>
+<lb n="3JUG.080c:20 "/><rhyme>Certainement</rhyme>
+<lb n="3JUG.080c:21 "/>Si ne lui en \ tiengne plus <rhyme>parlem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080c:22 "/>Car n'amera \ jamais jour <rhyme>nullem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080c:23 "/>¶ Et cil respond \ et lui dit <rhyme>doulcem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080c:24 "/>Qu'elle aroit <rhyme>tort</rhyme>
+<lb n="3JUG.080c:25 "/>Car repentant \ on ne doit mett<abbr type="re"/> à <rhyme>mort</rhyme>
+<lb n="3JUG.080c:26 "/>Et le pecheur \ que conscïence <rhyme>mort</rhyme>
+<lb n="3JUG.080c:27 "/>Dieu à merci \ le prent se il se <rhyme>remort</rhyme>
+<lb n="3JUG.080c:28 "/>Com <rhyme>repentant</rhyme>
+<lb n="3JUG.080c:29 "/>Et celle dit \ qu'il s'en peut b<abbr type="ie"/>n <rhyme>ata<abbr type="n"/>t</rhyme>
+<lb n="3JUG.080c:30 "/>Souffrir s'il veult \ car moult peu <rhyme>arresta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.080c:31 "/>Il y seroit \ quoy qu'il voit <rhyme>prometta<abbr type="n"/>t</rhyme>
+<lb n="3JUG.080c:32 "/>Mais que <rhyme>nouvelle</rhyme>
+<lb n="3JUG.080c:33 "/>Dame veïst \ qui lui semblast plus <rhyme>belle</rhyme>
+<lb n="3JUG.080c:34 "/>Si n'en veult plus \ ouÿr nulle <rhyme>nouvelle</rhyme>
+<lb n="3JUG.080c:35 "/>¶ Et cil a dit \ que de son dit <rhyme>appelle</rhyme>
+<lb n="3JUG.080c:36 "/>En <rhyme>jugement</rhyme>
+<lb n="3JUG.080c:37 "/>Car <add evidence="" place="supralinear" type="">par</add> <note>indicated by caret, both in lighter ink</note> raison veult \ monstrer tout <rhyme>clerem<abbr type="en"/>t</rhyme> <note>835: Car monstrer veult par raison clerement', v. 1473</note><note>'tout' crossed out very lightly in brown ink ; NB very interesting correction for studying scansion, as scansion line was inserted before the addition of 'par' ; suggests that scansion lines are added in process of copying, or at least before correction stage</note>
+<lb n="3JUG.080c:38 "/>Qu'elle grant tort lui feroit <rhyme>s'ensement</rhyme> <note>'o' of 'feroit' appears written over, correction dot above? 'it' to end of line in lighter ink</note>
+<lb n="3JUG.080c:39 "/>Le guerpissoit puis qu'à<abbr type=" "/><rhyme>repentem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080c:40 "/>De son <rhyme>meffait</rhyme> <note>this line more rapid, more spread out</note>
+
+<cb n="d"/>
+<layout ruledLines="40"/>
+<lb n="3JUG.080d:01 "/>Et se plaindra \ aux amans du tort <rhyme>fait</rhyme>
+<lb n="3JUG.080d:02 "/>Qu'elle lui fait \ et juge veult de <rhyme>fait</rhyme>
+<lb n="3JUG.080d:03 "/>Pour en juger \ car oncques si <rhyme>parfait</rhyme>
+<lb n="3JUG.080d:04 "/>Homs ne <rhyme>nasqui</rhyme>
+<lb n="3JUG.080d:05 "/>Qui ne meprist \ fors <name ref="God"><c>d</c>ieu</name> qui tout <rhyme>vai<abbr type="n"/>qui</rhyme>
+<lb n="3JUG.080d:06 "/>Ce disoit il ne <note>attack stroke of 'n' perhaps serves as scansion line</note> si vaillant en <rhyme>qui</rhyme>
+<lb n="3JUG.080d:07 "/>N'eust vice aucun \ et d'estre <rhyme>relenqui</rhyme>
+<lb n="3JUG.080d:08 "/>En tel <rhyme>maniere</rhyme>
+<lb n="3JUG.080d:09 "/>Ne seroit pas \ chose b<abbr type="ie"/>n <rhyme>droituriere</rhyme>
+<lb n="3JUG.080d:10 "/>¶ Et pour ce veult \ que juge léal on <rhyme>quiere</rhyme>
+<lb n="3JUG.080d:11 "/>Et s'il est dit \ en si faite <rhyme>maniere</rhyme>
+<lb n="3JUG.080d:12 "/>Qu'elle nel <rhyme>doye</rhyme>
+<lb n="3JUG.080d:13 "/>Prendre à merci / aler s'en veult sa <rhyme>voye</rhyme>
+<lb n="3JUG.080d:14 "/>Et celle dit \ qu'au jugeme<abbr type="n"/>t <rhyme>s'ottroye</rhyme>
+<lb n="3JUG.080d:15 "/>¶ Mais non obstant elle veult <rhyme>toutevoye</rhyme>
+<lb n="3JUG.080d:16 "/>Que ains que l'en <rhyme>rende</rhyme>
+<lb n="3JUG.080d:17 "/>Le jugement \ aux dames on <rhyme>demande</rhyme>
+<lb n="3JUG.080d:18 "/>Leur bon avis \ &amp; si s'y <rhyme>recommande</rhyme>
+<lb n="3JUG.080d:19 "/>En leur prïant \ que chacune y <rhyme>entende</rhyme>
+<lb n="3JUG.080d:20 "/><rhyme>Diligemment</rhyme>
+<lb n="3JUG.080d:21 "/>Et puis si soit \ donné le <rhyme>jugement</rhyme>
+<lb n="3JUG.080d:22 "/>¶ Ainsi gréé \ cest \ accort <rhyme>bonnement</rhyme>
+<lb n="3JUG.080d:23 "/>Ont ambedeux \ à tant leur <rhyme>parlem<abbr type="en"/>t</rhyme>
+<lb n="3JUG.080d:24 "/>Ont <rhyme>affiné</rhyme>
+<lb n="3JUG.080d:25 "/>Et puis après \ de cercher n'o<abbr type="n"/>t <rhyme>finé</rhyme>
+<lb n="3JUG.080d:26 "/>Juge par qui \ il soit <rhyme>determiné</rhyme>
+<lb n="3JUG.080d:27 "/>De leur debat \ et leur procès <rhyme>finé</rhyme>
+<lb n="3JUG.080d:28 "/>Si sont <rhyme>venu</rhyme>
+<lb n="3JUG.080d:29 "/>Par devers moy \ comb<abbr type="ie"/>n <rhyme>qu'app<abbr type="er"/>ce</rhyme> / <note>error: both p's crossed at bottom by same stroke: abbreviation for 'er' ; all other manuscripts have 'appartenu'; could the light slash, perhaps with curve at the end of the column be an abbreviation for 'us' or a marker for error to be corrected and something added, but what? </note><note>'u' gratté après 'apperce'</note>
+<lb n="3JUG.080d:30 "/>N'ait pas ami \ <note>835: à moy</note> et si se sont <rhyme>tenu</rhyme> <note>check manuscript for scansion line</note>
+<lb n="3JUG.080d:31 "/>Sur mon avis \ adont m'est <rhyme>souvenu</rhyme>
+<lb n="3JUG.080d:32 "/>De vous chier <rhyme>sire</rhyme>
+<lb n="3JUG.080d:33 "/>¶ Si leur ay dit \ qu'ilz vous vueille<abbr type="n"/>t <rhyme>eslire</rhyme>
+<lb n="3JUG.080d:34 "/>Car mieulx sarés \ de leur debat voir <rhyme>dire</rhyme>
+<lb n="3JUG.080d:35 "/>Et droit juger \ que moy car à bon <rhyme>mire</rhyme>
+<lb n="3JUG.080d:36 "/>Doit le <rhyme>navré</rhyme>
+<lb n="3JUG.080d:37 "/>Soy adrecier \ s'estre veult <rhyme>delivré</rhyme>
+<lb n="3JUG.080d:38 "/>De son grief mal \ do<abbr type="n"/>t p<abbr type="ar"/> vo<abbr type="us"/> <rhyme>desevré</rhyme> <note>last 4 letters corrected on erasure, ink darker, script shakier</note>
+<lb n="3JUG.080d:39 "/>Le droit du tort \ soit si o<abbr type="n"/>t <rhyme>recouvré</rhyme>
+<lb n="3JUG.080d:40 "/>Droit <rhyme>Justicier</rhyme> <note>this whole column, esp. at bottom, in more rapid writing; 'J' has 3 loops, 2 at bottom</note>
+
+<pb ed="r" n="081"/><layout ruledLines="no"/>
+<lb n="3JUG.081ra:01 "/><hi rend="red"><fw type="header1" place="column a" rend="centred">jugemens xv</fw> <fw type="header2" place="column b" rend="left aligned">Le</fw> <fw type="header3" place="column b" rend="tabbed"><c>l</c>ivre</fw> <fw type="header4" place="column b" rend="right aligned">de <c>p</c>oissy xvi&#x95;</fw></hi>
+
+<cb n="a"/>
+<layout ruledLines="41"/>
+<lb n="3JUG.081a:01 "/>En vous sire s'il vous plaist <rhyme>radrecier</rhyme> <note> ascenders of letters rise to header</note>
+<lb n="3JUG.081a:02 "/>Le grant debat \ dont les <note>corrected on erasure, 's' a unique form like a modern capital slightly slanted to right, bottom curve embracing the 'e'</note> ouÿ <rhyme>tencier</rhyme>
+<lb n="3JUG.081a:03 "/>Mais or est temps \ de mon oeuvre <rhyme>avancier</rhyme>
+<lb n="3JUG.081a:04 "/>Et <rhyme>affiner</rhyme>
+<lb n="3JUG.081a:05 "/>Le demourant \ commet à <rhyme>parfiner</rhyme>
+<lb n="3JUG.081a:06 "/>À vo bon sens \ car bien sarés <rhyme>finer</rhyme>
+<lb n="3JUG.081a:07 "/>De ce qu'il fault \ à bien l'oeuvre <rhyme>affiner</rhyme>
+<lb n="3JUG.081a:08 "/>Et la <rhyme>parfaire</rhyme>
+<lb n="3JUG.081a:09 "/>Si est saison \ que je m'en doye <rhyme>taire</rhyme>
+<lb n="3JUG.081a:10 "/>¶ Mais au derrenier <note>faint scansion line?</note> ver vueil dire et <rhyme>retraire</rhyme>
+<lb n="3JUG.081a:11 "/>Quel est mon nom \ qui le vouldra hors <rhyme>traire</rhyme>
+<lb n="3JUG.081a:12 "/>Comme il <rhyme>deffine</rhyme>
+<lb n="3JUG.081a:13 "/>Et en la fin \ de pensée <rhyme>enterine</rhyme>
+<lb n="3JUG.081a:14 "/>Qui vous ottroit \ joye p<abbr type="ar"/>faite &amp; <rhyme>fine</rhyme>
+<lb n="3JUG.081a:15 "/>Pry Ih<abbr type="es"/>ucrist \ qui ne fault ne ne <rhyme>fine</rhyme> <note>writing becomes more rapid in last 8 lines</note>
+<!-- 13 blank lines -->
+<lb n="3JUG.081a:29 "/>Explicit le dit des &#x95;iii&#x95; jugemens
+<!-- 12 blank lines -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

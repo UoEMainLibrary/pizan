@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>hexapod R and D Charlie Mansfield June 2006</title>
+	<meta http-equiv="content-type" 
+		content="text/html;charset=iso-8859-1" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+<style type="text/css">
+body {background-color: #ffffff; font-family: Verdana, sans-serif; font-size: 3.5mm;}
+pre {background-color: #ffffff; font-family: Verdana, sans-serif; font-size: 3.5mm;}
+.chooser {color: #669999; background-color: #ffffcc; font-family: Verdana, Arial, sans-serif; font-size: 3.0mm;}
+.pods {font-family: Verdana, Arial, sans-serif; font-size: 3.5mm;}
+.boldred {color: #ff0000; font-weight: bold; font-size: 5.8mm;}
+.redbutton {color: #ffffff; font-weight: bold; text-decoration:none; border:thin; border-style:outset; background-color:#ff0000; }
+.dropthecap {float:left; margin-top:0px; color:black; padding-top:.2em; font-size:36pt; height:1em; font-weight:bold; font-family:"times","Times New Roman";} 
+.rubrics {color: #e10034; font-family: Verdana, Arial, sans-serif; font-size: 4.7mm;}
+.code {color:#000099; font-family: Lucida Console, Courier, serif; font-size: 4.8mm;}
+</style>
+<script type="text/javascript">
+
+function replacer()
+{
+thisform=document.dataIn4;
+var counting=document.getElementById("textarea4");
+var find="";
+var hifind="";
+var array9="";
+var occurs=0;
+hifind=thisform.find1.value;
+find = new RegExp(hifind, "g");
+var replace="";
+replace='<span class="boldred">' + hifind + '</span>';
+var array9 = document.getElementById("source");
+var col_array=array9.innerHTML.split(hifind);
+occurs=col_array.length-1;
+counting.value = occurs;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+}
+
+
+function x()
+{
+thisform=document.pod;
+mm=thisform.field3.value+"mm";
+colour=thisform.field4.value;
+attribute=thisform.hexa.value;
+var i=0;
+var huge=9999;
+var array2=document.getElementsByName(attribute);
+var textarea2=document.getElementById("textarea2");
+for (i = 0; i <= huge; i++)
+{
+textarea2.value = i;
+array2[i].style.color = colour;
+array2[i].style.fontSize = mm;
+}
+}
+
+function stilo3()
+{
+thisform=document.dataIn3;
+mm=thisform.field5.value+"mm";
+colour=thisform.field6.value;
+var i=0;
+document.getElementsByName("preserve")[i].style.color = colour;
+document.getElementsByName("preserve")[i].style.fontSize = mm;
+}
+
+</script>
+</head>
+<body><a name="top"></a>
+
+<img src="moyen.jpg" border="0" alt="PHOTO: DR CAROLE BAKER, Ile de la Cité, Paris">
+<table width="88%">
+<tr>
+<td>
+<div class="chooser">
+<br />
+<center><span class="rubrics">Technologies, Processes, Informatics Research and Development</span></center><br />
+Highlight parts of the text in any colour or size and reduce body text to make tagged portions more visible. 
+<br /><br />
+
+<form name="pod" action=""> 
+HIGHLIGHT CHOICE
+<select name="hexa">
+<option value="0">person</option>
+
+<option value="1">place</option>
+
+<option value="2">organisation</option>
+<option value="3">theme</option>
+<option value="4">action</option>
+<option value="5">product</option>
+</select>
+Size in mm  <input type="text" name="field3" size="4"> 
+Colour <input type="text" name="field4" size="5"> 
+&nbsp;&nbsp;<a href="javascript:x()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+
+&nbsp;&nbsp;<input type="text" id="textarea2" size="5" value="TOTAL"></input>
+
+</form>
+<br />
+<form name="dataIn3" action=""> 
+Body text &nbsp;Size in mm  <input type="text" name="field5" size="4"> 
+Colour <input type="text" name="field6" size="5"> 
+&nbsp;&nbsp;<a href="javascript:stilo3()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+</form>
+<br />
+<form name="dataIn4" action=""> 
+Highlight any keyword. &nbsp;Find what &nbsp;&nbsp;<input type="text" name="find1" size="10">  
+
+
+&nbsp;&nbsp;<a href="javascript:replacer()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+&nbsp;&nbsp;<input type="text" id="textarea4" size="5" value="TOTAL"></input> 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Ctrl R refreshes text</b> &nbsp;
+</form>
+<br />
+</div>
+</td>
+<td>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.pizan.lib.ed.ac.uk/safe/">Home</a>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#python">Python</a>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#contacts">Contacts</a>
+
+<br /><br />
+
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#journal">Journal</a>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#outcomes">Outcomes</a>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#spare">Spare</a>
+
+</td>
+</table>
+
+<div id="source">
+<div name="preserve">
+
+<br />
+
+<table width="70%">
+<tr>
+<td>
+<span class="rubrics"><a name="python">THE PYTHON ENVIRONMENT & DEVELOPED SOFTWARE</a></span>
+
+<br /><br />
+<img src="python.jpg" border="0" align="left" vspace="5" hspace="10" alt="Python icon">
+<p align="justify">
+The Python programming language was chosen because of its ability to deal with either lines of
+text or individual characters in strings.  Python 2.3, and later, offers a Graphical User
+Interface (GUI) called Idle, which lets us display audit trails of the
+text-file processing in real time.  This very rapidly pinpoints anomalies in
+the orginal mark-up or tagging.
+<br /><br />
+Corpus production, adds line numbers whilst retaining readers' remarks in parentheses (notes presented) 
+<a href="http://www.pizan.lib.ed.ac.uk/python/comments.py">
+http://www.pizan.lib.ed.ac.uk/python/comments.py</a> please also see example of current development of showing or hiding
+comments by readers <a href="comments.htm">comments.htm</a>
+<br /><br />
+
+Concordance production, searches for words split between two lines by the scribe and re-builds them at the end of the first line concerned
+<a href="http://www.pizan.lib.ed.ac.uk/python/undash.py">
+http://www.pizan.lib.ed.ac.uk/python/undash.py</a> 
+<br /><br />
+Finally, CM wrote <a href="http://www.pizan.lib.ed.ac.uk/python/xtirp8.py">
+http://www.pizan.lib.ed.ac.uk/python/xtirp8.py</a> to convert accented
+ characters to UTF-8 entities in hex for use in diplaying the Pizan Database.
+This is now live as release 2 at <a href="http://www.arts.ed.ac.uk/french/christine/cpstart.htm">
+http://www.arts.ed.ac.uk/french/christine/cpstart.htm</a>
+
+</p>
+<img src="python-logo.gif" border="0" align="left" vspace="5" hspace="10" alt="New Python icon">
+In April 2007 Python 2.5.1 was released.  The TAB problem slowed our upgrade
+from 2.3 to 2.5.1 so in January 2008 we re-visited this work.  We looked
+again at our Python legacy and our dependency on the language.
+We would like to be ready for Python 3000 to be released as Python 3.0
+in August 2008, so that our software will continue to be usable by 
+Medievalists and others in the Digital Philology community.
+ 
+<br /><br />
+<br /><br />
+<span class="rubrics"><a name="xml">XML AND XSLT TRANSFORMATIONS</a></span>
+<br /><br />
+<img src="xmlfrorg.gif" border="0" align="left" vspace="5" hspace="10" alt="Python icon">
+<p align="justify">
+We make use of XML: The eXtensible Markup Language, documentation is available
+in French and English.  The French site is at http://xmlfr.org on the web. 
+The Python program converts Laidlaw Rules into XML tags close to TEI P5 standards.
+The XML can then be transformed to HTML using an XSLT file and libraries
+from Berkeley's Digital Scriptorium; we are currently using this slightly 
+modified version of <a href="ds2xslt.xsl">ds2xslt.xsl</a> {Please Note: January 2007
+Curly Braces added to conversion rules}
+<br /><br />
+The XSLT Transform Environment is based on the former Digital Scriptorium
+project (<a href="ds3.zip">ds3.zip</a>) using NoteTab as the editor and transform application.
+<br /><br />
+<img src="tei.jpg" border="0" align="left" vspace="5" hspace="10" alt="Dundee Concordance icon">
+On 1st November 2007 Oxford announced the release of TEI P5.  We decided
+to move the whole development into line with this.  CM was awarded a
+Roberts Fund grant for training and we bought EditiX as our XML Editing
+platform for the whole team with this. Full details of the Roberts Fund grant and
+the Laboratory for Digital Philology project can be found on this server.
+The Digital Lab funding enabled CM to work on Web 2.o technologies to 
+set up a wiki for the team to store Proper Names online as they encountered them
+in editing Harley 4431.  The Roberts Fund also provided training through
+the Lab in XML, in TEI P5 and in dictionary-making with a visit from
+a technical specialist from ATILF, Nancy.
+<br>
+<a href="http://www.pizan.lib.ed.ac.uk/lab/">
+Laboratory for Digital Philology</a> 
+<br><br><br>
+<img src="editix.gif" border="0" align="left" vspace="5" hspace="10" alt="Dundee Concordance icon">
+EditiX is from a French company, JapiSoft
+who provided training in Paris at our meeting and workshop at the end
+of 2007 in Villejuif.  EditiX fits our need to work on Windows, Vista
+and Mac OSX operating systems.  The French connection is useful, too,
+since M. A Brillant continues to provide technical support in our work
+in Paris.  The key step forward that the new editors have provided is
+the ability to create our own DTDs, and new XSLT transformation 
+stylesheets making us independent of older legacy developements.
+The new DTDs and XSLTs are in line with TEI P5 and so will be re-usable
+by the whole community.  One example of this is a XSLTransform to
+extract a single element from the Harley transcription, in this case
+the glossary entries, sort them asciibetically, and display them
+in a table to provide a dictionary, please see
+<a href="1element.xsl">1element.xsl</a>
+<br /><br />
+<img src="3vlab.jpg" border="0">
+<br>
+Work with the XML editor software packages enabled us to create a range of 
+files for re-use:
+<ul>
+<li><a href="http://www.pizan.lib.ed.ac.uk/dtd/4431.dtd">http://www.pizan.lib.ed.ac.uk/dtd/4431.dtd</a>
+<li><a href="http://www.pizan.lib.ed.ac.uk/xsl/harley.xsl">http://www.pizan.lib.ed.ac.uk/xsl/harley.xsl</a>
+<br><br>
+And these 2 which also reside on the public server
+so that HTML web pages may access them online.  Please
+note bold folder name:
+<br>
+<li><a href="http://www.pizan.lib.ed.ac.uk/js/mansfield.js">
+http://www.pizan.lib.ed.ac.uk<b>/js/</b>mansfield.js</a>
+<li><a href="http://www.pizan.lib.ed.ac.uk/css/mansfield.css">
+http://www.pizan.lib.ed.ac.uk<b>/css/</b>mansfield.css</a>
+<br><br>
+Finally, the Oxygen Editor offers an Author view which requires
+a stylesheet using css.  CM and JCL have collaborated to write 
+one of these Author view stylesheets:
+<br>
+<li><a href="oxy.css">oxy.css</a>
+<br>
+Notice how XML attributes may be rendered in Author View with
+code like this:
+<span class="code">
+hi[rend]:before {content:"" attr(rend); font-weight:bold;} 
+</span>
+<br>
+</ul>
+<span class="rubrics">A LITTLE MORE ON CASCADING STYLESHEETS, CSS</a></span>
+<br /><br />
+<img src="css.png" border="0" align="left" vspace="5" hspace="10" alt="CSS Woolly Icon">
+Although we make use of the DOM in our web pages and so browse with Mozilla
+Firefox.  Microsoft offer
+a useful manual for Cascading Style-sheets CSS which is best viewed
+through their browser, Internet Explorer, the url for pasting-in to IE is:
+<br>
+http://msdn2.microsoft.com/en-us/library/ms531205.aspx 
+<br><br>
+CM has designed a web-page using JavaScript to help you select colour
+codes in hex for use in your own css class definitions, it is at:
+<a href="http://www.pizan.lib.ed.ac.uk/lacouleur.htm">
+http://www.pizan.lib.ed.ac.uk/lacouleur.htm</a>
+<br><br>
+A validator service for CSS is offered at <br>
+http://jigsaw.w3.org/css-validator/
+<br /><br />
+<span class="rubrics">CONCORDANCE SOFTWARE</span>
+<br /><br />
+<img src="watt.jpg" border="0" align="left" vspace="5" hspace="10" alt="Dundee Concordance icon">
+<p align="justify">
+Our evaluation of available concordancing software narrowed the
+range of packages down to three: The Oxford Concordance Package,  
+<a href="http://www.niederlandistik.fu-berlin.de/textstat/software-en.html">
+TextSTAT2</a> from Berlin, and finally, a commercialised package from a Dundee-based academic,  R. J. C. Watt <br />
+<a href="http://www.concordancesoftware.co.uk/">www.concordancesoftware.co.uk</a>
+<br /><br />
+We quickly came to use the Watt Concordancer as part of our proof-reading and
+analysis process whilst preparing the definitive transcription.  For example,
+setting parameters such as [Ignore Within Square Brackets] and Pick-List of just Upper-Case Alphas
+gave us this concordance to pin-point Upper-Case letters we had transcribed
+<a href="Alpha.Concordance">Alpha.Concordance</a>, download 2170KB file for re-use in Watt Concordancer.
+
+<br /><br />
+<span class="rubrics">DYNAMIC WEB PAGES, JAVASCRIPT AND SIFT</span>
+<br /><br />
+<img src="moz-head.png" border="0" align="left" vspace="5" hspace="10" alt="Mozilla Head">
+Research work by Mark Aussems in January 2008 led to a new format for
+Mansfield's SIFT version of Harley 4431.  All line feeds and carriage returns were
+removed, all hard rule breaks between pages, and the font coloured grey
+(gray) and reduced in size to 0.1mm.  The aim is to reveal spelling
+variations in particular words, such as <i>ailleurs</i>, whilst
+at the same time showing if the spelling variations are clustered
+in particular regions of the manuscript.  It is for this reason we 
+wanted the corpus to be a small as possible for a 'single glance'.
+<br>Work in progress: </br>
+<a href="a4sift.htm">a4sift.htm</a> 
+<br /><br />
+The standards for JavaScript were adopted by ECMA in 1997 in Geneva.
+ <br>
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+<br>
+Mozilla currently maintain help for developers who use JavaScript at <br>
+http://developer.mozilla.org/en/docs/A_re-introduction_to_JavaScript
+<br>
+and at<br>
+http://developer.mozilla.org/en/docs/JavaScript
+<br>
+However, JavaScript is being upgraded in 2008/2009 with
+changes being published by ecmascript.org on their site at
+<br>
+http://www.ecmascript.org/
+<br>
+
+<br /><br />
+<span class="rubrics">UTF-8 AND HEX</a></span>
+<br />
+The encoding of characters has caused lots of trouble!  However,
+we have found a very useful web-page
+which does exactly what it says on the label:
+"Cette page permet des conversions entre les numéros de 
+caractères Unicode, les caractères eux-mêmes, 
+les codages UTF-8 et UTF-16 et 
+les appels de caractère numériques (hex et décimaux)."
+<br>
+It is <b>Convertisseur</b> at HAPAX in Sault-de-Roxton, Québec.
+<br>
+<a href="http://hapax.qc.ca/conversion.fr.html">
+http://hapax.qc.ca/conversion.fr.html</a>
+<br /><br />
+<span class="rubrics"><a name="journal">Journal</a></span>
+<br />
+Experiments to extract names <a href="namelist.xls">namelist.xls</a>
+<br />
+<a href="all.htm">all.htm</a>  <br /><br />
+Using slightly different xsl file:<br />
+<a href="persons.xls">persons.xls</a> gives 
+<a href="persons.xml">persons.xml</a> which will browse when topped n tailed 
+<a href="persons.htm">persons.htm</a>
+<br /><br />
+
+<b>INVITED PAPERS</b> March 2007 Olivier DELSAUX (2007) Christine de Pizan à l’épreuve d’elle-même
+Olivier DELSAUX est Boursier F.S.R., Groupe de recherche sur le moyen français
+Université catholique de Louvain. This paper presented as part of the AHRC Middle French Project Meeting 9th and 10th March 2007 University of Edinburgh.
+<a href="od1.pdf">od1.pdf</a> Powerpoint Slides and <a href="od2.pdf">Paper</a> in PDF.
+<br /><br />
+Mark Aussems 'Hand Changes in the Harley MS?' Saturday 10 March 2007 Edinburgh University Library
+<br />Download paper in PDF format <a href="hand.pdf">hand.pdf</a>
+<br /><br />
+<span class="rubrics">Recipe for Preparing Concordance</span><br />
+1) Create t.txt version from Harley4431.rtf file.<br />
+   and store in Python folder.<br />
+2) Re-open and re-save t.txt as UTF-8 format<br />
+3) Open Python IDLE Interface <br />
+4) In Python IDLE File-Open undash.py <br />
+5) Run undash.py <br />
+   This creates a new file t.joined.txt <br />
+6) Rename t.txt as OLDt.txt deleting any older OLDt.txt file. <br />
+7) Rename t.joined.txt as t.txt <br />
+8) Use Notepad to open newly-created t.txt <br />
+9) Save As t.txt as ANSI encoding, ready for next step. <br />
+10) In Python IDLE Interface File-Open 0comments.py <br />
+11) Run 0comments.py <br />
+    This creates an XML file called t.txt.xml <br />
+    which needs transforming from XML to HTML so... <br />
+12) Using Notepad, Open the XML file t.txt.xml <br />
+    and Select-All, to take a full copy onto clipboard for next step <br />
+13) Run NoteTab-Pro, the XML Editor with the Swiss Flag icon. <br />
+14) In NoteTab-Pro delete any old version of 0.xml <br />
+15) Re-open empty.xml and Save-As 0.xml to give yourself a working file <br />
+16) Scroll down insdie 0.xml to the two tags: <br />
+    body  /body <br />
+17) Then paste into that space between 'body' tags the contents of the clipboard <br />
+    from the XML file. <br />
+18) File-Save <br />
+19) Modify - Characters to HTML - Extended Characters and <br />
+    File-Save again <br />
+20) Do the transform by double-clicking on 'Combine XML and XSL ...' <br />
+    NoteTab-Pro will ask you for 'XML document name' Enter 0 <br />
+21) NoteTab-Pro will ask 'Please complete the following field' <br />
+    Simply click OK for this. <br />
+22) A black MS-DOS screen will appear. Press space bar to continue when it asks. <br />
+23) A NoteTab-Pro creates a browsable HTML file called 0.html   <br />
+24) Browse this with Mozilla Firefox and Select-All to copy entire web page of Harley. <br />
+25) Paste this into a new Notepad simple text file 4431.txt <br />
+26) Run Dundee Concordancing software using new text file 4431.txt as sole file. <br />
+
+ <br /> <br />
+</pre>
+
+<br /><br /><br /><br />
+<span class="pods" name="0">Charlie Mansfield</span>
+<br />
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

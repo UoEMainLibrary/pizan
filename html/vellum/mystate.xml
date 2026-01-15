@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vvstate version="1">
+ <general left="-4" top="-4" width="1448" height="874" languagefile="languages.xml" language="English" menubar="true" thumbnails="true" threads="2"/>
+ <catalogue filename="images.xml">
+  <colselector width="200" height="120"/>
+  <thumbnails selcolthumbindex="215"/>
+ </catalogue>
+ <windows viewstyle="0">
+  <window left="0" top="0" width="703" height="326" imgcatindex="" imgcolindex="12" centrex="3821" centrey="3166" magnification="33" preview="false" colourbar="false" rulers="false"/>
+  <window left="703" top="0" width="703" height="326" imgcatindex="" imgcolindex="16" centrex="3680" centrey="5291" magnification="29" preview="false" colourbar="false" rulers="false"/>
+  <window left="0" top="326" width="703" height="326" imgcatindex="" imgcolindex="215" centrex="4870" centrey="4824" magnification="26" preview="false" colourbar="false" rulers="false"/>
+  <window left="703" top="326" width="703" height="326" imgcatindex="" imgcolindex="152" centrex="2050" centrey="4190" magnification="18" preview="false" colourbar="false" rulers="false"/>
+ </windows>
+</vvstate>

@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project in Middle French 2004 to 2009 contact Charlie.Mansfield
+at ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Une Epistre à Eustace Morel" type="item">
+<lb n="EUST.255d:01"/><note>1 ligne grattée ?2</note><note>ensemble de la colonne transcrite sur grattage ?</note>
+<lb n="EUST.255d:02"/><hi rend="red">Une <c>e</c>pistre à <name ref="Eustache+Deschamps">Eustace <c>m</c>orel</name> tout de
+<lb n="EUST.255d:03"/><c>R</c>imes equivoques &#x95; xxii &#x95;<note>'i' long</note></hi><note>rubrique tracée après le texte ; cf. espace de l'initiale entamant la disposition de la rubrique alignée sur sa colonne</note>
+<lb n="EUST.255d:04"/><hi rend="cap2">À</hi><note>lettre nue</note><c>T</c>rès expert en sens <rhyme>appris</rhyme>
+<lb n="EUST.255d:05"/><name ref="Eustache+Deschamps+bailli+de+Senlis">Eustace <c>m</c>orel où a / <rhyme>pris</rhyme>
+<lb n="EUST.255d:06"/>De <name ref="Senlis">Senlis</name> baillif <rhyme>tresnottable</rhyme></name>
+<lb n="EUST.255d:07"/>Orateur de mains<note>'maint' ? corrigé</note> vers <rhyme>nottable</rhyme><note>toute cette strophe encre plus noire que ce qui suit</note>
+<!-- 3 blank line(s) here -->
+<lb n="EUST.255d:11"/><hi rend="cap2">T</hi>a<note>trace lettre d'attente ?</note> grant valeur en moy a <rhyme>mis</rhyme>
+<lb n="EUST.255d:12"/>le vouloir chier maistre et <rhyme>amis</rhyme>
+<lb n="EUST.255d:13"/>De cestui mien epistre en <rhyme>vers</rhyme>
+<lb n="EUST.255d:14"/>T'envoyer no<abbr type="n"/> xxxxxxx<note>bout-de-ligne nu ; sur trou de parchemin comblé</note> obsta<abbr type="n"/>t qu'en <rhyme>vers</rhyme>
+<lb n="EUST.255d:15"/>Ton fait riens xxxxxxx<note>bout-de-ligne nu ; sur trou de parchemin comblé</note> ne soit b<abbr type="ie"/>n le<abbr type=" "/><rhyme>sçai<abbr type=" "/>ge</rhyme>
+<lb n="EUST.255d:16"/>Mais comme xxxxxxx<note>bout-de-ligne nu ; sur trou de parchemin comblé</note> no<abbr type="us"/> liso<abbr type="n"/>s / <name ref="">le <rhyme>sage</rhyme></name>
+<lb n="EUST.255d:17"/>Enseigne aux disciples <rhyme>apprendre</rhyme>
+<lb n="EUST.255d:18"/>Amistié<note>A majuscule sans barre transversale</note> aux sages se <rhyme>apprendre</rhyme>
+<lb n="EUST.255d:19"/>Desirent et pour tant en<abbr type=" "/><rhyme>voye</rhyme><note>séparation figurée par un trait descendant pour le dernier jambage du 'n'</note>
+<lb n="EUST.255d:20"/>M'a mis ton sens que je <rhyme>l'envoye</rhyme>
+<lb n="EUST.255d:21"/>Si soit premise à humble <rhyme>chiere</rhyme>
+<lb n="EUST.255d:22"/>Recommendacïons <rhyme>treschiere</rhyme>
+<lb n="EUST.255d:23"/>Te supplïant que à <rhyme>desplaisance</rhyme>
+<lb n="EUST.255d:24"/>Ne te tourt se adès <rhyme>plaisance</rhyme>
+<lb n="EUST.255d:25"/>Ay<note>A majuscule sans barre transversale</note> qu'en singulier nom je <rhyme>parle</rhyme>
+<lb n="EUST.255d:26"/>À toy / car je l'ay appris <rhyme>par le</rhyme>
+<lb n="EUST.255d:27"/>Stille clergial de quoy ceulx <rhyme>usent</rhyme>
+<lb n="EUST.255d:28"/>Qui en science leur temps <rhyme>usent</rhyme>
+<lb n="EUST.255d:29"/>Et moy desirant de tes <rhyme>oeuvres</rhyme>
+<lb n="EUST.255d:30"/>Vertueuses vëoir quë <rhyme>oeuvres</rhyme><note>hiatus</note>
+<lb n="EUST.255d:31"/>Te supplie humblement <rhyme>très or</rhyme>
+<lb n="EUST.255d:32"/>À moy com valable <rhyme>tresor</rhyme>
+<lb n="EUST.255d:33"/>Qu'oû giron science <rhyme>puisas</rhyme>
+<lb n="EUST.255d:34"/>le quel b<abbr type="ie"/>n estendu<note>'nestendu', premier 'n' barré</note> <rhyme>puis as</rhyme>
+<lb n="EUST.255d:35"/>Mon femenin sens ne <rhyme>desprises</rhyme>
+<lb n="EUST.255d:36"/>Si que g'y faille ains adès <rhyme>prises</rhyme>
+<lb n="EUST.255d:37"/>la grant amour qu'ay <rhyme>assavoir</rhyme><note>1er 's' barré, 'à savoir'</note>
+<lb n="EUST.255d:38"/>Par quoy te fais ce <rhyme>assavoir</rhyme>
+<lb n="EUST.255d:39"/>Et se de vëoir <rhyme>appetis</rhyme>
+<lb n="EUST.255d:40"/>Combien qu'en moy sens a <rhyme>petis</rhyme><pb n="256" ed="r"/>
+<lb n="EUST.256r:01"/><hi rend="red"><note>tache</note> Une epistre<note>1re colonne</note> à<note>entrecolonnement</note> Eustace morel xxii &#x95;<note>2e colonne</note></hi><cb n="a"/>
+<!-- 40 lines -->
+<lb n="EUST.256a:01"/>De mes dictiez saches <rhyme>de voir</rhyme>
+<lb n="EUST.256a:02"/>Commander peus par droit <rhyme>devoir</rhyme>
+<lb n="EUST.256a:03"/>Sans enquerir où ne <rhyme>comment</rhyme>
+<lb n="EUST.256a:04"/>Car tout est en ton bon <rhyme>command</rhyme>
+<lb n="EUST.256a:05"/>¶ Et pour ce que je suis <rhyme>certaine</rhyme>
+<lb n="EUST.256a:06"/>De ton sens t'envoye <rhyme>certaine</rhyme>
+<lb n="EUST.256a:07"/>Desplaisance que i'ay <rhyme>com<abbr type=" "/>plainte</rhyme>
+<lb n="EUST.256a:08"/>Plourable expliquant ma <rhyme>complainte</rhyme>
+<lb n="EUST.256a:09"/>Doulousant de ce que mieulx <rhyme>estre</rhyme><note>offset dans l'entrecolonnement</note>
+<lb n="EUST.256a:10"/>Adès ne voy le mondain <rhyme>estre</rhyme>
+<lb n="EUST.256a:11"/>Gouverné / qui de mal <rhyme>en pire</rhyme>
+<lb n="EUST.256a:12"/>Va / ce m'est vis en tout <rhyme>empire</rhyme>
+<lb n="EUST.256a:13"/>Et ce mal qui m'anuye et <rhyme>poise</rhyme>
+<lb n="EUST.256a:14"/>Sçay que ton meismes sens m<abbr type="ou"/>lt <rhyme>poise</rhyme>
+<lb n="EUST.256a:15"/>Car que on se gouvernast à <rhyme>droit</rhyme>
+<lb n="EUST.256a:16"/>Tout homs<note>'s' sur grattage plus espace vide 1 à 2 lettres 'homme' corrigé</note> desire qui en a <rhyme>droit</rhyme>
+<lb n="EUST.256a:17"/>¶ O maistre / quel merveille <rhyme>dure</rhyme>
+<lb n="EUST.256a:18"/>Est de vëoir oû temps qui <rhyme>dure</rhyme>
+<lb n="EUST.256a:19"/>Mençonge et barat si <rhyme>en cours</rhyme>
+<lb n="EUST.256a:20"/>En citez en chastiaulx <rhyme>en cours</rhyme>
+<lb n="EUST.256a:21"/>De princes par rigle <rhyme>commune</rhyme>
+<lb n="EUST.256a:22"/>En nobles gens et en <rhyme>commune</rhyme>
+<lb n="EUST.256a:23"/>En clergie et en toute <rhyme>court</rhyme>
+<lb n="EUST.256a:24"/>De justice sans doubte <rhyme>court</rhyme>
+<lb n="EUST.256a:25"/>Si que verité point <rhyme>n'appert</rhyme>
+<lb n="EUST.256a:26"/>En lieu aucun mucié <rhyme>n'appert</rhyme>
+<lb n="EUST.256a:27"/>Mais chacun s'efforce <rhyme>d'avoir</rhyme>
+<lb n="EUST.256a:28"/>Par grant couvoitise<note>'convoitise' ?</note> <rhyme>d'avoir</rhyme>
+<lb n="EUST.256a:29"/>Malice frauduleuse et <rhyme>cure</rhyme>
+<lb n="EUST.256a:30"/>De decevoir et nul n'a <rhyme>cure</rhyme>
+<lb n="EUST.256a:31"/>De vertueux prouffis <rhyme>acquerre</rhyme>
+<lb n="EUST.256a:32"/>Sans plus s'estudient <rhyme>à querre</rhyme>
+<lb n="EUST.256a:33"/>Les biens vains qui à vices <rhyme>tirent</rhyme>
+<lb n="EUST.256a:34"/>A Riens plus les mondains ne <rhyme>tire<abbr type="n"/>t</rhyme>
+<lb n="EUST.256a:35"/>O te souvient il mon cher <rhyme>sire</rhyme>
+<lb n="EUST.256a:36"/>Com trop plus le miel <add place="supralinear" type="" evidence="">q<abbr type="ue"/></add><note>ajout sublinéaire à l'encre claire</note> la <rhyme>cire</rhyme>
+<lb n="EUST.256a:37"/>philosophie nous appelle<note>exponctué et barré d'un trait à l'encre claire</note> <rhyme>appreuve</rhyme>
+<lb n="EUST.256a:38"/>Sicom <name ref="">boèce</name> trait <rhyme>a<abbr type=" "/>preuve</rhyme><note>plusieurs lettres à l'encre claire</note>
+<lb n="EUST.256a:39"/>En son bel et nottable <name ref=""><rhyme>livre</rhyme>
+<lb n="EUST.256a:40"/>Qui consolacion nous <rhyme>livre</rhyme></name><cb n="b"/>
+<!-- 40 lines -->
+<lb n="EUST.256b:01"/>Quant les biens met si <rhyme>à despris</rhyme>
+<lb n="EUST.256b:02"/>Qui des mondains sont <rhyme>adès pris</rhyme>
+<lb n="EUST.256b:03"/>Et esleüs plus que autre<abbr type=" "/><rhyme>grace</rhyme>
+<lb n="EUST.256b:04"/>Mieulx aiment que ciel terre <rhyme>grasse</rhyme>
+<lb n="EUST.256b:05"/>Semée de fiens et <rhyme>d'ordure</rhyme>
+<lb n="EUST.256b:06"/>Tel couvoitise oû temps <rhyme>d'or dure</rhyme>
+<lb n="EUST.256b:07"/>¶ On treuve en escript <rhyme>ès leüs</rhyme>
+<lb n="EUST.256b:08"/>Livres que jadis les <rhyme>esleüs</rhyme>
+<lb n="EUST.256b:09"/>Sages philosophes <rhyme>estoient</rhyme>
+<lb n="EUST.256b:10"/>Des citez ou lieux où <rhyme>estoient</rhyme>
+<lb n="EUST.256b:11"/>Conseilleurs et aussi <rhyme>des Roys</rhyme>
+<lb n="EUST.256b:12"/>Et par leur bon sens les <rhyme>desroys</rhyme>
+<lb n="EUST.256b:13"/>Supperflus erent <rhyme>confondus</rhyme>
+<lb n="EUST.256b:14"/>Sicom jadis fu <rhyme>con fondus</rhyme><note>correction?</note>
+<lb n="EUST.256b:15"/>L'orgueil du <name ref="">Roy <rhyme>Emiradès</rhyme></name>
+<lb n="EUST.256b:16"/>Com mon sens voit et mire <rhyme>adès</rhyme>
+<lb n="EUST.256b:17"/>Par <name ref="">philometor le <rhyme>vaillant</rhyme>
+<lb n="EUST.256b:18"/>Philosophe</name> qui son <rhyme>vaillant</rhyme>
+<lb n="EUST.256b:19"/>Et soy mes xxxxxxxxxxx<note>bout-de-ligne nu ; sur trou de parchemin comblé</note> mes<note>'s' gratté, scansion</note> en ame &amp; <rhyme>en corps</rhyme>
+<lb n="EUST.256b:20"/>Mist pour xxxx<note>bout-de-ligne nu ; sur trou de parchemin comblé</note> bien co<abbr type="m"/>mun &amp; <rhyme>ancors</rhyme>
+<lb n="EUST.256b:21"/>Ce prouffit mesmes <rhyme>adès faisoient</rhyme><note>9 syllabes</note>
+<lb n="EUST.256b:22"/>Lées<note>1er 'e' barré</note> bons sages qui <rhyme>desfaisoient</rhyme>
+<lb n="EUST.256b:23"/>Les laides sectes mais <rhyme>en vie</rhyme>
+<lb n="EUST.256b:24"/>A pour n'est nul qui ait <rhyme>envie</rhyme>
+<lb n="EUST.256b:25"/>Devers le bien commun <rhyme>soy traire</rhyme>
+<lb n="EUST.256b:26"/>Mais chacun le propre à <rhyme>soy traire</rhyme>
+<lb n="EUST.256b:27"/>Veult / plus n'est la chose <rhyme>publique</rhyme>
+<lb n="EUST.256b:28"/>Gardée ainçois tout en <rhyme>publique</rhyme>
+<lb n="EUST.256b:29"/>De tieulx orreurs faire on <rhyme>n'a honte</rhyme>
+<lb n="EUST.256b:30"/>Dont meisme<note>disyllabe</note> <name ref="">nature</name> <rhyme>en ahonte</rhyme>
+<lb n="EUST.256b:31"/>Ès voluptez chacun <rhyme>s'enlace</rhyme>
+<lb n="EUST.256b:32"/>Ne je ne voy nul qui <rhyme>s'en lasse</rhyme>
+<lb n="EUST.256b:33"/>Gent ne considerent qu'ilz <rhyme>faillent</rhyme>
+<lb n="EUST.256b:34"/>Toutes bonnes coustumes <rhyme>faillent</rhyme>
+<lb n="EUST.256b:35"/>Car vertus sont mis en <rhyme>mescontes</rhyme><note>dernier 's' barré, rime</note>
+<lb n="EUST.256b:36"/>De scïence on ne tient <rhyme>mais compte</rhyme>
+<lb n="EUST.256b:37"/>Par qui on gouv<abbr type="er"/>noit <rhyme>jadis</rhyme>
+<lb n="EUST.256b:38"/>Les regnes co<abbr type="m"/>me ailleurs <rhyme>ja dis</rhyme>
+<lb n="EUST.256b:39"/>Pour ce estoit equité au <rhyme>monde</rhyme>
+<lb n="EUST.256b:40"/>Mais ore y a pou de gent <rhyme>monde</rhyme><pb n="256" ed="v"/>
+<lb n="EUST.256v:01"/><hi rend="red">une<note>1re colonne</note> epistre<note>2e colonne</note></hi><cb n="c"/>
+<!-- 39 lines -->
+<lb n="EUST.256c:01"/>Lors le siecle estoit <rhyme>de fin or</rhyme>
+<lb n="EUST.256c:02"/>Qui du tout est à <rhyme>defin or</rhyme>
+<lb n="EUST.256c:03"/>¶ Les princes estoient <rhyme>letrez</rhyme>
+<lb n="EUST.256c:04"/>Lesquieulx les pillers et <rhyme>les trefs</rhyme>
+<lb n="EUST.256c:05"/>Doivent estre pour <rhyme>soustenir</rhyme>
+<lb n="EUST.256c:06"/>Justice et peuple <rhyme>soubz tenir</rhyme>
+<lb n="EUST.256c:07"/>Par ordre de loy et <rhyme>raison</rhyme>
+<lb n="EUST.256c:08"/>Eloquens par vraye <rhyme>raison</rhyme><note>'rai' sur lettres ?</note>
+<lb n="EUST.256c:09"/>Les nobles traveillans <rhyme>con<abbr type=" "/>fors</rhyme><note>séparation figurée par la haste descendante du 'n'</note>
+<lb n="EUST.256c:10"/>Donnoient au peuple <rhyme>confors</rhyme>
+<lb n="EUST.256c:11"/>Excercitant les meurs <rhyme>parfais</rhyme>
+<lb n="EUST.256c:12"/>En sollicitude et <rhyme>parfais</rhyme>
+<lb n="EUST.256c:13"/>Et leur vie ainsi <rhyme>employoyent</rhyme>
+<lb n="EUST.256c:14"/>Combien que l'eschine en <rhyme>ployent</rhyme><note>espace 2 lettres grattées entre 'y' et 'e'</note>
+<lb n="EUST.256c:15"/>Souvente fois par mainte <rhyme>peine</rhyme>
+<lb n="EUST.256c:16"/>Pour vertu / dont peu ore on <rhyme>peine</rhyme>
+<lb n="EUST.256c:17"/>Or regardez<note>2e singulier ? </note> s'en tel <rhyme>maniere</rhyme>
+<lb n="EUST.256c:18"/>Ceulx qui de fait et<note>'ait et' plus espace sur trou de parchemin comblé</note> De <rhyme>maniere</rhyme>
+<lb n="EUST.256c:19"/>Se doivent delicter xxxx<note>'cter' plus bout-de-ligne nu ; sur trou de parchemin comblé</note> <rhyme>en suivre</rhyme>
+<lb n="EUST.256c:20"/>Noble fait vueillent ceulx<note>sur trou de parchemin comblé</note> <rhyme>ensuivre</rhyme>
+<lb n="EUST.256c:21"/>S'il en est assez <rhyme>d'ainsi fais</rhyme>
+<lb n="EUST.256c:22"/>Louez<note>2e singulier ? </note> ent dieu / et je <rhyme>aussi fais</rhyme>
+<lb n="EUST.256c:23"/>Freres chers pourroit on <rhyme>compter</rhyme>
+<lb n="EUST.256c:24"/>le nombre de ceulx dont <rhyme>compter</rhyme>
+<lb n="EUST.256c:25"/>On peut les grans orguieulx <rhyme>haultai<abbr type="n"/>s</rhyme>
+<lb n="EUST.256c:26"/>Pour superflus abis <rhyme>hault tains</rhyme>
+<lb n="EUST.256c:27"/>Ou par richeces que on <rhyme>a quises</rhyme>
+<lb n="EUST.256c:28"/>Au grief d'autruy et mal <rhyme>acquises</rhyme>
+<lb n="EUST.256c:29"/>Peut estre en honneurs ou <rhyme>estas</rhyme>
+<lb n="EUST.256c:30"/>Apperçois tu nulz tieulx <rhyme>ès tas</rhyme>
+<lb n="EUST.256c:31"/>Des mondains croy que si sans <rhyme>faille</rhyme>
+<lb n="EUST.256c:32"/>N'ay doubte que de ce je <rhyme>faille</rhyme>
+<lb n="EUST.256c:33"/>Et appert que trestuit <rhyme>ensemble</rhyme>
+<lb n="EUST.256c:34"/>Cuident estre dieux que <rhyme>t'en semble</rhyme>
+<lb n="EUST.256c:35"/>Est ce voye d'en meurs <rhyme>errer</rhyme>
+<lb n="EUST.256c:36"/>Ou se c'est la sante <rhyme>d'errer</rhyme>
+<lb n="EUST.256c:37"/>¶ Meismes voit on qu'en orgueil <rhyme>monte</rhyme>
+<lb n="EUST.256c:38"/>Maint de qui le sens petit <rhyme>monte</rhyme>
+<lb n="EUST.256c:39"/>Et qui n'ont pas vaillant ma <rhyme>coiffe</rhyme><cb n="d"/>
+<!-- 39 lines -->
+<lb n="EUST.256d:01"/>Des fortunez biens et à <rhyme>quo<s>y</s> fe</rhyme>-
+<lb n="EUST.256d:02"/>Roie<note>mot divisé à la rime</note> / de ce plus lonc <rhyme>procès</rhyme><note>'//', en marge, préparation pour PM ?</note>
+<lb n="EUST.256d:03"/>Car certain es qu'à la <rhyme>proces</rhyme>-
+<lb n="EUST.256d:04"/>sion /<note>mot divisé à la rime, 's' minuscule</note> en dure longue <rhyme>route</rhyme>
+<lb n="EUST.256d:05"/>Et par tel erreur foy est <rhyme>roupte</rhyme>
+<lb n="EUST.256d:06"/>Au<note>A majuscule sans barre transversale</note> monde où pou on voit <rhyme>apprendre</rhyme>
+<lb n="EUST.256d:07"/>Les meurs qui bonnes sont <rhyme>à prendre</rhyme>
+<lb n="EUST.256d:08"/>Aux juges par ta foy <rhyme>me<add place="supralinear" type="" evidence="">s</add><note>rising 's'</note> faire</rhyme><note>avant 's' 'f' gratté</note>
+<lb n="EUST.256d:09"/>Vois tu fors droit <add place="supralinear" type="" evidence="">n</add>'en riens <rhyme>meffaire</rhyme>
+<lb n="EUST.256d:10"/>Cher frere et ami or prens <rhyme>garde</rhyme>
+<lb n="EUST.256d:11"/>Se adès justice bien on <rhyme>garde</rhyme>
+<lb n="EUST.256d:12"/>¶ Ha justice la très <rhyme>esleue</rhyme>
+<lb n="EUST.256d:13"/>Com nottablement tu <rhyme>es leue</rhyme>
+<lb n="EUST.256d:14"/>Et enseignée ès <rhyme>traictez</rhyme>
+<lb n="EUST.256d:15"/>On<note>c'est-à-dire 'Ou' ?</note> l'en apprent justes <rhyme>traictiez</rhyme>
+<lb n="EUST.256d:16"/>Vois tu que la faveur des <rhyme>drois</rhyme>
+<lb n="EUST.256d:17"/>Soit estendue adès<abbr type=" "/>ès <rhyme>drois</rhyme>
+<lb n="EUST.256d:18"/>Povres orphelins et aux <rhyme>lasses</rhyme>
+<lb n="EUST.256d:19"/>Vesves / de plourer non ja <rhyme>lasses</rhyme>
+<lb n="EUST.256d:20"/>Et que t'en semble est il <rhyme>ainsi</rhyme>
+<lb n="EUST.256d:21"/>Je croy que non certes <rhyme>ains si</rhyme>
+<lb n="EUST.256d:22"/>Est tout le monde <rhyme>adès tourné</rhyme>
+<lb n="EUST.256d:23"/>Que tout bien leur est <rhyme>destourné</rhyme>
+<lb n="EUST.256d:24"/>¶ Et ce puis pour certain <rhyme>tenir</rhyme>
+<lb n="EUST.256d:25"/>Car bien m'en sçay à quoy <rhyme>tenir</rhyme>
+<lb n="EUST.256d:26"/>Et <name ref="">fortune</name> m'a fait <rhyme>maistresse</rhyme>
+<lb n="EUST.256d:27"/>Du savoir par preuve mains <rhyme>très ce</rhyme>
+<lb n="EUST.256d:28"/>Que fus en ses lïens <rhyme>lïée</rhyme>
+<lb n="EUST.256d:29"/>Nul ne vint plus à chiere <rhyme>liée</rhyme>
+<lb n="EUST.256d:30"/>M'offrir confort en bonne <rhyme>entente</rhyme>
+<lb n="EUST.256d:31"/>Fors peut estre ainsi comme <rhyme>entente</rhyme>
+<lb n="EUST.256d:32"/>Les simples pour les <rhyme>decevoir</rhyme>
+<lb n="EUST.256d:33"/>Et certes je dis <rhyme>de ce voir</rhyme>
+<lb n="EUST.256d:34"/>Dont mes adversitez <rhyme>communes</rhyme>
+<lb n="EUST.256d:35"/>Sont ainsi tournées <rhyme>comme unes</rhyme>
+<lb n="EUST.256d:36"/>Accoustumances qui <rhyme>adès</rhyme>
+<lb n="EUST.256d:37"/>Continuent ainsi <rhyme>à<abbr type=" "/>des</rhyme>
+<lb n="EUST.256d:38"/>Meschiefs eus de <rhyme>ma partie</rhyme>
+<lb n="EUST.256d:39"/>Puis que je party <rhyme>ma partie</rhyme><pb n="257" ed="r"/>
+<lb n="EUST.257r:01"/><hi rend="red">à eustace morel &#x95; xxii &#x95;<note>'i' plutôt long</note><note>première colonne</note> &#x95; Une oroison de la vie et passion de n<abbr type="ost"/>re seigneur xxiii &#x95;<note>deuxième colonne</note></hi><cb n="a"/>
+<!-- 40 lines -->
+<lb n="EUST.257a:01"/>Vraye et loyal à ton <rhyme>ami</rhyme><note>point sur les 'y'</note>
+<lb n="EUST.257a:02"/>Estoit cil / si ert il <rhyme>ami</rhyme>
+<lb n="EUST.257a:03"/>Si que jamais si fait <rhyme>n'aray</rhyme>
+<lb n="EUST.257a:04"/>Comme ailleurs que ycy le <rhyme>n'aray</rhyme>
+<lb n="EUST.257a:05"/>Et de tieulx ennuis ancor <rhyme>ay je</rhyme>
+<lb n="EUST.257a:06"/>Dont je te pry de bon <rhyme>couraige</rhyme>
+<lb n="EUST.257a:07"/>Que <name ref="">dieux</name> prie<add place="supralinear" type="" evidence="">s</add><note>rising 's' encre plus claire</note> que <rhyme>pacïence</rhyme>
+<lb n="EUST.257a:08"/>M'y doint car je n'ay <rhyme>pas scïence</rhyme>
+<lb n="EUST.257a:09"/>De toudis me tenir <rhyme>conforte</rhyme><note>un seul mot</note>
+<lb n="EUST.257a:10"/>En pacïence qui <rhyme>conforte</rhyme>
+<lb n="EUST.257a:11"/><name ref="">Dieu</name> prie qu'il t'ottroit <rhyme>par<abbr type=" "/>durable</rhyme><note>9</note>
+<lb n="EUST.257a:12"/>Temps vivre au mond et <rhyme>p<abbr type="ar"/>durable</rhyme>
+<lb n="EUST.257a:13"/>Escript seulette en <rhyme>m'estude</rhyme><note>'joie' cursive encre pâle dans entrecolonnement face à ce vers, obiter dictum de Christine ?</note>
+<lb n="EUST.257a:14"/>Le x &#x95;<num type="ordinal">e</num> jour par <rhyme>estude</rhyme>
+<lb n="EUST.257a:15"/>De fevrier l'an mil <rhyme>CCCC</rhyme>
+<lb n="EUST.257a:16"/>Et iii &#x95; en deliberé <rhyme>sens</rhyme>
+<!-- 2 blank line(s) here -->
+<lb n="EUST.257a:19"/><name ref=""><abbr type="Crist"/>ine de pizan</name> ance <rhyme>celle</rhyme><note>9</note>
+<lb n="EUST.257a:20"/>De scïence que cest an<abbr type=" "/><rhyme>celle</rhyme>
+<lb n="EUST.257a:21"/>Occuppacion tient <rhyme>v illant</rhyme><note>une lettre grattée ; dans entrecolonnement marge 'ei' à l'encre claire, 'vaillant' transformé en 'veillant', correction non complétée</note>
+<lb n="EUST.257a:22"/>Ta disciple et ta b<abbr type="ie"/>n <rhyme>vueillant</rhyme>
+<!-- 18 blank line(s) here -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

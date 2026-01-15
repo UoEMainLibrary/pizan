@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="ds2xslt.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 SYSTEM "ds3.dtd"[
+
+<!ENTITY % ISOlat1 SYSTEM "ISOlat1.pen"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "ISOlat2.pen"> %ISOlat2;
+<!ENTITY % ISOnum SYSTEM "ISOnum.pen"> %ISOnum;
+<!ENTITY % ISOpub SYSTEM "ISOpub.pen"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "ISOtech.pen"> %ISOtech;
+
+<!ENTITY longs "s" ><!-- representing long s character -->
+<!ENTITY yogh "3" ><!-- representing yogh character -->
+<!ENTITY dloop "d" ><!-- representing looped-ascender d character -->
+<!ENTITY rround "r" ><!-- representing round r character -->
+<!ENTITY wanglicana "w" ><!-- representing anglicana w character -->
+<!ENTITY xanglicana "x" ><!-- representing anglicana x character -->
+<!ENTITY eslig "es" ><!-- representing es glyph character -->
+<!ENTITY divide "&#xf7;" ><!-- representing divide character -->
+<!ENTITY pound "&#xa3;" ><!-- representing pound character -->
+<!ENTITY Eacute "&#xc9;" ><!-- representing E acute character -->
+<!ENTITY eacute "&#xc9;" ><!-- representing e acute character -->
+<!ENTITY egrave "&#xe8;" ><!-- representing e grave character -->
+<!ENTITY Agrave "&#xc0;" ><!-- representing A grave character -->
+<!ENTITY agrave "&#xe0;" ><!-- representing a grave character -->
+<!ENTITY ugrave "&#xf9;" ><!-- representing u grave character -->
+<!ENTITY ucirc "&#xfb;" ><!-- representing u circumflex character -->
+<!ENTITY Ccedil "&#xc7;" ><!-- representing C cedilla character -->
+<!ENTITY ccedil "&#xe7;" ><!-- representing c cedilla character -->
+<!ENTITY auml "&#xe4;" ><!-- representing a diaeresis character -->
+<!ENTITY euml "&#xeb;" ><!-- representing e diaeresis character -->
+<!ENTITY iuml "&#xef;" ><!-- representing i diaeresis character -->
+<!ENTITY ouml "&#xf6;" ><!-- representing o diaeresis character -->
+<!ENTITY uuml "&#xfc;" ><!-- representing u diaeresis character -->
+<!ENTITY yuml "&#xff;" ><!-- representing y diaeresis character -->
+<!ENTITY acute "&#xb4;" ><!-- representing open single quote or spacing acute -->
+<!ENTITY lsquo "&#x91;" ><!-- representing ls quote -->
+<!ENTITY rsquo "&#x92;" ><!-- representing rs quote -->
+]>
+
+<TEI.2>
+<teiHeader> </teiHeader>
+<text>
+<body>
+<pre>
+
+</pre>
+</body>
+</text>
+</TEI.2>

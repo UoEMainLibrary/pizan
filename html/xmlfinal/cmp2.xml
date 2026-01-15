@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact pizan@ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<ref type="cmp2fm.html"/>
+<div1 n="Complainte amoureuse 2" type="Item">
+<pb n="048" ed="r" l="CMP2.048r:01"/><layout rend="blank" ruledLines="no"/>
+<cb n="b"/><layout ruledLines="41"/>
+<lb n="CMP2.048b:01"/><hi rend="red"><fw type="rubric" place="inset">Ci co<abbr type="m"/>mence une <c>c</c>omplai<abbr type="n"/>te <c>a</c>moureuse &#x95;x&#x95;</fw></hi>
+<lb n="CMP2.048b:02"/><group n=" 1"/><hi rend="cap3">V</hi>ueillez oÿr en pitié ma <rhyme>complainte</rhyme>,
+<lb n="CMP2.048b:03"/>Belle plaisant, pour qui j'ay douleur <rhyme>mainte</rhyme>
+<lb n="CMP2.048b:04"/>Et que j'äour plus que ne saint ne <rhyme>sainte</rhyme>,
+<lb n="CMP2.048b:05"/>Chose est <rhyme>certaine</rhyme>.<l n="  4"/>
+<lb n="CMP2.048b:06"/>Et ne cuidez que ce soit chose <rhyme>fainte</rhyme>,
+<lb n="CMP2.048b:07"/>Tresdoulce flour dont je porte <rhyme>l'emprainte</rhyme>
+<lb n="CMP2.048b:08"/>Dedens mon cuer pourtraicte, escripte &amp; <rhyme>painte</rhyme>,
+<lb n="CMP2.048b:09"/>Car la grant <rhyme>peine</rhyme><l n="  8"/>
+<lb n="CMP2.048b:10"/>Du mal d'amours, qui pour vous me <rhyme>demaine</rhyme>,
+<lb n="CMP2.048b:11"/>Me grieve tant &#x2013; de ce vous <rhyme>acertaine</rhyme> &#x2013;
+<lb n="CMP2.048b:12"/>Que plus vivre ne puis jour ne <rhyme>sepmaine</rhyme>,
+<lb n="CMP2.048b:13"/>Dont par <rhyme>contrainte</rhyme><l n=" 12"/>
+<lb n="CMP2.048b:14"/>Dire me fault à vous, ma <rhyme>souveraine</rhyme>,
+<lb n="CMP2.048b:15"/>Le tresgrant faiz dont ma pensée est <rhyme>plaine</rhyme>.
+<lb n="CMP2.048b:16"/>Bonne, belle, tout le vous dis je à <rhyme>peine</rhyme>
+<lb n="CMP2.048b:17"/>Et en grant <rhyme>crainte</rhyme>.<l n=" 16"/>
+<!-- 1 blank line -->
+<lb n="CMP2.048b:19"/><group n=" 2"/>¶ Et se je crains, doulce dame, à le <rhyme>dire</rhyme>
+<lb n="CMP2.048b:20"/>Merveilles n'est, car qui vouldroit <rhyme>eslire</rhyme>
+<lb n="CMP2.048b:21"/>En tout le mond sans trouver à <rhyme>redire</rhyme>
+<lb n="CMP2.048b:22"/>Une <rhyme>parfaicte</rhyme><l n=" 20"/>
+<lb n="CMP2.048b:23"/>Haulte dame pour estre d'un <rhyme>empire</rhyme>
+<lb n="CMP2.048b:24"/>Couronnée, si devroit il <rhyme>souffire</rhyme><note>The SATF edition has 'souffrir' as the rhyme-word.</note>
+<lb n="CMP2.048b:25"/>De vous, souvraine, où tout honneur <g lemma="tirer" en="to go, direct one's steps" fr="se rendre, se diriger">se <rhyme>tire</rhyme></g>.
+<lb n="CMP2.048b:26"/>Maiz, très <rhyme>doulcette</rhyme><l n=" 24"/>
+<lb n="CMP2.048b:27"/>Jouvencelle, que mon cuer tant <rhyme>regraitte</rhyme>,
+<lb n="CMP2.048b:28"/>S'<name ref="God+of+Love"><c>a</c>mours</name> contraint mon cuer qu'en vous se <rhyme>mette</rhyme>
+<lb n="CMP2.048b:29"/>Pour vous servir, sanz que ja s'en <rhyme>desmette</rhyme>,
+<lb n="CMP2.048b:30"/>N'en ayés <rhyme>yre</rhyme><l n=" 28"/>
+<lb n="CMP2.048b:31"/>Pour tant se ne vous v<subst><del rend="erasure" evidence="blurring, darker ink"></del><add place="inline" evidence="alignment, point size">ail</add></subst>,\ flour <rhyme>nouvellette</rhyme>,
+<lb n="CMP2.048b:32"/>Rose de may, belle, <g lemma="sade" en="sweet, charming" fr="doux, charmant">sade</g> et <rhyme>simplette</rhyme>,
+<lb n="CMP2.048b:33"/>À qui serf suis lige, obligié de <rhyme>debte</rhyme>,
+<lb n="CMP2.048b:34"/>Où je me <rhyme>mire</rhyme>.<l n=" 32"/><note>In the manuscript there is no blank line between Stanzas 2 and 3.</note>
+
+<lb n="CMP2.048b:35"/><group n=" 3"/>¶ Mais s'il avient que vo \ valour <g lemma="orgueillir" en="become proud" fr="s'emplir d'orgueil"><rhyme>s'orgueille</rhyme></g>
+<lb n="CMP2.048b:36"/>Contre mon bien pour ce que pas <rhyme>pareille</rhyme>
+<lb n="CMP2.048b:37"/>N'estes à moy et que ne <rhyme>m'appareille</rhyme>
+<lb n="CMP2.048b:38"/>À vo <rhyme>haultece</rhyme>,<l n=" 36"/>
+<lb n="CMP2.048b:39"/>Je suis perdus. <c>S</c>e <name ref="Pride"><c>f</c>ierté</name> vous <rhyme>conseille</rhyme>
+<lb n="CMP2.048b:40"/>Que m'occïez, <name ref="Danger"><c>d</c>angier</name> qui tousjours <rhyme>veille</rhyme>
+<lb n="CMP2.048b:41"/>Me courra sus, si seroit bien <rhyme>merveille</rhyme><pb n="048" ed="v" l=""/><layout rend="blank" ruledLines="no"/><cb n="c"/><layout ruledLines="41"/>
+<lb n="CMP2.048c:01"/>Qu'en tel <rhyme>asprece</rhyme><l n=" 40"/>
+<lb n="CMP2.048c:02"/>Vesquisse. <c>h</c>elas, <s>m</s>a dame et ma <rhyme>maistresse</rhyme>,
+<lb n="CMP2.048c:03"/>Mon seul desir, mon espoir, ma <rhyme>déesse</rhyme>,
+<lb n="CMP2.048c:04"/>Pour <name ref="God"><c>d</c>ieu</name> mercy, que ne muire à <rhyme>destresce</rhyme>,
+<lb n="CMP2.048c:05"/>Dame, ainçois <rhyme>vueille</rhyme><l n=" 44"/>
+<lb n="CMP2.048c:06"/>V<abbr type="ost"/>re doulceur tost me mettre en <rhyme>adresse</rhyme>
+<lb n="CMP2.048c:07"/>De reconfort, quant voyez que ne <rhyme>cesse</rhyme>
+<lb n="CMP2.048c:08"/>De vous servir de fait et de <rhyme>promesse</rhyme>,
+<lb n="CMP2.048c:09"/>Quoy que m'en <rhyme>dueille</rhyme>.<l n=" 48"/>
+<!-- 1 blank line -->
+<lb n="CMP2.048c:11"/><group  n=" 4"/>¶ Hé tresplaisant et amoureux <rhyme>vïaire</rhyme>,
+<lb n="CMP2.048c:12"/>Doulx corselet de beauté <rhyme>l'exemplaire</rhyme>,
+<lb n="CMP2.048c:13"/>Que vraye amour me fait amer &amp; <rhyme>plaire</rhyme>
+<lb n="CMP2.048c:14"/>Sur toute <rhyme>chose</rhyme>,<l n=" 52"/>
+<lb n="CMP2.048c:15"/>Le mal que j'ay je ne vous puis plus <rhyme>taire</rhyme>,
+<lb n="CMP2.048c:16"/>Car vo secours m'est si <rhyme>tresneccessaire</rhyme>
+<lb n="CMP2.048c:17"/>Que se ne l'ay, à la mort me fault <rhyme>traire</rhyme>
+<lb n="CMP2.048c:18"/>Ne ne <rhyme>repose</rhyme>,<l n=" 56"/>
+<lb n="CMP2.048c:19"/>Si en ayez pitié, fresche com <rhyme>Rose</rhyme>
+<lb n="CMP2.048c:20"/>Voyez comment <add place="supralinear" type="" evidence="caret">tout</add> de p<subst><del rend="erasure" evidence="blurring, darker ink"></del><add place="inline" evidence="spacing, alignment">lour <c>J</c>e</add></subst> <rhyme>m'arrose</rhyme>,
+<lb n="CMP2.048c:21"/>Et toute foiz à peine dire <rhyme>l'ose</rhyme>
+<lb n="CMP2.048c:22"/>Ne vers vous <rhyme>traire</rhyme>,<l n=" 69"/>
+<lb n="CMP2.048c:23"/>Tant vous redoubt. <c>p</c>our ce ay tenue <rhyme>close</rhyme>
+<lb n="CMP2.048c:24"/>Ma pensée, mais or vous <subst><del rend="erasure"></del><add place="inline" evidence="blurring, darker ink">est</add></subst> <rhyme>desclose</rhyme>,
+<lb n="CMP2.048c:25"/>Car grant amour m'a fait à la <rhyme>parclose</rhyme>
+<lb n="CMP2.048c:26"/>Le vous <g lemma="retraire" en="to tell, relate" fr="dire, exposer" ><rhyme>retraire</rhyme></g>.<l n=" 64"/>
+<!-- 1 blank line --> 
+<lb n="CMP2.048c:28"/><group  n=" 5"/>¶ Helas, belle, trop seroie <rhyme>deceu</rhyme>
+<lb n="CMP2.048c:29"/>Se le maintien que j'ay en vous <rhyme>veü</rhyme>
+<lb n="CMP2.048c:30"/>Tant doulx, tant quoy, si hu<abbr type="m"/><subst><del rend="inline" evidence="erasure">j</del>ble</subst> &amp; qui m'a <rhyme>meu</rhyme><note>A punctus and a vertical line separate this very long line from column d</note>
+<lb n="CMP2.048c:31"/>À vous \ <rhyme>amer</rhyme><l n=" 68"/>
+<lb n="CMP2.048c:32"/>Avoit en soy, sanz qu'il fust <rhyme>apperceu</rhyme>,
+<lb n="CMP2.048c:33"/>Fierté, <subst><del rend="overwritten" evidence="darker ink"></del><add place="inline" evidence="larger point, alignment">d</add></subst>angier, certes ne seroit <rhyme>deu</rhyme>
+<lb n="CMP2.048c:34"/>Que si tresdoulx ymage <del rend="expuntuate, overstrike">ne</del> fust <g lemma="paître" en="to feed" fr="nourrir" type="past part."><rhyme>peü</rhyme></g>
+<lb n="CMP2.048c:35"/>De fiel <rhyme>amer</rhyme>.<l n=" 72"/>
+<lb n="CMP2.048c:36"/>Et m'est advis qu'on vous devroit <rhyme>blasmer</rhyme>
+<lb n="CMP2.048c:37"/>Se <name ref="Cruelty"><c>c</c>rüaulté</name> que on doit tant <rhyme>diffamer</rhyme>
+<lb n="CMP2.048c:38"/>Estoit en vous que <choice><sic>ont</sic><corr reason="sense" resp="JL" source="SATF">on doit</corr></choice> doulce <rhyme>clamer</rhyme>,
+<lb n="CMP2.048c:39"/>Car à mon <rhyme>sceu</rhyme><l n=" 76"/>
+<lb n="CMP2.048c:40"/>Nulle meilleur de vous n'oy <rhyme>reno<abbr type="m"/>mer</rhyme>.
+<lb n="CMP2.048c:41"/>Ha, tresplaisant où <s><c>J</c></s>e me vueil <g lemma="fermer" en="to set (one's heart)" fr="se fixer, s'appuyer"><rhyme>fermer</rhyme></g><cb n="d"/><layout ruledLines="41"/>
+<lb n="CMP2.048d:01"/>Vo<abbr type="str"/>e doulx cuer à mo<s>y</s> am<s>y</s> <rhyme>c<s>l</s>amer</rhyme>
+<lb n="CMP2.048d:02"/>Soit <rhyme>esmeü</rhyme>.<l n=" 80"/>
+<!-- 1 blank line -->
+<lb n="CMP2.048d:04"/><group  n=" 6"/>¶ Et m'est advis, belle, se je <rhyme>pouo<s>y</s>e</rhyme>
+<lb n="CMP2.048d:05"/>Vous demonstrer comment, où que <c>J</c>e <rhyme>soye</rhyme>,
+<lb n="CMP2.048d:06"/>Entierement suis v<abbr type="ost"/>re et qu'il n'est <rhyme>joye</rhyme>
+<lb n="CMP2.048d:07"/>Qui d'aultre <rhyme>part</rhyme><l n=" 84"/>
+<lb n="CMP2.048d:08"/>Me peust venir, certes je ne <rhyme>pourroye</rhyme>
+<lb n="CMP2.048d:09"/>Croire qu'en vo<abbr type="us"/> doulce, simplete et <rhyme>quoye</rhyme>
+<lb n="CMP2.048d:10"/>N'est tant de bien &#x2013; et c'est là où <rhyme>m'apoye</rhyme>
+<lb n="CMP2.048d:11"/>Et main et <rhyme>tart</rhyme> &#x2013;<l n=" 88"/>
+<lb n="CMP2.048d:12"/>Et de pitié, que vo <name ref="Sweet Glance"><c>t</c>resdoulx <rhyme>regart</rhyme></name>
+<lb n="CMP2.048d:13"/>Qui de mon cuer à nulle heure ne <rhyme>part</rhyme>
+<lb n="CMP2.048d:14"/>Ne dont n'ay bien fors quant je sent <rhyme>l'espart</rhyme>,
+<lb n="CMP2.048d:15"/>Par quelque <rhyme>voye</rhyme><l n=" 92"/>
+<lb n="CMP2.048d:16"/>Ne confortast le mal dont j'ay grant <rhyme>part</rhyme>.
+<lb n="CMP2.048d:17"/>Mais je ne puis en secret n'<g lemma="apert1" en="openly" fr="à découvert">en <rhyme>appart</rhyme></g>
+<lb n="CMP2.048d:18"/>Parler\ <subst><del rend="erasure"></del><add place="inline" evidence="blurring, larger point, extra space">à</add></subst> vous dont mon cuer de dueil <rhyme>part</rhyme>
+<lb n="CMP2.048d:19"/>Et en plours <rhyme>noye</rhyme>.<l n=" 96"/>
+<!-- 1 blank line -->
+<lb n="CMP2.048d:21"/><group  n=" 7"/>¶ Et doncques, las, dont vendroit <rhyme>reconfort</rhyme>
+<lb n="CMP2.048d:22"/>À mon las cuer qui meurt p<abbr type="ar"/> amer <rhyme>fort</rhyme>,
+<lb n="CMP2.048d:23"/>Quant ne savez, m'amour, le <rhyme>desconfort</rhyme>
+<lb n="CMP2.048d:24"/>Où pour vous <rhyme>suis</rhyme><l n="100"/>
+<lb n="CMP2.048d:25"/>Ne comment vous aim de tout mon <rhyme>effort</rhyme>?
+<lb n="CMP2.048d:26"/>Si couvendra que je soie à dur <rhyme>port</rhyme>,
+<lb n="CMP2.048d:27"/>Se <name ref="True Love"><c>v</c>raye <c>a</c>mour</name>, à qui m'attens au <rhyme>fort</rhyme>,
+<lb n="CMP2.048d:28"/>Tost n'euvre <rhyme>l'uys</rhyme><l n="104"/>
+<lb n="CMP2.048d:29"/>D'umble <name ref="Pity"><c>p</c>itié</name> où à secours je <rhyme>fuys</rhyme>,
+<lb n="CMP2.048d:30"/>Si vous dye comment durer ne <rhyme>puis</rhyme>
+<lb n="CMP2.048d:31"/>Pour vostre amour où tout je me suis <rhyme>duys</rhyme>,
+<lb n="CMP2.048d:32"/>Soit droit ou <rhyme>tort</rhyme>,<l n="108"/>
+<lb n="CMP2.048d:33"/>Par quoy voyez comme<abbr type="n"/>t et jours et <rhyme>nuis</rhyme>
+<lb n="CMP2.048d:34"/>De tout solas et de <c>J</c>oye suis <rhyme>vuys</rhyme>.
+<lb n="CMP2.048d:35"/>Se tel secours bien brief vers vous ne <rhyme>truys</rhyme>,
+<lb n="CMP2.048d:36"/>Vez me la <rhyme>mort</rhyme>,<l n="112"/>
+<!-- 1 blank line -->
+<lb n="CMP2.048d:38"/><group  n=" 8"/>¶ Car mesdisans tant fort redoubte et <rhyme>crain</rhyme>
+<lb n="CMP2.048d:39"/>Que je n'ose parler ne soir ne <rhyme>main</rhyme>
+<lb n="CMP2.048d:40"/>N'à nulle heure dont je suis de dueil <rhyme>plain</rhyme>
+<lb n="CMP2.048d:41"/>À vous, <rhyme>tresbelle</rhyme>,<l n="116"/>
+<pb n="049" ed="r" l="CMP2.049r:01"/><layout ruledLines="yes"/><hi rend="run"><fw type="header1" place="column a, along top of ruled space" rend="centred">Complainte</fw> <fw type="header2" place="intercolumn, along top of ruled space" rend="centred">amoureuse</fw> <fw type="header3" place="column b, along top of ruled space" rend="centred">&#x95; x &#x95;</fw></hi><cb n="a"/><layout ruledLines="38"/>
+<lb n="CMP2.049a:01"/>Pour vostre honneur qui est entier &amp; <rhyme>sain</rhyme>
+<lb n="CMP2.049a:02"/>Ne ja par moy &#x2013; vo cuer en soit <rhyme>certain</rhyme> &#x2013;
+<lb n="CMP2.049a:03"/>N'empirera, quelque soit mon <g lemma="reclaim" en="complaint, lament" fr="plainte, lamentation"><rhyme>reclain</rhyme></g>,
+<lb n="CMP2.049a:04"/>Ains mort <rhyme>cruele</rhyme><l n="120"/>
+<lb n="CMP2.049a:05"/>Endurera<s>y</s>. <c>p</c>our <name ref="God"><c>d</c>ieu</name>,\ ma <rhyme>damoiselle</rhyme>
+<lb n="CMP2.049a:06"/>Ne doubtez point que vous face <rhyme>querelle</rhyme>
+<lb n="CMP2.049a:07"/>Fors en honneur, <name ref="God"><c>d</c>ieux</name> tesmoing en <rhyme>appelle</rhyme>,
+<lb n="CMP2.049a:08"/>Mais je me <rhyme>plain</rhyme><l n="124"/>
+<lb n="CMP2.049a:09"/>De ce qu'<name ref="God+of+Love"><c>a</c>mours</name> si haulte <rhyme>jouvencelle</rhyme>en
+<lb n="CMP2.049a:10"/>M'a fait amer que ouÿr n'en puis <rhyme>nouvelle</rhyme>
+<lb n="CMP2.049a:11"/>Se par <c>p</c>itié ne me vient; pour ce à <rhyme>elle</rhyme>
+<lb n="CMP2.049a:12"/><subst><del rend="erasure"></del><add place="inline" evidence="cursive 's' in paler ink in gutter margin, ruling erased, 'S' in larger point and overflows">S</add></subst>eule <g lemma="clamer" en="to complain" fr="se plaindre" type="1 pres. ind.">m'en <rhyme>claim</rhyme></g>.<l n="128"/>
+<!-- 1 blank line -->
+<lb n="CMP2.049a:14"/><group  n=" 9"/>¶ Mais puis qu'<name ref="God+of+Love"><c>a</c>mours</name> a voulu <rhyme>consentir</rhyme>
+<lb n="CMP2.049a:15"/>Qu'en si hault lieu me meisse, sanz <rhyme>mentir</rhyme>,
+<lb n="CMP2.049a:16"/>Je ne croy pas, quoy que soie <rhyme>martir</rhyme>,
+<lb n="CMP2.049a:17"/>Que au lonc <rhyme>aler</rhyme><l n="132"/>
+<lb n="CMP2.049a:18"/>Ne resveille <name ref="Pity"><c>p</c>itié</name> qui <g lemma="départir" en="to leave, go away"  fr="partir"><rhyme>departir</rhyme></g>
+<lb n="CMP2.049a:19"/>Face le mal dont suis <g lemma="partir" en="to break one's heart" fr="briser, fendre le coeur">au cuer <rhyme>partir</rhyme></g>.
+<lb n="CMP2.049a:20"/>¶ Si me couvient quoy q<abbr type="ue"/> j'aye à <rhyme>sentir</rhyme><note>Unusually, this stanza contains two paragraph marks.</note>
+<lb n="CMP2.049a:21"/>Tout mon <rhyme>parler</rhyme>,<l n="136"/>
+<lb n="CMP2.049a:22"/>Mes faiz, mes diz, sanz <c>R</c>iens lui en <rhyme>celer</rhyme>,
+<lb n="CMP2.049a:23"/>À <name ref="True Love"><c>v</c>raye <c>a</c>mour</name> adrecier qui <rhyme>voler</rhyme>
+<lb n="CMP2.049a:24"/>En vo doulx cuer vueille et vous <rhyme>reveler</rhyme>
+<lb n="CMP2.049a:25"/>Comment ne <g lemma="tirer" en="to aim, aspire" fr="viser à, aspirer à"><rhyme>tir</rhyme></g><l n="140"/>
+<lb n="CMP2.049a:26"/>Fors à tout bien \ ainsi s'<name ref="God+of+Love"><c>a</c>mour</name> <rhyme>mesler</rhyme>
+<lb n="CMP2.049a:27"/>S'en veult, plus n'ay \ besoing de <g lemma="adouler" en="to suffer, be in pain" fr="souffrir, s'affliger"><rhyme>m'adouler</rhyme></g>.
+<lb n="CMP2.049a:28"/>Or vueille tost \ vo doulx cuer <rhyme>appeller</rhyme>
+<lb n="CMP2.049a:29"/>Et <rhyme>convertir</rhyme>.<l n="144"/>
+<!-- 1 blank line -->
+<lb n="CMP2.049a:31"/><group  n="10"/>¶ Si couvient dont \ qu'à <name ref="God+of+Love"><c>a</c>mours</name> m'e<abbr type="n"/> <rhyme>attende</rhyme>,
+<lb n="CMP2.049a:32"/>Lui supplïant \ qu'à mon secours <rhyme>entende</rhyme>,
+<lb n="CMP2.049a:33"/>Et à <name ref="Pity"><c>p</c>itié</name> \ qui sa doulce main <rhyme>tende</rhyme>
+<lb n="CMP2.049a:34"/>Pour <rhyme>redrecier</rhyme><l n="148"/>
+<lb n="CMP2.049a:35"/>Mon povre cuer, <c>C</c>ar <c>r</c>iens n'est qu'il <rhyme>attende</rhyme>
+<lb n="CMP2.049a:36"/>Fors que la mort \ qui son las corps <rhyme>esten<subst><del rend="erasure?"></del><add  place="inline" evidence="blurring, darker ink">de</add></subst></rhyme>
+<lb n="CMP2.049a:37"/>Dedens briefs jours.\ <c>p</c>our ce lui pry q<abbr type="u'i"/>l <rhyme>te<abbr type="n"/>de</rhyme>
+<!-- 1 blank line -->
+<cb n="b"/><layout ruledLines="38"/>
+<lb n="CMP2.049b:01"/><del rend="overstrike">Mon povre cuer car <c>R</c>iens n'est qu'il <rhyme>attende</rhyme></del><note>The three repeated lines have been deleted by a single vertical stroke in paler ink at position 6. </note>
+<lb n="CMP2.049b:02"/><del rend="overstrike">Fors que la mort qui son las corps <rhyme>estende</rhyme></del>
+<lb n="CMP2.049b:03"/><del rend="overstrike">Dedens briefs jours si lui pry qu'il <rhyme>attende</rhyme></del><note>The second hemistich differs from the earlier version.</note>
+<lb n="CMP2.049b:04"/>À <rhyme>avancier</rhyme><l n="152"/>
+<lb n="CMP2.049b:05"/>Ma garison et se vueille <rhyme>adrecier</rhyme>
+<lb n="CMP2.049b:06"/>Par devers vous,\ ma dame, et ne <rhyme>laissier</rhyme>
+<lb n="CMP2.049b:07"/>Vo cuer en paix \ jusque à ce <rhyme>qu'<g lemma="élaiser" en="to exalt" fr="exalter">eslaissier</g></rhyme>,
+<lb n="CMP2.049b:08"/>Si que <rhyme>j'amende</rhyme>,<l n="156"/>
+<lb n="CMP2.049b:09"/>Vueille le mien \ et de joye <g lemma="laisse" en="to leash, link" fr="attacher" type="cf CHLE 135-136"><rhyme>laissier</rhyme></g>.
+<lb n="CMP2.049b:10"/>Humble <name ref="Pity"><c>p</c>itié</name> \ à ce vueille <g lemma="plaisser" en="to bend" fr="ployer, courber"><rhyme>plaissier</rhyme></g>
+<lb n="CMP2.049b:11"/>Vo bon vouloir pour mon mal <rhyme>abaissier</rhyme>,
+<lb n="CMP2.049b:12"/>Joye me <rhyme>rende</rhyme>.<l n="160"/>
+<!-- 1 blank line -->
+<lb n="CMP2.049b:14"/><group  n="11"/>¶ Et <g lemma="entandis" en="while" fr="pendant que">entendis qu</g>'<name ref="God+of+Love"><c>a</c>mours</name> pour ma <rhyme>besongne</rhyme>
+<lb n="CMP2.049b:15"/>S'employera, belle, sanz faire <g lemma="aloigne" en="delay" fr="délai"><rhyme>alongne</rhyme></g>,
+<lb n="CMP2.049b:16"/>À celle fin \ qu'encor mieulx vous <rhyme>tesmongne</rhyme>
+<lb n="CMP2.049b:17"/>Que je dis <g lemma="voir2" en="truth" fr="vérité"><rhyme>voir</rhyme></g>,<l n="164 "/>
+<lb n="CMP2.049b:18"/>Vueillez m'amour \ sans en avoir <rhyme>vergongne</rhyme>
+<lb n="CMP2.049b:19"/>Me commander \ que pour vous <rhyme>m'embesongne</rhyme>
+<lb n="CMP2.049b:20"/>En quelque cas, \ ne point n'en ait <g lemma="ressoigne" en="fear" fr="crainte"><rhyme>ressongne</rhyme></g>
+<lb n="CMP2.049b:21"/>Vo bon <rhyme>vouloir</rhyme><l n="168"/>,
+<lb n="CMP2.049b:22"/>Car je vous jur \ que se daignez <rhyme>avoir</rhyme>
+<lb n="CMP2.049b:23"/>Fïance en mo<s>y</s>\ que peusse <rhyme>savoir</rhyme>
+<lb n="CMP2.049b:24"/>Aucune riens \ qui vous pleust \ tant <rhyme>valoir</rhyme>,
+<lb n="CMP2.049b:25"/>Toute <name ref="Burgundy"><rhyme><subst><del rend="erasure"></del><add place="inline" evidence="mark in margin, darker ink, cramped, smaller point"><c>b</c>our</add></subst>gongne</rhyme></name>,<l n="172"/>
+<lb n="CMP2.049b:26"/>Se moye estoit, \ ne me pourroit <rhyme>d'<g lemma="avoir2" en="wealth, riches" fr="biens, richesses">avoir</g></rhyme>
+<lb n="CMP2.049b:27"/>Com se de vous \ peüsse <rhyme>recevoir</rhyme>
+<lb n="CMP2.049b:28"/>Aucun command, \ car à aultre <g lemma="chaloir1" en="subject, matter (of importance)" fr="sujet (important)" type="verbal noun? not in DMF"><rhyme>chaloir</rhyme></g>
+<lb n="CMP2.049b:29"/>Mon cuer ne <g lemma="soigner" en="to be preoccupied with" fr="se préoccuper de"><rhyme>songne</rhyme></g>.<l n="176"/><note>In the manuscript there is no blank line between Stanzas 11 and 12.</note>
+
+<lb n="CMP2.049b:30"/><group n="12"/>¶ Plus ne vous sçay que dire, belle <rhyme>née</rhyme>,
+<lb n="CMP2.049b:31"/>Tout v<abbr type="ost"/>re suis, \ non pas pour une <rhyme>année</rhyme>
+<lb n="CMP2.049b:32"/>Tant seulement \ mai<add place="supralinear" type="" evidence="">s</add> tant que soit <rhyme>finée</rhyme>
+<lb n="CMP2.049b:33"/>Ma vie <rhyme>lasse</rhyme><l n="180"/>,
+<lb n="CMP2.049b:34"/>Si vous plaise \ que paix me soit <rhyme>donnée</rhyme>
+<lb n="CMP2.049b:35"/>De la guerre \ d'amours que ont <rhyme>ordenée</rhyme>
+<lb n="CMP2.049b:36"/>Voz tresdoulx yeulx \ et beauté <rhyme>affinée</rhyme>.
+<lb n="CMP2.049b:37"/><name ref="God">Dieu</name> par sa <rhyme>grace</rhyme><l n="184"/>
+<lb n="CMP2.049b:38"/>Vous doint <c>J</c>oye et \ tout bien, &amp; à moy <rhyme>face</rhyme>
+<pb n="049" ed="v" l="CMP2.049v:01"/><layout ruledLines="yes"/>
+<lb n=""/><hi rend="run"><fw type="header1" place="column c, along top of ruled space" rend="left aligned"><s>E</s>ncore</fw> <fw type="header2" place="column c, along top of ruled space" rend="centred"><c>a</c>ultres</fw> <fw type="header3" place="intercolumn, along top of ruled space" rend="straddle"><s>B</s>alades</fw> <fw type="header4" place="column d, along top of ruled space" rend="tabbed">&#x95; xi &#x95;</fw></hi>
+<cb n="c"/><layout ruledLines="38"/>
+<lb n="CMP2.049c:01"/>Tant de bonté \ que puisse en quelque <rhyme>place</rhyme>
+<lb n="CMP2.049c:02"/>Faire chose \ dont je soye en vo <rhyme>grace</rhyme>.
+<lb n="CMP2.049c:03"/>Tel <rhyme>destinée</rhyme><l n="188"/>
+<lb n="CMP2.049c:04"/>À vous et moy \ doint qu'<name ref="God+of+Love"><c>a</c>mours</name>, qui <rhyme>enlace</rhyme>
+<lb n="CMP2.049c:05"/>Maint gentilz cuers, \ les n<abbr type="ost"/>res deux si \ <rhyme>lasse</rhyme>
+<lb n="CMP2.049c:06"/>Que jamais jour ne vous envoye <rhyme>lasse</rhyme>
+<lb n="CMP2.049c:07"/>Ne hors <rhyme>menée</rhyme>. &#x95;<l n="192"/>
+<!-- 1 blank line -->
+<lb n="CMP2.049c:09"/>Explicit <c>c</c>omplainte.
+<!-- 4 blank lines -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--?DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" -->
+<!DOCTYPE TEI SYSTEM "halfway.dtd">
+<?xml-stylesheet href="student.xsl" type="text/xsl"?>
+<?xml-stylesheet type="text/css" href="classes.css"?>
+<TEI>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>London, British Library, Harley MS 4431</title>
+<author>Christine de Pizan</author>
+<respStmt>
+<resp>Marked up by</resp><name>Team funded under AHRC award</name>
+</respStmt></titleStmt>
+<publicationStmt>
+<authority>AHRC funded research project (2004-2009) centred on London, British Library, Harley MS 4431, the collection of her works prepared by Christine de Pizan and presented by her to Queen Isabeau of France early in 1414.  Contact Charlie.Mansfield@ ed.ac.uk</authority>
+<availability status="free"><p>http://www.pizan.lib.ed.ac.uk/</p></availability>
+<date>2008</date>
+</publicationStmt>
+<sourceDesc>
+<biblFull>
+<titleStmt>
+<title>The Queen's Manuscript</title>
+<author>Christine de Pizan</author>
+</titleStmt>
+<publicationStmt>
+<publisher>Manuscript</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1414</date>
+<idno type="url">http://www.bl.uk/catalogues/illuminatedmanuscripts</idno>
+</publicationStmt></biblFull>
+</sourceDesc></fileDesc>
+</teiHeader>
+<text>
+<body>
+<p>
+<div1 n="Rondeaux" type="Item">
+<pb n="028" ed="v" l=""/>
+<cb n="d"/><layout ruledLines="38"/>
+<lb n="ROND.028d:16"/><fw type="rubric" place="inline" rend="centred"><s>R</s>ondelz <hi rend="red">&#x95;vii&#x95;</hi></fw>
+<!-- 2 blank line(s) -->
+<group n="1"/><div2 satfno=" 1" n="1" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.028d:19"/><hi rend="cap2">C</hi>om turtre suis, sans per, toute\ <rhyme>seulete</rhyme>,<note>SATF Rondeau 1.</note>
+<lb n="ROND.028d:20"/>Et com brebis sans pastour <rhyme>esgarée</rhyme>,
+<lb n="ROND.028d:21"/>Car par la mort fus jadis <rhyme>sepparée</rhyme>
+<lb n="ROND.028d:22"/>De mon doulx per qu'à toute heure <rhyme>regrete</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.028d:24"/>Il a &#x95;vii&#x95; ans que le perdi, <rhyme>lassette</rhyme>;
+<lb n="ROND.028d:25"/>Mieulx me vaulsist estre lors <rhyme>enterrée</rhyme>.
+<lb n="ROND.028d:26"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>om turtre sui</fw></emph>
+<lb n="ROND.028d:27"/>Car depuis lors, en dueil et en <g lemma="" en="suffering, pain" fr="souffrance, tourment"><rhyme>souffrette</rhyme></g><l n=" 8"/>
+<lb n="ROND.028d:28"/>Et en <g lemma="" en="misfortune, unhappiness" fr="mauvaise fortune, malheur">meschief</g> très grief suis <rhyme>demourée</rhyme>,
+<lb n="ROND.028d:29"/>Ne n'ay espoir, tant com j'aray <rhyme>durée</rhyme>,
+<lb n="ROND.028d:30"/>D'avoir <g lemma="" en="comfort, consolation" fr="réconfort, consolation">solas</g> qui en joye me <rhyme>mette</rhyme>.
+<lb n="ROND.028d:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>om turtre sui</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n=" 2"/><div2 satfno="" n="2" type="Rondeau sizain" metre="a7a3b7a7a3b7" length="24" refrain="aabaab" stanza="aab" rhyme="fm"><lb n="ROND.028d:33"/><hi rend="cap2">Q</hi>ue me vault dont<note>i.e. 'donc'.</note> le <rhyme>complaindre</rhyme>,<note>SATF Rondeau 2.</note>
+<lb n="ROND.028d:34"/><c>n</c>e moy <rhyme>plaindre</rhyme>
+<lb n="ROND.028d:35"/>De la doulour que je <rhyme>port</rhyme>,
+<lb n="ROND.028d:36"/>Quant <g lemma="" en="in no way" fr="ne... nullement">en riens ne</g> peut <g lemma="" en="remain, stay" fr="rester, subsister"><rhyme>remaindre</rhyme></g>,<l n=" 4"/>
+<lb n="ROND.028d:37"/>Ains est <g lemma="" en="greater, bigger" fr="plus grand"><rhyme>graindre</rhyme></g>
+<lb n="ROND.028d:38"/>Et sera jusqu'à la <rhyme>mort</rhyme>?
+<pb n="029" ed="r" l="ROND.029r:01"/><hi rend="run"><fw type="header1" place="column a, above ruling" rend="centred"><hi rend="red">Rondeaulx</hi></fw> <fw type="header2" place="column a, above ruling" rend="right aligned"><hi rend="red">&#x95; vii &#x95;</hi></fw></hi><cb n="a"/><layout ruledLines="40"/>
+<lb n="ROND.029a:01"/><s>T</s>ant me <s>v</s>ient doulour <rhyme>attain<s>d</s>re</rhyme>
+<lb n="ROND.029a:02"/>Que <rhyme>restraindre</rhyme><l n=" 8"/>
+<lb n="ROND.029a:03"/>Ne <g lemma="" en="I can" fr="je peux">puis</g> mon grant <g lemma="" en="distress, despair" fr="détresse, désespoir"><rhyme>desconfort</rhyme></g>.
+<lb n="ROND.029a:04"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>q</c>ue me vault &amp;c </fw></emph>
+<lb n="ROND.029a:05"/>Quant cil qu'amoye sans <rhyme>faindre</rhyme>
+<lb n="ROND.029a:06"/><name ref="Death">Mort</name> <rhyme>estraindre</rhyme><l n="12"/>
+<lb n="ROND.029a:07"/>A voulu, dont m'a fait <rhyme>tort</rhyme>.
+<lb n="ROND.029a:08"/>Cë a fait ma joye <rhyme>estaindre</rhyme>
+<lb n="ROND.029a:09"/>Në <rhyme>attaindre</rhyme>
+<lb n="ROND.029a:10"/>Ne pos <g lemma="" en="since then" fr="depuis">puis</g> à nul <rhyme>deport</rhyme>.<l n="16"/>
+<lb n="ROND.029a:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>q</c>ue me vault</fw></emph></div2>
+<!-- 1 blank line -->
+<group n=" 3"/><div2 satfno="" n="3" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="" rhyme="ff"><lb n="ROND.029a:13"/><hi rend="cap2">J</hi>e suis vesve, seulette et noir <rhyme>vestue</rhyme>,<note>SATF Rondeau 3.</note>
+<lb n="ROND.029a:14"/><c>à</c> triste <g lemma="" en="face" fr="visage">vis</g>, simplement <g lemma="" en="dress, clothe" fr="revêtir"><rhyme>affullée</rhyme></g>.
+<lb n="ROND.029a:15"/>En grant <g lemma="" en="distress, affliction" fr="chagrin, affliction">courrous</g> et maniere <g lemma="" en="sadden" fr="attrister"><rhyme>adoulée</rhyme></g>
+<lb n="ROND.029a:16"/>Porte le dueil très amer qui me <rhyme>tue</rhyme>,<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029a:18"/>Et bien est droit que soye <g lemma="" en="cast down" fr="abattre, accabler"><rhyme>rabatue</rhyme></g>,
+<lb n="ROND.029a:19"/>Plaine de plour et <g lemma="" en="of few words" fr="qui parle peu">petit <rhyme>emparlée</rhyme></g>:
+<lb n="ROND.029a:20"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>e suis vesve</fw></emph>
+<lb n="ROND.029a:21"/>Puis qu'ay perdu cil par qui <g lemma="" en="recall" fr="rappeler"><rhyme>rame<abbr type="n"/>teue</rhyme></g><l n=" 8"/>
+<lb n="ROND.029a:22"/>M'est la doulour dont je suis <rhyme>affollée</rhyme>
+<lb n="ROND.029a:23"/>Tous mes bons jours &amp;amp; ma joye est <rhyme>alée</rhyme>
+<lb n="ROND.029a:24"/>En dur estat ma fortune <g lemma="" en="plunge, fall " fr="plonger, tomber"><rhyme>embatue</rhyme></g>
+<lb n="ROND.029a:25"/><emph rend="italic"><fw type="refrain" place="" rend="centred, smaller point"><c>j</c>e suis vesve</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n=" 4"/><div2 satfno=" 4" n="4" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.029a:27"/><hi rend="cap2">P</hi>uis qu'ainsi est\ qu'il me fault viv<abbr type="re"/> en <rhyme>dueil</rhyme><note>SATF Rondeau 4.</note>
+<lb n="ROND.029a:28"/>Et que jamais\ n'aray b<abbr type="ie"/>n en ce <rhyme>monde</rhyme>,
+<lb n="ROND.029a:29"/>Viengne la mort\ qui du mal me <rhyme><abbr type="con"/>fonde</rhyme>,
+<lb n="ROND.029a:30"/>Qui si me tient\ et pour qui mourir <rhyme>vueil</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029a:32"/>Et delaissier\ bien doy <g lemma="" en="all that" fr="tout ce que">quanq<abbr type="ue"/></g> amer <g lemma="" en="be accustomed to" fr="avoir l'habitude de"><rhyme>sueil</rhyme></g>,
+<lb n="ROND.029a:33"/>Si qu'en griefs plours\ mon doulereux cuer <rhyme>fonde</rhyme>,
+<lb n="ROND.029a:34"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Puis qu'ainsi &amp;c</fw></emph>
+<lb n="ROND.029a:35"/>De tout maintien,\ de contenance &amp; <rhyme>d'ueil</rhyme><l n=" 8"/>
+<lb n="ROND.029a:36"/>Doy bien sembler\ femme en qui dueil <rhyme>abo<abbr type="n"/>de</rhyme>,
+<lb n="ROND.029a:37"/>Car tant est grant\ le mal qui me <g lemma="" en="inundate" fr="inonder"><rhyme>suronde</rhyme></g>
+<lb n="ROND.029a:38"/>Que de la mort\ <add place="inline" type="scribe" evidence="erasure, darker ink, filler">desir</add> passer le <rhyme>sueil</rhyme>,
+<lb n="ROND.029a:39"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Puis qu'ainsi &amp;c</fw></emph><note>Two words in brown ink are offset below line 39.</note><l n="12"/></div2>
+<!-- 1 blank line --><cb n="b"/><layout ruledLines="40" writtenLines="41"/>
+<group n=" 5"/><div2 satfno=" 5" n="5" type="Rondeau quatrain " metre="7" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.029b:01"/><hi rend="cap2">Q</hi>uelque chiere que je <rhyme>face</rhyme><note>SATF Rondeau 5.</note>
+<lb n="ROND.029b:02"/><c>e</c>t comment que souvent <rhyme>rye</rhyme>,
+<lb n="ROND.029b:03"/>Si n'y a il plus <g lemma="" en="saddened, griefstricken" fr="triste, affligée"><rhyme>marrie</rhyme></g>,
+<lb n="ROND.029b:04"/>Je croy, de moy en la <rhyme>place</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029b:06"/>À tort seroie <g lemma="" en="?" fr="?">en ma <rhyme>grace</rhyme></g>,
+<lb n="ROND.029b:07"/>Car joye est en moy <rhyme>tarie</rhyme>
+<lb n="ROND.029b:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>q</c>uelque chiere</fw></emph>
+<lb n="ROND.029b:09"/><s>M</s>ais pas n'appert à ma <rhyme>face</rhyme><l n=" 8"/>
+<lb n="ROND.029b:10"/>La doulour qui me <g lemma="" en="strike, afflict" fr="frapper, affliger"><rhyme>tarie</rhyme></g>>,
+<lb n="ROND.029b:11"/>Qui nulle heure n'est <rhyme>garie</rhyme>,
+<lb n="ROND.029b:12"/>Mais grief dueil ma joye <rhyme>efface</rhyme>
+<lb n="ROND.029b:13"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>q</c>uelque chiere</fw></emph><l n="12"/><l n=""/></div2>
+<!-- 1 blank line -->
+<group n=" 6"/><div2 satfno="" n="6" type="Rondeau quatrain" metre="8" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.029b:15"/><hi rend="cap2">E</hi><s>n</s> esperant de mieulx <rhyme>avoir</rhyme>,<note>SATF Rondeau 6.</note>
+<lb n="ROND.029b:16"/><c>m</c>e fault le temps <rhyme>dissimuler</rhyme>,
+<lb n="ROND.029b:17"/><g lemma="" en="although" fr="bien que">Combien que</g> voye <rhyme>reculer</rhyme>
+<lb n="ROND.029b:18"/>Toutes choses à mon <rhyme>vouloir</rhyme>,<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029b:20"/>Pour tant, s'il me fault vestir <rhyme>noir</rhyme>
+<lb n="ROND.029b:21"/>Et simplement mo<s>y</s> <rhyme>affuller</rhyme>
+<lb n="ROND.029b:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>e</c>n esp<abbr type="er"/>ant &amp;c </fw></emph>
+<lb n="ROND.029b:23"/><s>S</s>e <name ref="Fortune"><c>f</c>ortune</name> me fait <g lemma="" en="grieve, suffer pain" fr="se lamenter, souffrir"><rhyme>douloir</rhyme></g>,<l n=" 8"/>
+<lb n="ROND.029b:24"/>Il <choice><sic>le</sic><corr resp="JCL" reason="hypermetric" source=""/></choice> me couvie<subst><del rend="erasure"/><add evidence="erasure, darker ink" place="inline" type="scribe"><abbr type="n"/>t tout <rhyme>endurer</rhyme></add></subst>
+<lb n="ROND.029b:25"/>Et selon le temps moy <g lemma="" en="behave" fr="se conduire"><rhyme>riuler</rhyme></g>,
+<lb n="ROND.029b:26"/>Et en bon <subst><del rend="erasure"/><add evidence="erasure, darker ink" place="inline" type="scribe">gré tout <rhyme>recevoir</rhyme></add></subst>
+<lb n="ROND.029b:27"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>e</c>n esperant</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n=" 7"/><div2 satfno="" n="7" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.029b:29"/><hi rend="cap2">J</hi>e ne sçay comment je <rhyme>dure</rhyme>,<note>SATF Rondeau 7.</note>
+<lb n="ROND.029b:30"/>Car mon dolent cuer font <rhyme>d'ire</rhyme>,
+<lb n="ROND.029b:31"/>E<subst><del rend="erasure" evidence="blurring"></del><add place="inline" evidence="darker ink, dash in extra space">t</add></subst> plaindre n'ose ne <rhyme>dire</rhyme>
+<lb n="ROND.029b:32"/>Ma doulereuse <rhyme>aventure</rhyme>,<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029b:34"/>Ma dollente vie <g lemma="" en="sad, gloomy" fr="triste, sombre"><rhyme>obscure</rhyme></g>.
+<lb n="ROND.029b:35"/>Riens fors la mort ne <rhyme>desire</rhyme>,
+<lb n="ROND.029b:36"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>e ne sçay</fw></emph>
+<lb n="ROND.029b:37"/>Et me faut p<abbr type="ar"/> <g lemma="" en="pretence" fr="feinte, dissimulation"><rhyme>couverture</rhyme></g><l n=" 8"/>
+<lb n="ROND.029b:38"/>Chanter quant mon cuer <rhyme>souspire</rhyme>
+<lb n="ROND.029b:39"/>Et faire semblant de <rhyme>rire</rhyme>,
+<lb n="ROND.029b:40"/>Mais <name ref="God"><c>d</c>ieux</name> scet ce que <rhyme>j'endure</rhyme>.
+<lb n="ROND.029b:41"/><add type="refrain" place="below ruling" evidence="lighter ink"><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Je ne &amp;c</fw></emph></add><l n="12"/></div2>
+<pb n="029" ed="v" l="ROND.029v:01"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="tabbed"><hi rend="red">Ron</hi></fw> <fw type="header2" place="column a, above ruled space" rend="tabed from right"><hi rend="red">deaulx</hi></fw> <fw type="header3" place="column b, above ruled space" rend="left aligned"><hi rend="red"> vii &#x95;</hi></fw> <note>The item number is in darker red ink.</note></hi>
+<cb n="c"/><layout ruledLines="39" writtenLines="41" rend="ruling not followed scrupulously; last two lines outside ruled area"/>
+<del rend="overstrike" type="in red over dark ink"><group n="7A"/><div2 satfno="" n="7A" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.029c:01"/><del rend="erasure"></del><add place="inline"  evidence="blurring"><hi rend="cap2">J</hi></add>e ne sçay comment je <rhyme>dure</rhyme>,<note>SATF Rondeau 7.</note>
+<lb n="ROND.029c:02"/>Car mon dolent cuer fent <rhyme>d'yre</rhyme>,
+<lb n="ROND.029c:03"/>Et plaindre n'ose ne <rhyme>dire</rhyme>
+<lb n="ROND.029c:04"/>Ma doulereuse <rhyme>aventure</rhyme>,<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029c:06"/>Ne ma lasse vie <g lemma="" en="sad, gloomy" fr="triste, sombre"><rhyme>obscure</rhyme></g>.
+<lb n="ROND.029c:07"/>Riens fors la mort ne <rhyme>desire</rhyme>,
+<lb n="ROND.029c:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><emph rend="italic"><c>j</c>e ne sçay &#x95;</emph></fw></emph>
+<lb n="ROND.029c:09"/>Et me faut par <rhyme>couverture</rhyme><l n=" 8"/>
+<lb n="ROND.029c:10"/>Chanter quant mon cuer <rhyme>souspire</rhyme>
+<lb n="ROND.029c:11"/>Et faire semblant de <rhyme>rire</rhyme>,
+<lb n="ROND.029c:12"/>Mais <name ref="God"><c>d</c>ieux</name> scet ce que <rhyme>j'endure</rhyme>.
+<lb n="ROND.029c:13"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><emph rend="italic"><c>j</c>e ne sçay</emph></fw></emph><l n="12"/><l n=""/></div2></del>
+<!-- 1 blank line --><group n=" 8"/><div2 satfno="" n="8" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.029c:15"/><hi rend="cap2">P</hi>uis\ que vous vous en <rhyme>alez</rhyme>,<note>SATF Rondeau 8.</note>
+<lb n="ROND.029c:16"/><c>j</c>e ne vous sçay plus que <rhyme>dire</rhyme>.
+<lb n="ROND.029c:17"/>M'amour, mais en grief <rhyme>martire</rhyme>
+<lb n="ROND.029c:18"/>Me tendrés se vous <rhyme>voulez</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029c:20"/>Ne sçay se vous en <rhyme>doulez</rhyme>,
+<lb n="ROND.029c:21"/>Mais nul mal n'est du mien <rhyme>pire</rhyme>
+<lb n="ROND.029c:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><emph rend="italic">Puis que vous &amp;c</emph></fw></emph>
+<lb n="ROND.029c:23"/>Baisez moy et <rhyme>m'accollez</rhyme>;
+<lb n="ROND.029c:24"/>Pour <name ref=""><c>d</c>ieu</name>, vueillez moy <rhyme>rescripre</rhyme>
+<lb n="ROND.029c:25"/>Et du mal soyés le <g lemma="" en="physician, doctor" fr="médecin"><rhyme>mire</rhyme></g>,
+<lb n="ROND.029c:26"/>Dont le mien cuer <rhyme>affollez</rhyme>
+<lb n="ROND.029c:27"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Puis que &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n=" 9"/><div2 satfno="" n="9" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.029c:29"/><hi rend="cap2">B</hi>el à mes yeulx et bon à mon <rhyme>avis</rhyme>,<note>SATF Rondeau 9.</note>
+<lb n="ROND.029c:30"/>Très assouvi de grace et de tout <rhyme>b<abbr type="ie"/>n</rhyme>,
+<lb n="ROND.029c:31"/>Digne d'onnour plaisant sur toute <rhyme>rien</rhyme>,
+<lb n="ROND.029c:32"/>Estes m'amour sur tous à mon <rhyme>devis</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029c:34"/><s>J</s>eune,  gentil, gent de corps &amp; de <rhyme>vis</rhyme>,
+<lb n="ROND.029c:35"/>Sage, humble et\ doulx, de gracïeux <rhyme>mai<abbr type="n"/>tien</rhyme>,
+<lb n="ROND.029c:36"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>b</c>el à mes</fw></emph>
+<lb n="ROND.029c:37"/>Et quant vëoir je vous puis vis à <rhyme>vis</rhyme>,<l n=" 8"/>
+<lb n="ROND.029c:38"/>J'ay tel plaisir dont vous estes tout <rhyme>mien</rhyme>
+<lb n="ROND.029c:39"/>Qu'en ce monde plus ne vouldroye <rhyme>rien</rhyme>,
+<lb n="ROND.029c:40"/>Car vous estes sur tous, je vo<abbr type="us"/> <rhyme>pleuvis</rhyme>,
+<lb n="ROND.029c:41"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>b</c>el à mes &amp;c</fw></emph><l n="12"/></div2>
+<cb n="d"/><layout ruledLines="39" writtenLines="41" rend="ruling not followed scrupulously; last two lines outside ruled area"/>
+<group n="10"/><div2 satfno="" n="10" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.029d:01"/><hi rend="cap2">P</hi>uis qu'<name ref="God+of+Love"><c>a</c>mours</name> le te <rhyme>consent</rhyme>,<note>SATF Rondeau 10.</note>
+<lb n="ROND.029d:02"/>Par qui as empris <rhyme>l'emprise</rhyme>,
+<lb n="ROND.029d:03"/>Amis, dont tu m'as <rhyme>surprise</rhyme>,
+<lb n="ROND.029d:04"/>Mon cuer aussi s'i <rhyme>assent</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029d:06"/>Mon vouloir du tout <rhyme>dessent</rhyme>
+<lb n="ROND.029d:07"/>À toy amer sans <rhyme>faintise</rhyme>,
+<lb n="ROND.029d:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>uis &amp;c</fw></emph>
+<lb n="ROND.029d:09"/>Si n'a il pas un en <rhyme>cent</rhyme><l n=" 8"/>
+<lb n="ROND.029d:10"/>Dont <name ref="God+of+Love"><c>a</c>mours</name> m'eust ainsi <rhyme>prise</rhyme>,
+<lb n="ROND.029d:11"/>Mais quant c'est par <subst><del rend="erasure" evidence="space">t</del><add place="inline" evidence="cursive 's' in darker ink in intercolumn" type="planned, not completed">s</add></subst>a <rhyme>maistrise</rhyme>,
+<lb n="ROND.029d:12"/>Ne te doy estre <rhyme>nuisant</rhyme>,
+<lb n="ROND.029d:13"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>uis &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="11"/><div2 satfno="" n="11" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.029d:15"/><hi rend="cap2">D</hi>e triste cuer chanter <rhyme>joyeuseme<abbr type="n"/>t</rhyme>,<note>SATF Rondeau 11.</note>
+<lb n="ROND.029d:16"/><c>d</c>e son penser monstrer tout le <rhyme>contraire</rhyme>
+<lb n="ROND.029d:17"/>Et rire en dueil,c'est chose fort à <rhyme>faire</rhyme>, <note>lines 2-3 inverted in Duke's MS - and in Livre ?</note>
+<lb n="ROND.029d:18"/>N'issir doulx ris de dolent <rhyme>sentement</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.029d:20"/>Ainsi me faut faire <rhyme>communem<abbr type="en"/>t</rhyme>,
+<lb n="ROND.029d:21"/>Et me couvient pour celer mon <rhyme>affaire</rhyme>
+<lb n="ROND.029d:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>d</c>e triste <rhyme>cuer</rhyme></fw></emph>
+<lb n="ROND.029d:23"/>Car en mon cuer porte <rhyme>couvertement</rhyme><l n=" 8"/>
+<lb n="ROND.029d:24"/>Le dueil qui soit qui plus me peut <rhyme>desplaire</rhyme>,
+<lb n="ROND.029d:25"/>Et si me fault, pour les gens faire <rhyme>taire</rhyme>,
+<lb n="ROND.029d:26"/>Rire en plourant et très <rhyme>amerement</rhyme>
+<lb n="ROND.029d:27"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>d</c>e triste cuer &amp;c</fw></emph>
+<l n="12"/></div2>
+<!-- 1 blank line --><group n="12"/><div2 satfno="" n="12" type="Rondeau quatrain" metre="7" length="16" refrain="aaaa" stanza="aa" rhyme="m"><lb n="ROND.029d:29"/><hi rend="cap2">P</hi>our ce que je suis <rhyme>lontains</rhyme><note>SATF Rondeau 12; lines 5-6 are very different from the version in the Duke's MS.</note>
+<lb n="ROND.029d:30"/><c>d</c>e vous, belle, que tant <rhyme>aims</rhyme>
+<lb n="ROND.029d:31"/>À nulle joye <rhyme>n'atains</rhyme>,
+<lb n="ROND.029d:32"/>Ains est mon bien tout <rhyme>estains</rhyme>.<l n=" "/>
+<!-- 1 blank line -->
+<lb n="ROND.029d:34"/>Oû lieu aux <g lemma="" en="" fr="">oultre <rhyme>montains</rhyme></g>
+<lb n="ROND.029d:35"/>Je suis adès, de dueil <rhyme>tains</rhyme>
+<lb n="ROND.029d:36"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>our ce q<abbr type="ue"/> &amp;c</fw></emph>
+<lb n="ROND.029d:37"/>Regraittant voz biens <rhyme>haultains</rhyme>,<l n=" 8"/>
+<lb n="ROND.029d:38"/>Je mourray, j'en suis <rhyme>certains</rhyme>,
+<lb n="ROND.029d:39"/>Car je seray desert <g lemma="" en="ains que, before" fr="avant que, before"><rhyme>ains</rhyme></g>
+<lb n="ROND.029d:40"/>Que cy m'ait joye <rhyme>ratains</rhyme>
+<lb n="ROND.029d:41"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>our ce q<abbr type="ue"/></fw></emph><note>The refrain has been added by the scribe in paler ink immediately below the ruled area.</note><l n="12"/></div2>
+<pb n="030" ed="r" l="ROND.030r:01"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="centred"><hi rend="red">Rondeaulx</hi></fw> <fw type="header2" place="column b, above ruled space" rend="left aligned"><hi rend="red">vii &#x95;</hi></fw></hi>
+<cb n="a"/><layout ruledLines="39"/><group n="13"/><div2 satfno="" n="13" type="Rondeau quatrain" metre="8" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.030a:01"/><hi rend="cap2">C</hi>'est grant bien que de ces <rhyme>amours</rhyme><note>SATF Rondeau 13.</note>
+<lb n="ROND.030a:02"/>Qui miracles font si <rhyme>appertes</rhyme>
+<lb n="ROND.030a:03"/>Que maintes dames font <rhyme>appertes</rhyme>
+<lb n="ROND.030a:04"/>Qui ja aloient en <rhyme>decours</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030a:06"/>Ilz garissent de commun <rhyme>cours</rhyme>
+<lb n="ROND.030a:07"/>De plus grans maulx que fievres <rhyme>quartes</rhyme>.
+<lb n="ROND.030a:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>'est grant</fw></emph>
+<lb n="ROND.030a:09"/>N'il n'est si vieulx, soit loncs ou <rhyme>cours</rhyme>,<l n=" 8"/>
+<lb n="ROND.030a:10"/>S'il en est bien feru à <rhyme>certes</rhyme>,
+<lb n="ROND.030a:11"/>Qu'il ne lui semble tout de <rhyme>certes</rhyme>
+<lb n="ROND.030a:12"/>Qu'il prendroit b<abbr type="ie"/>n le lievre au <rhyme>cours.</rhyme>
+<lb n="ROND.030a:13"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>'est grant b<abbr type="ie"/>n</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="14"/><div2 satfno="" n="14" type="Rondeau quatrain" metre="10" length="16" refrain="aaaa" stanza="aa" rhyme="f"><lb n="ROND.030a:15"/><hi rend="cap2">M</hi>'amour, mon <subst><del rend="erasure"/><add place="inline" evidence="darker ink, dash as filler" type="text hand">bien, ma dame et</add></subst> ma <rhyme>princesse</rhyme><note>SATF Rondeau 14; lines 1, 4, 6, 8 are different from the version in MS fr. 835.</note>
+<lb n="ROND.030a:16"/>Tremontaine, qui à bon port <rhyme>m'adresse</rhyme>,
+<lb n="ROND.030a:17"/>De quanque j'ay, souveraine <rhyme>maistresse</rhyme>
+<lb n="ROND.030a:18"/>Estes, dame, m'esperance et <rhyme>léesse</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030a:20"/>Je vous doy bien appeller ma <rhyme>déesse</rhyme>,
+<lb n="ROND.030a:21"/>Mon doulx tresor, mon mur, ma <rhyme>forte<abbr type="re"/>sse</rhyme>,
+<lb n="ROND.030a:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>m</c>'amour &amp;c</fw></emph>
+<lb n="ROND.030a:23"/>Car de beauté oncques tant n'ot <name ref="Lucretia"><rhyme><c>l</c>ucresse</rhyme></name><l n=" 8"/>
+<lb n="ROND.030a:24"/>Ne prisiée tant <name ref="Penelope"><c>p</c>eneloppe</name> en <name ref="Greece"><rhyme><c>g</c>rece.</rhyme></name>
+<lb n="ROND.030a:25"/><name ref="Semiramis">Semiramis</name> vous passez en <rhyme>noblece,</rhyme>
+<lb n="ROND.030a:26"/>Si vous doy bien dire par <add place="supralinear" evidence="darker ink" type="text hand">gra<abbr type="n"/>t</add> <rhyme>humblece,</rhyme>
+<lb n="ROND.030a:27"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>m</c>'amour &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="15"/><div2 satfno="" n="15" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.030a:29"/><hi rend="cap2">Q</hi>uant je ne fais à nul <rhyme>tort</rhyme>,<note>SATF Rondeau 15.</note>
+<lb n="ROND.030a:30"/><c>p</c>our quoy me doit on <rhyme>blamer</rhyme>
+<lb n="ROND.030a:31"/>De mon doulx ami <rhyme>amer</rhyme>?
+<lb n="ROND.030a:32"/>Et <add place="inline" evidence="inserted in paler ink">s</add>'à son vueil je <rhyme>m'acort</rhyme>,<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030a:34"/>S'en lui est tout mon <rhyme>deport</rhyme>,
+<lb n="ROND.030a:35"/>N<choice><sic>&#x95;</sic><corr reason="sense" resp="JL">'</corr></choice>autre n'i peut droit <rhyme>clamer</rhyme>,
+<lb n="ROND.030a:36"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>q</c>uant je ne &amp;c</fw></emph>
+<lb n="ROND.030a:37"/>Je<note>A small 'i' has been written in the gutter margin in paler ink.</note> l'aim, qu'en est il au <rhyme>fort</rhyme>?<l n=" 8"/>
+<lb n="ROND.030a:38"/>En faut il tel plai<subst><del rend="erasure" evidence="blurring, darker ink"></del><add place="inline" evidence="blurring, darker ink">t semer</add></subst>
+<lb n="ROND.030a:39"/>Par tout pour moy <rhyme>diffamer</rhyme>?
+
+<cb n="b"/><layout ruledLines="39"/>
+<lb n="ROND.030b:01"/>En a<s>y</s> je <s>d</s>esservi <rhyme>mort</rhyme>,
+<lb n="ROND.030b:02"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Quant &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="16"/><div2 satfno="" n="16" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="fm"><lb n="ROND.030b:04"/><hi rend="cap2">D</hi>oulce\ dame, que j'ay lonc temps <rhyme>s<abbr type="er"/>vie</rhyme>,<note>SATF Rondeau 16.</note>
+<lb n="ROND.030b:05"/><c>j</c>e vous suppli,\ allegé<subst><del rend="overwritten">r</del><add evidence="lighter ink" place="inline" type="">s</add></subst> ma <rhyme>doulour</rhyme>
+<lb n="ROND.030b:06"/>Et <choice><sic>me</sic><corr reason="sense" resp="JCL" source="Roy">mon</corr></choice> ` complaint ne tenez à <rhyme>folour</rhyme>;
+<lb n="ROND.030b:07"/>Si soit par vous ma grief peine <rhyme>assouvie</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030b:09"/>Voyez comment\ pour vous amer <rhyme>devie</rhyme>\;
+<lb n="ROND.030b:10"/>Je p<subst><del rend="erasure"/><add evidence="over erasure, darker ink" place="not quite inline" type="scribe">ers</add></subst> vigour, sans, <note>I.e. 'sens'.</note>maniere et <rhyme>coulour</rhyme>
+<lb n="ROND.030b:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Doulce dame</fw></emph>
+<lb n="ROND.030b:12"/>Ne n'ayés pas de moy grever <rhyme>envie</rhyme>,<l n=" 8"/>
+<lb n="ROND.030b:13"/>Ou je mourray d'amoureuse <rhyme>chal<subst><del rend="overwritten">e</del><add evidence="lighter ink" place="inline" type="">o</add></subst>ur</rhyme><note>The correction from 'chaleur' to 'chalour' improves the rhyme.</note>
+<lb n="ROND.030b:14"/>Pour vo beauté et vo freche <rhyme>coulour</rhyme>.
+<lb n="ROND.030b:15"/>Et pour ce adès pour eslongner <subst><del rend="blank?"><add evidence="lighter ink" type="scribe" place="not quite inline">ma</add></del></subst> <rhyme>vie</rhyme>,
+<lb n="ROND.030b:16"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Doulce dame</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="17"/><div2 satfno="" n="17" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.030b:18"/><hi rend="cap2">J</hi>e suis joyeux - et je le doy b<abbr type="ie"/>n <rhyme>estre -</rhyme><note>SATF Rondeau 17.</note>
+<lb n="ROND.030b:19"/>D'avoir ouÿ si très doulce <rhyme>nouvelle</rhyme>
+<lb n="ROND.030b:20"/>Que ma dame son doulx ami m'appelle;.
+<lb n="ROND.030b:21"/>Or n'est de moy oû monde plus gra<abbr type="n"/>t <rhyme>maist<abbr type="re"/></rhyme>;<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030b:23"/>Ne me pourroit chose venir <rhyme>senestre</rhyme>.
+<lb n="ROND.030b:24"/>Puis qu'elle dit que je suis amé <rhyme>d'elle</rhyme>
+<lb n="ROND.030b:25"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>e suis &amp;c</fw></emph>
+<lb n="ROND.030b:26"/>Et quant je suis en paradis <rhyme>terrestre</rhyme><l n=" 8"/>
+<lb n="ROND.030b:27"/>Et hors d'enfer, pour la doulço<abbr type="ur"/> de <rhyme>celle</rhyme>
+<lb n="ROND.030b:28"/>Que chacun tient des dames la plus <rhyme>belle</rhyme>,
+<lb n="ROND.030b:29"/>Et je regart son maintien et son <rhyme>estre</rhyme>
+<lb n="ROND.030b:30"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>e &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="18"/><div2 satfno="" n="18" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.030b:32"/><hi rend="cap2">R</hi>ïans vairs yeulx,\ qui mon cuer avez <rhyme>pris</rhyme><note>SATF Rondeau 18.</note>
+<lb n="ROND.030b:33"/>Par voz regars plains de las <rhyme>amoureux</rhyme>,
+<lb n="ROND.030b:34"/>À vous me rens, si me tiens <rhyme>eüreux</rhyme>
+<lb n="ROND.030b:35"/>D'estre par vous\ si doulcement <rhyme>surpris</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030b:37"/>On ne pourroit\ sommer le t<abbr type="re"/>sgra<abbr type="n"/>t <rhyme>pris</rhyme>
+<lb n="ROND.030b:38"/>De voz grans biens\ q<abbr type="ui"/> tant sont <rhyme>savoureux</rhyme>,
+<lb n="ROND.030b:39"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Rïans vairs &amp;c</fw></emph><pb n="030" ed="r" l="ROND.030bom:1"/><fw type="signature1" place="bottom right" rend="paler ink">Ui</fw><fw type="signature2" place="bottom right" rend="plummet?">biii</fw>
+<pb n="030" ed="v" l="ROND.030v:01"/><hi rend="run"><fw type="header1" place="column c, no ruled space" rend="centred"><hi rend="red">Ron</hi></fw>  <fw type="header2" place="column c, no ruled space" rend="right aligned"><hi rend="red">deaulx</hi></fw> <fw type="header3" place="column d, no ruled space" rend="tabbed"><hi rend="red">&#x95; <s>v</s>ii &#x95;</hi></fw></hi>
+<cb n="c"/><layout ruledLines="39"/>
+<lb n="ROND.030c:01"/>Tant estes <s>d</s>ou<s>l</s>x, p<s>l</s>aisant et <s>b</s>ien <rhyme>appris</rhyme><l n=" 8"/>
+<lb n="ROND.030c:02"/>Qu'oû monde n'a\ homme si <rhyme>doulereux</rhyme>
+<lb n="ROND.030c:03"/>Que, s'un regart\ en avoit <rhyme>doulcereux</rhyme>,
+<lb n="ROND.030c:04"/>Que par vous n'eust tantost confort <rhyme>repris</rhyme>. <note>The word-order is different in the Duke's MS.</note>
+<lb n="ROND.030c:05"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred">Rïans vairs yeulx</fw></emph><note>normal point</note><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="19"/><div2 satfno="" n="19" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="fm"><lb n="ROND.030c:07"/><hi rend="cap2">T</hi><subst><del rend="erasure"/><add place="inline" evidence="darker ink" type="erasure">out en pensant à la beauté ma <rhyme>dame</rhyme></add></subst>,<note>SATF Rondeau 19.</note>
+<lb n="ROND.030c:08"/>Qu'on ne pourroit prisier <rhyme>souffisam<abbr type="en"/>t</rhyme>,
+<lb n="ROND.030c:09"/>Ce rondellet ay fait <rhyme>presentement</rhyme>,
+<lb n="ROND.030c:10"/>Car mon penser n'est ailleurs, p<abbr type="ar"/> mon <rhyme>ame</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030c:12"/>Se je l'ay fait, ne s'en esmerveille <rhyme>ame</rhyme>,
+<lb n="ROND.030c:13"/>Car survenu m'en est le <rhyme>sentement</rhyme>,
+<lb n="ROND.030c:14"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>t</c>out en pensant</fw></emph>
+<lb n="ROND.030c:15"/><s>D</s>e vraye\ amour, qui mon cuer\ tout <rhyme>enflame</rhyme>,<l n=" 8"/>
+<lb n="ROND.030c:16"/>Est tost venu le doulx <rhyme>ennortement</rhyme>
+<lb n="ROND.030c:17"/>Qui esjouïst mon cuer trop <rhyme>grandem<abbr type="en"/>t</rhyme>,
+<lb n="ROND.030c:18"/>Dont suis plus gay q<abbr type="ue"/> oysellet sur la <rhyme>rame</rhyme>.
+<lb n="ROND.030c:19"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>t</c>out en &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="20"/><div2 satfno="" n="20" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.030c:21"/><hi rend="cap2">S</hi>age maintien,\ parement de <rhyme>beauté</rhyme>,<note>SATF Rondeau 20.</note>
+<lb n="ROND.030c:22"/>Assis en corps\ digne de gra<abbr type="n"/>t <rhyme>loua<abbr type="n"/>ge</rhyme>,
+<lb n="ROND.030c:23"/>Cuer ferme et vray &#x95; qui nulle heure ne <rhyme>cha<abbr type="n"/>ge</rhyme>
+<lb n="ROND.030c:24"/>En celle maint <note>It is not uncommon to find plural subjects, as and later in the rondeau, linked to a singular verb.</note>\ à qui j'ay <g lemma="" en="fealty, hommage" fr="fidélité, hoomage"><rhyme>féauté</rhyme></g>.<l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030c:26"/>Très grant honneur,\ grant grace et <rhyme>loyauté</rhyme>
+<lb n="ROND.030c:27"/>Si la conduit ,\ et nulle heure n'<g lemma="" en="shun, keep at a distance" fr="écarter, repousser"><rhyme>estrange</rhyme></g>
+<lb n="ROND.030c:28"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>age maintien &amp;c</fw></emph>
+<lb n="ROND.030c:29"/>Cuer noble et hault ,\ sans <g lemma="" en="whit, trace" fr="brin, parcelle">raim </g> de <rhyme>cruaulté</rhyme>,<l n=" 8"/>
+<lb n="ROND.030c:30"/>Humilité qui nullui ne <g lemma="" en="speak ill of, illtreat" fr="injurier, maltraiter"><rhyme>laidange</rhyme></g>
+<lb n="ROND.030c:31"/>Et assez a\ la belle comme un <rhyme>ange</rhyme>
+<lb n="ROND.030c:32"/>Pour gouverner\ une grant <g lemma="" en="kingdom, not in DMF" fr="royaume"><rhyme>royauté</rhyme></g>.
+<lb n="ROND.030c:33"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>age maintien</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="21"/><div2 satfno="" n="21" type="Rondeau quatrain" metre="10" length="16" refrain="abab" stanza="ab" rhyme="mm"><lb n="ROND.030c:35"/><hi rend="cap2">S</hi>'<name ref="Hope"><c>e</c>spoir</name>  n'estoit,\ qui me vient <rhyme>confort<abbr type="er"/></rhyme>,<note>SATF Rondeau 21.</note>
+<lb n="ROND.030c:36"/>Et <name ref="Memory"><c>s</c>ouvenir</name>\ qui fait mes maulx <rhyme>tarir</rhyme>,
+<lb n="ROND.030c:37"/>Les maulx que j'ay\ ne pourroye <rhyme>porter</rhyme>,
+<lb n="ROND.030c:38"/>Dont ne me veult ma dame <rhyme>secourir</rhyme>.<l n=" 4"/>
+<!-- 1 blank line -->
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="ROND.030d:01"/>Car <name ref="Despair"><c><s>d</s></c>esconfort</name>\  me vouldroit <rhyme>apporter</rhyme>
+<lb n="ROND.030d:02"/>Present de mort et me feroit <rhyme>perir</rhyme>
+<lb n="ROND.030d:03"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>'<c>e</c>spoir n'estoit &amp;c</fw></emph>
+<lb n="ROND.030d:04"/>Mais <name ref="Memory"><c>s</c>ouvenir</name>\ si me vient <g lemma="" en="inspire, send" fr="faire sentir, communiquer"><rhyme>apporter</rhyme></g><l n=" 8"/>
+<lb n="ROND.030d:05"/>Joye et <g lemma="" en="comfort, consolation" fr="réconfort, consolation">solas</g>\ et espoir de <rhyme>garir</rhyme>
+<lb n="ROND.030d:06"/>Et que <name ref="Pity"><c>p</c>itié</name>\ lui fera <g lemma="" en="advise, encourage" fr="exhorter, encourager"><rhyme>ennorter</rhyme></g>
+<lb n="ROND.030d:07"/>Ma garison.\ <c>s</c>i me fauldroit <rhyme>mourir</rhyme>
+<lb n="ROND.030d:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>'espoir n'estoit</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="22"/><div2 satfno="" n="22" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.030d:10"/><hi rend="cap2">D</hi>e  tous amans\ je suis le plus <rhyme>joyeux</rhyme>,<note>SATF Rondeau 22; the 'b' rhyme is in 'ie', not 'iée', as in the Duke's MS.</note>
+<lb n="ROND.030d:11"/>Puis qu'envers moy\ c'est <note>'c'est', i.e. 's'est'</note> ma dame <g lemma="" en="make peace with" fr="s'apaiser"><rhyme>acoisie</rhyme></g>,
+<lb n="ROND.030d:12"/>Qui contre mi\ <g lemma="" en="was" fr="était">ert</g> si mal <rhyme>appaysye</rhyme>
+<lb n="ROND.030d:13"/>Que je n'osoie\ aler devant ses <rhyme>yeulx</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030d:15"/>Puis qu'elle a fait\ la paix\ or\ me va <rhyme>mieulx</rhyme>
+<lb n="ROND.030d:16"/>Et qu'il lui plaist\ que je l'aye <rhyme>baysye</rhyme>
+<lb n="ROND.030d:17"/><emph rend="italic"><fw type="refrain" place="inline" rend="right aligned">De tous amans je suis &amp;c</fw></emph> <note>last three words added in darker ink, and so refrain is no longer inset, but right aligned</note>
+<lb n="ROND.030d:18"/>Moult m'a esté\ son courrous <rhyme>anuyeux</rhyme><l n=" 8"/>
+<lb n="ROND.030d:19"/>Et à porter\ la douleur <rhyme>mesaisie</rhyme>
+<lb n="ROND.030d:20"/>Mais or suis liez\ quant elle est <rhyme>amaisye</rhyme>
+<lb n="ROND.030d:21"/>Puis qu'ainsi va\ et louez en soit <name ref="God"><rhyme><c>d</c>ieux</rhyme></name>
+<lb n="ROND.030d:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">De tous amans &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="23"/><div2 satfno="" n="23" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.030d:24"/><hi rend="cap2">B</hi>elle ce que j'ay <rhyme>requis</rhyme><note>SATF Rondeau 23.</note>
+<lb n="ROND.030d:25"/>Vueillez le moy <rhyme>ottroyer</rhyme>
+<lb n="ROND.030d:26"/>Car par tant de fois <rhyme>proyer</rhyme>
+<lb n="ROND.030d:27"/>Bien le doy avoir <rhyme>conquis</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.030d:29"/>Je l'ay ja si lonc temps <rhyme>quis</rhyme>
+<lb n="ROND.030d:30"/>Et pour très bien <rhyme>employer</rhyme>
+<lb n="ROND.030d:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>b</c>elle ce q<abbr type="ue"/> &amp;c</fw></emph>
+<lb n="ROND.030d:32"/>Se de moy avez <rhyme>enquis</rhyme><l n=" 8"/>
+<lb n="ROND.030d:33"/>Ne me devez pas <rhyme>noyer</rhyme>
+<lb n="ROND.030d:34"/>Mon guerredon ne mon <rhyme>loier</rhyme> <note>8 syllables</note>
+<lb n="ROND.030d:35"/>Car par raison j'ay <rhyme>acquis</rhyme>
+<lb n="ROND.030d:36"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>b</c>elle ce q<abbr type="ue"/> &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="24"/><div2 satfno="" n="24" type="Rondeau quatrain" metre="8" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.030d:38"/><hi rend="cap2">J</hi>amais ne vestiray que <rhyme>noir</rhyme><note>SATF Rondeau 24.</note>
+<lb n="ROND.030d:39"/><c>p</c>uis\ que l'en m'a donné <rhyme>con<s>g</s>ié</rhyme>
+<pb n="031" ed="r" l="ROND.031r:01"/><hi rend="run"><fw type="header1" place="column a, top line of ruled space" rend="centred"><hi rend="red">Rondeaulx</hi></fw> <fw type="header2" place="column b, top line of ruled space" rend="tabbed"><hi rend="red">vii &#x95; </hi></fw></hi>
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="ROND.031a:01"/>Et que du <note>elaborate 'd'</note> tout m'a <rhyme>estrangié</rhyme>
+<lb n="ROND.031a:02"/>Ma dame\ qui me fist son <rhyme>hoir</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.031a:04"/>Plus n'entreray en son <rhyme>manoir</rhyme>
+<lb n="ROND.031a:05"/>Et pour le très grant dueil que <rhyme>g'ié</rhyme>
+<lb n="ROND.031a:06"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>amais ne &amp;c</fw></emph>
+<lb n="ROND.031a:07"/>Si ne quier plus cy <rhyme>remanoir</rhyme><l n=" 8"/>
+<lb n="ROND.031a:08"/>Durement y suis <rhyme>laidengié</rhyme>
+<lb n="ROND.031a:09"/>Trop s'est le temps vers moy <rhyme>changié</rhyme>
+<lb n="ROND.031a:10"/>Et pour plus en ce dueil <rhyme>manoir</rhyme>
+<lb n="ROND.031a:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>amais ne &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="25"/><div2 satfno="" n="25" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.031a:13"/><hi rend="cap2">E</hi>n plains en plours\ me fault user mon <rhyme>te<abbr type="m"/>ps</rhyme><note>SATF Rondeau 25.</note>
+<lb n="ROND.031a:14"/><c>s</c>e de vous n'ay dame aucun <rhyme>reconfort</rhyme>
+<lb n="ROND.031a:15"/>Mieulx me vauldroit\ briefme<abbr type="n"/>t mourir au <rhyme>fort</rhyme>
+<lb n="ROND.031a:16"/>Que soustenir la douleur que <rhyme>j'atens</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.031a:18"/>Pour vous <name ref="Belle"><c>b</c>elle</name>, je me mourray par <rhyme>te<abbr type="m"/>ps</rhyme>
+<lb n="ROND.031a:19"/>Et sachés bien qu'en trop grant <rhyme>des<abbr type="con"/>fort</rhyme>
+<lb n="ROND.031a:20"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>e</c>n plains &amp;c</fw></emph>
+<lb n="ROND.031a:21"/>Et se vostre doulx cuer est <rhyme>consentans</rhyme><l n=" 8"/>
+<lb n="ROND.031a:22"/>Que je muire certes ce seroit <rhyme>fort</rhyme>
+<lb n="ROND.031a:23"/>De reschapper contre si grant <rhyme>effort</rhyme>
+<lb n="ROND.031a:24"/>Car vrayement se vivoye cent <rhyme>ans</rhyme>
+<lb n="ROND.031a:25"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>e</c>n plains &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="26"/><div2 satfno="" n="26" type="Rondeau tercet" metre="10" length="13" refrain="aba" stanza="ab" rhyme="ff"><lb n="ROND.031a:27"/><hi rend="cap2">V</hi>isage doulx\ plaisant où je me <rhyme>mire</rhyme><note>SATF Rondeau 26.</note>
+<lb n="ROND.031a:28"/>De grant beauté\ le parfait <rhyme>exe<abbr type="m"/>plaire</rhyme>
+<lb n="ROND.031a:29"/>Moult suis joyeux et lié quant vo<abbr type="us"/> <rhyme>remire</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031a:31"/>Në il n'est riens\ qui me peüst <rhyme>souffire</rhyme><l n=" 4"/> <note>Hiatus.</note>
+<lb n="ROND.031a:32"/>Sans vous vëoir\ et bien me devez <rhyme>plaire</rhyme>
+<lb n="ROND.031a:33"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>v</c>isage <note>added in darker ink, over erasure ?</note></fw></emph>
+<lb n="ROND.031a:34"/>Car oû monde l'en ne pourroit <rhyme>eslire</rhyme>
+<lb n="ROND.031a:35"/>Nul si très bel et je ne me puis <rhyme>taire</rhyme><l n=" 8"/>
+<lb n="ROND.031a:36"/>De vous louer si me fault souve<abbr type="n"/>t <rhyme>dire</rhyme>
+<lb n="ROND.031a:37"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>v</c>isage</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="27"/><div2 satfno="" n="27" type="Rondeau simple" metre="8" length="8" refrain="ab" stanza="a" rhyme="mm"><lb n="ROND.031a:39"/><hi rend="cap2">I</hi>l me semble qu'il a cent <rhyme>ans</rhyme><note>SATF Rondeau 29.</note>
+<lb n="ROND.031a:40"/><c>q</c>ue mon amy de moy <rhyme>party</rhyme>
+
+<cb n="b"/><layout ruledLines="40"/>
+<lb n="ROND.031b:01"/>Il ara &#x95;xv&#x95; jours par <rhyme>temps</rhyme>
+<lb n="ROND.031b:02"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>i</c>l me semble &amp;c</fw></emph><l n=" 4"/>
+<lb n="ROND.031b:03"/>Ainsi m'a anuyé le <rhyme>temps</rhyme>
+<lb n="ROND.031b:04"/>Car depuis lors qu'il <rhyme>departy</rhyme>
+<lb n="ROND.031b:05"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>i</c>l me &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="28"/><div2 satfno="" n="28" type="Rondeau simple" metre="7" length="8" refrain="ab" stanza="a" rhyme="mm"><lb n="ROND.031b:07"/><hi rend="cap2">I</hi>l a au jour d'uy un <rhyme>mois</rhyme><note>SATF Rondeau 30.</note>
+<lb n="ROND.031b:08"/><c>q</c>ue mon ami s'en <rhyme>ala</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031b:10"/>Mon cuer <g lemma="" en="remain, stay" fr="rester, subsister">remaint</g> morne et <rhyme>coys</rhyme>
+<lb n="ROND.031b:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>i</c>l a\ au &amp;c</fw></emph><l n=" 4"/>
+<lb n="ROND.031b:12"/>À <name ref="God"><c>d</c>ieu</name> me dit je m'en <rhyme>vois</rhyme>
+<lb n="ROND.031b:13"/>Ne puis à moy ne <rhyme>parla</rhyme>
+<lb n="ROND.031b:14"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>i</c>l a\ au &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="29"/><div2 satfno="" n="29" type="Rondeau tercet" metre="8" length="13" refrain="aba" stanza="ab" rhyme="mm"><lb n="ROND.031b:16"/><hi rend="cap2">S</hi>e loyauté me peut <rhyme>valoir</rhyme><note>SATF Rondeau 31.</note>
+<lb n="ROND.031b:17"/>Et bien servir et fort <rhyme>amer</rhyme>
+<lb n="ROND.031b:18"/>Sanz faille j'aray mon <rhyme>vouloir</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031b:20"/>Ne me fault plaindre ne <rhyme>douloir</rhyme><l n=" 4"/>
+<lb n="ROND.031b:21"/>Ne dire qu'aye dueil <rhyme>amer</rhyme>
+<lb n="ROND.031b:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>e loyauté &amp;c</fw></emph>
+<lb n="ROND.031b:23"/>Et s'on la met en non <rhyme>chaloir</rhyme>
+<lb n="ROND.031b:24"/>Il me vauldroit mieulx estre en <rhyme>mer</rhyme><l n=" 8"/>
+<lb n="ROND.031b:25"/>Mais nul ne peut mon droit <rhyme>touloir</rhyme>
+<lb n="ROND.031b:26"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>e loyauté</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="30"/><div2 satfno="" n="30" type="Rondeau tercet" metre="10" length="13" refrain="aba" stanza="ab" rhyme="mm"><lb n="ROND.031b:28"/><hi rend="cap2">T</hi>rès doulx regart\ amoureux <rhyme>attraya<abbr type="n"/>t</rhyme><note>SATF Rondeau 32; lines 4, 7 are different from the version in the Duke's MS.</note>
+<lb n="ROND.031b:29"/><c>p</c>lain de doulçour\ et de gra<abbr type="n"/>t <rhyme>re<abbr type="con"/>fort</rhyme>
+<lb n="ROND.031b:30"/>Mon cuer occis et navres en <rhyme>trayant</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031b:32"/>Mais non pourtant\ ne t'ailles <rhyme>retraya<abbr type="n"/>t</rhyme><l n=" 4"/>
+<lb n="ROND.031b:33"/>De traire à moy\ de trestout ton <rhyme>effort</rhyme>
+<lb n="ROND.031b:34"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>t</c>rès doulx</fw></emph>
+<lb n="ROND.031b:35"/>Et en mon cuer ta doulceur <rhyme>pourtraya<abbr type="n"/>t</rhyme>
+<lb n="ROND.031b:36"/>Va vraye amour\ p<abbr type="ar"/> quoy mon <rhyme>des<abbr type="con"/>fort</rhyme><l n=" 8"/>
+<lb n="ROND.031b:37"/>En garis tout\ en mon cuer <rhyme>soustraya<abbr type="n"/>t</rhyme>
+<lb n="ROND.031b:38"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>t</c>rès  doulx &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="31"/><div2 satfno="" n="31" type="Rondeau tercet" metre="7" length="13" refrain="abb" stanza="ab" rhyme="fm"><lb n="ROND.031b:40"/><hi rend="cap2">L</hi>e plus bel qui soit en <name ref="France"><rhyme><c>f</c>rance</rhyme></name><note>SATF Rondeau 33.</note>
+<!-- signature 'biiii' in ink  - also visible on f. 31c -->
+<pb n="031" ed="v" l="ROND.031v:01"/><hi rend="run"><fw type="header1" place="column c, top line of ruled space" rend="centred"><hi rend="red">Rondeaulx</hi></fw> <fw type="header2" place="column d, top line of ruled space" rend="tabbed"><hi rend="red">&#x95; vii &#x95; </hi></fw></hi>
+<cb n="c"/><layout ruledLines="40"/>
+<!-- offset to right of first 4 lines -->
+<lb n="ROND.031c:01"/>Le meilleur et le plus <rhyme>doulx</rhyme>
+<lb n="ROND.031c:02"/>Helas que ne venez <rhyme>vous</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031c:04"/>M'amour ma loyal <rhyme>fïance</rhyme><l n=" 4"/>
+<lb n="ROND.031c:05"/>Mon dieu terrïen sur <rhyme>tous</rhyme>
+<lb n="ROND.031c:06"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>l</c>e plus bel</fw></emph>
+<lb n="ROND.031c:07"/>S'il est en vostre <rhyme>puissance</rhyme>
+<lb n="ROND.031c:08"/>Pour quoy n'aprochez de <rhyme>nous</rhyme><l n=" 8"/>
+<lb n="ROND.031c:09"/>Si verray lors sans <rhyme>doubtance</rhyme>
+<lb n="ROND.031c:10"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>l</c>e plus bel</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="32"/><div2 satfno="" n="32" type="Rondeau tercet" metre="10" length="13" refrain="aba" stanza="ab" rhyme="fm"><lb n="ROND.031c:12"/><hi rend="cap2">J</hi>e suis d'acort\ s'il vous plait q<abbr type="ue"/> je <rhyme>muire</rhyme><note>SATF Rondeau 34.</note>
+<lb n="ROND.031c:13"/>Pour vous, <name ref="Belle"><c>b</c>elle</name>, mais ce sera <rhyme>pechié</rhyme>,
+<lb n="ROND.031c:14"/>Car desservi n'ay que me doyés <rhyme>nuire</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031c:16"/>Se vous voulez\ au fort me laisser <rhyme>cuire</rhyme><l n=" 4"/>
+<lb n="ROND.031c:17"/>En mon <g lemma="" en="misfortune, unhappiness" fr="mauvaise fortune, malheur">meschief</g>\ sans estre <rhyme>relachié</rhyme>
+<lb n="ROND.031c:18"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Je suis d'acort</fw></emph>
+<lb n="ROND.031c:19"/>Car à vo vueil je me doy du tout <rhyme>duire</rhyme>
+<lb n="ROND.031c:20"/>Et de voz las où je suis <rhyme>atachié</rhyme><l n=" 8"/>
+<lb n="ROND.031c:21"/>Ne partiray se me voulez <rhyme>destruire</rhyme>
+<lb n="ROND.031c:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">J'en <note>'Je' corrected to 'J'en' ; nasal bar in darker ink, not scribe's usual shape ; 'J'en' is reading in Duke's MS</note> suis d'acort</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="33"/><div2 satfno="" n="33" type="Rondeau tercet" metre="8" length="13" refrain="aba" stanza="ab" rhyme="mm"><lb n="ROND.031c:24"/><hi rend="cap2">D</hi>e mieulx en mieulx vous vueil <rhyme>s<abbr type="er"/>vir</rhyme><note>SATF Rondeau 35.</note>
+<lb n="ROND.031c:25"/><c>m</c>a dame dont tout mon bien <rhyme>vie<abbr type="n"/>t</rhyme>
+<lb n="ROND.031c:26"/>Pour vostre <note>sic</note> grace <rhyme>desservir</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031c:28"/>Et pour moy du tout <rhyme>asservir</rhyme><l n=" 4"/>
+<lb n="ROND.031c:29"/>À vous ainsi qu'il <rhyme>appartient</rhyme>
+<lb n="ROND.031c:30"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>d</c>e mieulx</fw></emph>
+<lb n="ROND.031c:31"/>Mais ne me vueillés <rhyme>desservir</rhyme>
+<lb n="ROND.031c:32"/>De joye se mon bien <rhyme>avient</rhyme><l n=" 8"/>
+<lb n="ROND.031c:33"/>Car pour vo vouloir <rhyme>assouvir</rhyme>
+<lb n="ROND.031c:34"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>d</c>de mieulx &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="34"/><div2 satfno="" n="34" type="Rondeau tercet" metre="7" length="13" refrain="aba" stanza="ab" rhyme="mf"><lb n="ROND.031c:36"/><hi rend="cap2">H</hi>elas le très mauvais <rhyme>songe</rhyme><note>SATF Rondeau 36; related rhymes.</note>
+<lb n="ROND.031c:37"/><c>q</c>ue j'ay ceste nuit <rhyme>songié</rhyme>
+<lb n="ROND.031c:38"/>Fait <note>followed by caret sign with dot above. Could dot be pointing to 'que' immediately above in preceding line?</note> mon cuer <g lemma="" en="always" fr="toujours">toudis</g> <rhyme>songe</rhyme> <note>-1 ? irregular</note>
+<!-- 1 blank line -->
+<lb n="ROND.031c:40"/>Onques ne retint <rhyme>esponge</rhyme><l n=" 4"/>
+
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="ROND.031d:01"/>Mieulx chose <note>first two words over erasure, then one letter space</note> certes que <rhyme>j'é</rhyme>
+<lb n="ROND.031d:02"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>h</c>elas &amp;c</fw></emph>
+<lb n="ROND.031d:03"/>Mais ne me dit chose <rhyme>dont je</rhyme>
+<lb n="ROND.031d:04"/>Doye esperer que <rhyme>congié</rhyme><l n=" 8"/>
+<lb n="ROND.031d:05"/><name ref="God">Dieux</name> doint que ce soit <rhyme>mençonge</rhyme>
+<lb n="ROND.031d:06"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>h</c>elas &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="35"/><div2 satfno="" n="35" type="Rondeau tercet" metre="10" length="13" refrain="abb" stanza="ab" rhyme="mm"><lb n="ROND.031d:08"/><hi rend="cap2">T</hi>rès doulce dame or suis je <rhyme>revenu</rhyme> <note>epic caesura ?</note><note>SATF Rondeau 37.</note>
+<lb n="ROND.031d:09"/><c>p</c>rest d'obeïr\ s'il vous plaist <rhyme>commander</rhyme>
+<lb n="ROND.031d:10"/>Comme vo serf\ vous me pouez <rhyme>mander</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031d:12"/>J'ay longuement\ esté de joye <rhyme>nu</rhyme><l n=" 4"/>
+<lb n="ROND.031d:13"/>Hors du paÿs\ mais po<abbr type="ur"/> tout <rhyme>amander</rhyme>
+<lb n="ROND.031d:14"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>t</c>rès doulce</fw></emph>
+<lb n="ROND.031d:15"/>Mais je ne sçay s'il vous est <rhyme>souvenu</rhyme>
+<lb n="ROND.031d:16"/>De moy qui vueil <note>'u' corrected in darker ink</note>\ vous servir sans <rhyme>tarder</rhyme><l n=" 8"/>
+<lb n="ROND.031d:17"/>En espoir de vo grace <rhyme>garder</rhyme> <note>-1, irregular</note>
+<lb n="ROND.031d:18"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>t</c>rès doulce &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="36"/><div2 satfno="" n="36" type="Rondeau tercet" metre="10" length="13" refrain="abb" stanza="ab" rhyme="mf"><lb n="ROND.031d:20"/><hi rend="cap2">P</hi>uis qu'ainsi est\ q<abbr type="ue"/> ne puis <rhyme>pourchacier</rhyme><note>SATF Rondeau 38.</note>
+<lb n="ROND.031d:21"/><c>n</c>ulle merci\ vers vous ma c<rhyme>dame</rhyme>
+<lb n="ROND.031d:22"/>De vous me pers <note>error</note>\ moult courroucié p<abbr type="ar"/> <rhyme>m'ame</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031d:24"/>D'y plus venir ne me quier <rhyme>avancier</rhyme><l n=" 4"/>
+<lb n="ROND.031d:25"/>Car ce pourroit\ vous tourner à <rhyme>diffame</rhyme>
+<lb n="ROND.031d:26"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>uis &amp;c</fw></emph>
+<lb n="ROND.031d:27"/>Et si ne sçay comment pourray <rhyme>laissier</rhyme>
+<lb n="ROND.031d:28"/>L'amour que j'ay à vous qui si <rhyme>m'enflame</rhyme><l n=" 8"/>
+<lb n="ROND.031d:29"/>Mais du laissier ne me doit blasmer <rhyme>ame</rhyme>
+<lb n="ROND.031d:30"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>uis &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="37"/><div2 satfno="" n="37" type="Rondeau tercet" metre="8" length="13" refrain="abb" stanza="ab" rhyme="mm"><lb n="ROND.031d:32"/><hi rend="cap2">D</hi>oulce dame je vous <rhyme>requier</rhyme><note>SATF Rondeau 39.</note>
+<lb n="ROND.031d:33"/>Vostre amour que je vueil <rhyme>cherir</rhyme>
+<lb n="ROND.031d:34"/>Donnez la moy sans <rhyme>rencherir</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.031d:36"/>Or m'ottroyez ce que je <rhyme>quier</rhyme><l n=" 4"/>
+<lb n="ROND.031d:37"/>Et pour faire mes maulx <rhyme>tarir</rhyme>
+<lb n="ROND.031d:38"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>d</c>oulce dame</fw></emph>
+<lb n="ROND.031d:39"/>Et se vers vous tel grace <rhyme>acquier</rhyme> <note>long tailed 'g' and 'q'</note>
+<pb n="032" ed="r" l="ROND.032r:01"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="centred"><hi rend="red">Rondeaulx</hi></fw> <fw type="header2" place="column b, above ruled space" rend="tabbed"><hi rend="red">vii &#x95; </hi></fw></hi>
+<cb n="a"/><layout ruledLines="39"/>
+<lb n="ROND.032a:01"/>Je penseray du <rhyme>remerir</rhyme><l n=" 8"/> <note>last four letters over erasure in darker ink</note>
+<lb n="ROND.032a:02"/>Et pour mes pesances <rhyme>garir</rhyme>
+<lb n="ROND.032a:03"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Doulce dame &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="38"/><div2 satfno="" n="38" type="Rondeau tercet" metre="8" length="13" refrain="abb" stanza="ab" rhyme="mf"><lb n="ROND.032a:05"/><hi rend="cap2">S</hi>e m'amour voulsisse <rhyme>ottroyer</rhyme><note>SATF Rondeau 40.</note>
+<lb n="ROND.032a:06"/><c>j</c>a pieça m'a esté <rhyme>requise</rhyme>
+<lb n="ROND.032a:07"/>Mais j'ay ailleurs m'entente <rhyme>mise</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032a:09"/>On vendroit trop tart au <rhyme>proyer</rhyme><l n=" 4"/>
+<lb n="ROND.032a:10"/>Et pour <note>firm pen-stroke over 'p' – not clear why</note> tant bien je vous <rhyme>avise</rhyme>
+<lb n="ROND.032a:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>e <note> added ?,  in darker ink</note> m'amour &amp;c</fw></emph>
+<lb n="ROND.032a:12"/>Car maint dïent que par <rhyme>loyer</rhyme>
+<lb n="ROND.032a:13"/>La devroient avoir <rhyme>acquise</rhyme><l n=" 8"/>
+<lb n="ROND.032a:14"/>Si fusse ailleurs pieça <rhyme>assise</rhyme>
+<lb n="ROND.032a:15"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>e m'amour &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="39"/><div2 satfno="" n="39" type="Rondeau tercet" metre="7" length="13" refrain="abb" stanza="ab" rhyme="mm"><lb n="ROND.032a:17"/><hi rend="cap2">D</hi>e tel dueil m'avez <rhyme>rempli</rhyme><note>SATF Rondeau 41; lines 5 and 8-9 are different from the version in the Duke's MS</note>
+<lb n="ROND.032a:18"/>Dame par vostre <rhyme>reffus</rhyme>
+<lb n="ROND.032a:19"/>C'onques plus dolent ne <rhyme>fus</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032a:21"/>Mis m'avez en si dur <rhyme>pli</rhyme><l n=" 4"/>
+<lb n="ROND.032a:22"/>Qu'enroidi suis comme un <rhyme>fus</rhyme>
+<lb n="ROND.032a:23"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>d</c>e tel dueil</fw></emph>
+<lb n="ROND.032a:24"/>Que me occïez vous <rhyme>suppli</rhyme>
+<lb n="ROND.032a:25"/>Car de mere mal né<rhyme>fus</rhyme><l n=" 8"/>
+<lb n="ROND.032a:26"/>Ne de moy n'est plus <rhyme>confus</rhyme>
+<lb n="ROND.032a:27"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>d</c>e tel dueil</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="40"/><div2 satfno="" n="40" type="Rondeau tercet" metre="10" length="13" refrain="abb" stanza="ab" rhyme="jmm"><lb n="ROND.032a:29"/><hi rend="cap2">O</hi>r est mon cuer\ rentrez en double <rhyme>peine</rhyme><note>SATF Rondeau 42.</note>
+<lb n="ROND.032a:30"/>Quant le mari\ ma dame est <rhyme>revenu</rhyme>
+<lb n="ROND.032a:31"/>Qui du paÿs s'est hors lonc temps <rhyme>tenu</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032a:33"/>Helas j'ay eu\ du tout en mon <rhyme>demaine</rhyme><l n=" 4"/>
+<lb n="ROND.032a:34"/>Joye et plaisir\ et <g lemma="" en="comfort, consolation" fr="réconfort, consolation">solas</g> <rhyme>maintenu</rhyme>
+<lb n="ROND.032a:35"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>o</c>r est</fw></emph>
+<lb n="ROND.032a:36"/>Il me touldra\ <name ref="God"><c>d</c>ieu</name> lui doint male\ <rhyme>estraine</rhyme>
+<lb n="ROND.032a:37"/>Tout mon deduit car souve<abbr type="n"/>t &amp; <rhyme>menu</rhyme><l n=" 8"/>
+<lb n="ROND.032a:38"/>J'estoye d'elle au giste <rhyme>retenu</rhyme>
+<lb n="ROND.032a:39"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>o</c>r est &amp;c</fw></emph></div2>
+
+<cb n="b"/><layout ruledLines="39"/>
+<group n="41"/><div2 satfno="" n="41" type="Rondeau tercet" metre="8" length="13" refrain="abb" stanza="ab" rhyme="mm"><lb n="ROND.032b:01"/><hi rend="cap2">H</hi>é lune trop luis <rhyme>longueme<abbr type="n"/>t</rhyme><note>SATF Rondeau 43.</note>
+<lb n="ROND.032b:02"/>Par toy pers les biens <rhyme>doulcereux</rhyme>
+<lb n="ROND.032b:03"/>Qu'<name ref="God+of+Love"><c>a</c>mours</name> donne aux vrays <rhyme>amoureux</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032b:05"/>Ta clarté nuit trop <rhyme>durement</rhyme><l n=" 4"/>
+<lb n="ROND.032b:06"/>À mon cuer qui est <rhyme>desireux</rhyme>
+<lb n="ROND.032b:07"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>h</c>é lune &amp;c</fw></emph>
+<lb n="ROND.032b:08"/>Car tu fais le <rhyme>decevrem<abbr type="en"/>t</rhyme>
+<lb n="ROND.032b:09"/>De moy et du doulx <rhyme>savoureux</rhyme><l n=" 8"/>
+<lb n="ROND.032b:10"/>Nous ne t'en savons gré tous <rhyme>deux</rhyme>
+<lb n="ROND.032b:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>h</c>é &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="42"/><div2 satfno="" n="42" type="Rondeau tercet" metre="8" length="13" refrain="abb" stanza="ab" rhyme="mf"><lb n="ROND.032b:13"/><hi rend="cap2">A</hi>mis ne vous <rhyme>desconfortez</rhyme><note>SATF Rondeau 44.</note>
+<lb n="ROND.032b:14"/><c>c</c>ar je seray en vostre <g lemma="" en="help" fr="secours"><rhyme>aÿe</rhyme></g>
+<lb n="ROND.032b:15"/>Et fusse enclose en <rhyme>abbaÿe</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032b:17"/>Ne seray du mal que <rhyme>portez</rhyme><l n=" 4"/>
+<lb n="ROND.032b:18"/>Conforter lente n'<g lemma="" en="afraid" fr="effrayée"><rhyme>esbahye</rhyme></g>
+<lb n="ROND.032b:19"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>a</c>mis &amp;c</fw></emph>
+<lb n="ROND.032b:20"/><g lemma="" en="always" fr="toujours">Toudis</g> environ moy <g lemma="" en="seek someone's company" fr="fréquenter habituellement"><rhyme>hantez</rhyme></g>
+<lb n="ROND.032b:21"/>Et ne <g lemma="" en="fear" fr="craindre">doubtez</g> nulle <rhyme>envaÿe</rhyme><l n=" 8"/>
+<lb n="ROND.032b:22"/>Et se je suis pour vous <rhyme>haÿe</rhyme>
+<lb n="ROND.032b:23"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>a</c>mis &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="43"/><div2 satfno="" n="43" type="Rondeau tercet" metre="7" length="13" refrain="abb" stanza="ab" rhyme="mm"><lb n="ROND.032b:25"/><hi rend="cap2">S</hi>ouffise vous <name ref="Bel+Accueil"><c>b</c>el <rhyme><c>a</c>ccueil</rhyme></name><note>SATF Rondeau 45; lines 2, 4 and 7-9 are very different from the version in the Duke's MS.</note>
+<lb n="ROND.032b:26"/>Trop de choses <rhyme>requerez</rhyme>
+<lb n="ROND.032b:27"/>Tout perdrés se tout <rhyme>querez</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032b:29"/>Car plus donner ne vous <rhyme>vueil</rhyme><l n=" 4"/>
+<lb n="ROND.032b:30"/>À present mais <rhyme>esperez</rhyme>
+<lb n="ROND.032b:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>ouffise &amp;c</fw></emph>
+<lb n="ROND.032b:32"/>Mieulx vous fais que je ne <rhyme>sueil</rhyme>
+<lb n="ROND.032b:33"/>Mais tant plus y <rhyme>acquerez</rhyme><l n=" 8"/>
+<lb n="ROND.032b:34"/>Et tant plus me <rhyme>requerez</rhyme>
+<lb n="ROND.032b:35"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c/>ouffise &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="44"/><div2 satfno="" n="44" type="Rondeau tercet" metre="7" length="13" refrain="abb" stanza="ab" rhyme="mf"><lb n="ROND.032b:37"/><hi rend="cap2">S</hi>e souvent vais à <rhyme>moustier</rhyme><note>SATF Rondeau 46.</note>
+<lb n="ROND.032b:38"/>C'est tout pour vëoir la <rhyme>belle</rhyme>
+<lb n="ROND.032b:39"/>Freche com Rose <rhyme>nouvelle</rhyme>
+<pb n="032" ed="v" l="ROND.032v:01"/><hi rend="run"><fw type="header1" place="column c, in ruled space" rend="centred"><hi rend="red">Rondeaulx</hi></fw> <fw type="header2" place="column d, in ruled space" rend="tabbed"><hi rend="red">&#x95; vii &#x95; </hi></fw></hi>
+<cb n="c"/><layout ruledLines="39"/>
+<lb n="ROND.032c:01"/><s>D</s>'en parler n'est nul <rhyme>mestier</rhyme><l n=" 4"/>
+<lb n="ROND.032c:02"/>Pour quoy fait on tel <rhyme>nouvelle</rhyme> <note>small off-set</note>
+<lb n="ROND.032c:03"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Se souvent &amp;c</fw></emph>
+<lb n="ROND.032c:04"/>Il n'est voye ne <rhyme>sentier</rhyme>
+<lb n="ROND.032c:05"/>Où je voise que pour <rhyme>elle</rhyme><l n=" 8"/>
+<lb n="ROND.032c:06"/>Fol est qui fol m'en <rhyme>appelle</rhyme>
+<lb n="ROND.032c:07"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Se souvent &amp;c</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="45"/><div2 satfno="" n="45" type="Rondeau tercet" metre="8" length="13" refrain="aba" stanza="ab" rhyme="mf"><lb n="ROND.032c:09"/><hi rend="cap2">À</hi> <name ref="God"><c>d</c>ieu</name> ma dame je m'en <rhyme>vois</rhyme><note>SATF Rondeau 27.</note>
+<lb n="ROND.032c:10"/><c>c</c>ent fois à vous me <rhyme>recommande</rhyme>
+<lb n="ROND.032c:11"/>Je revendray dedens un <rhyme>mois</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032c:13"/>Plus ne verray à ceste <rhyme>fois</rhyme><l n=" 4"/>
+<lb n="ROND.032c:14"/>Vo beauté qui <g lemma="" en="always" fr="toujours">toudis</g> <rhyme>amende</rhyme>
+<lb n="ROND.032c:15"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>à</c> <name ref="God"><c>d</c>ieu</name> &amp;c</fw></emph>
+<lb n="ROND.032c:16"/>Et de voz biens cent mille <rhyme>fois</rhyme>
+<lb n="ROND.032c:17"/>Vous remerci <name ref="God"><c>d</c>ieu</name> le vous <rhyme>rende</rhyme><l n=" 8"/>
+<lb n="ROND.032c:18"/>Ne m'oublïez pas toute <rhyme>fois</rhyme>
+<lb n="ROND.032c:19"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>à</c> <name ref="God"><c>d</c>ieu</name> &amp;c</fw></emph><note>off-set of lettrine between columns</note></div2>
+<!-- 1 blank line -->
+<group n="46"/><div2 satfno="" n="46" type="Rondeau tercet" metre="8" length="13" refrain="abb" stanza="ab" rhyme="mm"><lb n="ROND.032c:21"/><hi rend="cap2"> À</hi> <name ref="God"><c>d</c>ieu</name> mon amy vous <rhyme>command</rhyme><note>SATF Rondeau 28.</note>
+<lb n="ROND.032c:22"/><c>à</c> <name ref="God"><c>d</c>ieu</name> cil dont tout mon bien <rhyme>vie<abbr type="n"/>t</rhyme>
+<lb n="ROND.032c:23"/>Et pour <name ref="God"><c>d</c>ieu</name> retournés <note>'final 'r' corrected to 's' in lighter ink</note><rhyme>briefme<abbr type="n"/>t</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032c:25"/>En plourant très <rhyme>amerem<abbr type="en"/>t</rhyme><l n=" 4"/>
+<lb n="ROND.032c:26"/>Puis que departir vo<abbr type="us"/> <rhyme>couvie<abbr type="n"/>t</rhyme>
+<lb n="ROND.032c:27"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>à</c> <name ref="God"><c>d</c>dieu</name> mon &amp;c</fw></emph>
+<lb n="ROND.032c:28"/>Or ne m'oublïez <rhyme>nullement</rhyme>
+<lb n="ROND.032c:29"/>Car <g lemma="" en="always" fr="toujours">toudis</g> de vous me <rhyme>souvie<abbr type="n"/>t</rhyme><l n=" 8"/> <note>off-set of lettrine</note>
+<lb n="ROND.032c:30"/>Baysez moy au <rhyme>departement</rhyme>
+<lb n="ROND.032c:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>à</c> <name ref="God"><c>d</c>ieu</name> mon ami</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="47"/><div2 satfno="" n="47" type="Rondeau sizain" metre="a7a3a4b7b7a7" length="26" refrain="aaabba" stanza="aaab" rhyme="fm"><lb n="ROND.032c:33"/><hi rend="cap2">C</hi>ombien qu'adès ne vo<abbr type="us"/> <rhyme>voye</rhyme><note>SATF Rondeau 47.</note>
+<lb n="ROND.032c:34"/><c>s</c>imple et <rhyme>quoye</rhyme>
+<lb n="ROND.032c:35"/>Où est ma <rhyme>joye</rhyme>
+<lb n="ROND.032c:36"/>Que j'aim et sers <rhyme>loyaument</rhyme><l n=" 4"/>
+<lb n="ROND.032c:37"/>Ne pourroie <rhyme>nullement</rhyme>
+<lb n="ROND.032c:38"/>Vivre se je vous <rhyme>perdoye</rhyme>
+<!-- 1 blank line -->
+
+<cb n="d"/><layout ruledLines="39"/>
+<lb n="ROND.032d:01"/>Car sans vous je ne <rhyme>pourroye</rhyme>
+<lb n="ROND.032d:02"/>Ne <rhyme>saroie</rhyme><l n=" 8"/> <note>The line is hypometric here, in the Duke's MS and in the Livre de Cristine.</note>
+<lb n="ROND.032d:03"/>Ne <rhyme>vouldroye</rhyme>
+<lb n="ROND.032d:04"/>Vivre un jour tant <rhyme>seuleme<abbr type="n"/>t</rhyme>
+<lb n="ROND.032d:05"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>ombien</fw></emph><note>darker ink - erasure ?</note>
+<lb n="ROND.032d:06"/>Et si sachés <rhyme>toutevoye</rhyme><l n="12"/> <note>two words ?</note>
+<lb n="ROND.032d:07"/>Que <rhyme>j'employe</rhyme>
+<lb n="ROND.032d:08"/>Où que je <rhyme>soye</rhyme>
+<lb n="ROND.032d:09"/>En vous tout mon <rhyme>pensement</rhyme>
+<lb n="ROND.032d:10"/>Car il n'est <rhyme>avancement</rhyme><l n=" 16"/>
+<lb n="ROND.032d:11"/>Qui me venist d'autre <rhyme>voye</rhyme>
+<lb n="ROND.032d:12"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>omb<abbr type="ie"/>n</fw></emph></div2>
+<!-- 1 blank line -->
+<group n="48"/><div2 satfno="" n="48" type="Rondeau sizain" metre="4" length="" refrain="aabaab" stanza="aaba" rhyme="mm"><lb n="ROND.032d:14"/><hi rend="cap2">C</hi>omme <rhyme>surpris</rhyme><note>SATF Rondeau 48.</note>
+<lb n="ROND.032d:15"/><c>e</c>t <note>small 'e'</note><rhyme>entrepris</rhyme>
+<lb n="ROND.032d:16"/>De vostre <rhyme>amour</rhyme>
+<lb n="ROND.032d:17"/>Je me rens <rhyme>pris</rhyme><l n=" 4"/>
+<lb n="ROND.032d:18"/>En vo <rhyme>pourpris</rhyme> <note>trace of off-set in gutter margin</note>
+<lb n="ROND.032d:19"/>Dame <rhyme>d'onnour</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.032d:21"/>Si ne <rhyme>mespris</rhyme>
+<lb n="ROND.032d:22"/>Quant <rhyme>j'entrepris</rhyme><l n=" 8"/>
+<lb n="ROND.032d:23"/>Si hault <rhyme>honnour</rhyme>
+<lb n="ROND.032d:24"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>omme</fw></emph>
+<lb n="ROND.032d:25"/>Mais en <rhyme>despris</rhyme>
+<lb n="ROND.032d:26"/>Ne m'ait\ le <rhyme>pris</rhyme><l n="12"/>
+<lb n="ROND.032d:27"/>De vo <rhyme>valour</rhyme>
+<lb n="ROND.032d:28"/>Car j'ay <rhyme>appris</rhyme>
+<lb n="ROND.032d:29"/>Les biens <rhyme>compris</rhyme>
+<lb n="ROND.032d:30"/>En vo <rhyme>doulçour</rhyme><l n="16"/>
+<lb n="ROND.032d:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>o<abbr type="m"/>me &amp;c</fw></emph><l n=""/></div2>
+<!-- 1 blank line -->
+<group n="49"/><div2 satfno="" n="49" type="Rondeau huitain" metre="a7a3b7b3a7a3b7b3" length="32" refrain="aabbaabb" stanza="aabb" rhyme="mm"><lb n="ROND.032d:33"/><hi rend="cap2">V</hi>ous en pourriés <rhyme>exiller</rhyme><note>SATF Rondeau 49; the 'a' rhyme is consistently in '-er' ; but in '-ier' in the Duke's MS. In its earliest version in the 'Livre de Cristine', the poem was a rondeau sizain; the version in the Duke's MS marks an intermediate, faulty stage.</note>
+<lb n="ROND.032d:34"/><c>u</c>n <rhyme>miller</rhyme>
+<lb n="ROND.032d:35"/>Des amans par vo doulx <rhyme>oeil</rhyme>
+<lb n="ROND.032d:36"/>Plains <rhyme>d'esveil</rhyme><l n=" 4"/>
+<lb n="ROND.032d:37"/>Qui ont fait maint <rhyme>fretiller</rhyme>
+<lb n="ROND.032d:38"/>Et <rhyme>veiller</rhyme>
+<lb n="ROND.032d:39"/>Je m'en sens plus q<abbr type="ue"/> ne <rhyme>sueil</rhyme>
+<pb n="033" ed="r" l="ROND.033r:01"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="tabbed"><hi rend="red">Ron</hi></fw> <fw type="header2" place="column a, above ruled space" rend="tabbed from right"><hi rend="red">deaulx</hi></fw> <fw type="header3" place="column b, above ruled space" rend="tabbed"><hi rend="red">&#x95; vii &#x95; </hi></fw></hi>
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="ROND.033a:01"/>Et m'en <rhyme>dueil</rhyme><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="ROND.033a:03"/><name ref="Belle">Belle</name> qui bien <rhyme>traveiller</rhyme>
+<lb n="ROND.033a:04"/>Et <rhyme>piller</rhyme>
+<lb n="ROND.033a:05"/>Savez cuers à vostre <rhyme>vueil</rhyme>
+<lb n="ROND.033a:06"/>En <rhyme>recueil</rhyme><l n="12"/>
+<lb n="ROND.033a:07"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Vous &amp;c</fw></emph>
+<lb n="ROND.033a:08"/>Mais bien savez pou <rhyme>bailler</rhyme>
+<lb n="ROND.033a:09"/>Et <rhyme>tailler</rhyme>
+<lb n="ROND.033a:10"/>Moins de joye et plus de <rhyme>dueil</rhyme><l n="16"/>
+<lb n="ROND.033a:11"/>Sur le <rhyme>sueil</rhyme>
+<lb n="ROND.033a:12"/>Pour musars <rhyme>entortiller</rhyme>
+<lb n="ROND.033a:13"/><rhyme>Conseiller</rhyme>
+<lb n="ROND.033a:14"/>Par vostre attraya<abbr type="n"/>t <rhyme>acueil</rhyme><l n="20"/>
+<lb n="ROND.033a:15"/>Sans <rhyme>orgueil</rhyme>
+<lb n="ROND.033a:16"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>v</c>ous &amp;c</fw></emph><note>offset of decorated initial 'P' in intercolumnar space</note><l n=""/></div2>
+<!-- 1 blank line -->
+<group n="50"/><div2 satfno="" n="50" type="Rondeau huitain" metre="3" length="32" refrain="abababab" stanza="abab" rhyme="fm"><lb n="ROND.033a:18"/><hi rend="cap2">P</hi>our <note>almost 'Piour'</note><rhyme>attraire</rhyme><note>SATF Rondeau 50.</note>
+<lb n="ROND.033a:19"/><c>v</c>ostre <rhyme>amour</rhyme>
+<lb n="ROND.033a:20"/>Et moy <rhyme>traire</rhyme>
+<lb n="ROND.033a:21"/>De <rhyme>doulour</rhyme><l n=" 4"/>
+<lb n="ROND.033a:22"/>Me vueil <rhyme>traire</rhyme>
+<lb n="ROND.033a:23"/>Vers vous, <name ref="Flour"><rhyme><c>f</c>lour</rhyme></name>,
+<lb n="ROND.033a:24"/>Sans <rhyme>retraire</rhyme>
+<lb n="ROND.033a:25"/>Nuit ne <rhyme>jour</rhyme><l n=" 8"/>
+<!-- 1 blank line -->
+<lb n="ROND.033a:27"/>Ne doy <rhyme>taire</rhyme>
+<lb n="ROND.033a:28"/>Ma <rhyme>langour</rhyme>
+<lb n="ROND.033a:29"/>Mais <rhyme>retraire</rhyme>
+<lb n="ROND.033a:30"/>Sans <rhyme>rigour</rhyme><l n="12"/>
+<lb n="ROND.033a:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c/>pour &amp;c</fw></emph>
+<lb n="ROND.033a:32"/><rhyme>Exemplaire</rhyme>
+<lb n="ROND.033a:33"/>De <rhyme>valour</rhyme>
+<lb n="ROND.033a:34"/>Pour vous <rhyme>plaire</rhyme><l n="16"/>
+<lb n="ROND.033a:35"/>Tant <note>scraped, but not corrected ?</note><rhyme>labour</rhyme>
+<lb n="ROND.033a:36"/>Je vueil <rhyme>faire</rhyme>
+<lb n="ROND.033a:37"/>Par <rhyme>honnour</rhyme>
+<lb n="ROND.033a:38"/>Et <rhyme>pourtraire</rhyme><l n="20"/>
+<lb n="ROND.033a:39"/>Vo <rhyme>doulçour</rhyme> <note>elaborate 'd'</note>
+<lb n="ROND.033a:40"/>Pour &amp;c <note>centred</note><note>smaller 'point</note></div2>
+
+<cb n="b"/><layout ruledLines="40"/>
+<group n="51"/><div2 satfno="" n="51" type="Rondeau simple" metre="8" length="8" refrain="ab" stanza="a" rhyme="mf"><lb n="ROND.033b:01"/><hi rend="cap2">A</hi>mys venez ancore <rhyme>nuit</rhyme><note>SATF Rondeau 51; line 3 is different from the version in the Duke's MS</note>
+<lb n="ROND.033b:02"/>Je vous ay autre foiz dit <rhyme>l'eure</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.033b:04"/>Pour en joye estre et en <rhyme>deduit</rhyme>
+<lb n="ROND.033b:05"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>a</c>mis &amp;c</fw></emph><l n=" 4"/>
+<lb n="ROND.033b:06"/>Car ce qui nous empesche et <rhyme>nuit</rhyme>
+<lb n="ROND.033b:07"/>N'y est pas pour ce sans <rhyme>demeure</rhyme>
+<lb n="ROND.033b:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>a</c>mis venez &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="52"/><div2 satfno="" n="52" type="Rondeau simple" metre="8" length="8" refrain="ab" stanza="a" rhyme="fm">
+<lb n="ROND.033b:10"/><hi rend="cap2">I</hi>l me tarde que lundi <rhyme>viengne</rhyme><note> SATF Rondeau 52</note>
+<lb n="ROND.033b:11"/>Car mon ami doy vëoir <rhyme>lors</rhyme> <note>two letter space between last two words - why ?</note>
+<!-- 1 blank line -->
+<lb n="ROND.033b:13"/>Affin qu'entre mes bras le <rhyme>tiengne</rhyme>
+<lb n="ROND.033b:14"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>i</c>l  me &amp;c</fw></emph><l n=" 4"/>
+<lb n="ROND.033b:15"/>Si lui pry qu'il lui en <rhyme>souviengne</rhyme>
+<lb n="ROND.033b:16"/>Car pour vëoir son gentil <rhyme>corps</rhyme>
+<lb n="ROND.033b:17"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>i</c>l me &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="53"/><div2 satfno="" n="53" type="Rondeau simple" metre="8" length="8" refrain="ab" stanza="a" rhyme="mm"><lb n="ROND.033b:19"/><hi rend="cap2">C</hi>est anelet que j'ay oû <rhyme>doy</rhyme><note>SATF Rondeau 53.</note>
+<lb n="ROND.033b:20"/><c>m</c>on doulx ami le m'a <rhyme>donné</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.033b:22"/>Souvent nous assemble <rhyme>toudoy</rhyme> <note>'u' over erasure ; space before 'doy' ; originally 'ton doy' ?; 'u' in intercolumnar margin'</note>
+<lb n="ROND.033b:23"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>est &amp;c</fw></emph><l n=" 4"/>
+<lb n="ROND.033b:24"/>Je l'aime bien faire le <rhyme>doy</rhyme>
+<lb n="ROND.033b:25"/>Car pour ma joye est <rhyme>ordonné</rhyme>
+<lb n="ROND.033b:26"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>c</c>est &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="54"/><div2 satfno="" n="54" type="Rondeau simple" metre="8" length="8" refrain="ab" stanza="a" rhyme="mf"><lb n="ROND.033b:28"/><hi rend="cap2">D</hi>ure chose est à <rhyme>soustenir</rhyme><note>SATF Rondeau 55.</note>
+<lb n="ROND.033b:29"/>Quant cuer pleure et la bouche\ <rhyme>chante</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.033b:31"/>Et de faire dueil se <rhyme>tenir</rhyme>
+<lb n="ROND.033b:32"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Dure &amp;c</fw></emph><l n=" 4"/>
+<lb n="ROND.033b:33"/>Faire le faut qui <rhyme>soustenir</rhyme> <note>poor rhyme ?</note>
+<lb n="ROND.033b:34"/>Veult honneur <note>over erasure</note> qui mesdisans <rhyme>hante</rhyme>
+<lb n="ROND.033b:35"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Dure &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="55"/><div2 satfno="" n="55" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="fm"><lb n="ROND.033b:37"/><hi rend="cap2">C</hi>il qui m'a mis en pensée <rhyme>nouvelle</rhyme><note>SATF Rondeau 56.</note>
+<lb n="ROND.033b:38"/>Et qui requiert que je le vueille <rhyme>amer</rhyme>
+<lb n="ROND.033b:39"/>Me plaist sur tous non obsta<abbr type="n"/>t <rhyme>qu'affermer</rhyme>
+<lb n="ROND.033b:40"/>Ne lui vueille m'amour ainçois lui <rhyme>celle</rhyme><l n=" 4"/>
+<pb n="033" ed="v" l="ROND.033v:01"/><hi rend="run"><fw type="header1" place="column c, above ruled space" rend="centred"><hi rend="red"><s>R</s>ondeaulx</hi></fw> <fw type="header2" place="column d, above ruled space" rend="left aligned"><hi rend="red">&#x95; vii &#x95;</hi></fw></hi>
+<cb n="c"/><layout ruledLines="40"/>
+<lb n="ROND.033c:01"/>Et si est il plus doulx q'une <rhyme>pucelle</rhyme> <note>tall 'l's</note>
+<lb n="ROND.033c:02"/>Jeune plaisant\ bel courtois sans <rhyme>amer</rhyme>
+<lb n="ROND.033c:03"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Cil qui m'a &amp;c</fw></emph>
+<lb n="ROND.033c:04"/>Mais de päour\ qu'estre en peust <rhyme>nouvelle</rhyme><l n=" 8"/> <note>'estrë en' or 'peüst' ?</note>
+<lb n="ROND.033c:05"/>Je n'ose en lui <add place="supralinear" type="" evidence="">du tout</add> <note>darker ink</note> m'amour <rhyme>fermer</rhyme>
+<lb n="ROND.033c:06"/>Le retenir ne mon ami <rhyme>clamer</rhyme>
+<lb n="ROND.033c:07"/>Si est bien digne d'avoir plus <rhyme>belle</rhyme> <note>9 syllables ; 'il' omitted after 'est' ?</note>
+<lb n="ROND.033c:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Cil qui m'a &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="56"/><div2 satfno="" n="56" type="Rondeau quatrain" metre="8" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.033c:10"/><hi rend="cap2">V</hi>ostre doulçour mon cuer <rhyme>attrait</rhyme><note>SATF Rondeau 57; .lines 3 and 11 are different from the version in the Duke's MS</note>
+<lb n="ROND.033c:11"/>Je <note>elaborate 'J'</note> ne vous vueil plus <rhyme>reffuser</rhyme>
+<lb n="ROND.033c:12"/>Doulx ami qui vault le <rhyme>ruser</rhyme>
+<lb n="ROND.033c:13"/>Quant par voz yeulx <name ref="God+of+Love"><c>a</c>mours</name> me <rhyme>trait</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.033c:15"/>Si vous vueil amer sans <rhyme>retrait</rhyme>
+<lb n="ROND.033c:16"/>À tous jours mais car sans <rhyme>ruser</rhyme>
+<lb n="ROND.033c:17"/>Vostre doulçour &amp;c <note>centred, smaller point?</note>
+<lb n="ROND.033c:18"/>Or soyés tout mien sans faulx <rhyme>trait</rhyme><l n=" 8"/>
+<lb n="ROND.033c:19"/>Ainsi pourrons noz jours <rhyme>user</rhyme>
+<lb n="ROND.033c:20"/>En grant doulçour sans mal <rhyme>user</rhyme>
+<lb n="ROND.033c:21"/>Car pour vostre plaisant <rhyme>attrait</rhyme>
+<lb n="ROND.033c:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>v</c><abbr type="ost"/>re  doulçour</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="57"/><div2 satfno="" n="57" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.033c:24"/><hi rend="cap2">S</hi>e d'ami je suis <rhyme>servie</rhyme><note>SATF Rondeau 58.</note>
+<lb n="ROND.033c:25"/>Crainte obeÿe &amp; <rhyme>amée</rhyme>
+<lb n="ROND.033c:26"/><s>J</s>e ne doy estre <rhyme>blamée</rhyme>
+<lb n="ROND.033c:27"/>D'avoir entrepris tel <rhyme>vie</rhyme><l n=" "/>
+<!-- 1 blank line -->
+<lb n="ROND.033c:29"/>Ne me suis pas <rhyme>asservie</rhyme>
+<lb n="ROND.033c:30"/>Ainçois suis dame <rhyme>clamée</rhyme>
+<lb n="ROND.033c:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>e d'ami &amp;c</fw></emph><note>smaller point</note>
+<lb n="ROND.033c:32"/>Car de tous biens <rhyme>assouvie</rhyme><l n=" 8"/>
+<lb n="ROND.033c:33"/>Seray par sa <rhyme>renommée</rhyme>
+<lb n="ROND.033c:34"/>Si n'en seray ja <rhyme>clamée</rhyme>
+<lb n="ROND.033c:35"/>Folle se n'est par <rhyme>envie</rhyme>
+<lb n="ROND.033c:36"/><emph rend="italic"><fw type="refrain" place="inline" rend="right aligned, smaller point"><c>s</c>e d'ami &amp;c </fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="58"/><div2 satfno="" n="58" type="Rondeau simple" metre="10" length="8" refrain="ab" stanza="a" rhyme="mm"><lb n="ROND.033c:38"/><hi rend="cap2">C</hi>hiere dame plaise vous <rhyme>ottroyer</rhyme><note>SATF Rondeau 59.</note>
+<lb n="ROND.033c:39"/><c>c</c>e que vous ay humblem<abbr type="en"/>t <rhyme>supplïé</rhyme>
+<!-- 1 blank line -->
+
+<cb n="d"/><layout ruledLines="40"/>
+<lb n="ROND.033d:01"/>Sans que <s>d</s>'autre vous en face <rhyme>proyer</rhyme>
+<lb n="ROND.033d:02"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Chiere dame &amp;c</fw></emph><l n=" 4"/>
+<lb n="ROND.033d:03"/>Mon cuer mon corps quanque j'ay en <rhyme>loyer</rhyme>
+<lb n="ROND.033d:04"/>Tout je vous offre pour moy <note>2 words inserted in darker ink, over space left blank ?</note> faire <rhyme>lié</rhyme> <note>'lïé' ?</note>
+<lb n="ROND.033d:05"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point">Chiere dame &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="59"/><div2 satfno="" n="59" type="Rondeau quatrain" metre="8" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.033d:07"/><hi rend="cap2">V</hi>ous n'y pouez: la place est <rhyme>prise</rhyme>.<note>SATF Rondeau 60.</note>
+<lb n="ROND.033d:08"/>Sire vous perdez vostre <rhyme>peine</rhyme>
+<lb n="ROND.033d:09"/>De moy prïer. <c>C</c>'est chose <rhyme>vaine</rhyme>,
+<lb n="ROND.033d:10"/>Car un bel et bon m'a <rhyme>acquise</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.033d:12"/>Et c'est droit q'un seul me <rhyme>souffise</rhyme>.
+<lb n="ROND.033d:13"/>Plus n'en vueil; folz est qui s'en <rhyme>peine</rhyme>.
+<lb n="ROND.033d:14"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>v</c>ous  &amp;c</fw></emph>
+<lb n="ROND.033d:15"/>Toute m'amour ay en lui <rhyme>mise</rhyme><l n=" 8"/>
+<lb n="ROND.033d:16"/>Et l'ameray d'amour <rhyme>certaine</rhyme>
+<lb n="ROND.033d:17"/>Mais ne m'en tenez à <rhyme>villaine</rhyme>
+<lb n="ROND.033d:18"/>Car je vous dy qu'en nulle <rhyme>guise</rhyme>
+<lb n="ROND.033d:19"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>v</c>ous &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="60"/><div2 satfno="" n="60" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="fm"><lb n="ROND.033d:21"/><hi rend="cap2">S</hi>'il vous souffit\ il me doit b<abbr type="ie"/>n <rhyme>souffire</rhyme><note>SATF Rondeau 61.</note>
+<lb n="ROND.033d:22"/>Mais quant à moy\ mieulx voulsisse <rhyme>aut<abbr type="re"/>m<abbr type="en"/>t</rhyme>
+<lb n="ROND.033d:23"/>Car je voy bien\ qu'il ne vous chaut <rhyme>gra<abbr type="m"/>me<abbr type="n"/>t</rhyme>
+<lb n="ROND.033d:24"/>De moy vëoir\ or de par <name ref="God"><c>d</c>ieu</name> beau <rhyme>sire</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.033d:26"/>Passer m'en faut\ comb<abbr type="ie"/>n que j'en <rhyme>souspire</rhyme>
+<lb n="ROND.033d:27"/>Mais puis qu'amer\ voulez si <rhyme>faitem<abbr type="en"/>t</rhyme>
+<lb n="ROND.033d:28"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>'il  vo<abbr type="us"/> &amp;c</fw></emph>
+<lb n="ROND.033d:29"/>Car n'est pas droit\ que dame plus <rhyme>desire</rhyme><l n=" 8"/>
+<lb n="ROND.033d:30"/>Que son ami\ n'aime plus <rhyme>loyaume<abbr type="n"/>t</rhyme>
+<lb n="ROND.033d:31"/>Puis qu'ainsi va\ je vous di <rhyme>plainem<abbr type="en"/>t</rhyme> <note>2 abbreviation signs</note>
+<lb n="ROND.033d:32"/>Que j'en feray\ comme vous à tout <rhyme>dire</rhyme>
+<lb n="ROND.033d:33"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>'il vo<abbr type="us"/> &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="61"/><div2 satfno="" n="61" type="Rondeau quatrain" metre="10" length="16" refrain="abba" stanza="ab" rhyme="ff"><lb n="ROND.033d:35"/><hi rend="cap2">S</hi>ource de plour riviere de <rhyme>tristesse</rhyme><note>SATF Rondeau 62; line 4 is different from the version in the Duke's MS</note>
+<lb n="ROND.033d:36"/>Flun de doulour mer d'amertume <rhyme>plaine</rhyme>
+<lb n="ROND.033d:37"/>M'avironnent et noient en gra<abbr type="n"/>t <rhyme>peine</rhyme>
+<lb n="ROND.033d:38"/>Mon povre cuer\ qui trop sent de <rhyme>tristece</rhyme><l n=" 4"/> <note>poor rhyme ?</note>
+<!-- 2 blank lines -->
+<pb n="034" ed="r" l="ROND.034r:01"/><hi rend="run"><fw type="header1" place="column a, above ruled space" rend="tabbed">Ron</fw>  <fw type="header2" place="column a, above ruled space" rend="tabbed from right">deaulx</fw> <fw type="header3" place="column b, above ruled space" rend="tabbed">&#x95; vii &#x95;</fw></hi>
+<cb n="a"/><layout ruledLines="40"/>
+<lb n="ROND.034a:01"/>Si m'affondent et plungent en <rhyme>asprece</rhyme>
+<lb n="ROND.034a:02"/>Car par my moy queure<abbr type="n"/>t plus fort q<abbr type="ue"/> <name ref="River+Seine"><rhyme><c>s</c>aine</rhyme></name>
+<lb n="ROND.034a:03"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>ource de plour</fw></emph>
+<lb n="ROND.034a:04"/>Et leurs grans flos chéent à grant <rhyme>largece</rhyme><l n=" 8"/>
+<lb n="ROND.034a:05"/>Sicom le vent de <name ref="Fortune"><c>f</c>ortune</name> les <rhyme>maine</rhyme>
+<lb n="ROND.034a:06"/>Tout dessus moy dont si bas suis qu'à <rhyme>peine</rhyme>
+<lb n="ROND.034a:07"/>Releveray tant durement <rhyme>m'oppresse</rhyme>
+<lb n="ROND.034a:08"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>ource de plour &amp;c</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="62"/><div2 satfno="" n="62" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="mm"><lb n="ROND.034a:10"/><hi rend="cap2">B</hi>el et doulx et <rhyme>gracïeux</rhyme><note>SATF Rondeau 63. Is 'Com' in lines 6 and 10  an error?</note>
+<lb n="ROND.034a:11"/><c>j</c>eune courtois sans <rhyme>amer</rhyme>
+<lb n="ROND.034a:12"/>Qui avez mis en <rhyme>amer</rhyme>
+<lb n="ROND.034a:13"/>Vostre cuer <note>'re cuer' faded</note> pour valoir <rhyme>mieulx</rhyme><l n=" 4"/>
+<!-- 1 blank line -->
+<lb n="ROND.034a:15"/>Vray loyal soyés et <rhyme>tieulx</rhyme>
+<lb n="ROND.034a:16"/>C'om vous puist par tout <rhyme>clamer</rhyme>
+<lb n="ROND.034a:17"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>b</c>el &amp; doulx</fw></emph>
+<lb n="ROND.034a:18"/>Et ainçois que soyés <rhyme>vieulx</rhyme><l n=" 8"/>
+<lb n="ROND.034a:19"/>Faites vous tant <rhyme>renommer</rhyme>
+<lb n="ROND.034a:20"/>C'om vous puist par tout <rhyme>nommer</rhyme>
+<lb n="ROND.034a:21"/>Bon vaillant et en tous <rhyme>lieux</rhyme>
+<lb n="ROND.034a:22"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>b</c>el &amp; doulx</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="63"/><div2 satfno="" n="63" type="Rondeau quatrain" metre="7" length="16" refrain="abba" stanza="ab" rhyme="mf"><lb n="ROND.034a:24"/><hi rend="cap2">P</hi>our quoy m'avez vous ce <rhyme>fait</rhyme><note>SATF Rondeau 64.</note>
+<lb n="ROND.034a:25"/><c>t</c>rès <note>small 't'</note> bel où n'a que <rhyme>redire</rhyme>
+<lb n="ROND.034a:26"/>Et si savez mon <rhyme>martire</rhyme>
+<lb n="ROND.034a:27"/>N'onques ne vous fis <rhyme>meffait</rhyme><l n=" 4"/> <note>'ait' faded</note>
+<!-- 1 blank line -->
+<lb n="ROND.034a:29"/>Et parti estes de <rhyme>fait</rhyme>
+<lb n="ROND.034a:30"/>Sanz me daigner à <name ref="God"><c>d</c>ieu</name> <rhyme>dire</rhyme>
+<lb n="ROND.034a:31"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>our quoy</fw></emph>
+<lb n="ROND.034a:32"/>Au <name ref="God+of+Love"><c>d</c>ieu d'<c>a</c>mours</name> du tort <rhyme>fait</rhyme><l n=" 8"/>
+<lb n="ROND.034a:33"/>Me plai<abbr type="n"/>dray disant <name ref="God"><c>d</c>ieu <rhyme>sire</rhyme></name>
+<lb n="ROND.034a:34"/>Ami m'avez fait <rhyme>eslire</rhyme>
+<lb n="ROND.034a:35"/>Dont me vient si dur <rhyme>effait</rhyme>
+<lb n="ROND.034a:36"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>p</c>our quoy</fw></emph><l n="12"/></div2>
+<!-- 1 blank line -->
+<group n="64"/><div2 satfno="" n="64" type="Rondeau simple" metre="4" length="8" refrain="ab" stanza="a" rhyme="fm"><lb n="ROND.034a:38"/><hi rend="cap2">S</hi>'ainsi me <rhyme>dure</rhyme><note>SATF Rondeau 65.</note>
+<lb n="ROND.034a:39"/>Ne puis <rhyme>durer</rhyme>
+<!-- 1 blank line -->
+
+<cb n="b"/><layout ruledLines="40"/>
+<lb n="ROND.034b:01"/>Je muyr <rhyme>d'ardure</rhyme>
+<lb n="ROND.034b:02"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred"><c>s</c>'ainsi me <rhyme>dure</rhyme></fw></emph><l n=" 4"/>
+<lb n="ROND.034b:03"/>Doulour ay <rhyme>dure</rhyme>
+<lb n="ROND.034b:04"/>À <rhyme>endurer</rhyme>
+<lb n="ROND.034b:05"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>s</c>'ainsi me &amp;c</fw></emph><l n="7"/></div2>
+<!-- 1 blank line -->
+<group n="65"/><div2 satfno="" n="65" type="Rondeau simple" metre="4" length="8" refrain="ab" stanza="a" rhyme="mm"><lb n="ROND.034b:07"/><hi rend="cap2">A</hi>moureux <rhyme>oeil</rhyme>
+<lb n="ROND.034b:08"/><c>p</c>laisant <rhyme>archer</rhyme><note>SATF Rondeau 66.</note>
+<!-- 1 blank line -->
+<lb n="ROND.034b:10"/>De toy me <rhyme>dueil</rhyme>
+<lb n="ROND.034b:11"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>a</c>moureux</fw></emph><l n=" 4"/>
+<lb n="ROND.034b:12"/>Car ton <rhyme>accueil</rhyme>
+<lb n="ROND.034b:13"/>Me vens trop <rhyme>cher</rhyme>
+<lb n="ROND.034b:14"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>a</c>moureux &amp;c</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="66"/><div2 satfno="" n="66" type="Rondeau simple" metre="2" length="8" refrain="ab" stanza="a" rhyme="fm"><lb n="ROND.034b:16"/><hi rend="cap2">M</hi>a <rhyme>dame</rhyme><note>SATF Rondeau 67.</note>
+<lb n="ROND.034b:17"/><rhyme><c>s</c>ecours</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.034b:19"/>Par <rhyme>m'ame</rhyme>
+<lb n="ROND.034b:20"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>m</c>a</fw></emph><l n=" 4"/>
+<lb n="ROND.034b:21"/><rhyme>J'enflame</rhyme>
+<lb n="ROND.034b:22"/><rhyme>D'amours</rhyme>
+<lb n="ROND.034b:23"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>m</c>a</fw></emph><l n=" 7"/></div2>
+<!-- 1 blank line -->
+<group n="67"/><div2 satfno="" n="67" type="Rondeau simple" metre="2" length="8" refrain="ab" stanza="a" rhyme="mm"><lb n="ROND.034b:25"/><hi rend="cap2">J</hi>e <rhyme>vais</rhyme><note>SATF Rondeau 68.</note>
+<lb n="ROND.034b:26"/><rhyme><c>j</c>ouer</rhyme>
+<!-- 1 blank line -->
+<lb n="ROND.034b:28"/>Au <rhyme>bois</rhyme>
+<lb n="ROND.034b:29"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>e</fw></emph><l n=" 4"/>
+<lb n="ROND.034b:30"/>Pour <rhyme>nois</rhyme>
+<lb n="ROND.034b:31"/><rhyme>Trouver</rhyme>
+<lb n="ROND.034b:32"/><emph rend="italic"><fw type="refrain" place="inline" rend="centred, smaller point"><c>j</c>e</fw></emph><note>No explicit</note><l n=" 7"/></div2>
+<!-- 8 blank lines -->
+</div1>
+</p>
+</body>
+</text>
+</TEI>

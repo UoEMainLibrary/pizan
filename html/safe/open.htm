@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>MIDDLE FRENCH CODICOLOGY Charlie Mansfield June 2007</title>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<style type="text/css">
+body {background-color: #ffffff; font-family: Verdana, sans-serif; font-size: 3.5mm;}
+.chooser {color: #000000; background-color: ButtonFace; padding: 1mm; font-family: Verdana, Arial, sans-serif; font-size: 3.0mm;}
+.pods {font-family: Verdana, Arial, sans-serif; font-size: 3.5mm;}
+.boldred {color: #ff0000; font-weight: bold; font-size: 5.8mm;}
+.redbutton {color: #ffffff; font-weight: bold; text-decoration:none; border:thin; border-style:outset; background-color:#ff0000; }
+.dropcap {float:left; margin-top:-11px; margin-right:3px; color:black; font-size:11mm; height:1em; font-weight:bold; font-family: Verdana;} 
+.rubrics {color: #e10034; font-family: Verdana, Arial, sans-serif; font-size: 4.7mm;}
+</style>
+<script type="text/javascript">
+
+function replacer()
+{
+thisform=document.dataIn4;
+var counting=document.getElementById("textarea4");
+var find="";
+var hifind="";
+var array9="";
+var occurs=0;
+hifind=thisform.find1.value;
+find = new RegExp(hifind, "g");
+var replace="";
+replace='<span class="boldred">' + hifind + '</span>';
+var array9 = document.getElementById("source");
+var col_array=array9.innerHTML.split(hifind);
+occurs=col_array.length-1;
+counting.value = occurs;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+}
+
+function resize(){
+thisform=document.dataSize;
+var counting=document.getElementById("hrsize");
+var freshsize=document.getElementById("newsize");
+var find="";
+var hifind="";
+var array9="";
+var occurs=0;
+hifind=thisform.sizer.value;
+upsize=thisform.changesize.value;
+find = new RegExp(hifind, "g");
+var replace="";
+replace=upsize;
+var array9 = document.getElementById("source");
+var col_array=array9.innerHTML.split(hifind);
+occurs=col_array.length-1;
+counting.value = occurs;
+freshsize.value=replace;
+array9.innerHTML = array9.innerHTML.replace(find, replace);
+}
+
+function fondchange(){
+thisform=document.fonder;
+colour=thisform.fond.value;
+var bod = document.getElementsByName("chosen");
+bod[0].style.backgroundColor=colour;
+bod[1].style.backgroundColor=colour;
+bod[2].style.backgroundColor=colour;
+bod[3].style.backgroundColor=colour;
+}
+
+function x()
+{
+thisform=document.pod;
+mm=thisform.field3.value+"mm";
+colour=thisform.field4.value;
+attribute=thisform.hexa.value;
+var i=0;
+var huge=9999;
+var array2=document.getElementsByName(attribute);
+var textarea2=document.getElementById("textarea2");
+for (i = 0; i <= huge; i++)
+{
+textarea2.value = i;
+array2[i].style.color = colour;
+array2[i].style.fontSize = mm;
+}
+}
+
+function stilo3()
+{
+thisform=document.dataIn3;
+mm=thisform.field5.value+"mm";
+colour=thisform.field6.value;
+var i=0;
+document.getElementsByName("preserve")[i].style.color = colour;
+document.getElementsByName("preserve")[i].style.fontSize = mm;
+}
+
+</script>
+</head>
+<body><a name="top"></a>
+<div class="chooser">
+<table width="100%">
+<tr>
+<td width="70%">
+<br />
+<center><span class="rubrics">CODICOLOLOGICAL DISTRIBUTION OF MINIATURES</span></center><br /><br />
+The spatial arrangement of text and image on a bifolium provides insight into
+the material culture of the book and the processes involved in its fabrication.
+<br /><br />  
+Question: When the full sheets were laid-out flat, who painted what and where?
+<br /><br />
+Recording Codicological Position of Miniatures within the Make-Up of Quire Bundles
+<br />
+(with Letter-names of Artists: A,B,C and D). <br />  
+Note: Some folios within quires do not follow-through
+but terminate in a 'talon' (stub, rim, heel)<br /> 
+<br /><br />
+My DHTML and JavaScript
+rely on a fairly full implementation of the Document Object Model so please use
+Mozilla Firefox to browse these pages; download free installation from <a href="http://www.mozilla.com">www.mozilla.com</a>
+<br /><br />
+
+<form name="pod" action=""> 
+HIGHLIGHT CHOICE
+<select name="hexa">
+<option value="0">folio number</option>
+<option value="1">spare</option>
+<option value="2">miniature</option>
+<option value="3">artists</option>
+</select>
+Size in mm  <input type="text" name="field3" size="4" value="7"> 
+Colour <input type="text" name="field4" size="5" value="blue"> 
+&nbsp;&nbsp;<a href="javascript:x()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+&nbsp;&nbsp;<input type="text" id="textarea2" size="5" value="TOTAL"></input>
+
+</form>
+<br />
+<form name="dataIn3" action=""> 
+Body text &nbsp;Size in mm  <input type="text" name="field5" size="4"> 
+Colour <input type="text" name="field6" size="5"> 
+&nbsp;&nbsp;<a href="javascript:stilo3()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+</form>
+<br />
+<form name="dataIn4" action=""> 
+Highlight any keyword. &nbsp;Find what &nbsp;&nbsp;<input type="text" name="find1" size="10">  
+&nbsp;&nbsp;<a href="javascript:replacer()"><span class="redbutton">&nbsp;&#x3a6;&nbsp;</span></a>
+&nbsp;&nbsp;<input type="text" id="textarea4" size="5" value="TOTAL"></input> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Ctrl R refreshes text</b> &nbsp;
+</form>
+<br />
+</td>
+<td>
+
+<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#q14">Quire 14</a>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#q01">Quire 01</a>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#q99">Quire 99</a>
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#q99">Quire 99</a>
+<br /><br />
+</td>
+</table>
+</div>
+
+<div id="source">
+<div name="preserve">
+
+<a name="q14">&nbsp;QUIRE 14</a>
+<table width="90%">
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098d01<span class="pods" name="3">ABC</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+<tr>
+<td width="5%"><span class="pods" name="0">98</span></td>
+<td colspan="5">
+<center><img src="openup.jpg"></center></td>
+<td width="5%" align="right"><span class="pods" name="0">99</span></td>
+</td>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098a23<span class="pods" name="3">A_C</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">.<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">099c01<span class="pods" name="3">AB_</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+</table>
+
+
+<table width="90%">
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098d01<span class="pods" name="3">ABC</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+<tr>
+<td width="5%"><span class="pods" name="0">98</span></td>
+<td colspan="5">
+<center><img src="openup.jpg"></center></td>
+<td width="5%" align="right"><span class="pods" name="0">99</span></td>
+</td>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098a23<span class="pods" name="3">A_C</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">.<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">099c01<span class="pods" name="3">AB_</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+</table>
+
+
+<table width="90%">
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098d01<span class="pods" name="3">ABC</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+<tr>
+<td width="5%"><span class="pods" name="0">98</span></td>
+<td colspan="5">
+<center><img src="openup.jpg"></center></td>
+<td width="5%" align="right"><span class="pods" name="0">99</span></td>
+</td>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098a23<span class="pods" name="3">A_C</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">.<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">099c01<span class="pods" name="3">AB_</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+</table>
+
+
+<table width="90%">
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098d01<span class="pods" name="3">ABC</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+<tr>
+<td width="5%"><span class="pods" name="0">98</span></td>
+<td colspan="5">
+<center><img src="openup.jpg"></center></td>
+<td width="5%" align="right"><span class="pods" name="0">99</span></td>
+</td>
+</tr>
+<tr>
+<td width="5%">&nbsp;</td>
+<td width="20%" align="right"><span class="pods" name="2">&nbsp;<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%" align="right"><span class="pods" name="2">098a23<span class="pods" name="3">A_C</span></span></td>
+<td width="10%">&nbsp;</td>
+<td width="20%"><span class="pods" name="2">.<span class="pods" name="3">&nbsp;&nbsp;&nbsp;</span></span></td>
+<td width="20%"><span class="pods" name="2">099c01<span class="pods" name="3">AB_</span></span></td>
+<td width="5%">&nbsp;</td>
+</tr>
+</table>
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+<br />
+</div>
+</div>
+</body>
+</html>
